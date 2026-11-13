@@ -1,0 +1,4 @@
+interface:
+  display_name: "R&B Remix Release"
+  short_description: "Create and share R&B remix versions"
+  default_prompt: "Use $rnb-remix-release to make an R&B reinterpretation of my reference song."
