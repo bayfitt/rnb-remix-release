@@ -52,3 +52,16 @@ The shared OAuth helper uses an available loopback callback port, so a local ser
 The helper keeps the credential files outside the project and translates media paths to Yutu’s configured file root. It also returns a failing exit status when the installed Yutu version prints an error but exits with status zero. See the [personal CLI privacy notice](PRIVACY.md) for the Google authorization data flow.
 
 Tested with Yutu v0.11.0 and youtube-cli-app v2.1.0: private video upload, public release, timed English caption insert and serving-state checks, comments, channel analytics, and traffic-source reports. The helper removes read-only caption defaults rejected by YouTube. Supply the AI disclosure explicitly when updating video visibility; a missing disclosure field in an API read is not proof that the setting is off. Some channel settings and independent disclosure checks still require Studio. If custom thumbnails are restricted, review the actual generated thumbnail before release.
+
+## Optional social channels
+
+[Postiz CLI](https://github.com/gitroomhq/postiz-agent) supplies one JSON-oriented interface for Instagram, TikTok and Facebook publishing and analytics. Its CLI is AGPL-3.0; installing it does not connect or create platform accounts. Version 2.0.27's help, version and unauthenticated status commands were checked. Keep Yutu as the YouTube upload path to avoid duplicate submissions.
+
+```sh
+npm install -g postiz@2.0.27
+postiz --help
+postiz auth:status
+postiz integrations:list
+```
+
+Connecting requires a configured Postiz backend and the platform account authorizations. [Postiz Cloud has no free plan](https://docs.postiz.com/cloud/overview); self-hosting requires your own provider applications. Do not start a paid plan or recurring trial without authorization. A fresh TikTok developer app also needs a [Direct Post audit for public API posts](https://developers.tiktok.com/doc/content-posting-api-get-started). Account creation, initial consent and platform reviews remain separate from routine CLI publishing. Verify each actual account connection before describing a platform as ready.
