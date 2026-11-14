@@ -1,0 +1,101 @@
+{
+  "title": "Approved - Make This Ride Last",
+  "reference": {
+    "url": "https://www.youtube.com/watch?v=sKgCLVl-bGY",
+    "title": "Make It Last Forever",
+    "artists": [
+      "Keith Sweat",
+      "Jacci McGhee"
+    ]
+  },
+  "reference_excerpt": {
+    "start_seconds": 0,
+    "end_seconds": 297.624,
+    "file_sha256": "b4a95dbce9a084986d3eeb044b037e9525b621b301fffdc404489abdede71170"
+  },
+  "provider": "Mureka",
+  "endpoint": "POST /v1/song/remix",
+  "model": "mureka-9.5",
+  "n": 1,
+  "generation_cost_usd": 0.5,
+  "music_prompt": "One full-length faithful lyric-replacement remix of the supplied Make It Last Forever recording. Preserve the original key, tempo, melodic contours, chords, 1980s R&B slow-jam groove, warm drum-machine feel, synth/keyboard textures, bass accompaniment, tender male lead timbre, high notes, breathy female answer vocals, layered harmonies, vocal phrasing, source processing and arrangement character as closely as possible. Sing ONLY the supplied new car-approval lyrics. Begin with the approval hook immediately; match the source's full-song length and emotional arc. Include ONE featured PEDAL STEEL GUITAR instrumental section at its lyric marker: unmistakable smooth sliding steel tone, sustained bends, glissandi and lyrical high-register phrases, no lead singing. Keep bass in its normal accompaniment role: NO bass solo or bass spotlight. Return to the vocal hook after the pedal-steel section. Romantic, confident, reassuring. Clean ending. One version.",
+  "lyrics": "[Opening Hook - male lead with female responses]\nGet me approved, let me ride tonight\nLow down payment, rolling out in style\nCredit's been challenged, but I'm ready to try\nCouple thousand saved, put the keys by my side\n\n[Verse 1 - male lead]\nI've been catching rides, watching time go by\nAnother morning waiting with my work shoes tied\nI got a little money, I got somewhere to be\nNeed a real conversation, tell me what you need\nLet me see the numbers, put the terms in plain sight\nTell me what the payment means before I sign\nI'm not chasing promises that vanish in the air\nI need a dealer I can find who's gonna be right there\n\n[Hook - male and female call and response]\nGet me approved, let me ride tonight\nLow down payment, rolling out in style\nCredit's been challenged, but I'm ready to try\nCouple thousand saved, put the keys by my side\nTell me where I stand, tell me what it takes\nWe can make a plan, one step today\n\n[Verse 2 - male lead with female harmonies]\nDon't send me running all around this town\nFrom another little lot that keeps on letting me down\nI want the kind of place with a service team inside\nWhere I know who to call if a covered trouble finds\nShow the written warranty, what's included on mine\nLet me read exclusions, take a little time\nIf it's covered, bring it in, we can work it through\nPeace of mind is knowing who I'm coming back to\n\n[Hook - duet harmonies]\nGet me approved, let me ride tonight\nLow down payment, rolling out in style\nCredit's been challenged, but I'm ready to try\nCouple thousand saved, put the keys by my side\nTell me where I stand, tell me what it takes\nWe can make a plan, one step today\n\n[Instrumental Pedal Steel Guitar Solo - featured sliding steel, sustained bends and glissandi; no lead vocals; no bass solo]\n\n[Bridge - male and female exchange]\nI don't need a story, I just need a way\nA ride to get to work, a chance to make my day\nTell me what I qualify for, let the paperwork be clear\nWith the keys and a plan, I can see it from here\n\n[Final Hook - full duet and high harmonies]\nGet me approved, let me ride tonight\nLow down payment, rolling out in style\nCredit's been challenged, but I'm ready to try\nCouple thousand saved, put the keys by my side\nGet me approved, let me ride tonight\nI got places to be, got a future in sight\nTerms all in writing, now I understand\nMake this ride last, keys right in my hand\n\n[Outro - soft duet]\nMake this ride last, let me ride tonight\nKeys right in my hand, rolling out in style\n",
+  "requested_solo_sections": [
+    "pedal steel guitar"
+  ],
+  "bass_solo": false,
+  "api_controls": {
+    "upload_audio_id": "Upload the reference excerpt with purpose remix; use your own returned file ID",
+    "model": "mureka-9.5",
+    "n": 1,
+    "lyrics": "See lyrics field",
+    "prompt": "See music_prompt field"
+  },
+  "unavailable_remix_controls": [
+    "seed",
+    "temperature",
+    "numeric variance",
+    "numeric similarity weight",
+    "target duration"
+  ],
+  "visual_generation_prompts": [],
+  "visuals": "Licensed stock footage; no image/video generation request used for these edits. Each video uses a disjoint clip set, cycled in its own edit.",
+  "stock_clips": [
+    {
+      "id": "40369",
+      "url": "https://mixkit.co/free-stock-video/group-of-hip-hop-dancers-40369/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "33899",
+      "url": "https://mixkit.co/free-stock-video/young-woman-dancing-under-a-cloud-of-smoke-and-a-33899/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "49878",
+      "url": "https://mixkit.co/free-stock-video/big-city-at-night-from-an-aerial-shot-49878/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "33906",
+      "url": "https://mixkit.co/free-stock-video/girl-dancing-on-a-dark-floor-under-colored-lights-33906/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "72",
+      "url": "https://mixkit.co/free-stock-video/dashboard-of-a-car-72/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "50",
+      "url": "https://mixkit.co/free-stock-video/red-sports-car-side-view-50/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "452",
+      "url": "https://mixkit.co/free-stock-video/man-breakdancing-452/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    }
+  ],
+  "delivery": {
+    "format": "upright portrait, no rotation",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "scene_interval_seconds": 3,
+    "intro_trim_seconds": 23.54,
+    "duration_seconds": 228.49,
+    "pitch_or_tempo_change": false,
+    "gain_db": -2,
+    "lyrics": "88px DejaVu Sans bold at 1080px width, up to three lines; provider line timings shifted by intro trim",
+    "youtube_captions": "Manual English SRT/VTT from the same validated line timings",
+    "palette": "Warm peach"
+  }
+}

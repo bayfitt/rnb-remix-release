@@ -2,7 +2,7 @@
 
 A reusable Codex skill for making an R&B reinterpretation from a song reference, preparing fictional-artist artwork and videos, publishing requested versions, reviewing comments, and sharing completed releases. It preserves the requested creative direction, follows standing authorization without repeated routine permission questions, and checks provider limits and release details.
 
-This repository contains agent instructions and a small CLI integration helper, not a music-generation model or any songs. Music, image, video, and publishing tools depend on what is available in the user's environment. Optional audio-to-MIDI services send audio to a third party and may impose non-commercial terms.
+This repository contains agent instructions, CLI integration helpers and public remix recipes, rather than a music-generation model or audio recordings. Music, image, video, and publishing tools depend on what is available in the user's environment. Optional audio-to-MIDI services send audio to a third party and may impose non-commercial terms.
 
 ## Workflows
 
@@ -12,15 +12,21 @@ This repository contains agent instructions and a small CLI integration helper, 
 ## Release workflow
 
 - Review the song reference, creative instructions, and relevant comments on previous releases.
+- Ask for the song settings and wait for answers before each new music API job: lyrics, what to preserve/change, voice/effects, tempo/key, length and candidate count. Explain the model, supported controls and estimated cost. This does not repeat previously settled reference/release permission questions.
 - Check the chosen service's actual models, prices, reference controls, and requested output count before spending credits. Do not invent unsupported variance controls.
 - Generate the requested versions once and keep their audio, lyrics, prompts, and provider records together.
 - Make requested artwork with consistent character references, then verify the finished videos.
 - Add timed English lyric captions, keep editable SRT/VTT files, and verify that YouTube publishes the caption tracks.
 - Publish to the configured channel with accurate attribution and AI disclosure.
+- Publish the exact generation prompt, lyrics, model, supported settings, reference excerpt and any visual prompts with every new post. Link a complete versioned remix recipe, include the prompt text directly when space permits, and verify the published description.
 - Automatically share all release links with the user's previously authorized destination in one consolidated message, then verify the send result.
 - Read available comments on the new videos and save actionable feedback for the next remix.
 
 Keep personal channel settings, sharing destinations, chat identifiers, local messaging-store paths, and credentials in private project instructions or local configuration. This public skill follows those preferences without publishing them. Reading comments does not authorize posting replies or moderation.
+
+## Public remix recipes
+
+Every new release includes its exact music prompt, lyrics, provider/model, supported settings, reference excerpt, and visual/edit details in a linked public recipe. See [release recipes](releases/README.md). Credentials and private provider IDs are excluded.
 
 ## Install
 
@@ -64,4 +70,6 @@ postiz auth:status
 postiz integrations:list
 ```
 
-Connecting requires a configured Postiz backend and the platform account authorizations. [Postiz Cloud has no free plan](https://docs.postiz.com/cloud/overview); self-hosting requires your own provider applications. Do not start a paid plan or recurring trial without authorization. A fresh TikTok developer app also needs a [Direct Post audit for public API posts](https://developers.tiktok.com/doc/content-posting-api-get-started). Account creation, initial consent and platform reviews remain separate from routine CLI publishing. Verify each actual account connection before describing a platform as ready.
+The [self-hosted Postiz app](https://github.com/gitroomhq/postiz-app) and CLI are open source. Prefer a local backend when requested; keep database secrets and API keys outside the project. A healthy local installation is separate from verified platform connections. Connecting requires a configured Postiz backend and the platform account authorizations. [Postiz Cloud has no free plan](https://docs.postiz.com/cloud/overview); self-hosting requires your own provider applications. Do not start a paid plan or recurring trial without authorization. A fresh TikTok developer app also needs a [Direct Post audit for public API posts](https://developers.tiktok.com/doc/content-posting-api-get-started). Account creation, initial consent and platform reviews remain separate from routine CLI publishing. Verify each actual account connection before describing a platform as ready.
+
+The optional unofficial [tiktok-uploader](https://github.com/wkaisertexas/tiktok-uploader) CLI uses a protected browser session instead of a developer posting grant. Version 1.2.0 installs `tiktok-uploader` and `tiktok-auth`; installation alone does not authenticate an account or verify publishing. Keep cookies private, verify the intended brand account, and stop for actual login challenges.

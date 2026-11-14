@@ -1,0 +1,107 @@
+{
+  "title": "Approved - Keys in My Hand",
+  "reference": {
+    "url": "https://www.youtube.com/watch?v=ipBLg37CwZ0",
+    "title": "Gravity",
+    "artists": [
+      "Jagged Edge"
+    ]
+  },
+  "reference_excerpt": {
+    "start_seconds": 0,
+    "end_seconds": 124.272,
+    "file_sha256": "17b3c9b3c8b72ece6e2847ad25b8827c222ae62c18f38899bbffba66bd9c83d7"
+  },
+  "provider": "Mureka",
+  "endpoint": "POST /v1/song/remix",
+  "model": "mureka-9.5",
+  "n": 1,
+  "generation_cost_usd": 0.5,
+  "music_prompt": "One full-length faithful lyric-replacement remix of the supplied Gravity recording. Preserve its original key, tempo, melody contours, chord progression, soulful male R&B vocal timbre, close group harmonies, phrasing, groove, drums, bass, keyboards, arrangement and mix character as closely as possible. Use ONLY the supplied new car-approval lyrics, never original words. Begin the opening approval hook immediately. Keep the natural lead and layered harmonies and source vocal processing; do not add a new genre. Match the source's overall length and emotional arc. Include a clearly exposed melodic ELECTRIC GUITAR SOLO with no lead singing, then later a separate clearly exposed BASS GUITAR SOLO with no lead singing, as marked in the lyrics. Return smoothly to the hook after each solo. Warm, hopeful and confident; low down payment, credit challenges, written terms and dealer peace of mind. Finish with the final approval hook and a clean ending. One version.",
+  "lyrics": "[Opening Chorus]\nApproved, put the keys in my hand\nLow down, now I'm making my plans\nCredit took a hit, still I need that ride\nCouple thousand saved, let me roll in style\n\n[Verse 1]\nMorning shift is calling, can't be late again\nNeed somebody straight to tell me where I stand\nPut the payment and the terms right on the page\nI don't have the time for another guessing game\n\n[Chorus]\nApproved, put the keys in my hand\nLow down, now I'm making my plans\nCredit took a hit, still I need that ride\nCouple thousand saved, let me roll in style\n\n[Instrumental Guitar Solo - expressive electric guitar, no lead vocals]\n\n[Verse 2]\nNo more corner-lot promises fading away\nReal dealer backing when I drive through the gate\nShow the written warranty, what it covers on mine\nIf a covered problem comes, I know where to find\nA service team beside me, helping make it right\nThat's the kind of peace that lets me sleep at night\n\n[Instrumental Bass Solo - exposed melodic bass guitar, no lead vocals]\n\n[Final Chorus]\nApproved, put the keys in my hand\nLow down, now I'm making my plans\nCredit took a hit, still I need that ride\nCouple thousand saved, let me roll in style\nApproved, now I'm driving with a plan\nKeys in my hand, keys in my hand\n",
+  "requested_solo_sections": [
+    "electric guitar",
+    "bass"
+  ],
+  "bass_solo": true,
+  "api_controls": {
+    "upload_audio_id": "Upload the reference excerpt with purpose remix; use your own returned file ID",
+    "model": "mureka-9.5",
+    "n": 1,
+    "lyrics": "See lyrics field",
+    "prompt": "See music_prompt field"
+  },
+  "unavailable_remix_controls": [
+    "seed",
+    "temperature",
+    "numeric variance",
+    "numeric similarity weight",
+    "target duration"
+  ],
+  "visual_generation_prompts": [],
+  "visuals": "Licensed stock footage; no image/video generation request used for these edits. Each video uses a disjoint clip set, cycled in its own edit.",
+  "stock_clips": [
+    {
+      "id": "44545",
+      "url": "https://mixkit.co/free-stock-video/stylish-woman-sitting-on-a-sports-car-44545/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "74",
+      "url": "https://mixkit.co/free-stock-video/red-sports-car-74/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "64",
+      "url": "https://mixkit.co/free-stock-video/accelerating-car-dashboard-64/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "63",
+      "url": "https://mixkit.co/free-stock-video/close-up-of-red-sports-car-63/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "52427",
+      "url": "https://mixkit.co/free-stock-video/a-red-sports-car-traveling-along-a-curvy-asphalt-road-52427/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "44541",
+      "url": "https://mixkit.co/free-stock-video/young-stylish-woman-in-a-sports-car-44541/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "100228",
+      "url": "https://mixkit.co/free-stock-video/sunset-through-a-car-side-mirror-100228/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    },
+    {
+      "id": "34562",
+      "url": "https://mixkit.co/free-stock-video/two-avenues-with-many-cars-traveling-at-night-34562/",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/modal/videoFree/"
+    }
+  ],
+  "delivery": {
+    "format": "upright portrait, no rotation",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "scene_interval_seconds": 3,
+    "intro_trim_seconds": 2.82,
+    "duration_seconds": 194.29,
+    "pitch_or_tempo_change": false,
+    "gain_db": -2,
+    "lyrics": "88px DejaVu Sans bold at 1080px width, up to three lines; provider line timings shifted by intro trim",
+    "youtube_captions": "Manual English SRT/VTT from the same validated line timings",
+    "palette": "Mint/teal"
+  }
+}
