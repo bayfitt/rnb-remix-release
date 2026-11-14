@@ -50,3 +50,5 @@ Routine releases use CLI calls after initial OAuth setup. Verification still mat
 The shared OAuth helper uses an available loopback callback port, so a local service already listening on port 8080 does not block sign-in.
 
 The helper keeps the credential files outside the project and translates media paths to Yutu’s configured file root. It also returns a failing exit status when the installed Yutu version prints an error but exits with status zero. See the [personal CLI privacy notice](PRIVACY.md) for the Google authorization data flow.
+
+Tested with Yutu v0.11.0 and youtube-cli-app v2.1.0: private video upload, public release, timed English caption insert and serving-state checks, comments, channel analytics, and traffic-source reports. The helper removes read-only caption defaults rejected by YouTube. Supply the AI disclosure explicitly when updating video visibility; a missing disclosure field in an API read is not proof that the setting is off. Some channel settings and independent disclosure checks still require Studio. If custom thumbnails are restricted, review the actual generated thumbnail before release.

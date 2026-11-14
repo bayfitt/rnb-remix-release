@@ -86,6 +86,9 @@ def main():
     flag,value=arg.split('=',1)
     try:native[i]=flag+'='+str(Path(value).expanduser().resolve().relative_to(root))
     except ValueError:raise ValueError('Media path is outside YUTU_ROOT')
+  if native[:2]==['caption','insert']:
+   if '--trackKind' not in native and not any(x.startswith('--trackKind=') for x in native):native+=['--trackKind','']
+   if '--audioTrackType' not in native and not any(x.startswith('--audioTrackType=') for x in native):native+=['--audioTrackType','']
   cmd=['yutu']+native
  if a.command=='yutu':
   result=subprocess.run(cmd,env=env,capture_output=True,text=True)
