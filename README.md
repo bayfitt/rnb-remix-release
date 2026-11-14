@@ -19,7 +19,7 @@ This repository contains agent instructions, CLI integration helpers and public 
 - Add timed English lyric captions, keep editable SRT/VTT files, and verify that YouTube publishes the caption tracks.
 - Publish to the configured channel with accurate attribution and AI disclosure.
 - Publish the exact generation prompt, lyrics, model, supported settings, reference excerpt and any visual prompts with every new post. Link a complete versioned remix recipe, include the prompt text directly when space permits, and verify the published description.
-- Automatically share all release links with the user's previously authorized destination in one consolidated message, then verify the send result.
+- Automatically share every newly published video URL from every platform or website in the release with the user's previously authorized destination. Include each cross-post URL and links to private/test posts once made public. Send one consolidated message per completed batch, verify the outgoing message and save a receipt to prevent duplicates.
 - Read available comments on the new videos and save actionable feedback for the next remix.
 
 Keep personal channel settings, sharing destinations, chat identifiers, local messaging-store paths, and credentials in private project instructions or local configuration. This public skill follows those preferences without publishing them. Reading comments does not authorize posting replies or moderation.
