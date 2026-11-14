@@ -7,6 +7,7 @@ This repository contains agent instructions, CLI integration helpers and public 
 ## Workflows
 
 - [R&B remix release](skills/rnb-remix-release/SKILL.md): song references, fictional artist artwork, captioned releases and sharing.
+- [Narrative photorealistic slideshows](skills/rnb-remix-release/references/photorealistic-slideshows.md): story planning, interspersed sports/fashion/interview scenes, roster review, exact prompt mapping and full-frame three-second edits.
 - [AI music clips release](skills/ai-music-clips-release/SKILL.md): hook-first vertical songs, licensed motion clips with three-second cuts, and CLI publishing/analytics.
 
 ## Release workflow

@@ -1,0 +1,2247 @@
+{
+  "title": "This Was Our Year",
+  "reference": {
+    "url": "https://www.youtube.com/watch?v=AB3V0L5xrsM",
+    "title": "Anytime",
+    "artists": [
+      "Brian McKnight"
+    ],
+    "source_video_title": "Brian McKnight - Anytime [I Miss You]",
+    "source_duration_seconds": 276,
+    "excerpt_start_seconds": 0,
+    "excerpt_end_seconds": 276.048,
+    "uploaded_file_duration_seconds": 276.048
+  },
+  "reference_excerpt": {
+    "start_seconds": 0,
+    "end_seconds": 276.048,
+    "file_sha256": "0ae3d9e3bb3f1b3dde50e546cfe17488247ab69ef0780483dd6a92ec821f056b"
+  },
+  "provider": "Mureka",
+  "model": "mureka-9.5",
+  "endpoint": "POST /v1/song/remix",
+  "n": 1,
+  "generation_cost_usd": 0.5,
+  "music_prompt": "One full-length faithful lyric-replacement remix of the supplied Brian McKnight Anytime recording. Preserve its lead vocal timbre, melody contours, original key, tempo, chords, piano/R&B instrumentation, drums, bass, backing vocals, phrasing, processing, mix, complete intro and overall arrangement as closely as possible. Sing ONLY the new lyrics: an explicitly fictional 2021-22 Lakers season, team chemistry, playoff wins, defeating Boston in Game 7, Russell Westbrook as champion and Finals MVP, ring and happy teammates. The ONE requested arrangement change: exactly ONE featured instrumental GRAND PIANO SOLO in the BRIDGE at the emotional Finals climax, no lead singing; breathtaking cascading double-time runs, thunderous left-hand octaves, jazzy extended chords, rapid arpeggios and a huge controlled crescendo. Return to the final vocal chorus for the championship/MVP celebration. No other solo sections. Warm emotional male R&B singing; no genre change. Full song, clean ending. One version.",
+  "lyrics": "[Intro]\nPurple and gold, a different story\nThis was our year\n\n[Verse 1]\nHe came back home with a city to carry\nNumber zero, heart beating loud\nBron put an arm round his shoulder at practice\nSaid we're together, let's make them proud\nDavis was soaring, they found one another\nMelo was smiling, the corner was his\nMonk lit the fourth and the whole bench was standing\nRuss set the table, they learned how to win\n\n[Chorus]\nThis was our year, we rose together\nPurple and gold, all the way\nEvery last voice, every heart in the building\nKnew we'd remember these days\nRussell, you brought us home to the glory\nNobody carried this dream alone\nThis was our year, we rose together\nLos Angeles, welcome him home\n\n[Verse 2]\nReaves hit the floor for a loose ball in April\nDwight held the paint, they were locking it down\nRound after round, they kept trusting each other\nRuss found the pass when the pressure came round\nBoston in June and the seventh game's burning\nDown to the wire with the crowd on its feet\nBron draws the double and gives it to Russell\nOne final drive, now the city believes\n\n[Chorus]\nThis was our year, we rose together\nPurple and gold, all the way\nEvery last voice, every heart in the building\nKnew we'd remember these days\nRussell, you brought us home to the glory\nNobody carried this dream alone\nThis was our year, we rose together\nLos Angeles, welcome him home\n\n[Bridge - exactly ONE extended instrumental grand-piano solo; virtuosic cascading runs, thunderous octaves, emotional Finals climax; no lead vocals]\n\n[Final Chorus]\nThis was our year, we rose together\nPurple and gold, all the way\nClock hits the end, all his brothers surround him\nChampions, tears on his face\nFinals M V P, Russell is holding it\nBron and A D lift him high\nNow there's a ring on his finger forever\nZero's our hero tonight\n\n[Outro]\nMelo is laughing, the whole team is singing\nGold in the air, all the love he has earned\nOne team, one dream, and a ring to remember\nThis was our year, this was our year",
+  "api_controls": {
+    "upload_audio_id": "Upload your own full reference with purpose remix and use its returned file ID",
+    "model": "mureka-9.5",
+    "n": 1,
+    "lyrics": "See lyrics field",
+    "prompt": "See music_prompt field"
+  },
+  "unavailable_remix_controls": [
+    "exact voice lock",
+    "exact melody lock",
+    "numeric similarity",
+    "seed",
+    "temperature",
+    "remix duration parameter"
+  ],
+  "musical_direction": "Preserve the reference as closely as supported, replace lyrics, retain complete intro, exactly one grand-piano bridge solo",
+  "bridge": {
+    "requested_featured_solo_count": 1,
+    "instrument": "grand piano",
+    "returned_vocal_gap_seconds": [
+      175.56,
+      188.88
+    ],
+    "verification_limit": "Lyric timestamps identify the vocal gap, not the instrumentation. The renderer does not add or repeat solos."
+  },
+  "fictional_story": {
+    "season": "2021-22",
+    "scenario": "Alternate-history Lakers championship; Russell Westbrook Finals MVP and championship ring",
+    "not_a_historical_claim": true,
+    "intended_roster": {
+      "Russell Westbrook": 0,
+      "LeBron James": 6,
+      "Anthony Davis": 3,
+      "Carmelo Anthony": 7,
+      "Malik Monk": 11,
+      "Dwight Howard": 39,
+      "Austin Reaves": 15
+    },
+    "roster_source": "https://lalweb.blob.core.windows.net/public/lakers/media-relations/2021-22-Lakers-Media-Guide.pdf"
+  },
+  "visual_generation": {
+    "tool": "Built-in imagegen",
+    "prompt_style": "Fast photorealistic",
+    "orchestration": {
+      "agent_model": "gpt-6-luna",
+      "reasoning_effort": "low",
+      "image_tool": "built-in imagegen",
+      "tool_speed_parameter_available": false,
+      "agent_models": [
+        {
+          "model": "gpt-6-luna",
+          "reasoning_effort": "low"
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "reasoning_effort": "low"
+        }
+      ]
+    },
+    "image_tool_speed_parameter": "Not exposed",
+    "scene_types": [
+      "Team interaction on the plane or in the locker room",
+      "Pre-game fashion arrivals with other people",
+      "Game action including layups, dunks and ankle-breaking crossovers",
+      "Post-game interviews with stylish attractive adult female sports reporters"
+    ],
+    "known_limitations": "Some AI likeness and uniform artifacts remain in retained existing frames. The user chose to keep all existing pictures. New frames follow the roster guidance; these are imagined scenes, not archival photographs."
+  },
+  "visual_generation_prompts": [
+    {
+      "asset_index": 0,
+      "prompt": "Fast photorealistic vertical 9:16 image of empty Los Angeles basketball arena before fictional alternate-history championship, purple/gold court, dramatic lights, clean lower quarter, no people/text/watermark.",
+      "sha256": "c7ac4196d9d34e1672701fe0c6dcd2f835aba7314e329a6b70afdcbb7fd21c19"
+    },
+    {
+      "asset_index": 1,
+      "prompt": "Fast photorealistic vertical 9:16 sports photograph, fictional alternate-history Lakers. Russell Westbrook rides team bus through Los Angeles at dusk, teammates in background, candid cinematic documentary, no text.",
+      "sha256": "2546a92d8568dea41fb24931cef8bb443e2284ec0b5e1ac8d93fd48800dfe038"
+    },
+    {
+      "asset_index": 2,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photograph, fictional alternate-history Lakers locker room before playoff game. Westbrook #0 tapes wrists, focused, teammates behind, no text.",
+      "sha256": "12845adbd9bc90e6cd70771ccb7aa6e20899bf152a6386388ef2a6be54c4f04c"
+    },
+    {
+      "asset_index": 3,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photograph, fictional alternate-history Lakers. Anthony Davis #3 blocks a shot in playoffs, Westbrook #0 visible celebrating, no text.",
+      "sha256": "a0a63744f9abcba8c5aa67b6287a05bf7345921e2276b9bc2cd70bc78ce8252b"
+    },
+    {
+      "asset_index": 4,
+      "prompt": "Fast photorealistic vertical 9:16 sports photograph, fictional alternate-history Lakers. Westbrook #0 celebrates after a playoff win with teammates, confetti, no text.",
+      "sha256": "5598628ec1a4d1ff9e757a8392b692cb81f81a860461cba1a3aec5738cf55f15"
+    },
+    {
+      "asset_index": 5,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photograph, fictional alternate-history Lakers. Westbrook #0 faces Boston Celtics in Finals Game 7 tipoff, tense arena, no text.",
+      "sha256": "e5da53b99fc33718075aba4e2a83f37a752ee169e99c4b0c1c34062c251e2774"
+    },
+    {
+      "asset_index": 6,
+      "prompt": "Fast photorealistic vertical 9:16 candid fashion photograph, fictional alternate-history Lakers 2022. Russell Westbrook arrives at arena in expressive cobalt blue tailored streetwear, confident full-body look, city tunnel, varied vivid palette, no logos/text.",
+      "sha256": "10bfaf003006d878108c568dbe1db6911c5137b14d7b56f6cb71c17fb4e791ea"
+    },
+    {
+      "asset_index": 7,
+      "prompt": "Fast photorealistic vertical 9:16 candid fashion photograph, fictional Lakers story. Anthony Davis arrives at arena in burgundy long coat and cream layers, distinctive runway pose, city lights, no text.",
+      "sha256": "8b531f594944ccf2e10f736be026a78b9361d18a5c20d3a812693b2cc570b727"
+    },
+    {
+      "asset_index": 8,
+      "prompt": "Fast photorealistic vertical 9:16 fashion photograph, fictional Lakers story. Carmelo Anthony in rust-orange jacket and denim entering arena, candid confident smile, documentary style, no text.",
+      "sha256": "71cb16b346f6996e75fbfe39a94080f170705482e6b7f565a7c4cd267a1a2a19"
+    },
+    {
+      "asset_index": 9,
+      "prompt": "Fast photorealistic vertical 9:16 fashion photograph, fictional Lakers story. Malik Monk in emerald green relaxed designer streetwear walking through arena tunnel, candid, no text.",
+      "sha256": "c630912c7107fe75bc6136818958a38b5023e11e2becd7977a841b4d26499e5e"
+    },
+    {
+      "asset_index": 10,
+      "prompt": "Fast photorealistic vertical 9:16 fashion photograph, fictional Lakers story. Austin Reaves in sky-blue overshirt and cream trousers arriving at arena, candid documentary, no text.",
+      "sha256": "64bbea4eb7b48b07f8b59a278b597ecf40770ecf6f952349d588ee1821d1bd96"
+    },
+    {
+      "asset_index": 11,
+      "prompt": "Fast photorealistic vertical 9:16 candid lifestyle photograph, fictional alternate-history Los Angeles Lakers, Russell Westbrook in a tailored cream trench and teal knit walking through downtown LA after practice, fashion editorial, no text.",
+      "sha256": "fa0f36709b76c5de492b82a17ea3d84a758c8057f8d131c65e680cc16dfac9ae"
+    },
+    {
+      "asset_index": 12,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photograph, fictional alternate-history Lakers story, Malik Monk and Austin Reaves in casual denim and colorful jackets laughing in a Los Angeles cafe, candid, no text.",
+      "sha256": "d81ea716f2721f4bd5852dffb2fc07f7b63810f0d758131aafbd4df6574d6920"
+    },
+    {
+      "asset_index": 13,
+      "prompt": "Fast photorealistic vertical 9:16 lifestyle photograph, fictional Lakers story, Anthony Davis in rust and charcoal training layers during recovery stretch in modern gym, documentary lighting, no text.",
+      "sha256": "fce3986ba2d575b08801e68d1a84b8f2ab9238694ca824fbfcf09accc84a5897"
+    },
+    {
+      "asset_index": 14,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photograph, fictional alternate-history Lakers. Westbrook #0 in white Lakers Association uniform attacks rim during playoff game, crowd blurred, court-level, no text.",
+      "sha256": "2f70eb41868d48b3b8642dcf04e1cb8df6f02774d0082a10c7262192cc028cc3"
+    },
+    {
+      "asset_index": 15,
+      "prompt": "Fast photorealistic vertical 9:16 sports photograph, fictional alternate-history 2022 Finals, Westbrook #0 in Lakers gold Icon uniform celebrates a clutch basket against Boston, arena lights, no text.",
+      "sha256": "d5f0c61bfd89ef45d7401776865cd37b46b50004c4dc1aff49ab3f9d7f541474"
+    },
+    {
+      "asset_index": 16,
+      "prompt": "Fast photorealistic vertical 9:16 candid lifestyle photo, fictional Lakers alternate-history. Anthony Davis at a Los Angeles bookshop in camel coat and denim, relaxed thoughtful portrait, no text.",
+      "sha256": "d9437f2fbc630b42976e3fdb2ae7f34a405a6ff2029b0ce2b156cc09f0583cbc"
+    },
+    {
+      "asset_index": 17,
+      "prompt": "Fast photorealistic vertical 9:16 lifestyle photo, fictional Lakers alternate-history. Westbrook in orange-and-navy designer tracksuit walking along beach boardwalk at sunset, candid, no text.",
+      "sha256": "dfbd99d138d27e92087e425b96d433fb22985b93c7f05336ca9eb946ef2e0312"
+    },
+    {
+      "asset_index": 18,
+      "prompt": "Fast photorealistic vertical 9:16 lifestyle photo, fictional Lakers alternate-history. Carmelo Anthony at studio listening to music in a cream cardigan, warm wood palette, no logos/text.",
+      "sha256": "4cb14a0a949f94e32ce3f9489e3132442b62df1310f522d83cadc1a2267e8035"
+    },
+    {
+      "asset_index": 19,
+      "prompt": "Fast photorealistic vertical 9:16 lifestyle photo, fictional Lakers alternate-history. Dwight Howard in colorful knitwear and tailored trousers at team dinner, natural laughter, no text.",
+      "sha256": "ee6efe7c024d943373e4793e8a73126530c8477ab536b85b214df0eba7989896"
+    },
+    {
+      "asset_index": 20,
+      "prompt": "Fast photorealistic vertical 9:16 lifestyle photo, fictional Lakers alternate-history. Malik Monk walking city block in burgundy leather jacket, candid fashion portrait, no text.",
+      "sha256": "df8864cc002ff7276f5b86ec97add728886343c68aabff4dbdd9b154067345fe"
+    },
+    {
+      "asset_index": 22,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photo, fictional 2021-22 Lakers story. Westbrook #0 scores in gold Icon uniform with clear Lakers wordmark and authentic purple white trim, simple background, no text.",
+      "sha256": "6239519cc87f118bc32e3604a24ec35e44ee7f9d43c322c434ac2f889cb860f6"
+    },
+    {
+      "asset_index": 23,
+      "prompt": "Fast photorealistic vertical 9:16 basketball photo, fictional 2021-22 Lakers. Westbrook #0 celebrates home win in white Association uniform, clear Lakers wordmark and correct purple/gold lettering, no text.",
+      "sha256": "4a895fad6a2dd77772b6360e6be2d643391e8e23c0180028c174b32c4fc0078f"
+    },
+    {
+      "asset_index": 24,
+      "prompt": "Fast photorealistic vertical 9:16 candid training photo, fictional Lakers. Anthony Davis practices post moves in charcoal training gear, gym documentary portrait, no text.",
+      "sha256": "54d3e665e2e53c09cacf63301569c1131117b32205b99f6d00d11923c953d711"
+    },
+    {
+      "asset_index": 26,
+      "prompt": "Fast photorealistic vertical 9:16 fashion editorial, fictional Lakers alternate-history. Westbrook leaves Los Angeles recording studio in teal and cream designer streetwear, full body, no text.",
+      "sha256": "bb6e8a3dfb8eb4a845125de11db99dd68e3370349a0b6bcdd6d50a539c509537"
+    },
+    {
+      "asset_index": 27,
+      "prompt": "Fast photorealistic vertical 9:16 fashion editorial, fictional Lakers alternate-history. Dwight Howard arrives at arena in bold cobalt and rust designer outfit, candid tunnel portrait, no text.",
+      "sha256": "da0eeb679053effad390b2e0d6f8cb0678db80286bdb8ffe95e22ad662897170"
+    },
+    {
+      "asset_index": 28,
+      "prompt": "Fast photorealistic vertical 9:16 sports documentary photo, fictional Lakers story. Monk #11 and Reaves #15 play a friendly shooting game during practice in authentic gold Lakers practice jerseys, no text.",
+      "sha256": "4edd26fcfa4be178ebd730023dc6661b04083d16c1eaf9fbe9af28dc6f9dce51"
+    },
+    {
+      "asset_index": 29,
+      "prompt": "Fast photorealistic vertical 9:16 fashion documentary portrait, fictional Lakers. Westbrook boards team bus for road trip wearing burgundy designer coat, candid full body, no logos/text.",
+      "sha256": "12f5e3c59ae489f65f2c08b17cda2a01d53fee2e4517938ac1a8dc038d3a7084"
+    },
+    {
+      "asset_index": 30,
+      "prompt": "Fast photorealistic vertical 9:16 candid lifestyle photograph, fictional Lakers. Teammates share dinner after a road win, players in varied colorful casual fashion, warm candid scene, no text.",
+      "sha256": "9dc5845b04c93f57a48f2324135f0e07c0b4c0739b4f39c851bda6dc830b1056"
+    },
+    {
+      "asset_index": 31,
+      "prompt": "Fast photorealistic vertical 9:16 candid sports photo, fictional Lakers. Westbrook alone in quiet gym after practice, reflective cool evening blue light, no text.",
+      "sha256": "83b9db662d88cb0f79d5216bd8d7c0911c05d147501e87bc5e251437371279b0"
+    },
+    {
+      "asset_index": 32,
+      "prompt": "Fast photorealistic vertical 9:16 fashion editorial photo, fictional Lakers. Carmelo Anthony arrives at arena in cream knitwear and dark denim, candid full-body, no text.",
+      "sha256": "8bab99a570d5edfe749e01dc0a67a3ea2e34b127b8bc31be4f724f202448df01"
+    },
+    {
+      "asset_index": 33,
+      "prompt": "Fast photorealistic vertical 9:16 fashion editorial photo, fictional Lakers. Anthony Davis arrives at arena wearing emerald green tailored suit, candid tunnel portrait, no text.",
+      "sha256": "36f32c96bf82e550b6ec439d41157f5ff2426cfcb58724265126eb5c52e46313"
+    },
+    {
+      "asset_index": 34,
+      "prompt": "Fast photorealistic vertical 9:16 professional sports interview photo, fictional adult woman reporter with deep brown skin and natural curls interviews Westbrook courtside after Lakers regular-season win, elegant coral suit, microphone, candid, no text.",
+      "sha256": "29347724cd44c362f98553171adc1ed4e6d57f9938e7820a1549ecaa00dffc6f"
+    },
+    {
+      "asset_index": 35,
+      "prompt": "Fast photorealistic vertical 9:16 professional sports interview photo, fictional adult woman reporter with light skin and short dark hair interviews Anthony Davis courtside after Lakers win, tailored emerald blazer, microphone, no text.",
+      "sha256": "8085951d1c244052c77e6d169f205adb12f82c65190a417249a78a470254d256"
+    },
+    {
+      "asset_index": 37,
+      "prompt": "Fast photorealistic vertical 9:16 courtside interview photo, fictional adult woman reporter with dark skin and braided hair interviews Carmelo after Lakers win, vivid teal suit, microphone, no text.",
+      "sha256": "adef0aadbf3b749834b86e5990ea2c2d2d76865726ec9f135d2012e17e371036"
+    },
+    {
+      "asset_index": 38,
+      "prompt": "Fast photorealistic vertical 9:16 press-room interview photo, fictional adult South Asian woman reporter with long dark hair interviews Malik Monk, burgundy professional outfit, no text.",
+      "sha256": "98bd79d3a08f52af7b576e8efea23accc64b73b9eed68900ad0ac6c6d75eb60b"
+    },
+    {
+      "asset_index": 39,
+      "prompt": "Fast photorealistic vertical 9:16 courtside interview photo, fictional adult woman reporter with fair skin and red hair interviews Austin Reaves after win, navy professional outfit, no text.",
+      "sha256": "eebe5a05127c2b59125654c0d8006afda95f70eafe120fb469a9b21feab5d932"
+    },
+    {
+      "asset_index": 85,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in navy tracksuit and Anthony Davis in cream hoodie laugh across aisle aboard team plane, daylight. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "39d5211d610c2801c250fceaaa35b749739276e5829618cbdb3c6295a3a408d0"
+    },
+    {
+      "asset_index": 86,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Carmelo Anthony in burgundy sweater and Malik Monk in denim compare sneakers aboard team plane, candid. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "923e439b22a7442e04ff2fe921b51032da99b2ceb03f31c08db5c1106e265c2e"
+    },
+    {
+      "asset_index": 87,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook and Dwight Howard playing cards at team plane table, teal casual outfits, amused teammates behind. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "8eb28c47e6de5f07de4e9c04bb652a3a182a63a635439cc09fb80ee6e0d6d67b"
+    },
+    {
+      "asset_index": 88,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Anthony Davis and Austin Reaves review a tablet together inside team plane, warm sunset light. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "350f8781f731ec853bd0b8eeea0ba3ca6397d2d0a19020490283cf186009e87a"
+    },
+    {
+      "asset_index": 89,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in coral hoodie chats with Carmelo Anthony in locker room, teammates dressing behind. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "630826c17d890e77c0e45f60d0b98ff536584aae937a72649842024a4412357e"
+    },
+    {
+      "asset_index": 90,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook and Anthony Davis sit side by side in locker room tying basketball shoes, focused teammates visible. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "50cf51109618c1b87967ff953f55f4e0a1d549b06c576b94e3032f4188e6d631"
+    },
+    {
+      "asset_index": 91,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Dwight Howard and Malik Monk share a joyful laugh in bright locker room, Westbrook listening nearby. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "08fb3c3123dfba421217f873051a01a8451eed253e299f3b9c6f1f2102ef3f18"
+    },
+    {
+      "asset_index": 92,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook and Austin Reaves walk down team plane aisle carrying duffel bags, teammates seated behind. Realistic faces, no captions or watermark, faces upper three quarters, lower caption space.",
+      "sha256": "f81a8867c27c1a328e4c0b87721d5251d22c28ee30c23ffbf4c0b311ecdb1231"
+    },
+    {
+      "asset_index": 93,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in black hoodie and Anthony Davis in tan sweater discuss strategy at locker room bench, coach nearby. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "48351d4bff719899acbd2f91f6df728716e9908dd8615dd35ba49eace65f69a6"
+    },
+    {
+      "asset_index": 94,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook and Carmelo Anthony embrace in champagne-splashed championship locker room, smiling teammates crowd around, gold confetti. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "c6b6a482434a422b8afc0511814a477b23bcfb4059ccaf5f47fefb0c4dd6f776"
+    },
+    {
+      "asset_index": 95,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Malik Monk in cobalt bomber jacket and Austin Reaves in rust overshirt greet photographers at playoff arena entrance, security nearby. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "52303ce50525f99e8b548da7cfadb9b23be55d3e30596944615b81eecec58272"
+    },
+    {
+      "asset_index": 96,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Anthony Davis and Dwight Howard cheer beside Westbrook in championship locker room, joyful group, damp celebratory shirts. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "981b6b64102213e89643e4d3991a523ce0018975dd7a1e39f67c06edcfa527fa"
+    },
+    {
+      "asset_index": 97,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in coral jacket and Austin Reaves in navy suit arrive together at arena, photographers and security behind. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "c130ff585a79d4cbd6eaefdf12135dcabf15ac131ca5353d6dd0444a2836eaf4"
+    },
+    {
+      "asset_index": 98,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Anthony Davis in burgundy coat and Malik Monk in cream knitwear walk arena entrance together, fans and photographers. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "49178fca02bef9586a66f532bcc4110921909a46c7a4f3d37cf3d618a0c52bad"
+    },
+    {
+      "asset_index": 99,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Carmelo Anthony in teal suit and Dwight Howard in black designer jacket enter playoff arena with security and photographers. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "d6db83a4ec4b30bebe375f1bbebd0aca1730a9beac86203e3e09621555dc78b6"
+    },
+    {
+      "asset_index": 100,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in emerald blazer and denim walks beside Anthony Davis in tan streetwear through arena tunnel, photographers nearby. Realistic, no captions or watermark, upper three quarters subjects, lower caption space.",
+      "sha256": "2d3f7d7ed23f58401861b17e5643b31829342b184b422faf5e20c5465abc6ed1"
+    },
+    {
+      "asset_index": 101,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 drives a fast-break layup over an opposing defender, Anthony Davis number 3 following, Lakers all wearing white Association uniforms with purple LAKERS wordmark and gold-outlined purple numbers. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "a04c1b1e8d3b9edad85db5f704deaaaed31b382f3cb3111e8490f417c1165d4e"
+    },
+    {
+      "asset_index": 102,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 executes a sharp low crossover as an opposing defender loses balance, Malik Monk number 11 watching, Lakers all wearing purple Statement uniforms with gold LAKERS wordmark and white-outlined gold numbers, black side panels. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "2f9be807727b01c36dffe0d0a416c7503bbefea465edd76470d6ecf9abb59e77"
+    },
+    {
+      "asset_index": 103,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 flies for a powerful one-handed dunk over a defender, LeBron James number 6 behind, Lakers all wearing white Association uniforms with purple LAKERS wordmark and gold-outlined purple numbers. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "2ab154e80c96d6d10fa6abf871e90f5bab4bd055db14ecdefba1524710677b39"
+    },
+    {
+      "asset_index": 104,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Anthony Davis number 3 finishes an alley-oop dunk with Russell Westbrook number 0 celebrating nearby, defenders below, Lakers all wearing purple Statement uniforms with gold LAKERS wordmark and white-outlined gold numbers, black side panels. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "3d485d541d5609bb38fbfb07cde3dbfb96e571bbd6d7a5c2d9b3cd952fc9d9ca"
+    },
+    {
+      "asset_index": 105,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 scoops a reverse layup past Boston white-and-green defenders, Anthony Davis number 3 visible, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "1d7251d701e6097f2eff233216647347ee042970fcd3d3878fdde1b6f9dfc6cc"
+    },
+    {
+      "asset_index": 106,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 breaks down a Boston white-and-green defender with a rapid crossover, LeBron James number 6 moving nearby, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "36ffd4a1d0d5ce4c561cdb42ea34a7c6f13b032e90b1cc3bfdb184f58e994f76"
+    },
+    {
+      "asset_index": 107,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 elevates for a soaring two-handed dunk against Boston white-and-green defenders, Anthony Davis number 3 visible, low baseline camera, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "1d8a1f26ec2be1dcedbb70527518e878942d55751e3bc18cdf2fd8fc1087f134"
+    },
+    {
+      "asset_index": 108,
+      "prompt": "fast photorealistic vertical 9:16 candid photo, clearly fictional alternate-history 2021-22 Lakers championship story. Russell Westbrook number 0 shoots a decisive jump shot over a Boston white-and-green defender, Carmelo Anthony number 7 visible at wing, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers. No special effects, no captions or watermark, action upper three quarters, lower caption space.",
+      "sha256": "eb741174a7d7ff929378156218aa6963fea6ae27ff199d8d1b5dc818b5f10ac5"
+    },
+    {
+      "asset_index": 109,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Regular-season postgame press room: Russell Westbrook in a navy warmup smiles thoughtfully while a very attractive adult 30-year-old Black female reporter in a coral blazer holds a microphone, teammates and camera crew behind; candid side angle. Other people clearly visible and interacting. Realistic faces and anatomy, action and faces in upper three quarters. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "9ead66520ff497338b920e3fee5fcd4ac4d25da0660bcb3089adc280e3407bbd"
+    },
+    {
+      "asset_index": 110,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Anthony Davis in a white Lakers number 3 jersey answers a very attractive adult 28-year-old East Asian female reporter in an emerald suit on court after a regular-season win; Austin Reaves white number 15 laughs nearby, warm arena lighting. Other people clearly visible and interacting. Realistic faces and anatomy, action and faces in upper three quarters. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "c300ffba5013e5c6f8f20f9b59e8281d57211760ff89f2761e9a74ec1f82ba6c"
+    },
+    {
+      "asset_index": 111,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Carmelo Anthony in a rust designer jacket sits at a press table with Malik Monk in a cream sweater, a very attractive adult 32-year-old Latina reporter in a sky blue blouse leans forward with microphone; lively playoff media conversation. Other people clearly visible and interacting. Realistic faces and anatomy, action and faces in upper three quarters. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "3d4793552e783f955965b2b5550cd2c3d018dd9d7c41bfc719333fd903ec2db9"
+    },
+    {
+      "asset_index": 112,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Dwight Howard wearing a charcoal postgame hoodie jokes with a very attractive adult 29-year-old white red-haired reporter in an ivory pantsuit; Russell Westbrook in a blue track jacket beside him grins, crowded arena corridor. Other people clearly visible and interacting. Realistic faces and anatomy, action and faces in upper three quarters. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "38e44f74b848f709c99e023d87590c1667dfcd8b8afe97a6c96a76b893306596"
+    },
+    {
+      "asset_index": 113,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Malik Monk in a white Lakers number 11 jersey gives a postgame court interview to a very attractive adult 30-year-old South Asian reporter in a burgundy tailored dress; teammates and fans visible, candid medium wide shot. Other people clearly visible and interacting. Realistic faces and anatomy, action and faces in upper three quarters. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "370d9cb4e6041b9302b38036709804b6d3a47b657afffa47116faa41f23f3ecb"
+    },
+    {
+      "asset_index": 114,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Austin Reaves wearing a green casual jacket discusses a playoff win with a very attractive adult 27-year-old Black female reporter in a teal blazer; Carmelo Anthony sits beside him in a tan sweater, press room camera crew. Other people clearly visible and interacting. Realistic faces and anatomy, action and faces in upper three quarters. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "16ab043c1526c94c177ab124d10f2f2727600be9e8622c199ed6cfb59f14a2d8"
+    },
+    {
+      "asset_index": 115,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Russell Westbrook in a black postgame zip jacket speaks excitedly to a very attractive adult 31-year-old brunette reporter in a sky blue pantsuit, Anthony Davis beside him in a gray hoodie; courtside playoff interview with visible fans. Other people clearly visible and interacting. Realistic faces and anatomy. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank white or black strip or box, padding or faded background. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "7d2888b034815c0609a3b841ac420aa9271c7a01da84781f859c65028f14ccd8"
+    },
+    {
+      "asset_index": 116,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Anthony Davis and Dwight Howard in navy team tracksuits answer a very attractive adult 33-year-old blonde reporter in a coral blazer in the locker room after a playoff victory; happy seated teammates in background, documentary wide angle. Other people clearly visible and interacting. Realistic faces and anatomy. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank white or black strip or box, padding or faded background. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "4930651e0e3394794954e6bf4ebc983a545a5b93c71c94a2e6f546809dd5e09f"
+    },
+    {
+      "asset_index": 117,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Russell Westbrook number 0 rises for a forceful dunk over Boston green defenders in Finals Game 7; Anthony Davis number 3 and Malik Monk number 11 visible watching. All Lakers wear matching authentic 2021-22 gold Icon kit, purple LAKERS wordmark and white-outlined purple numbers, purple white trim, Bibigo chest patch. Low baseline camera, dramatic realistic sports photograph. Other people clearly visible and interacting. Realistic faces and anatomy. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank white or black strip or box, padding or faded background. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "c4010b7b7a9ec8de5c4203b959cf0cc70c2ac081d43f41137c4b85431e3655aa"
+    },
+    {
+      "asset_index": 118,
+      "prompt": "Fast photorealistic editorial portrait 9:16 photo of a fictional alternate-history 2021-22 Lakers playoff timeout. Dwight Howard number 39 sits on bench listening intently to Carmelo Anthony number 7 while Austin Reaves number 15 offers water, coaches and spectators visible. All Lakers wear authentic white Association jerseys with purple LAKERS wordmark and gold outlined purple numbers, gold purple trim, Bibigo patch. Realistic candid sideline medium wide view, FULL PHOTOGRAPH to all four edges and bottom, natural scene throughout. No blank strip, padding, border, vignette, text overlay, watermark, fantasy effects; no later roster.",
+      "sha256": "e6e2d4b6b27bf0f3b664411df49ee0198995b8c6f6058bf9a6539c09e1819e83"
+    },
+    {
+      "asset_index": 119,
+      "prompt": "Fast photorealistic editorial photo, fictional alternate-history 2021-22 Lakers championship story, portrait 9:16 edge-to-edge. Finals Game 7 final drive: Russell Westbrook number 0 elevates for a layup, ball just released beside rim, Boston green defenders contest and Anthony Davis number 3 follows. All Lakers same authentic 2021-22 gold Icon kit, purple LAKERS wordmark and white-outlined purple numbers, purple white trim, Bibigo. Tight side court action photo, no scoreboard text. Other people clearly visible and interacting. Realistic faces and anatomy. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank white or black strip or box, padding or faded background. No text overlay, collage, watermark, border, vignette, aura or fire. No Luka or later Lakers roster.",
+      "sha256": "20478cc1c285e685c321e0edea88781a596a70cce93fc39414f37faf4018909a"
+    },
+    {
+      "asset_index": 120,
+      "prompt": "Fast photorealistic editorial portrait 9:16 photo, fictional alternate-history 2021-22 Lakers championship postgame press room. Dwight Howard in a teal linen shirt and Carmelo Anthony in an ivory knit polo sit together smiling broadly, a very attractive adult 32-year-old Latina female reporter in a burgundy pantsuit holds microphone toward them, visible camera operators behind. Relaxed celebratory interview, three quarter angle, genuine natural indoor light. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank strip, box, padding, border, vignette, watermark, text overlay or fantasy effects.",
+      "sha256": "6ae60de6b2561336d4977d112e82ca92fd5bf2bc53512e6e910affe6e240e950"
+    },
+    {
+      "asset_index": 121,
+      "prompt": "fast photorealistic vertical 9:16 sports photo, fictional alternate-history 2021-22 Lakers championship. Westbrook 0 releases the winning bank shot over Boston white-green defenders while Anthony Davis 3 watches. All Lakers same gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers, Bibigo patch. Full photograph extends through all four edges and bottom with natural scene content; no blank strips, padding, border, faded background, vignette, captions or watermark.",
+      "sha256": "27c646e944bc9424dfbf0a7b1448c0f9e497426fbd40ce2af0fb929bdfb7ce5d"
+    },
+    {
+      "asset_index": 122,
+      "prompt": "fast photorealistic vertical 9:16 photo, clearly fictional alternate-history 2021-22 Lakers championship story. Anthony Davis 3 and Dwight Howard 39 hoist the championship trophy together with happy teammates at podium, gold Icon Lakers uniforms, confetti. Full photograph through all four edges and bottom with natural scene content; no empty strips, white or black padding, borders, faded background, vignette, captions or watermark.",
+      "sha256": "0aaa55a52ee741358a57adecad831f823e5e143a64a30565ec6781c1e3fabac1"
+    },
+    {
+      "asset_index": 123,
+      "prompt": "fast photorealistic vertical 9:16 sports photo, fictional alternate-history 2021-22 Lakers championship. Westbrook 0 embraces Anthony Davis 3 at championship buzzer, Carmelo Anthony 7 cheering beside them, confetti falling. All Lakers same gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers, Bibigo patch. Full photograph extends through all four edges and bottom with natural scene content; no blank strips, padding, border, faded background, vignette, captions or watermark.",
+      "sha256": "664224bbe8647e9af387c8f6d33cb36be21a9a504626104843c85de55eb876dc"
+    },
+    {
+      "asset_index": 124,
+      "prompt": "fast photorealistic vertical 9:16 sports photo, fictional alternate-history 2021-22 Lakers championship. Westbrook 0 and LeBron James 6 lift championship trophy together surrounded by cheering Lakers teammates and gold confetti. All Lakers same gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers, Bibigo patch. Full photograph extends through all four edges and bottom with natural scene content; no blank strips, padding, border, faded background, vignette, captions or watermark.",
+      "sha256": "b9090d0e6c9106fd9db804b772c32f7f431315f07de1c36b0bd2f0859b9a558a"
+    },
+    {
+      "asset_index": 125,
+      "prompt": "fast photorealistic vertical 9:16 sports photo, fictional alternate-history 2021-22 Lakers championship. Westbrook 0 holds Finals MVP trophy with joyful Anthony Davis 3 and Carmelo Anthony 7 beside him, championship presentation podium. All Lakers same gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers, Bibigo patch. Full photograph extends through all four edges and bottom with natural scene content; no blank strips, padding, border, faded background, vignette, captions or watermark.",
+      "sha256": "1b1aeeaabdb33c964d1cadfc8da35d0556a2b01fde9ac51744bd23599f78b37d"
+    },
+    {
+      "asset_index": 126,
+      "prompt": "fast photorealistic vertical 9:16 sports photo, fictional alternate-history 2021-22 Lakers championship. Westbrook 0 proudly raises Finals MVP trophy beside the championship trophy, Dwight Howard 39 and Malik Monk 11 clap, emotional joyful close group. All Lakers same gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers, Bibigo patch. Full photograph extends through all four edges and bottom with natural scene content; no blank strips, padding, border, faded background, vignette, captions or watermark.",
+      "sha256": "71f0a43f06cfafa57b0630c087b50db5a3f748c457e462d34587bff80f58f697"
+    },
+    {
+      "asset_index": 127,
+      "prompt": "fast photorealistic vertical 9:16 photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in navy velvet suit proudly holds up his left hand showing a brilliant championship ring worn on his finger, Carmelo Anthony in burgundy suit admires it beside him, arena ceremony. Full photograph through all four edges and bottom with natural scene content; no empty strips, white or black padding, borders, faded background, vignette, captions or watermark.",
+      "sha256": "fa1964688417a78ea57e65b127697837c0c8683bf3fb36d0c19fc95d650efbb5"
+    },
+    {
+      "asset_index": 128,
+      "prompt": "fast photorealistic vertical 9:16 photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in emerald tailored jacket shows championship ring worn on his finger to a stylish beautiful fictional female sports reporter age 30 in cream pantsuit holding microphone, warm courtside interview, teammates behind. Full photograph through all four edges and bottom with natural scene content; no empty strips, white or black padding, borders, faded background, vignette, captions or watermark.",
+      "sha256": "84da491696dc8e8c07ec67cdf92289bfb7e1120b730517ac1c6f1751d70c228c"
+    },
+    {
+      "asset_index": 129,
+      "prompt": "fast photorealistic vertical 9:16 photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in black silk shirt and Anthony Davis in teal blazer compare their championship rings worn on fingers, smiling together in arena corridor, championship trophy nearby. Full photograph through all four edges and bottom with natural scene content; no empty strips, white or black padding, borders, faded background, vignette, captions or watermark.",
+      "sha256": "f5142268824c53dbac7369590ac0a37aab485a3bc0d7a246c641dfa7fcd2e20b"
+    },
+    {
+      "asset_index": 130,
+      "prompt": "fast photorealistic vertical 9:16 photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in coral suit arrives at ring ceremony with Austin Reaves in navy suit, Westbrook's raised hand prominently displays championship ring on finger, photographers and security visible. Full photograph through all four edges and bottom with natural scene content; no empty strips, white or black padding, borders, faded background, vignette, captions or watermark.",
+      "sha256": "9089557800d0aae23731be113a6e6b7eb97f2366b9e95c97d10631640b09a631"
+    },
+    {
+      "asset_index": 131,
+      "prompt": "fast photorealistic vertical 9:16 photo, clearly fictional alternate-history 2021-22 Lakers championship story. Westbrook in burgundy tuxedo holds hand near chest displaying championship ring worn on finger while stylish beautiful fictional female reporter age 28 in navy professional dress interviews him with microphone, smiling Malik Monk nearby. Full photograph through all four edges and bottom with natural scene content; no empty strips, white or black padding, borders, faded background, vignette, captions or watermark.",
+      "sha256": "4ed1f643a82bcfb097d48d77ffe09382936863259f2b7f8979bfb34c1ee50694"
+    },
+    {
+      "asset_index": 132,
+      "prompt": "fast photorealistic vertical 9:16 photograph, clearly fictional alternate-history 2021-22 Lakers championship ring ceremony. Carmelo Anthony in burgundy suit proudly shows championship ring worn on finger to Dwight Howard in teal suit, laughing together at ring ceremony with teammates behind. Full photo extends through all four edges and bottom with natural scene content, no white or black strips, padding, borders, captions, watermark or faded backgrounds.",
+      "sha256": "f7b0fef06ace629e2fa2bb81ac759d0bfd995a1e12f5e9e40239f76c37da21d8"
+    }
+  ],
+  "timeline": [
+    {
+      "index": 0,
+      "start_seconds": 0,
+      "end_seconds": 3,
+      "asset_index": 0,
+      "category": "establishing",
+      "scene": "empty arena",
+      "story_beat": "intro"
+    },
+    {
+      "index": 1,
+      "start_seconds": 3,
+      "end_seconds": 6,
+      "asset_index": 6,
+      "category": "fashion",
+      "scene": "Westbrook blue fashion arrival",
+      "story_beat": "intro"
+    },
+    {
+      "index": 2,
+      "start_seconds": 6,
+      "end_seconds": 9,
+      "asset_index": 85,
+      "category": "team",
+      "scene": "Westbrook in navy tracksuit and Anthony Davis in cream hoodie laugh across aisle aboard team plane, daylight",
+      "story_beat": "intro"
+    },
+    {
+      "index": 3,
+      "start_seconds": 9,
+      "end_seconds": 12,
+      "asset_index": 14,
+      "category": "game",
+      "scene": "Westbrook 0 white Association action with AD 3 background",
+      "story_beat": "intro"
+    },
+    {
+      "index": 4,
+      "start_seconds": 12,
+      "end_seconds": 15,
+      "asset_index": 109,
+      "category": "interview",
+      "scene": "Regular-season postgame press room: Russell Westbrook in a navy warmup smiles thoughtfully while a very attractive adult 30-year-old Black female reporter in a coral blazer holds a microphone, teammates and camera crew behind; candid side angle.",
+      "story_beat": "intro"
+    },
+    {
+      "index": 5,
+      "start_seconds": 15,
+      "end_seconds": 18,
+      "asset_index": 1,
+      "category": "team",
+      "scene": "bus Westbrook/AD/LeBron",
+      "story_beat": "intro"
+    },
+    {
+      "index": 6,
+      "start_seconds": 18,
+      "end_seconds": 21,
+      "asset_index": 7,
+      "category": "fashion",
+      "scene": "Anthony Davis burgundy/cream fashion arrival",
+      "story_beat": "intro"
+    },
+    {
+      "index": 7,
+      "start_seconds": 21,
+      "end_seconds": 24,
+      "asset_index": 3,
+      "category": "game",
+      "scene": "AD dunk, Westbrook background",
+      "story_beat": "intro"
+    },
+    {
+      "index": 8,
+      "start_seconds": 24,
+      "end_seconds": 27,
+      "asset_index": 110,
+      "category": "interview",
+      "scene": "Anthony Davis in a white Lakers number 3 jersey answers a very attractive adult 28-year-old East Asian female reporter in an emerald suit on court after a regular-season win; Austin Reaves white number 15 laughs nearby, warm arena lighting.",
+      "story_beat": "intro"
+    },
+    {
+      "index": 9,
+      "start_seconds": 27,
+      "end_seconds": 30,
+      "asset_index": 86,
+      "category": "team",
+      "scene": "Carmelo Anthony in burgundy sweater and Malik Monk in denim compare sneakers aboard team plane, candid",
+      "story_beat": "intro"
+    },
+    {
+      "index": 10,
+      "start_seconds": 30,
+      "end_seconds": 33,
+      "asset_index": 8,
+      "category": "fashion",
+      "scene": "Carmelo rust jacket arrival",
+      "story_beat": "intro"
+    },
+    {
+      "index": 11,
+      "start_seconds": 33,
+      "end_seconds": 36,
+      "asset_index": 102,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 executes a sharp low crossover as an opposing defender loses balance, Malik Monk number 11 watching, Lakers all wearing purple Statement uniforms with gold LAKERS wordmark and white-outlined gold numbers, black side panels",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 12,
+      "start_seconds": 36,
+      "end_seconds": 39,
+      "asset_index": 89,
+      "category": "team",
+      "scene": "Westbrook in coral hoodie chats with Carmelo Anthony in locker room, teammates dressing behind",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 13,
+      "start_seconds": 39,
+      "end_seconds": 42,
+      "asset_index": 9,
+      "category": "fashion",
+      "scene": "Malik Monk green fashion arrival",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 14,
+      "start_seconds": 42,
+      "end_seconds": 45,
+      "asset_index": 22,
+      "category": "game",
+      "scene": "Russell Westbrook 0 in gold Icon shooting followthrough; clear Lakers/Bibigo",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 15,
+      "start_seconds": 45,
+      "end_seconds": 48,
+      "asset_index": 111,
+      "category": "interview",
+      "scene": "Carmelo Anthony in a rust designer jacket sits at a press table with Malik Monk in a cream sweater, a very attractive adult 32-year-old Latina reporter in a sky blue blouse leans forward with microphone; lively playoff media conversation.",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 16,
+      "start_seconds": 48,
+      "end_seconds": 51,
+      "asset_index": 2,
+      "category": "team",
+      "scene": "locker room Westbrook/LeBron/AD/Reaves",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 17,
+      "start_seconds": 51,
+      "end_seconds": 54,
+      "asset_index": 10,
+      "category": "fashion",
+      "scene": "Austin Reaves light-blue/cream fashion arrival",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 18,
+      "start_seconds": 54,
+      "end_seconds": 57,
+      "asset_index": 23,
+      "category": "game",
+      "scene": "Russell Westbrook 0 white Association celebration; clear Lakers",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 19,
+      "start_seconds": 57,
+      "end_seconds": 60,
+      "asset_index": 112,
+      "category": "interview",
+      "scene": "Dwight Howard wearing a charcoal postgame hoodie jokes with a very attractive adult 29-year-old white red-haired reporter in an ivory pantsuit; Russell Westbrook in a blue track jacket beside him grins, crowded arena corridor.",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 20,
+      "start_seconds": 60,
+      "end_seconds": 63,
+      "asset_index": 19,
+      "category": "team",
+      "scene": "Dwight Howard colorful knitwear at team dinner",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 21,
+      "start_seconds": 63,
+      "end_seconds": 66,
+      "asset_index": 11,
+      "category": "fashion",
+      "scene": "Westbrook cream/teal street scene",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 22,
+      "start_seconds": 66,
+      "end_seconds": 69,
+      "asset_index": 101,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 drives a fast-break layup over an opposing defender, Anthony Davis number 3 following, Lakers all wearing white Association uniforms with purple LAKERS wordmark and gold-outlined purple numbers",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 23,
+      "start_seconds": 69,
+      "end_seconds": 72,
+      "asset_index": 113,
+      "category": "interview",
+      "scene": "Malik Monk in a white Lakers number 11 jersey gives a postgame court interview to a very attractive adult 30-year-old South Asian reporter in a burgundy tailored dress; teammates and fans visible, candid medium wide shot.",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 24,
+      "start_seconds": 72,
+      "end_seconds": 75,
+      "asset_index": 28,
+      "category": "game",
+      "scene": "Malik Monk 11 and Austin Reaves 15 practice shooting together in gold practice gear",
+      "story_beat": "teamwork_regular_season"
+    },
+    {
+      "index": 25,
+      "start_seconds": 75,
+      "end_seconds": 78,
+      "asset_index": 87,
+      "category": "team",
+      "scene": "Westbrook and Dwight Howard playing cards at team plane table, teal casual outfits, amused teammates behind",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 26,
+      "start_seconds": 78,
+      "end_seconds": 81,
+      "asset_index": 97,
+      "category": "fashion",
+      "scene": "Westbrook in coral jacket and Austin Reaves in navy suit arrive together at arena, photographers and security behind",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 27,
+      "start_seconds": 81,
+      "end_seconds": 84,
+      "asset_index": 15,
+      "category": "game",
+      "scene": "Westbrook 0 gold Icon celebration",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 28,
+      "start_seconds": 84,
+      "end_seconds": 87,
+      "asset_index": 35,
+      "category": "interview",
+      "scene": "Anthony Davis gold Icon 3 interviewed by fictional adult female reporter in emerald suit",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 29,
+      "start_seconds": 87,
+      "end_seconds": 90,
+      "asset_index": 12,
+      "category": "team",
+      "scene": "Malik Monk and Reaves cafe",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 30,
+      "start_seconds": 90,
+      "end_seconds": 93,
+      "asset_index": 98,
+      "category": "fashion",
+      "scene": "Anthony Davis in burgundy coat and Malik Monk in cream knitwear walk arena entrance together, fans and photographers",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 31,
+      "start_seconds": 93,
+      "end_seconds": 96,
+      "asset_index": 34,
+      "category": "interview",
+      "scene": "Russell Westbrook gold Icon 0 interviewed by fictional adult female reporter in coral suit",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 32,
+      "start_seconds": 96,
+      "end_seconds": 99,
+      "asset_index": 38,
+      "category": "interview",
+      "scene": "Malik Monk purple kit/towel interviewed by fictional adult female reporter in burgundy suit; jersey number and most lettering covered",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 33,
+      "start_seconds": 99,
+      "end_seconds": 102,
+      "asset_index": 13,
+      "category": "team",
+      "scene": "Anthony Davis training warmup",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 34,
+      "start_seconds": 102,
+      "end_seconds": 105,
+      "asset_index": 20,
+      "category": "fashion",
+      "scene": "Malik Monk burgundy leather jacket street arrival",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 35,
+      "start_seconds": 105,
+      "end_seconds": 108,
+      "asset_index": 24,
+      "category": "team",
+      "scene": "Anthony Davis in charcoal training gear; practice post moves",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 36,
+      "start_seconds": 108,
+      "end_seconds": 111,
+      "asset_index": 114,
+      "category": "interview",
+      "scene": "Austin Reaves wearing a green casual jacket discusses a playoff win with a very attractive adult 27-year-old Black female reporter in a teal blazer; Carmelo Anthony sits beside him in a tan sweater, press room camera crew.",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 37,
+      "start_seconds": 111,
+      "end_seconds": 114,
+      "asset_index": 18,
+      "category": "team",
+      "scene": "Carmelo Anthony in cream cardigan at music studio; gold jersey 7 visible",
+      "story_beat": "successful_season"
+    },
+    {
+      "index": 38,
+      "start_seconds": 114,
+      "end_seconds": 117,
+      "asset_index": 95,
+      "category": "fashion",
+      "scene": "Malik Monk in cobalt bomber jacket and Austin Reaves in rust overshirt greet photographers at playoff arena entrance, security nearby",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 39,
+      "start_seconds": 117,
+      "end_seconds": 120,
+      "asset_index": 103,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 flies for a powerful one-handed dunk over a defender, LeBron James number 6 behind, Lakers all wearing white Association uniforms with purple LAKERS wordmark and gold-outlined purple numbers",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 40,
+      "start_seconds": 120,
+      "end_seconds": 123,
+      "asset_index": 115,
+      "category": "interview",
+      "scene": "Russell Westbrook in a black postgame zip jacket speaks excitedly to a very attractive adult 31-year-old brunette reporter in a sky blue pantsuit, Anthony Davis beside him in a gray hoodie; courtside playoff interview with visible fans.",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 41,
+      "start_seconds": 123,
+      "end_seconds": 126,
+      "asset_index": 88,
+      "category": "team",
+      "scene": "Anthony Davis and Austin Reaves review a tablet together inside team plane, warm sunset light",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 42,
+      "start_seconds": 126,
+      "end_seconds": 129,
+      "asset_index": 99,
+      "category": "fashion",
+      "scene": "Carmelo Anthony in teal suit and Dwight Howard in black designer jacket enter playoff arena with security and photographers",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 43,
+      "start_seconds": 129,
+      "end_seconds": 132,
+      "asset_index": 104,
+      "category": "game",
+      "scene": "Anthony Davis number 3 finishes an alley-oop dunk with Russell Westbrook number 0 celebrating nearby, defenders below, Lakers all wearing purple Statement uniforms with gold LAKERS wordmark and white-outlined gold numbers, black side panels",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 44,
+      "start_seconds": 132,
+      "end_seconds": 135,
+      "asset_index": 116,
+      "category": "interview",
+      "scene": "Anthony Davis and Dwight Howard in navy team tracksuits answer a very attractive adult 33-year-old blonde reporter in a coral blazer in the locker room after a playoff victory; happy seated teammates in background, documentary wide angle.",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 45,
+      "start_seconds": 135,
+      "end_seconds": 138,
+      "asset_index": 91,
+      "category": "team",
+      "scene": "Dwight Howard and Malik Monk share a joyful laugh in bright locker room, Westbrook listening nearby",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 46,
+      "start_seconds": 138,
+      "end_seconds": 141,
+      "asset_index": 100,
+      "category": "fashion",
+      "scene": "Westbrook in emerald blazer and denim walks beside Anthony Davis in tan streetwear through arena tunnel, photographers nearby",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 47,
+      "start_seconds": 141,
+      "end_seconds": 144,
+      "asset_index": 118,
+      "category": "team",
+      "scene": "Fast photorealistic editorial portrait 9:16 photo of a fictional alternate-history 2021-22 Lakers playoff timeout. Dwight Howard number 39 sits on bench listening intently to Carmelo Anthony number 7 while Austin Reaves number 15 offers water, coaches and spectators visible. All Lakers wear authentic white Association jerseys with purple LAKERS wordmark and gold outlined purple numbers, gold purple trim, Bibigo patch. Realistic candid sideline medium wide view, FULL PHOTOGRAPH to all four edges and bottom, natural scene throughout. No blank strip, padding, border, vignette, text overlay, watermark, fantasy effects; no later roster.",
+      "story_beat": "playoffs"
+    },
+    {
+      "index": 48,
+      "start_seconds": 144,
+      "end_seconds": 147,
+      "asset_index": 92,
+      "category": "team",
+      "scene": "Westbrook and Austin Reaves walk down team plane aisle carrying duffel bags, teammates seated behind",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 49,
+      "start_seconds": 147,
+      "end_seconds": 150,
+      "asset_index": 29,
+      "category": "fashion",
+      "scene": "Westbrook burgundy suit boarding team bus with security/teammates visible",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 50,
+      "start_seconds": 150,
+      "end_seconds": 153,
+      "asset_index": 93,
+      "category": "team",
+      "scene": "Westbrook in black hoodie and Anthony Davis in tan sweater discuss strategy at locker room bench, coach nearby",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 51,
+      "start_seconds": 153,
+      "end_seconds": 156,
+      "asset_index": 33,
+      "category": "fashion",
+      "scene": "Anthony Davis emerald suit arena arrival; crouched staff member visible at far right",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 52,
+      "start_seconds": 156,
+      "end_seconds": 159,
+      "asset_index": 90,
+      "category": "team",
+      "scene": "Westbrook and Anthony Davis sit side by side in locker room tying basketball shoes, focused teammates visible",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 53,
+      "start_seconds": 159,
+      "end_seconds": 162,
+      "asset_index": 27,
+      "category": "fashion",
+      "scene": "Dwight Howard in cobalt/rust fashion arrival",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 54,
+      "start_seconds": 162,
+      "end_seconds": 165,
+      "asset_index": 5,
+      "category": "game",
+      "scene": "fictional Finals jump ball",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 55,
+      "start_seconds": 165,
+      "end_seconds": 168,
+      "asset_index": 31,
+      "category": "team",
+      "scene": "Westbrook seated alone on bench in empty gym, purple kit",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 56,
+      "start_seconds": 168,
+      "end_seconds": 171,
+      "asset_index": 117,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 rises for a forceful dunk over Boston green defenders in Finals Game 7; Anthony Davis number 3 and Malik Monk number 11 visible watching. All Lakers wear matching authentic 2021-22 gold Icon kit, purple LAKERS wordmark and white-outlined purple numbers, purple white trim, Bibigo chest patch. Low baseline camera, dramatic realistic sports photograph.",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 57,
+      "start_seconds": 171,
+      "end_seconds": 174,
+      "asset_index": 119,
+      "category": "game",
+      "scene": "Finals Game 7 final drive: Russell Westbrook number 0 elevates for a layup, ball just released beside rim, Boston green defenders contest and Anthony Davis number 3 follows. All Lakers same authentic 2021-22 gold Icon kit, purple LAKERS wordmark and white-outlined purple numbers, purple white trim, Bibigo. Tight side court action photo, no scoreboard text.",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 58,
+      "start_seconds": 174,
+      "end_seconds": 177,
+      "asset_index": 105,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 scoops a reverse layup past Boston white-and-green defenders, Anthony Davis number 3 visible, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+      "story_beat": "finals_game7"
+    },
+    {
+      "index": 59,
+      "start_seconds": 177,
+      "end_seconds": 180,
+      "asset_index": 106,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 breaks down a Boston white-and-green defender with a rapid crossover, LeBron James number 6 moving nearby, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+      "story_beat": "single_bridge_climax"
+    },
+    {
+      "index": 60,
+      "start_seconds": 180,
+      "end_seconds": 183,
+      "asset_index": 107,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 elevates for a soaring two-handed dunk against Boston white-and-green defenders, Anthony Davis number 3 visible, low baseline camera, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+      "story_beat": "single_bridge_climax"
+    },
+    {
+      "index": 61,
+      "start_seconds": 183,
+      "end_seconds": 186,
+      "asset_index": 108,
+      "category": "game",
+      "scene": "Russell Westbrook number 0 shoots a decisive jump shot over a Boston white-and-green defender, Carmelo Anthony number 7 visible at wing, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+      "story_beat": "single_bridge_climax"
+    },
+    {
+      "index": 62,
+      "start_seconds": 186,
+      "end_seconds": 189,
+      "asset_index": 121,
+      "category": "game",
+      "scene": "Westbrook 0 releases the winning bank shot over Boston white-green defenders while Anthony Davis 3 watches",
+      "story_beat": "single_bridge_climax"
+    },
+    {
+      "index": 63,
+      "start_seconds": 189,
+      "end_seconds": 192,
+      "asset_index": 123,
+      "category": "celebration",
+      "scene": "Westbrook 0 embraces Anthony Davis 3 at championship buzzer, Carmelo Anthony 7 cheering beside them, confetti falling",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 64,
+      "start_seconds": 192,
+      "end_seconds": 195,
+      "asset_index": 37,
+      "category": "interview",
+      "scene": "Carmelo Anthony gold kit/towel interviewed by fictional adult female reporter in teal suit; jersey partly covered",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 65,
+      "start_seconds": 195,
+      "end_seconds": 198,
+      "asset_index": 124,
+      "category": "celebration",
+      "scene": "Westbrook 0 and LeBron James 6 lift championship trophy together surrounded by cheering Lakers teammates and gold confetti",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 66,
+      "start_seconds": 198,
+      "end_seconds": 201,
+      "asset_index": 39,
+      "category": "interview",
+      "scene": "Austin Reaves gold Icon 15 interviewed by fictional adult female reporter in navy suit",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 67,
+      "start_seconds": 201,
+      "end_seconds": 204,
+      "asset_index": 4,
+      "category": "game",
+      "scene": "celebration Westbrook/LeBron/AD",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 68,
+      "start_seconds": 204,
+      "end_seconds": 207,
+      "asset_index": 125,
+      "category": "mvp",
+      "scene": "Westbrook 0 holds Finals MVP trophy with joyful Anthony Davis 3 and Carmelo Anthony 7 beside him, championship presentation podium",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 69,
+      "start_seconds": 207,
+      "end_seconds": 210,
+      "asset_index": 120,
+      "category": "interview",
+      "scene": "Fast photorealistic editorial portrait 9:16 photo, fictional alternate-history 2021-22 Lakers championship postgame press room. Dwight Howard in a teal linen shirt and Carmelo Anthony in an ivory knit polo sit together smiling broadly, a very attractive adult 32-year-old Latina female reporter in a burgundy pantsuit holds microphone toward them, visible camera operators behind. Relaxed celebratory interview, three quarter angle, genuine natural indoor light. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank strip, box, padding, border, vignette, watermark, text overlay or fantasy effects.",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 70,
+      "start_seconds": 210,
+      "end_seconds": 213,
+      "asset_index": 126,
+      "category": "mvp",
+      "scene": "Westbrook 0 proudly raises Finals MVP trophy beside the championship trophy, Dwight Howard 39 and Malik Monk 11 clap, emotional joyful close group",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 71,
+      "start_seconds": 213,
+      "end_seconds": 216,
+      "asset_index": 127,
+      "category": "ring",
+      "scene": "Westbrook in navy velvet suit proudly holds up his left hand showing a brilliant championship ring worn on his finger, Carmelo Anthony in burgundy suit admires it beside him, arena ceremony",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 72,
+      "start_seconds": 216,
+      "end_seconds": 219,
+      "asset_index": 94,
+      "category": "team",
+      "scene": "Westbrook and Carmelo Anthony embrace in champagne-splashed championship locker room, smiling teammates crowd around, gold confetti",
+      "story_beat": "championship_mvp"
+    },
+    {
+      "index": 73,
+      "start_seconds": 219,
+      "end_seconds": 222,
+      "asset_index": 96,
+      "category": "team",
+      "scene": "Anthony Davis and Dwight Howard cheer beside Westbrook in championship locker room, joyful group, damp celebratory shirts",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 74,
+      "start_seconds": 222,
+      "end_seconds": 225,
+      "asset_index": 32,
+      "category": "fashion",
+      "scene": "Carmelo cream knitwear arena arrival; security visible behind",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 75,
+      "start_seconds": 225,
+      "end_seconds": 228,
+      "asset_index": 122,
+      "category": "celebration",
+      "scene": "Anthony Davis 3 and Dwight Howard 39 hoist the championship trophy together with happy teammates at podium, gold Icon Lakers uniforms, confetti",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 76,
+      "start_seconds": 228,
+      "end_seconds": 231,
+      "asset_index": 130,
+      "category": "fashion",
+      "scene": "Westbrook in coral suit arrives at ring ceremony with Austin Reaves in navy suit, Westbrook's raised hand prominently displays championship ring on finger, photographers and security visible",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 77,
+      "start_seconds": 231,
+      "end_seconds": 234,
+      "asset_index": 30,
+      "category": "team",
+      "scene": "Team dinner; foreground right contains clearly Luka-like extra man, separate from Reaves in rear cream hoodie",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 78,
+      "start_seconds": 234,
+      "end_seconds": 237,
+      "asset_index": 16,
+      "category": "fashion",
+      "scene": "Anthony Davis in camel coat at bookshop",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 79,
+      "start_seconds": 237,
+      "end_seconds": 240,
+      "asset_index": 129,
+      "category": "ring",
+      "scene": "Westbrook in black silk shirt and Anthony Davis in teal blazer compare their championship rings worn on fingers, smiling together in arena corridor, championship trophy nearby",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 80,
+      "start_seconds": 240,
+      "end_seconds": 243,
+      "asset_index": 17,
+      "category": "fashion",
+      "scene": "Russell Westbrook in orange/navy tracksuit at beach boardwalk",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 81,
+      "start_seconds": 243,
+      "end_seconds": 246,
+      "asset_index": 132,
+      "category": "ring",
+      "scene": "Carmelo Anthony in burgundy suit proudly shows championship ring worn on finger to Dwight Howard in teal suit, laughing together at ring ceremony with teammates behind",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 82,
+      "start_seconds": 246,
+      "end_seconds": 249,
+      "asset_index": 26,
+      "category": "fashion",
+      "scene": "Russell Westbrook in teal/cream streetwear",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 83,
+      "start_seconds": 249,
+      "end_seconds": 252,
+      "asset_index": 131,
+      "category": "interview",
+      "scene": "Westbrook in burgundy tuxedo holds hand near chest displaying championship ring worn on finger while stylish beautiful fictional female reporter age 28 in navy professional dress interviews him with microphone, smiling Malik Monk nearby",
+      "story_beat": "ring_and_celebration"
+    },
+    {
+      "index": 84,
+      "start_seconds": 252,
+      "end_seconds": 253.07,
+      "asset_index": 128,
+      "category": "interview",
+      "scene": "Westbrook in emerald tailored jacket shows championship ring worn on his finger to a stylish beautiful fictional female sports reporter age 30 in cream pantsuit holding microphone, warm courtside interview, teammates behind",
+      "story_beat": "ring_and_celebration"
+    }
+  ],
+  "delivery": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "duration_seconds": 253.07,
+    "scene_interval_seconds": 3,
+    "last_shot_seconds": 1.07,
+    "unique_images": 85,
+    "intro_trim_seconds": 0,
+    "pitch_or_tempo_change": false,
+    "audio_gain_db": 0,
+    "captions": "Provider line timestamps, 46 lyric lines; 92px bold at1080width; manual English YouTube track",
+    "overlays": [
+      "AI ALTERNATE HISTORY / WHAT IF?",
+      "ANYTIME / Brian McKnight / AI REMIX"
+    ],
+    "source_credit_in_title_and_thumbnail": true
+  },
+  "framing": {
+    "mode": "Flat black/white strips cropped, then scale-to-cover; no padding, color fills, blur, grading or fades",
+    "images": [
+      {
+        "asset_index": 0,
+        "file": "frame-000.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 6,
+        "file": "frame-006.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 85,
+        "file": "frame-085.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 14,
+        "file": "frame-014.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 109,
+        "file": "frame-109.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 1,
+        "file": "frame-001.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 7,
+        "file": "frame-007.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 3,
+        "file": "frame-003.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 110,
+        "file": "frame-110.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 86,
+        "file": "frame-086.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 8,
+        "file": "frame-008.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 102,
+        "file": "frame-102.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 89,
+        "file": "frame-089.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 9,
+        "file": "frame-009.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 22,
+        "file": "frame-022.png",
+        "x": 21,
+        "y": 46,
+        "width": 920,
+        "height": 1626,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 111,
+        "file": "frame-111.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 2,
+        "file": "frame-002.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 10,
+        "file": "frame-010.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 23,
+        "file": "frame-023.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 112,
+        "file": "frame-112.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 19,
+        "file": "frame-019.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 11,
+        "file": "frame-011.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 101,
+        "file": "frame-101.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 113,
+        "file": "frame-113.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 28,
+        "file": "frame-028.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 87,
+        "file": "frame-087.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 97,
+        "file": "frame-097.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1410,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 15,
+        "file": "frame-015.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 35,
+        "file": "frame-035.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 12,
+        "file": "frame-012.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 98,
+        "file": "frame-098.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 34,
+        "file": "frame-034.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 38,
+        "file": "frame-038.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 13,
+        "file": "frame-013.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 20,
+        "file": "frame-020.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 24,
+        "file": "frame-024.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 114,
+        "file": "frame-114.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 18,
+        "file": "frame-018.png",
+        "x": 0,
+        "y": 0,
+        "width": 940,
+        "height": 1672,
+        "original_width": 940,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 95,
+        "file": "frame-095.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 103,
+        "file": "frame-103.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1347,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 115,
+        "file": "frame-115.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 88,
+        "file": "frame-088.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 99,
+        "file": "frame-099.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1491,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 104,
+        "file": "frame-104.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1278,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 116,
+        "file": "frame-116.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 91,
+        "file": "frame-091.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 100,
+        "file": "frame-100.png",
+        "x": 0,
+        "y": 0,
+        "width": 940,
+        "height": 1672,
+        "original_width": 940,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 118,
+        "file": "frame-118.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 92,
+        "file": "frame-092.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 29,
+        "file": "frame-029.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 93,
+        "file": "frame-093.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1298,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 33,
+        "file": "frame-033.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 90,
+        "file": "frame-090.png",
+        "x": 11,
+        "y": 0,
+        "width": 919,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 27,
+        "file": "frame-027.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 5,
+        "file": "frame-005.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 31,
+        "file": "frame-031.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 117,
+        "file": "frame-117.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 119,
+        "file": "frame-119.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 105,
+        "file": "frame-105.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1323,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": true
+      },
+      {
+        "asset_index": 106,
+        "file": "frame-106.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 107,
+        "file": "frame-107.png",
+        "x": 0,
+        "y": 0,
+        "width": 940,
+        "height": 1672,
+        "original_width": 940,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 108,
+        "file": "frame-108.png",
+        "x": 0,
+        "y": 0,
+        "width": 940,
+        "height": 1672,
+        "original_width": 940,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 121,
+        "file": "frame-121.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 123,
+        "file": "frame-123.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 37,
+        "file": "frame-037.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 124,
+        "file": "frame-124.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 39,
+        "file": "frame-039.png",
+        "x": 0,
+        "y": 0,
+        "width": 940,
+        "height": 1672,
+        "original_width": 940,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 4,
+        "file": "frame-004.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 125,
+        "file": "frame-125.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 120,
+        "file": "frame-120.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 126,
+        "file": "frame-126.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 127,
+        "file": "frame-127.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 94,
+        "file": "frame-094.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 96,
+        "file": "frame-096.png",
+        "x": 0,
+        "y": 0,
+        "width": 1086,
+        "height": 1229,
+        "original_width": 1086,
+        "original_height": 1448,
+        "removed_border": true
+      },
+      {
+        "asset_index": 32,
+        "file": "frame-032.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 122,
+        "file": "frame-122.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 130,
+        "file": "frame-130.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 30,
+        "file": "frame-030.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 16,
+        "file": "frame-016.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 129,
+        "file": "frame-129.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 17,
+        "file": "frame-017.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 132,
+        "file": "frame-132.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 26,
+        "file": "frame-026.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 131,
+        "file": "frame-131.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      },
+      {
+        "asset_index": 128,
+        "file": "frame-128.png",
+        "x": 0,
+        "y": 0,
+        "width": 941,
+        "height": 1672,
+        "original_width": 941,
+        "original_height": 1672,
+        "removed_border": false
+      }
+    ]
+  }
+}

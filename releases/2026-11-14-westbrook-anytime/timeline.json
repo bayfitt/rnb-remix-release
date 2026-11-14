@@ -1,0 +1,767 @@
+[
+  {
+    "index": 0,
+    "start_seconds": 0,
+    "end_seconds": 3,
+    "asset_index": 0,
+    "category": "establishing",
+    "scene": "empty arena",
+    "story_beat": "intro"
+  },
+  {
+    "index": 1,
+    "start_seconds": 3,
+    "end_seconds": 6,
+    "asset_index": 6,
+    "category": "fashion",
+    "scene": "Westbrook blue fashion arrival",
+    "story_beat": "intro"
+  },
+  {
+    "index": 2,
+    "start_seconds": 6,
+    "end_seconds": 9,
+    "asset_index": 85,
+    "category": "team",
+    "scene": "Westbrook in navy tracksuit and Anthony Davis in cream hoodie laugh across aisle aboard team plane, daylight",
+    "story_beat": "intro"
+  },
+  {
+    "index": 3,
+    "start_seconds": 9,
+    "end_seconds": 12,
+    "asset_index": 14,
+    "category": "game",
+    "scene": "Westbrook 0 white Association action with AD 3 background",
+    "story_beat": "intro"
+  },
+  {
+    "index": 4,
+    "start_seconds": 12,
+    "end_seconds": 15,
+    "asset_index": 109,
+    "category": "interview",
+    "scene": "Regular-season postgame press room: Russell Westbrook in a navy warmup smiles thoughtfully while a very attractive adult 30-year-old Black female reporter in a coral blazer holds a microphone, teammates and camera crew behind; candid side angle.",
+    "story_beat": "intro"
+  },
+  {
+    "index": 5,
+    "start_seconds": 15,
+    "end_seconds": 18,
+    "asset_index": 1,
+    "category": "team",
+    "scene": "bus Westbrook/AD/LeBron",
+    "story_beat": "intro"
+  },
+  {
+    "index": 6,
+    "start_seconds": 18,
+    "end_seconds": 21,
+    "asset_index": 7,
+    "category": "fashion",
+    "scene": "Anthony Davis burgundy/cream fashion arrival",
+    "story_beat": "intro"
+  },
+  {
+    "index": 7,
+    "start_seconds": 21,
+    "end_seconds": 24,
+    "asset_index": 3,
+    "category": "game",
+    "scene": "AD dunk, Westbrook background",
+    "story_beat": "intro"
+  },
+  {
+    "index": 8,
+    "start_seconds": 24,
+    "end_seconds": 27,
+    "asset_index": 110,
+    "category": "interview",
+    "scene": "Anthony Davis in a white Lakers number 3 jersey answers a very attractive adult 28-year-old East Asian female reporter in an emerald suit on court after a regular-season win; Austin Reaves white number 15 laughs nearby, warm arena lighting.",
+    "story_beat": "intro"
+  },
+  {
+    "index": 9,
+    "start_seconds": 27,
+    "end_seconds": 30,
+    "asset_index": 86,
+    "category": "team",
+    "scene": "Carmelo Anthony in burgundy sweater and Malik Monk in denim compare sneakers aboard team plane, candid",
+    "story_beat": "intro"
+  },
+  {
+    "index": 10,
+    "start_seconds": 30,
+    "end_seconds": 33,
+    "asset_index": 8,
+    "category": "fashion",
+    "scene": "Carmelo rust jacket arrival",
+    "story_beat": "intro"
+  },
+  {
+    "index": 11,
+    "start_seconds": 33,
+    "end_seconds": 36,
+    "asset_index": 102,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 executes a sharp low crossover as an opposing defender loses balance, Malik Monk number 11 watching, Lakers all wearing purple Statement uniforms with gold LAKERS wordmark and white-outlined gold numbers, black side panels",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 12,
+    "start_seconds": 36,
+    "end_seconds": 39,
+    "asset_index": 89,
+    "category": "team",
+    "scene": "Westbrook in coral hoodie chats with Carmelo Anthony in locker room, teammates dressing behind",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 13,
+    "start_seconds": 39,
+    "end_seconds": 42,
+    "asset_index": 9,
+    "category": "fashion",
+    "scene": "Malik Monk green fashion arrival",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 14,
+    "start_seconds": 42,
+    "end_seconds": 45,
+    "asset_index": 22,
+    "category": "game",
+    "scene": "Russell Westbrook 0 in gold Icon shooting followthrough; clear Lakers/Bibigo",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 15,
+    "start_seconds": 45,
+    "end_seconds": 48,
+    "asset_index": 111,
+    "category": "interview",
+    "scene": "Carmelo Anthony in a rust designer jacket sits at a press table with Malik Monk in a cream sweater, a very attractive adult 32-year-old Latina reporter in a sky blue blouse leans forward with microphone; lively playoff media conversation.",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 16,
+    "start_seconds": 48,
+    "end_seconds": 51,
+    "asset_index": 2,
+    "category": "team",
+    "scene": "locker room Westbrook/LeBron/AD/Reaves",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 17,
+    "start_seconds": 51,
+    "end_seconds": 54,
+    "asset_index": 10,
+    "category": "fashion",
+    "scene": "Austin Reaves light-blue/cream fashion arrival",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 18,
+    "start_seconds": 54,
+    "end_seconds": 57,
+    "asset_index": 23,
+    "category": "game",
+    "scene": "Russell Westbrook 0 white Association celebration; clear Lakers",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 19,
+    "start_seconds": 57,
+    "end_seconds": 60,
+    "asset_index": 112,
+    "category": "interview",
+    "scene": "Dwight Howard wearing a charcoal postgame hoodie jokes with a very attractive adult 29-year-old white red-haired reporter in an ivory pantsuit; Russell Westbrook in a blue track jacket beside him grins, crowded arena corridor.",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 20,
+    "start_seconds": 60,
+    "end_seconds": 63,
+    "asset_index": 19,
+    "category": "team",
+    "scene": "Dwight Howard colorful knitwear at team dinner",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 21,
+    "start_seconds": 63,
+    "end_seconds": 66,
+    "asset_index": 11,
+    "category": "fashion",
+    "scene": "Westbrook cream/teal street scene",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 22,
+    "start_seconds": 66,
+    "end_seconds": 69,
+    "asset_index": 101,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 drives a fast-break layup over an opposing defender, Anthony Davis number 3 following, Lakers all wearing white Association uniforms with purple LAKERS wordmark and gold-outlined purple numbers",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 23,
+    "start_seconds": 69,
+    "end_seconds": 72,
+    "asset_index": 113,
+    "category": "interview",
+    "scene": "Malik Monk in a white Lakers number 11 jersey gives a postgame court interview to a very attractive adult 30-year-old South Asian reporter in a burgundy tailored dress; teammates and fans visible, candid medium wide shot.",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 24,
+    "start_seconds": 72,
+    "end_seconds": 75,
+    "asset_index": 28,
+    "category": "game",
+    "scene": "Malik Monk 11 and Austin Reaves 15 practice shooting together in gold practice gear",
+    "story_beat": "teamwork_regular_season"
+  },
+  {
+    "index": 25,
+    "start_seconds": 75,
+    "end_seconds": 78,
+    "asset_index": 87,
+    "category": "team",
+    "scene": "Westbrook and Dwight Howard playing cards at team plane table, teal casual outfits, amused teammates behind",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 26,
+    "start_seconds": 78,
+    "end_seconds": 81,
+    "asset_index": 97,
+    "category": "fashion",
+    "scene": "Westbrook in coral jacket and Austin Reaves in navy suit arrive together at arena, photographers and security behind",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 27,
+    "start_seconds": 81,
+    "end_seconds": 84,
+    "asset_index": 15,
+    "category": "game",
+    "scene": "Westbrook 0 gold Icon celebration",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 28,
+    "start_seconds": 84,
+    "end_seconds": 87,
+    "asset_index": 35,
+    "category": "interview",
+    "scene": "Anthony Davis gold Icon 3 interviewed by fictional adult female reporter in emerald suit",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 29,
+    "start_seconds": 87,
+    "end_seconds": 90,
+    "asset_index": 12,
+    "category": "team",
+    "scene": "Malik Monk and Reaves cafe",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 30,
+    "start_seconds": 90,
+    "end_seconds": 93,
+    "asset_index": 98,
+    "category": "fashion",
+    "scene": "Anthony Davis in burgundy coat and Malik Monk in cream knitwear walk arena entrance together, fans and photographers",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 31,
+    "start_seconds": 93,
+    "end_seconds": 96,
+    "asset_index": 34,
+    "category": "interview",
+    "scene": "Russell Westbrook gold Icon 0 interviewed by fictional adult female reporter in coral suit",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 32,
+    "start_seconds": 96,
+    "end_seconds": 99,
+    "asset_index": 38,
+    "category": "interview",
+    "scene": "Malik Monk purple kit/towel interviewed by fictional adult female reporter in burgundy suit; jersey number and most lettering covered",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 33,
+    "start_seconds": 99,
+    "end_seconds": 102,
+    "asset_index": 13,
+    "category": "team",
+    "scene": "Anthony Davis training warmup",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 34,
+    "start_seconds": 102,
+    "end_seconds": 105,
+    "asset_index": 20,
+    "category": "fashion",
+    "scene": "Malik Monk burgundy leather jacket street arrival",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 35,
+    "start_seconds": 105,
+    "end_seconds": 108,
+    "asset_index": 24,
+    "category": "team",
+    "scene": "Anthony Davis in charcoal training gear; practice post moves",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 36,
+    "start_seconds": 108,
+    "end_seconds": 111,
+    "asset_index": 114,
+    "category": "interview",
+    "scene": "Austin Reaves wearing a green casual jacket discusses a playoff win with a very attractive adult 27-year-old Black female reporter in a teal blazer; Carmelo Anthony sits beside him in a tan sweater, press room camera crew.",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 37,
+    "start_seconds": 111,
+    "end_seconds": 114,
+    "asset_index": 18,
+    "category": "team",
+    "scene": "Carmelo Anthony in cream cardigan at music studio; gold jersey 7 visible",
+    "story_beat": "successful_season"
+  },
+  {
+    "index": 38,
+    "start_seconds": 114,
+    "end_seconds": 117,
+    "asset_index": 95,
+    "category": "fashion",
+    "scene": "Malik Monk in cobalt bomber jacket and Austin Reaves in rust overshirt greet photographers at playoff arena entrance, security nearby",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 39,
+    "start_seconds": 117,
+    "end_seconds": 120,
+    "asset_index": 103,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 flies for a powerful one-handed dunk over a defender, LeBron James number 6 behind, Lakers all wearing white Association uniforms with purple LAKERS wordmark and gold-outlined purple numbers",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 40,
+    "start_seconds": 120,
+    "end_seconds": 123,
+    "asset_index": 115,
+    "category": "interview",
+    "scene": "Russell Westbrook in a black postgame zip jacket speaks excitedly to a very attractive adult 31-year-old brunette reporter in a sky blue pantsuit, Anthony Davis beside him in a gray hoodie; courtside playoff interview with visible fans.",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 41,
+    "start_seconds": 123,
+    "end_seconds": 126,
+    "asset_index": 88,
+    "category": "team",
+    "scene": "Anthony Davis and Austin Reaves review a tablet together inside team plane, warm sunset light",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 42,
+    "start_seconds": 126,
+    "end_seconds": 129,
+    "asset_index": 99,
+    "category": "fashion",
+    "scene": "Carmelo Anthony in teal suit and Dwight Howard in black designer jacket enter playoff arena with security and photographers",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 43,
+    "start_seconds": 129,
+    "end_seconds": 132,
+    "asset_index": 104,
+    "category": "game",
+    "scene": "Anthony Davis number 3 finishes an alley-oop dunk with Russell Westbrook number 0 celebrating nearby, defenders below, Lakers all wearing purple Statement uniforms with gold LAKERS wordmark and white-outlined gold numbers, black side panels",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 44,
+    "start_seconds": 132,
+    "end_seconds": 135,
+    "asset_index": 116,
+    "category": "interview",
+    "scene": "Anthony Davis and Dwight Howard in navy team tracksuits answer a very attractive adult 33-year-old blonde reporter in a coral blazer in the locker room after a playoff victory; happy seated teammates in background, documentary wide angle.",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 45,
+    "start_seconds": 135,
+    "end_seconds": 138,
+    "asset_index": 91,
+    "category": "team",
+    "scene": "Dwight Howard and Malik Monk share a joyful laugh in bright locker room, Westbrook listening nearby",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 46,
+    "start_seconds": 138,
+    "end_seconds": 141,
+    "asset_index": 100,
+    "category": "fashion",
+    "scene": "Westbrook in emerald blazer and denim walks beside Anthony Davis in tan streetwear through arena tunnel, photographers nearby",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 47,
+    "start_seconds": 141,
+    "end_seconds": 144,
+    "asset_index": 118,
+    "category": "team",
+    "scene": "Fast photorealistic editorial portrait 9:16 photo of a fictional alternate-history 2021-22 Lakers playoff timeout. Dwight Howard number 39 sits on bench listening intently to Carmelo Anthony number 7 while Austin Reaves number 15 offers water, coaches and spectators visible. All Lakers wear authentic white Association jerseys with purple LAKERS wordmark and gold outlined purple numbers, gold purple trim, Bibigo patch. Realistic candid sideline medium wide view, FULL PHOTOGRAPH to all four edges and bottom, natural scene throughout. No blank strip, padding, border, vignette, text overlay, watermark, fantasy effects; no later roster.",
+    "story_beat": "playoffs"
+  },
+  {
+    "index": 48,
+    "start_seconds": 144,
+    "end_seconds": 147,
+    "asset_index": 92,
+    "category": "team",
+    "scene": "Westbrook and Austin Reaves walk down team plane aisle carrying duffel bags, teammates seated behind",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 49,
+    "start_seconds": 147,
+    "end_seconds": 150,
+    "asset_index": 29,
+    "category": "fashion",
+    "scene": "Westbrook burgundy suit boarding team bus with security/teammates visible",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 50,
+    "start_seconds": 150,
+    "end_seconds": 153,
+    "asset_index": 93,
+    "category": "team",
+    "scene": "Westbrook in black hoodie and Anthony Davis in tan sweater discuss strategy at locker room bench, coach nearby",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 51,
+    "start_seconds": 153,
+    "end_seconds": 156,
+    "asset_index": 33,
+    "category": "fashion",
+    "scene": "Anthony Davis emerald suit arena arrival; crouched staff member visible at far right",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 52,
+    "start_seconds": 156,
+    "end_seconds": 159,
+    "asset_index": 90,
+    "category": "team",
+    "scene": "Westbrook and Anthony Davis sit side by side in locker room tying basketball shoes, focused teammates visible",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 53,
+    "start_seconds": 159,
+    "end_seconds": 162,
+    "asset_index": 27,
+    "category": "fashion",
+    "scene": "Dwight Howard in cobalt/rust fashion arrival",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 54,
+    "start_seconds": 162,
+    "end_seconds": 165,
+    "asset_index": 5,
+    "category": "game",
+    "scene": "fictional Finals jump ball",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 55,
+    "start_seconds": 165,
+    "end_seconds": 168,
+    "asset_index": 31,
+    "category": "team",
+    "scene": "Westbrook seated alone on bench in empty gym, purple kit",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 56,
+    "start_seconds": 168,
+    "end_seconds": 171,
+    "asset_index": 117,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 rises for a forceful dunk over Boston green defenders in Finals Game 7; Anthony Davis number 3 and Malik Monk number 11 visible watching. All Lakers wear matching authentic 2021-22 gold Icon kit, purple LAKERS wordmark and white-outlined purple numbers, purple white trim, Bibigo chest patch. Low baseline camera, dramatic realistic sports photograph.",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 57,
+    "start_seconds": 171,
+    "end_seconds": 174,
+    "asset_index": 119,
+    "category": "game",
+    "scene": "Finals Game 7 final drive: Russell Westbrook number 0 elevates for a layup, ball just released beside rim, Boston green defenders contest and Anthony Davis number 3 follows. All Lakers same authentic 2021-22 gold Icon kit, purple LAKERS wordmark and white-outlined purple numbers, purple white trim, Bibigo. Tight side court action photo, no scoreboard text.",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 58,
+    "start_seconds": 174,
+    "end_seconds": 177,
+    "asset_index": 105,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 scoops a reverse layup past Boston white-and-green defenders, Anthony Davis number 3 visible, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+    "story_beat": "finals_game7"
+  },
+  {
+    "index": 59,
+    "start_seconds": 177,
+    "end_seconds": 180,
+    "asset_index": 106,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 breaks down a Boston white-and-green defender with a rapid crossover, LeBron James number 6 moving nearby, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+    "story_beat": "single_bridge_climax"
+  },
+  {
+    "index": 60,
+    "start_seconds": 180,
+    "end_seconds": 183,
+    "asset_index": 107,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 elevates for a soaring two-handed dunk against Boston white-and-green defenders, Anthony Davis number 3 visible, low baseline camera, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+    "story_beat": "single_bridge_climax"
+  },
+  {
+    "index": 61,
+    "start_seconds": 183,
+    "end_seconds": 186,
+    "asset_index": 108,
+    "category": "game",
+    "scene": "Russell Westbrook number 0 shoots a decisive jump shot over a Boston white-and-green defender, Carmelo Anthony number 7 visible at wing, Lakers all wearing gold Icon uniforms, purple LAKERS wordmark, white-outlined purple numbers",
+    "story_beat": "single_bridge_climax"
+  },
+  {
+    "index": 62,
+    "start_seconds": 186,
+    "end_seconds": 189,
+    "asset_index": 121,
+    "category": "game",
+    "scene": "Westbrook 0 releases the winning bank shot over Boston white-green defenders while Anthony Davis 3 watches",
+    "story_beat": "single_bridge_climax"
+  },
+  {
+    "index": 63,
+    "start_seconds": 189,
+    "end_seconds": 192,
+    "asset_index": 123,
+    "category": "celebration",
+    "scene": "Westbrook 0 embraces Anthony Davis 3 at championship buzzer, Carmelo Anthony 7 cheering beside them, confetti falling",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 64,
+    "start_seconds": 192,
+    "end_seconds": 195,
+    "asset_index": 37,
+    "category": "interview",
+    "scene": "Carmelo Anthony gold kit/towel interviewed by fictional adult female reporter in teal suit; jersey partly covered",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 65,
+    "start_seconds": 195,
+    "end_seconds": 198,
+    "asset_index": 124,
+    "category": "celebration",
+    "scene": "Westbrook 0 and LeBron James 6 lift championship trophy together surrounded by cheering Lakers teammates and gold confetti",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 66,
+    "start_seconds": 198,
+    "end_seconds": 201,
+    "asset_index": 39,
+    "category": "interview",
+    "scene": "Austin Reaves gold Icon 15 interviewed by fictional adult female reporter in navy suit",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 67,
+    "start_seconds": 201,
+    "end_seconds": 204,
+    "asset_index": 4,
+    "category": "game",
+    "scene": "celebration Westbrook/LeBron/AD",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 68,
+    "start_seconds": 204,
+    "end_seconds": 207,
+    "asset_index": 125,
+    "category": "mvp",
+    "scene": "Westbrook 0 holds Finals MVP trophy with joyful Anthony Davis 3 and Carmelo Anthony 7 beside him, championship presentation podium",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 69,
+    "start_seconds": 207,
+    "end_seconds": 210,
+    "asset_index": 120,
+    "category": "interview",
+    "scene": "Fast photorealistic editorial portrait 9:16 photo, fictional alternate-history 2021-22 Lakers championship postgame press room. Dwight Howard in a teal linen shirt and Carmelo Anthony in an ivory knit polo sit together smiling broadly, a very attractive adult 32-year-old Latina female reporter in a burgundy pantsuit holds microphone toward them, visible camera operators behind. Relaxed celebratory interview, three quarter angle, genuine natural indoor light. FULL PHOTOGRAPH to all four edges and bottom, natural scene content throughout, no blank strip, box, padding, border, vignette, watermark, text overlay or fantasy effects.",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 70,
+    "start_seconds": 210,
+    "end_seconds": 213,
+    "asset_index": 126,
+    "category": "mvp",
+    "scene": "Westbrook 0 proudly raises Finals MVP trophy beside the championship trophy, Dwight Howard 39 and Malik Monk 11 clap, emotional joyful close group",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 71,
+    "start_seconds": 213,
+    "end_seconds": 216,
+    "asset_index": 127,
+    "category": "ring",
+    "scene": "Westbrook in navy velvet suit proudly holds up his left hand showing a brilliant championship ring worn on his finger, Carmelo Anthony in burgundy suit admires it beside him, arena ceremony",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 72,
+    "start_seconds": 216,
+    "end_seconds": 219,
+    "asset_index": 94,
+    "category": "team",
+    "scene": "Westbrook and Carmelo Anthony embrace in champagne-splashed championship locker room, smiling teammates crowd around, gold confetti",
+    "story_beat": "championship_mvp"
+  },
+  {
+    "index": 73,
+    "start_seconds": 219,
+    "end_seconds": 222,
+    "asset_index": 96,
+    "category": "team",
+    "scene": "Anthony Davis and Dwight Howard cheer beside Westbrook in championship locker room, joyful group, damp celebratory shirts",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 74,
+    "start_seconds": 222,
+    "end_seconds": 225,
+    "asset_index": 32,
+    "category": "fashion",
+    "scene": "Carmelo cream knitwear arena arrival; security visible behind",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 75,
+    "start_seconds": 225,
+    "end_seconds": 228,
+    "asset_index": 122,
+    "category": "celebration",
+    "scene": "Anthony Davis 3 and Dwight Howard 39 hoist the championship trophy together with happy teammates at podium, gold Icon Lakers uniforms, confetti",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 76,
+    "start_seconds": 228,
+    "end_seconds": 231,
+    "asset_index": 130,
+    "category": "fashion",
+    "scene": "Westbrook in coral suit arrives at ring ceremony with Austin Reaves in navy suit, Westbrook's raised hand prominently displays championship ring on finger, photographers and security visible",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 77,
+    "start_seconds": 231,
+    "end_seconds": 234,
+    "asset_index": 30,
+    "category": "team",
+    "scene": "Team dinner; foreground right contains clearly Luka-like extra man, separate from Reaves in rear cream hoodie",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 78,
+    "start_seconds": 234,
+    "end_seconds": 237,
+    "asset_index": 16,
+    "category": "fashion",
+    "scene": "Anthony Davis in camel coat at bookshop",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 79,
+    "start_seconds": 237,
+    "end_seconds": 240,
+    "asset_index": 129,
+    "category": "ring",
+    "scene": "Westbrook in black silk shirt and Anthony Davis in teal blazer compare their championship rings worn on fingers, smiling together in arena corridor, championship trophy nearby",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 80,
+    "start_seconds": 240,
+    "end_seconds": 243,
+    "asset_index": 17,
+    "category": "fashion",
+    "scene": "Russell Westbrook in orange/navy tracksuit at beach boardwalk",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 81,
+    "start_seconds": 243,
+    "end_seconds": 246,
+    "asset_index": 132,
+    "category": "ring",
+    "scene": "Carmelo Anthony in burgundy suit proudly shows championship ring worn on finger to Dwight Howard in teal suit, laughing together at ring ceremony with teammates behind",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 82,
+    "start_seconds": 246,
+    "end_seconds": 249,
+    "asset_index": 26,
+    "category": "fashion",
+    "scene": "Russell Westbrook in teal/cream streetwear",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 83,
+    "start_seconds": 249,
+    "end_seconds": 252,
+    "asset_index": 131,
+    "category": "interview",
+    "scene": "Westbrook in burgundy tuxedo holds hand near chest displaying championship ring worn on finger while stylish beautiful fictional female reporter age 28 in navy professional dress interviews him with microphone, smiling Malik Monk nearby",
+    "story_beat": "ring_and_celebration"
+  },
+  {
+    "index": 84,
+    "start_seconds": 252,
+    "end_seconds": 253.07,
+    "asset_index": 128,
+    "category": "interview",
+    "scene": "Westbrook in emerald tailored jacket shows championship ring worn on his finger to a stylish beautiful fictional female sports reporter age 30 in cream pantsuit holding microphone, warm courtside interview, teammates behind",
+    "story_beat": "ring_and_celebration"
+  }
+]
