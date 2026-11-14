@@ -1,4 +1,4 @@
-# Verified Instagram and TikTok releases
+# Verified social release paths
 
 On November 13, 2026 (America/New_York), the two full-length releases in the [recipe index](../../../releases/README.md) were published to both platforms. All four posts are public. Their complete intros, separate visuals and large timed lyric captions were retained; no new music was generated for this cross-post.
 
@@ -25,3 +25,13 @@ For each post, the account, full source file, custom cover, exact caption and co
 7. Verify public visibility after review, playable duration/audio and the displayed disclosure when available. Share the complete verified batch once with the privately configured authorized destination.
 
 Keep authentication files, platform session state, private sharing identifiers and provider receipts outside this public repository.
+
+## Full-frame slideshow release
+
+On November 14, 2026, **This Was Our Year** was published to YouTube, TikTok and Facebook; the [release index](../../../releases/README.md) contains the public links. The 253.07-second edit preserves the complete intro and uses 85 unique photos, filling 9:16 edge to edge with three-second cuts. Only timed lyrics are burned into the video. Source attribution, fictional context and AI disclosure are in the post details; YouTube also has a serving English caption track. The linked pinned recipe includes the exact music prompt, lyrics, all image prompts and the edit timeline.
+
+The rebuilt TikTok uploader's attempt stopped before its guarded Post function. Its generic error did not identify the cause. A fresh Studio list confirmed no current-release post before the browser-harness CLI fallback completed the upload. The saved post initially showed Only me during review, then Everyone without a second upload or privacy change. The full caption, recipe link, native Creator labeled as AI-generated disclosure and approximately 253-second 720 × 1280 playback were verified.
+
+Facebook publishing used the browser-harness CLI in the intended Page profile. Postiz's local backend remains separate and unconnected; this release does not validate a Facebook API integration. The public Reel's exact full caption, recipe, native AI label, public audience and approximately 253-second 360 × 640 playback were verified. A clean portrait cover was uploaded through the native cover editor.
+
+For another upload, preserve failed and uncertain receipts. Record the failing stage and a sanitized error before closing the browser; do not suppress the only diagnostic or log session cookies. Stop for platform human-verification challenges and reconcile the account's own posts before retrying an uncertain upload. An unattended CLI cannot complete a required human check.
