@@ -96,12 +96,13 @@
     "height": 1920,
     "fps": 30,
     "scene_interval_seconds": 3,
-    "intro_trim_seconds": 2.82,
-    "duration_seconds": 194.29,
+    "intro_trim_seconds": 0,
+    "duration_seconds": 197.11,
     "pitch_or_tempo_change": false,
     "gain_db": -2,
-    "lyrics": "88px DejaVu Sans bold at 1080px width, up to three lines; provider line timings shifted by intro trim",
+    "lyrics": "88px DejaVu Sans bold at 1080px width, up to three lines; original provider line timings, no timeline shift",
     "youtube_captions": "Manual English SRT/VTT from the same validated line timings",
-    "palette": "Mint/teal"
+    "palette": "Mint/teal",
+    "intro_handling": "Complete generated intro restored at the user’s request"
   }
 }

@@ -55,13 +55,15 @@ Approved, now I'm driving with a plan
 Keys in my hand, keys in my hand
 ```
 
+The exact submitted prompt above asked for an immediate hook; the generator added a lead-in, and the user chose to keep the complete generated intro in the released video.
+
 ## Actual controls
 
 The request contains the reference upload ID, model, candidate count, lyrics and prompt above. Preservation of the source voice, key, melody and arrangement is requested through the audio and prompt; the remix API provides no seed, temperature, numeric variance/similarity weight or duration parameter. Identical inputs do not guarantee the same output.
 
 ## Video and captions
 
-Upright 1080 × 1920 portrait at 30 fps. A new shot every three seconds; 194.29-second delivery. Removed 2.82 seconds before the hook; the first lyric begins at 0.10 seconds. Pitch and tempo are unchanged; gain is -2 dB. Very large 88px lyric text, plus an English selectable YouTube caption track. Provider line-level lyric times are shifted by the intro trim and checked for matching text, ordered non-overlapping cues and audio bounds.
+Upright 1080 × 1920 portrait at 30 fps. A new shot every three seconds; 197.11-second delivery. The complete generated intro is retained; the first supplied lyric begins at 2.92 seconds. Pitch and tempo are unchanged; gain is -2 dB. Very large 88px lyric text, plus an English selectable YouTube caption track. Provider line-level lyric times are used on the original full-song timeline and checked for matching text, ordered non-overlapping cues and audio bounds.
 
 Stock-only visuals: no image/video AI generation prompt was submitted. The two songs use separate footage sets and different excerpt positions, ordering and color treatments. Each edit cycles its own set of clips. A sharp source image sits over a dark blurred portrait background; source song and artist credits remain visible.
 
