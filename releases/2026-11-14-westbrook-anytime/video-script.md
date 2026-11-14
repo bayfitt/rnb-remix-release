@@ -15,6 +15,6 @@ The edit repeats team interaction, pre-game fashion arrival, gameplay/highlights
 | 3:08.88–3:38.80 | Championship and Finals MVP | Buzzer, embraces, joy, Westbrook receives the award, teammates and a reporter celebrate him. |
 | 3:38.80–4:13.07 | A ring to remember | Locker-room celebration, team interviews, later ring-night fashion arrivals and Westbrook with the ring on his finger. End on the championship payoff. |
 
-85 unique generated images, each shown for three seconds except the final 1.070-second shot. Large English lyric captions use unchanged provider line timestamps, with an additional selectable YouTube caption track. Persistent AI alternate-history identification and source credit. Real roster and season-specific uniform review; fashion and imagined events are creative fiction. No Luka Dončić on the 2021–22 Lakers.
+85 unique generated images, each shown for three seconds except the final 1.070-second shot. Large English lyric captions use unchanged provider line timestamps, with an additional selectable YouTube caption track. Only timed lyric captions are burned into the video. Alternate-history context, AI disclosure and source attribution are in the post title and description, not in picture overlays. Real roster and season-specific uniform review; fashion and imagined events are creative fiction. No Luka Dončić on the 2021–22 Lakers.
 
 For the next narrative project, outline the setup, conflict/setback, turning point and payoff before drafting lyrics or submitting the song. The user explicitly chose to keep this current song.

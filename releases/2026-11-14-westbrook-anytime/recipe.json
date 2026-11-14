@@ -1299,10 +1299,11 @@
     "audio_gain_db": 0,
     "captions": "Provider line timestamps, 46 lyric lines; 92px bold at1080width; manual English YouTube track",
     "overlays": [
-      "AI ALTERNATE HISTORY / WHAT IF?",
-      "ANYTIME / Brian McKnight / AI REMIX"
+      "Timed lyric captions only"
     ],
-    "source_credit_in_title_and_thumbnail": true
+    "source_credit_in_post_title_and_description": true,
+    "other_on_video_text": false,
+    "thumbnail": "Clean final ring portrait, no title overlay"
   },
   "framing": {
     "mode": "Flat black/white strips cropped, then scale-to-cover; no padding, color fills, blur, grading or fades",
