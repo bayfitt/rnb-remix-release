@@ -33,4 +33,4 @@ youtube-tools --profile PROFILE cli analytics --days 28 --json
 youtube-tools --profile PROFILE cli analytics --days 28 --dimensions insightTrafficSourceType --sort=-views --json
 ```
 
-Use the installed versions' help before adapting these commands. Read-only checks and retries of queries are safe; uploads and message sends need stored duplicate guards.
+Use the installed versions' help before adapting these commands. Read-only checks and retries of queries are safe; uploads and message sends need stored duplicate guards. For caption verification, download the published track with `yutu caption download --id CAPTION_ID --file downloaded.srt --tfmt srt` and compare cue text and timestamps to the editable original. An anonymous `yt-dlp` check must request subtitle metadata (for example, `--list-subs`); a named English manual track may have an `en-ID` key rather than exactly `en`. Fresh thumbnail URLs can briefly return 404: refresh video metadata and check available sizes without repeating the upload.
