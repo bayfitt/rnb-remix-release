@@ -2,7 +2,7 @@
 
 The local `instagram-tools` command wraps [instagrapi](https://github.com/subzeroid/instagrapi), an MIT-licensed Python SDK. It uses the account owner's protected Instagram session, without a Meta developer app or a Postiz connection. This is a separate publishing route from Postiz.
 
-Instagrapi 3.2.12 was installed and authenticated with the intended brand account on November 13, 2026 (America/New_York). The installed CLI successfully verified its own account and listed its posts. Seven offline tests cover wrong-account rejection, uncertain upload outcomes, duplicate prevention, caption verification, dry runs and withholding raw error text. A real Instagram upload, comments lookup and insights lookup were not tested during installation.
+Instagrapi 3.2.12 was installed and authenticated with the intended brand account on November 13, 2026 (America/New_York). The installed CLI successfully verified its own account and listed its posts. It subsequently published the two requested full-length Reels: owner and exact captions were read back, and both remote videos retained audio and their complete duration. Seven offline tests cover wrong-account rejection, uncertain upload outcomes, duplicate prevention, caption verification, dry runs and withholding raw error text. Comments and insights lookup remain untested. See the [release verification notes](social-crosspost.md).
 
 ## Install
 
