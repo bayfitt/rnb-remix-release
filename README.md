@@ -1,4 +1,4 @@
-# R&B Remix Release
+# RNB Remix AI Workflows
 
 A reusable Codex skill for making an R&B reinterpretation from a song reference, preparing fictional-artist artwork and videos, publishing requested versions, reviewing comments, and sharing completed releases. It preserves the requested creative direction, follows standing authorization without repeated routine permission questions, and checks provider limits and release details.
 
@@ -46,3 +46,7 @@ python3 skills/ai-music-clips-release/scripts/youtube_tools.py --profile CHANNEL
 ```
 
 Routine releases use CLI calls after initial OAuth setup. Verification still matters: a successful upload is not a verified public release, and a caption insert is not yet a serving caption track. API-visible checks do not expose every YouTube Studio copyright feature.
+
+The shared OAuth helper uses an available loopback callback port, so a local service already listening on port 8080 does not block sign-in.
+
+The helper keeps the credential files outside the project and translates media paths to Yutu’s configured file root. It also returns a failing exit status when the installed Yutu version prints an error but exits with status zero. See the [personal CLI privacy notice](PRIVACY.md) for the Google authorization data flow.

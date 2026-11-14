@@ -47,6 +47,7 @@ def yutu_env(profile):
   converted['expiry']=dt.astimezone(timezone.utc).isoformat().replace('+00:00','Z')
  target=CONFIG/'profiles'/profile/'youtube.token.json';secure_json(target,converted)
  env=client_env();env['YUTU_CREDENTIAL']=str(CLIENT);env['YUTU_CACHE_TOKEN']=str(target)
+ env.setdefault('YUTU_ROOT',str(Path.home()))
  return env
 
 def main():
@@ -69,12 +70,28 @@ def main():
   for field,expected in [('auth_uri','https://accounts.google.com/o/oauth2/auth'),('token_uri','https://oauth2.googleapis.com/token')]:
    if c.get(field,expected)!=expected:raise ValueError('Unexpected OAuth service URL')
   secure_json(CLIENT,d)
-  subprocess.run(upstream(a.profile,['auth']),env=client_env(),check=True)
+  oauth=Path(__file__).resolve().with_name('youtube_oauth.py')
+  subprocess.run([str(APP/'.venv/bin/python'),str(oauth),'--client',str(CLIENT),'--token',str(token_path(a.profile)),'--app',str(APP)],env=client_env(),check=True)
   token_path(a.profile).chmod(0o600);yutu_env(a.profile)
   print('OAuth profile saved for both CLIs. Verify the channel ID before publishing.');return
  if not a.args:p.error('Pass a native CLI subcommand')
  if a.command=='cli':cmd=upstream(a.profile,a.args);env=client_env()
- else:cmd=['yutu']+a.args;env=yutu_env(a.profile)
+ else:
+  env=yutu_env(a.profile);native=list(a.args);root=Path(env['YUTU_ROOT']).resolve()
+  for i,arg in enumerate(native):
+   if arg in ['--file','--thumbnail'] and i+1<len(native):
+    try:native[i+1]=str(Path(native[i+1]).expanduser().resolve().relative_to(root))
+    except ValueError:raise ValueError('Media path is outside YUTU_ROOT; choose a common file-access root')
+   elif arg.startswith(('--file=','--thumbnail=')):
+    flag,value=arg.split('=',1)
+    try:native[i]=flag+'='+str(Path(value).expanduser().resolve().relative_to(root))
+    except ValueError:raise ValueError('Media path is outside YUTU_ROOT')
+  cmd=['yutu']+native
+ if a.command=='yutu':
+  result=subprocess.run(cmd,env=env,capture_output=True,text=True)
+  sys.stdout.write(result.stdout);sys.stderr.write(result.stderr)
+  failed=bool(re.search(r'(?m)^Error:',result.stderr))
+  raise SystemExit(result.returncode or (1 if failed else 0))
  raise SystemExit(subprocess.call(cmd,env=env))
 
 if __name__=='__main__':
