@@ -2,7 +2,7 @@
   "created_at_utc": "2026-11-15T05:05:05.163727+00:00",
   "reviewer": "sports_reporter",
   "shot_plan_sha256": "cbdd92c2d010f9c7d7cb94d54aa38c3189fbf1a6b057e1ecc2c47a0931eb97ac",
-  "caption_check_sha256": "5ee702aaca62d2792d77a42cf36d56306c3bbf0a95dd469d2670367e186a2005",
+  "caption_check_sha256": "4e1f371b3b61c6b39a1c7db8921a3acc5cd2b57be38232b548442799e5b8b668",
   "scope": "Explicit player identities are normalized from the current scene/prompt and assigned lyric cues. Game context derives from the authored story beat. No additional box-score statistics are introduced.",
   "windows": [
     {
@@ -35,7 +35,9 @@
       "selected_image_sha256": "0b161b00c73b66b55b2d572d6a89e13374942b9a4416d4a6ebc6903cd020aa0d",
       "generation_prompt_sha256": "9c16ad5f27c6033e467aa1ebf4ae7a16d7717bf317fa9f8e552cdf0fcac22cec",
       "display_prompt_sha256": "9c16ad5f27c6033e467aa1ebf4ae7a16d7717bf317fa9f8e552cdf0fcac22cec",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "",
+      "prompt_footer_enabled": false
     },
     {
       "index": 1,
@@ -65,7 +67,9 @@
       "selected_image_sha256": "ec45fa57ba9bacf7822d1072ea60fd9940a697ff6d95a6425e5dfc8d2a8493b8",
       "generation_prompt_sha256": "0c52e4f436990c5abb5828d5cb582f2fa2ff9d2c2b79ff13afead34508cb748c",
       "display_prompt_sha256": "0c52e4f436990c5abb5828d5cb582f2fa2ff9d2c2b79ff13afead34508cb748c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Toyota Center! Houston, light the endgame!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 2,
@@ -87,7 +91,7 @@
       ],
       "cue_named_players": [],
       "named_coaches": [
-        "Mike D’Antoni"
+        "Mike D\u2019Antoni"
       ],
       "opponent": null,
       "game": "Toyota Center arrival and film-room introduction",
@@ -99,7 +103,9 @@
       "selected_image_sha256": "4f8bc5196f4efb20bdbc8d87c9f7dca2d68b4f96e6be87fc92f45923a4524617",
       "generation_prompt_sha256": "0572d5aabb8f3048cf89ae2fcc078aaef666a522770575915a8a60e635c6303d",
       "display_prompt_sha256": "0572d5aabb8f3048cf89ae2fcc078aaef666a522770575915a8a60e635c6303d",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "2018! Film-room heads, CALL THE GAME!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 3,
@@ -131,7 +137,9 @@
       "selected_image_sha256": "bc641ddfc2eac75fa5ee854ec5b29da36b6979774473780efb3d0dd1e5e1fdb8",
       "generation_prompt_sha256": "65f9da0beb20606ca2371fcbcc8654fd700fd27ecd22c45d849411c9f16f788c",
       "display_prompt_sha256": "65f9da0beb20606ca2371fcbcc8654fd700fd27ecd22c45d849411c9f16f788c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 4,
@@ -165,7 +173,9 @@
       "selected_image_sha256": "de7880d401aab1bb0225615cc5a2afad645d196b876768c1bb2b3a81a0a1c511",
       "generation_prompt_sha256": "ee2b38dd3196bdb9d3a714072b62ea9540114683877e4371094a409087952fee",
       "display_prompt_sha256": "ee2b38dd3196bdb9d3a714072b62ea9540114683877e4371094a409087952fee",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Tag the roller! Recover! Get a body on your man!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 5,
@@ -197,7 +207,9 @@
       "selected_image_sha256": "089c68f785662e86753bc2280494c7292d2addc51ff046ec888898766485804e",
       "generation_prompt_sha256": "e7b982374933af0ddd6b86997aad6fc72bdd39cf61eb276a30be723ef6965269",
       "display_prompt_sha256": "e7b982374933af0ddd6b86997aad6fc72bdd39cf61eb276a30be723ef6965269",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Every corner three, every lob, every floor burn!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 6,
@@ -231,7 +243,9 @@
       "selected_image_sha256": "c9fd11a2bd92a5ffade436e175b77d7a2180c66d82f256a0dc7bc5f70743f914",
       "generation_prompt_sha256": "f2fc6666feda55906ac7a70a04255c3ff5f2f02a462a01485e1451a5ae23d4f3",
       "display_prompt_sha256": "f2fc6666feda55906ac7a70a04255c3ff5f2f02a462a01485e1451a5ae23d4f3",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Clutch City takes the crown! IT'S OUR TURN!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 7,
@@ -256,7 +270,7 @@
       "cue_named_players": [],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "One-seed Houston teammates arrive at Toyota Center together: Harden burgundy designer jacket, Paul olive overshirt, Tucker cream streetwear, Capela denim.",
       "emotional_beat": "Confident anticipation",
       "story_beat": "regular_season",
@@ -265,7 +279,9 @@
       "selected_image_sha256": "17527f2c18d097d737dfe8bd8218c6dcbd6281524479db4116fdf3e70383901f",
       "generation_prompt_sha256": "9834868aab983a249f3ba02a3a3c1047e0007756390f6a660174052cd9a62565",
       "display_prompt_sha256": "9834868aab983a249f3ba02a3a3c1047e0007756390f6a660174052cd9a62565",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "65\u201317, one-seed, home-court edge.",
+      "prompt_footer_enabled": false
     },
     {
       "index": 8,
@@ -289,10 +305,10 @@
       ],
       "cue_named_players": [],
       "named_coaches": [
-        "Mike D’Antoni"
+        "Mike D\u2019Antoni"
       ],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "D'Antoni shouts beside a live spread pick-and-roll drill: Paul3 gray practice top dribbles around Capela15 as Ariza1 hedges, Harden13 spaces the corner.",
       "emotional_beat": "Competitive focus",
       "story_beat": "regular_season",
@@ -301,7 +317,9 @@
       "selected_image_sha256": "3fd110ba56bf4003b0eb4f6aede240bf9bd2a75b8f461de9dec1fcf2927e467a",
       "generation_prompt_sha256": "6860e7f54ccb8fbbc878c66ab4c14ea04efa31eec8b40e33da17c867f9ddacd7",
       "display_prompt_sha256": "6860e7f54ccb8fbbc878c66ab4c14ea04efa31eec8b40e33da17c867f9ddacd7",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
+      "prompt_footer_enabled": false
     },
     {
       "index": 9,
@@ -326,7 +344,7 @@
       ],
       "named_coaches": [],
       "opponent": "Minnesota Timberwolves",
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Harden13 black 2017-18 HOUSTON isolates at the arc against a light-gray Minnesota Butler23, a vicious crossover loading his stepback as Capela15 clears the lane.",
       "emotional_beat": "Fierce concentration",
       "story_beat": "regular_season",
@@ -335,7 +353,9 @@
       "selected_image_sha256": "1194ef401b461dd7a8077f7add28962b65a4b5f9a043ef618a0fde2e36710160",
       "generation_prompt_sha256": "50f8f90d44723d3d1373a5b1a79c6c8c2d82cc9d0a5ccac137b9ee1f3c0ae390",
       "display_prompt_sha256": "50f8f90d44723d3d1373a5b1a79c6c8c2d82cc9d0a5ccac137b9ee1f3c0ae390",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Regular-season iso: James Harden, 1.22!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 10,
@@ -360,7 +380,7 @@
       ],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Paul3 attacks an isolation against Gordon10 in Houston gray practice jerseys, low dribble and sharp shoulder feint, Harden13 applauding from the sideline.",
       "emotional_beat": "Competitive intensity",
       "story_beat": "regular_season",
@@ -369,7 +389,9 @@
       "selected_image_sha256": "4f07fe2755fefae73f84a15c0b9515d4f68c6435c5937cdd437cd493118a3127",
       "generation_prompt_sha256": "1b0c552d6881ef9f5071ec3949a35baea4bcb4b50b1925c1dc912a5ed712adde",
       "display_prompt_sha256": "1b0c552d6881ef9f5071ec3949a35baea4bcb4b50b1925c1dc912a5ed712adde",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Chris Paul, 1.10 points per iso!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 11,
@@ -395,7 +417,7 @@
       ],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Gerald Green14 launches toward the rim while Luc Mbah a Moute12 contests the wing feed in a Houston practice scrimmage, Paul3 calling the action.",
       "emotional_beat": "Aggressive team energy",
       "story_beat": "regular_season",
@@ -404,7 +426,9 @@
       "selected_image_sha256": "a760be0bc46545042c26a1a721540d69fbe8e240676eb0aaf770cc3fbd9ece3a",
       "generation_prompt_sha256": "343e35d7d26785875103a79db81e09566e62686f47935fc78cebdf53a23efa76",
       "display_prompt_sha256": "343e35d7d26785875103a79db81e09566e62686f47935fc78cebdf53a23efa76",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 12,
@@ -430,7 +454,7 @@
       ],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Ryan Anderson33, white and short-haired, stretches to the arc as Joe Johnson7 pivots from a strong post seal and swings the ball to him.",
       "emotional_beat": "Focused teamwork",
       "story_beat": "regular_season",
@@ -439,7 +463,9 @@
       "selected_image_sha256": "a122c501b230a5cf68eb34054712dd76e9baec0dd18531dc16d0c2e80ecba339",
       "generation_prompt_sha256": "35b5f38affd879d01ca23737f718a6bb70ec92c4c8b7d157466aaa237df14293",
       "display_prompt_sha256": "35b5f38affd879d01ca23737f718a6bb70ec92c4c8b7d157466aaa237df14293",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 13,
@@ -465,7 +491,7 @@
       ],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Nene42, brown skin and braided hair, seals a defender while muscular Tarik Black28 lays a solid screen for Paul3.",
       "emotional_beat": "Physical competitiveness",
       "story_beat": "regular_season",
@@ -474,7 +500,9 @@
       "selected_image_sha256": "f93bca964647ba6b097473c1d22dee27b91cb16718a79a8f2bde6e935191706a",
       "generation_prompt_sha256": "c5b38df1bb0ca99a862d81e9b1a2de8a78d5f977f3a6b46c52ca44b22c2c7367",
       "display_prompt_sha256": "c5b38df1bb0ca99a862d81e9b1a2de8a78d5f977f3a6b46c52ca44b22c2c7367",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Nene seals! Tarik Black, set that screen!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 14,
@@ -500,7 +528,7 @@
       ],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Aaron Jackson5 and tall Chinanu Onuaku21 leap from the Houston bench clapping and yelling encouragement, Gerald Green14 swings a towel alongside.",
       "emotional_beat": "Bench excitement",
       "story_beat": "regular_season",
@@ -509,7 +537,9 @@
       "selected_image_sha256": "63a1e213ca98fcc516387acfeaeb64355a6e5f60c34c8223802f078495169b0b",
       "generation_prompt_sha256": "98188718d2834c3a0d774eb25fab46d6ad445a28b96e8ff8a2397f908d7f86cf",
       "display_prompt_sha256": "98188718d2834c3a0d774eb25fab46d6ad445a28b96e8ff8a2397f908d7f86cf",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 15,
@@ -534,7 +564,7 @@
       ],
       "named_coaches": [],
       "opponent": null,
-      "game": "2017–18 regular-season team setup",
+      "game": "2017\u201318 regular-season team setup",
       "action": "Very tall Chinese center Zhou Qi9 springs up beside Onuaku21 and Aaron Jackson5 on the Houston bench, all shouting and pointing toward a play.",
       "emotional_beat": "Bench solidarity",
       "story_beat": "regular_season",
@@ -543,7 +573,9 @@
       "selected_image_sha256": "8fe6fb4a37df5b24ce322fd04533474205a297ecb6441ce0ff2e04485482e828",
       "generation_prompt_sha256": "c6106d30bb37993e6d3d2931452ea17d12810b7cb9e11c412e896557c345f5fc",
       "display_prompt_sha256": "c6106d30bb37993e6d3d2931452ea17d12810b7cb9e11c412e896557c345f5fc",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Zhou Qi on the bench! Every jersey in the dream!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 16,
@@ -577,7 +609,9 @@
       "selected_image_sha256": "92d308743641f4dc26d0342875cee0d45e7f85f88f69d0e771e41a841b0b4353",
       "generation_prompt_sha256": "7e6f7baf12897f37a3316d3c05c2f9a3f7992e05afd7f0fe1175f955228bdd2c",
       "display_prompt_sha256": "7e6f7baf12897f37a3316d3c05c2f9a3f7992e05afd7f0fe1175f955228bdd2c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
+      "prompt_footer_enabled": false
     },
     {
       "index": 17,
@@ -612,7 +646,9 @@
       "selected_image_sha256": "5caea4dabdc87655430c47a79b81cd9c1c2aa7bce53441e1abd193d21a037191",
       "generation_prompt_sha256": "d2e987213595f38d84b91582a41fc69bc887650a372652d5f97f58c62bfd3d04",
       "display_prompt_sha256": "d2e987213595f38d84b91582a41fc69bc887650a372652d5f97f58c62bfd3d04",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Karl-Anthony Towns drops! Capela dives!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 18,
@@ -646,7 +682,9 @@
       "selected_image_sha256": "62e4d69f24ea83a2eb60208aead9e229325ddaee183bf3bf8c1c88e06bcc3c53",
       "generation_prompt_sha256": "3e439df07c87cb5cd4ea840038f3d272287960bc2805646bcda54c48857a13f2",
       "display_prompt_sha256": "3e439df07c87cb5cd4ea840038f3d272287960bc2805646bcda54c48857a13f2",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Make him choose! Pull that low man inside!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 19,
@@ -680,7 +718,9 @@
       "selected_image_sha256": "0399ee3dc7071aa62603d7fe623dcc4fb39589453d83c9f14417bca50a9f752b",
       "generation_prompt_sha256": "bc4b3042d2fca9ad497741419ab127b35a200a7b8a1eb3abdecac3b9e8487503",
       "display_prompt_sha256": "bc4b3042d2fca9ad497741419ab127b35a200a7b8a1eb3abdecac3b9e8487503",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Harden 44 in game one! Paint touch, kick!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 20,
@@ -714,7 +754,9 @@
       "selected_image_sha256": "9c65d96eb3397d01e5d869a3931eae79706f276fdc065580f921eb21545e4685",
       "generation_prompt_sha256": "c4bf670cb5607275aa158868d0449d17caf33a8fdf569d1fe0c3335aa3aa74e7",
       "display_prompt_sha256": "c4bf670cb5607275aa158868d0449d17caf33a8fdf569d1fe0c3335aa3aa74e7",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Wolves take game three! Don't let the offense stick!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 21,
@@ -744,7 +786,9 @@
       "selected_image_sha256": "9efb88e6a0ef9a37f8eefeafe814933ef557fa4d8a463b84f61f383641108a23",
       "generation_prompt_sha256": "3e6c15dc80a2fc5d6431a21406c7ab7de244d54285789262def003d345b539d6",
       "display_prompt_sha256": "3e6c15dc80a2fc5d6431a21406c7ab7de244d54285789262def003d345b539d6",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Game four, 50 in the third! Pace off the board!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 22,
@@ -778,7 +822,9 @@
       "selected_image_sha256": "7e400ede06c50c2875a3736fd8bab21d2ad86056a5a3245a07fde516e154939e",
       "generation_prompt_sha256": "c9604300440b530846ef0bee75f436bca2cdfbf6faa229036e5f6a74b5844d89",
       "display_prompt_sha256": "c9604300440b530846ef0bee75f436bca2cdfbf6faa229036e5f6a74b5844d89",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "James 22 that quarter! Rim, line, three, SCORE!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 23,
@@ -810,7 +856,9 @@
       "selected_image_sha256": "4e9bc424db8ce4409103a0df6a2345b1c3068ab0d3a5edda3bf8ab2ec800d75f",
       "generation_prompt_sha256": "5f7cefad4ba02f88f9344a058dabca558226121b1b1eef00723857b1f678e218",
       "display_prompt_sha256": "5f7cefad4ba02f88f9344a058dabca558226121b1b1eef00723857b1f678e218",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "4\u20131! Minnesota out! Next scouting report!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 24,
@@ -846,7 +894,9 @@
       "selected_image_sha256": "1fbe80c2a993e19fce2dfbd71e1ea6968aafe33d6c52ddbac968d3a2056f922a",
       "generation_prompt_sha256": "73332b6460a2c5430146967dbb5088f6836ddb2df6e29d1ffe0fabd4ecaf293a",
       "display_prompt_sha256": "73332b6460a2c5430146967dbb5088f6836ddb2df6e29d1ffe0fabd4ecaf293a",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Four-out, one rim runner! Don't clog up the court!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 25,
@@ -882,7 +932,9 @@
       "selected_image_sha256": "3c8104298ab4d19b7fd9c72ae675d0f1ed1715ded04a6e5c5e18fb8b2af32252",
       "generation_prompt_sha256": "f49d1ba894e906d2c6ce1c430ea92a5e3dbcc57ecfd9d530973cc3dd1c73a094",
       "display_prompt_sha256": "f49d1ba894e906d2c6ce1c430ea92a5e3dbcc57ecfd9d530973cc3dd1c73a094",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Utah Jazz, Donovan Mitchell turns the corner.",
+      "prompt_footer_enabled": false
     },
     {
       "index": 26,
@@ -916,7 +968,9 @@
       "selected_image_sha256": "03f3c86e4ea23f744db02dff3f93286cc88f7d2765ac623a88eb9f8f360f19f2",
       "generation_prompt_sha256": "8f6858148de628379be0df72119eabd90d24f0b505175b1c9cab77bbedb4c33b",
       "display_prompt_sha256": "8f6858148de628379be0df72119eabd90d24f0b505175b1c9cab77bbedb4c33b",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Rudy Gobert's rim deterrence, lob-window disorder.",
+      "prompt_footer_enabled": false
     },
     {
       "index": 27,
@@ -950,7 +1004,9 @@
       "selected_image_sha256": "9afa447427fcccdbba041c1716b16c6dc21a48cc8b761964b4214f3199608bb0",
       "generation_prompt_sha256": "6cd61d1b90ceaf12083e0d7349766a4bb6d80467fa40c3251b938ae6fbc0c211",
       "display_prompt_sha256": "6cd61d1b90ceaf12083e0d7349766a4bb6d80467fa40c3251b938ae6fbc0c211",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Game two, Jazz steal home court! Series 1\u20131!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 28,
@@ -984,7 +1040,9 @@
       "selected_image_sha256": "c7326402f7c7199ef07d19389925d1970545b93e82e25b8c7a78f41f8bd2f561",
       "generation_prompt_sha256": "afc582aab7a0e309bfe3c0862f79032125c9dea145d5668c9209e2e2e6a400b3",
       "display_prompt_sha256": "afc582aab7a0e309bfe3c0862f79032125c9dea145d5668c9209e2e2e6a400b3",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Paul snakes the high screen, elbow pull-up, CASH!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 29,
@@ -1018,7 +1076,9 @@
       "selected_image_sha256": "e371e68eb5ac2ab51f953f81e7e1abd7ffce371995145f6bd7b1db65aee2aa55",
       "generation_prompt_sha256": "370721d27df17f220e829a43a239cac17faf0c41a03e1bd11c21a18a1ccb5f95",
       "display_prompt_sha256": "370721d27df17f220e829a43a239cac17faf0c41a03e1bd11c21a18a1ccb5f95",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Game five: 41, 10 dimes, zero turnovers!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 30,
@@ -1050,7 +1110,9 @@
       "selected_image_sha256": "518280d8949778eaa99c4ba71b135c1264b1f47af3649b01012b37c5dd38057e",
       "generation_prompt_sha256": "89629c7a380ca8e65e52acae114e03facc0d1e842f83bf6321e05e941fcefdb2",
       "display_prompt_sha256": "89629c7a380ca8e65e52acae114e03facc0d1e842f83bf6321e05e941fcefdb2",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "8-for-10 from deep! Drop too far? It's OVER!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 31,
@@ -1082,7 +1144,9 @@
       "selected_image_sha256": "38e5eb7efcd42c828968b452357fa5cef8a31bc23a4302dd33d4225c7e2e7f24",
       "generation_prompt_sha256": "711287062b694d93ab68124512fa5d4ae05540a09f70b4d6cf1607670cb1d6b6",
       "display_prompt_sha256": "711287062b694d93ab68124512fa5d4ae05540a09f70b4d6cf1607670cb1d6b6",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "80% from three! 77.3%!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 32,
@@ -1114,7 +1178,9 @@
       "selected_image_sha256": "1e1bc33250f0f7f73a8627f161217727f0d5a72acd34b6fbf08984d6c14120d9",
       "generation_prompt_sha256": "d07749e0cb5c7d160429cddac7c08d7eb8a17b7788f6eb5195c853aa3efaf9b2",
       "display_prompt_sha256": "d07749e0cb5c7d160429cddac7c08d7eb8a17b7788f6eb5195c853aa3efaf9b2",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Effective field goal! 20 in the fourth! CP3!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 33,
@@ -1148,7 +1214,9 @@
       "selected_image_sha256": "8aaf81c3535e4b2515e3e46d17bbfb21beeebdc90fdcc8cabfe8fcf7038b06c1",
       "generation_prompt_sha256": "1b6f2f15f2cacd63c164efa9643f80b9f990b76e2af7e6fd6b1e2e74585804c2",
       "display_prompt_sha256": "1b6f2f15f2cacd63c164efa9643f80b9f990b76e2af7e6fd6b1e2e74585804c2",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "112\u2013102! 4\u20131! Utah's done!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 34,
@@ -1180,7 +1248,9 @@
       "selected_image_sha256": "8e20bc989fdd235288eb666fa8587850ac8b4315629d3b968f8bb615a075569d",
       "generation_prompt_sha256": "adbd3967a0c7f8be0eec2c5c91ebf93fdaee40236bd958a9427d2b6f06b95b56",
       "display_prompt_sha256": "adbd3967a0c7f8be0eec2c5c91ebf93fdaee40236bd958a9427d2b6f06b95b56",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "That ain't just a box score! That's a breakthrough!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 35,
@@ -1216,7 +1286,9 @@
       "selected_image_sha256": "7216814b6322f3c2ee01f24b956e2079a075b83d7db3ffede74c0322990dd4ad",
       "generation_prompt_sha256": "ba7ec586f49b11af0baec2db727567c39d1b2dadb42555e3c1f60d879966b90a",
       "display_prompt_sha256": "ba7ec586f49b11af0baec2db727567c39d1b2dadb42555e3c1f60d879966b90a",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Golden State Warriors! Stephen Curry relocates!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 36,
@@ -1255,7 +1327,9 @@
       "selected_image_sha256": "a556f38d8363d2e81302f182ec713b1ab3974fafa7fe62e11b51c2a04ad8501b",
       "generation_prompt_sha256": "4b9676cb09994a70d196d9de34cc2f64d4e5c5febcac3d32301be57f841b2d3d",
       "display_prompt_sha256": "4b9676cb09994a70d196d9de34cc2f64d4e5c5febcac3d32301be57f841b2d3d",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Kevin Durant shoots over switches! / Klay cuts! Draymond Green creates!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 37,
@@ -1289,7 +1363,9 @@
       "selected_image_sha256": "c84e2d29ac79aaf8d302ee9f6be3768347455b6abf20e2b820483ffb228fc167",
       "generation_prompt_sha256": "f9e43b3d97c36e3f0000140391f8b15299c4b6b5ace76129fffbe5b58b945eb6",
       "display_prompt_sha256": "f9e43b3d97c36e3f0000140391f8b15299c4b6b5ace76129fffbe5b58b945eb6",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "They take one, we take two; game three, 41 down!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 38,
@@ -1321,7 +1397,9 @@
       "selected_image_sha256": "ec13442012ed3c65b80df95e94b1e7a850c26619b83649790fd08becce3aa9ae",
       "generation_prompt_sha256": "8771aabf9779e146252b01f69570ef88594f812dd287df4ccb2fde3368089093",
       "display_prompt_sha256": "8771aabf9779e146252b01f69570ef88594f812dd287df4ccb2fde3368089093",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Live-ball turnovers! Runouts! No sound!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 39,
@@ -1345,7 +1423,7 @@
       ],
       "cue_named_players": [],
       "named_coaches": [
-        "Mike D’Antoni"
+        "Mike D\u2019Antoni"
       ],
       "opponent": "Golden State Warriors",
       "game": "Film preparation for WCF Game4 after the Game3 loss",
@@ -1357,7 +1435,9 @@
       "selected_image_sha256": "6289b4193a1605dfe2b0704a861c1500e26d500ac83de8f3502dbc0c33b81628",
       "generation_prompt_sha256": "495f18b80819f9c5ba7f7f86a26989f71922d8f2cccbc96e5be3605878ca16fe",
       "display_prompt_sha256": "495f18b80819f9c5ba7f7f86a26989f71922d8f2cccbc96e5be3605878ca16fe",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Film session! Switch everything! Finish the possession!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 40,
@@ -1392,7 +1472,9 @@
       "selected_image_sha256": "dfda96f8c387f3cc9df4fa590c97cee9c23d0b34de97e83cdc181f8ee2bfa51a",
       "generation_prompt_sha256": "d6fd26237113ddb91758f755302bcf7330ebbd389f9bbeaab95789f297852298",
       "display_prompt_sha256": "d6fd26237113ddb91758f755302bcf7330ebbd389f9bbeaab95789f297852298",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 41,
@@ -1424,7 +1506,9 @@
       "selected_image_sha256": "a3a2cc353fedf71e22c93fcc2031f2134482d2bf77a87ab5eaac0299093f5b61",
       "generation_prompt_sha256": "53f3d9282f3b8c35b0ba5171989c42d68728b78802ac01f3c83143583d0853e9",
       "display_prompt_sha256": "53f3d9282f3b8c35b0ba5171989c42d68728b78802ac01f3c83143583d0853e9",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "30 for James, 27 for Chris!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 42,
@@ -1458,7 +1542,9 @@
       "selected_image_sha256": "afda5495fdbc468e9b16b538dba8056ab37ac3729b3d13d4147d13090750befa",
       "generation_prompt_sha256": "a973208e1f1601be4e927f7dea0a97d3c238b3988776a2aa9b6c56555ce33fde",
       "display_prompt_sha256": "a973208e1f1601be4e927f7dea0a97d3c238b3988776a2aa9b6c56555ce33fde",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "12 allowed in the fourth! Contest, don't foul!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 43,
@@ -1490,7 +1576,9 @@
       "selected_image_sha256": "34b0c68eb21bef115190f0fade57ef9021feafdc7b283641ba3f8025c4053b4b",
       "generation_prompt_sha256": "5675aaade9df6136ef399a9a1057fad2a95aeaa6acdf6414971be2c0bc7f61f2",
       "display_prompt_sha256": "5675aaade9df6136ef399a9a1057fad2a95aeaa6acdf6414971be2c0bc7f61f2",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "95\u201392! Series 2\u20132! Breathe!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 44,
@@ -1525,7 +1613,9 @@
       "selected_image_sha256": "05d1adaa26ddd72c81e9a09f34276752cca10f3093a04e7c98e5c2517c3a8889",
       "generation_prompt_sha256": "0305ae5eca1d80b11c4dea273f56b382723e01cfef240d86bc4353e0a6c68cb9",
       "display_prompt_sha256": "0305ae5eca1d80b11c4dea273f56b382723e01cfef240d86bc4353e0a6c68cb9",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Game five, Paul shimmies, splashes over Steph's reach!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 45,
@@ -1559,7 +1649,9 @@
       "selected_image_sha256": "aea69ea6a4f650ecdb3aa4d33455aa44f34e22fa90aee9d9cbc9b47145df24b3",
       "generation_prompt_sha256": "1aac6119df3de1eed710bedf6a8e8f8b6780f37cdf5f7d2a73fb569362af20a0",
       "display_prompt_sha256": "1aac6119df3de1eed710bedf6a8e8f8b6780f37cdf5f7d2a73fb569362af20a0",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Eric Gordon 24! Bench shot creation!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 46,
@@ -1595,7 +1687,9 @@
       "selected_image_sha256": "a2d205008ce893e3d5566267a44145a350681017e9fed8979bbdb0bd135d2202",
       "generation_prompt_sha256": "17a342b6da4d92ea85f9bc2313d9a967c6cd68a3c26528c65884737c58893845",
       "display_prompt_sha256": "17a342b6da4d92ea85f9bc2313d9a967c6cd68a3c26528c65884737c58893845",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "98\u201394! 3\u20132! Elation!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 47,
@@ -1629,7 +1723,9 @@
       "selected_image_sha256": "a48d866971a537e2ee70c84619b94bdc4aa9cd6a35ac149e4018196f9d4ef735",
       "generation_prompt_sha256": "1597ad26bb07dced49ca5314e8114b8cb7017bd82f3c413b9ecbe1979688cc47",
       "display_prompt_sha256": "1597ad26bb07dced49ca5314e8114b8cb7017bd82f3c413b9ecbe1979688cc47",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Paul stays on the floor! Stay low! Keep creating!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 48,
@@ -1663,7 +1759,9 @@
       "selected_image_sha256": "ede5178077e413fd4cf54aa02a95d1ceb2f8b0a3ca45990708e3b2a3ac752c29",
       "generation_prompt_sha256": "22643b6eeafd32c30d4a9deaa96e499a4710459c9e471131512a8c6054cbea37",
       "display_prompt_sha256": "22643b6eeafd32c30d4a9deaa96e499a4710459c9e471131512a8c6054cbea37",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Warriors take six! Last game, last stand!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 49,
@@ -1697,7 +1795,9 @@
       "selected_image_sha256": "1158bfd688e046c2a5c02a6dc7d1636077f66b95ccd716fa8caf37a44d67fd18",
       "generation_prompt_sha256": "1169c3f11444a4e414c965c16fcd05b774de47d317c34a552acc9842c3f10f7f",
       "display_prompt_sha256": "1169c3f11444a4e414c965c16fcd05b774de47d317c34a552acc9842c3f10f7f",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Every possession's leverage! Take it out their hands!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 50,
@@ -1729,7 +1829,9 @@
       "selected_image_sha256": "14ec8150d7463bd1f5ca954c4ce2e1af4e01e6eab060063673ff0c3f8123aae3",
       "generation_prompt_sha256": "fb13bcbf1ce521e7e286ca6405116de94427453b63cb307b8117cf41259e334c",
       "display_prompt_sha256": "fb13bcbf1ce521e7e286ca6405116de94427453b63cb307b8117cf41259e334c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 51,
@@ -1763,7 +1865,9 @@
       "selected_image_sha256": "5d43fbd0b3424ba3116419265c9c3e9644ed776b2694672b43f71108287e5fa2",
       "generation_prompt_sha256": "cbc0b325eca3efe0d4468e25f2301ce5fe44eebdc4b48a64b87f1cc0b9ebf58d",
       "display_prompt_sha256": "cbc0b325eca3efe0d4468e25f2301ce5fe44eebdc4b48a64b87f1cc0b9ebf58d",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Tag the roller! Recover! Get a body on your man!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 52,
@@ -1795,7 +1899,9 @@
       "selected_image_sha256": "aea56ec9a84324a9e26d1e81f7bfd4f2583fd994970e0e81931230bf1da54c4d",
       "generation_prompt_sha256": "aa95bf70b04b3e1ddeca1d4d8b6a30d6008d27a08c4062d61616b9108b59ce37",
       "display_prompt_sha256": "aa95bf70b04b3e1ddeca1d4d8b6a30d6008d27a08c4062d61616b9108b59ce37",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Every corner three, every lob, every floor burn!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 53,
@@ -1817,7 +1923,7 @@
       ],
       "cue_named_players": [],
       "named_coaches": [
-        "Mike D’Antoni"
+        "Mike D\u2019Antoni"
       ],
       "opponent": "Golden State Warriors",
       "game": "2018 Western final, Golden State Game 7",
@@ -1829,7 +1935,9 @@
       "selected_image_sha256": "940f562149b7363d8127736f0c11275d80d31a8113c779709a238a3475caf9a2",
       "generation_prompt_sha256": "9d2de38decddba7e2864e224e2e0db65b532d7f7e67a6de762b52c454e2ab81c",
       "display_prompt_sha256": "9d2de38decddba7e2864e224e2e0db65b532d7f7e67a6de762b52c454e2ab81c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Clutch City takes the crown! IT'S OUR TURN!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 54,
@@ -1865,7 +1973,9 @@
       "selected_image_sha256": "6c6597701329839156f877928da947bed587ae1312de45e52eb16a437d5255e5",
       "generation_prompt_sha256": "f456beffef54e71768285e0049dd5ece9b9d49e532e3f41b0b5dd2814f373a5f",
       "display_prompt_sha256": "f456beffef54e71768285e0049dd5ece9b9d49e532e3f41b0b5dd2814f373a5f",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Bring Curry's man up! Pre-switch? Re-screen!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 55,
@@ -1900,7 +2010,9 @@
       "selected_image_sha256": "645fbca21428d026c5bff5514f30bc1e90cded058d1c34d92921d4b13bd01a76",
       "generation_prompt_sha256": "3ca78d2c7c05220c7a727f936edeea4958ce9bc2066ffb04d5f0ce4e7e1f64b1",
       "display_prompt_sha256": "3ca78d2c7c05220c7a727f936edeea4958ce9bc2066ffb04d5f0ce4e7e1f64b1",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Low man tags Capela, Tucker's corner opens clean!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 56,
@@ -1934,7 +2046,9 @@
       "selected_image_sha256": "d07a583cef35526dd4e064a263f2a9f1d9837702ff9b90f2ab3266af42ecb3ac",
       "generation_prompt_sha256": "142113312771b89c9ecdffb676d1fcd6f90f8b19a2b3b06a0983b8b62c8097a3",
       "display_prompt_sha256": "142113312771b89c9ecdffb676d1fcd6f90f8b19a2b3b06a0983b8b62c8097a3",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Paul snakes to the nail, pull-up over the drop!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 57,
@@ -1968,7 +2082,9 @@
       "selected_image_sha256": "2ce04cf41ae9fc68b560543f23626b057d128c21dbc6777fc8a7dd955549f667",
       "generation_prompt_sha256": "5fa37b33886f643b47eaec540cbef2de9d2c512520daa123510294fd9544813a",
       "display_prompt_sha256": "5fa37b33886f643b47eaec540cbef2de9d2c512520daa123510294fd9544813a",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 58,
@@ -2002,7 +2118,9 @@
       "selected_image_sha256": "c63a0c3e1117d71b893b9719ab1389e2fc70424dbc7849c4bdbd03657d26cef0",
       "generation_prompt_sha256": "e4b5fd939b9683e046930b27cdc4f141150c196530ce78d27bc0992a3a222bb6",
       "display_prompt_sha256": "e4b5fd939b9683e046930b27cdc4f141150c196530ce78d27bc0992a3a222bb6",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Game seven! Harden 38, 10 dimes!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 59,
@@ -2034,7 +2152,9 @@
       "selected_image_sha256": "35242bdab5b9114459d2863d06ef48590a975418a1c18890860c83aede6f8643",
       "generation_prompt_sha256": "521cd1fc5e9af0ca9aeea78a165901744cc082e3b6cc0f089b11331e20c80f05",
       "display_prompt_sha256": "521cd1fc5e9af0ca9aeea78a165901744cc082e3b6cc0f089b11331e20c80f05",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "11-of-23! Six threes! BANG!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 60,
@@ -2070,7 +2190,9 @@
       "selected_image_sha256": "01841b5f784e6d3b68b9caeedd4be71a2eadcc4d3417ecf80ccc0022dbd1b953",
       "generation_prompt_sha256": "04b3919b53d6fb9971b7ca3ad51bae12613de0bf8bfe4bd292de90e342a6dc97",
       "display_prompt_sha256": "04b3919b53d6fb9971b7ca3ad51bae12613de0bf8bfe4bd292de90e342a6dc97",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Chris 27, 11 assists, ZERO gifts!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 61,
@@ -2104,7 +2226,9 @@
       "selected_image_sha256": "bfce800b60da7da319b10347a54e1c745cff242d2dceff1570262e27c8d1dc9d",
       "generation_prompt_sha256": "b7963293a39d988e2222c279de298702803e873eb8f4a8ede1891186f3b7e616",
       "display_prompt_sha256": "b7963293a39d988e2222c279de298702803e873eb8f4a8ede1891186f3b7e616",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "4-for-4 at the stripe! NO free possessions!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 62,
@@ -2139,7 +2263,9 @@
       "selected_image_sha256": "6d80a1a2c0d71f0a4c88ee6993c2e442057c05f161672423d5a130cae2fcfd5c",
       "generation_prompt_sha256": "274d9f8d1fc3ebb6908033543d2e9fced43c1d2208a2ccbc04ad92cb9797c12c",
       "display_prompt_sha256": "274d9f8d1fc3ebb6908033543d2e9fced43c1d2208a2ccbc04ad92cb9797c12c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 63,
@@ -2176,7 +2302,9 @@
       "selected_image_sha256": "fb72ac7e10dc5b41b573c5497f944e798f4c40ffafabd9843da3993690e71220",
       "generation_prompt_sha256": "5fd376634ab4d923995f4279c25ccc0e7fe54ba48ba836b94b55ec2619121f89",
       "display_prompt_sha256": "5fd376634ab4d923995f4279c25ccc0e7fe54ba48ba836b94b55ec2619121f89",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Clint Capela vertical spacing! Gordon lifts!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 64,
@@ -2211,7 +2339,9 @@
       "selected_image_sha256": "32ae5b980bc6dc9108ea7880b8629a489cb00c9d315e4c734d37476ee1e4e57e",
       "generation_prompt_sha256": "d0ff1a27976ea100167df98789a27ed9fbbdc4f969470c821e15a3fb0b77fa8f",
       "display_prompt_sha256": "d0ff1a27976ea100167df98789a27ed9fbbdc4f969470c821e15a3fb0b77fa8f",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Durant answers! Curry relocates! Nobody quits!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 65,
@@ -2247,7 +2377,9 @@
       "selected_image_sha256": "a89e3438e3ce515dd85a13549bef1dc2301cd7548ff5fdaab8be5c4d5d44f906",
       "generation_prompt_sha256": "8b4ff783f79041933c60521abf9c5ff42ad1a0e6158b08d81a10e822bb7ded6b",
       "display_prompt_sha256": "8b4ff783f79041933c60521abf9c5ff42ad1a0e6158b08d81a10e822bb7ded6b",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "113\u2013108! 4\u20133! WEST WON!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 66,
@@ -2281,7 +2413,9 @@
       "selected_image_sha256": "a7b0a88d7db8a1341f88a55fccf3d4e4bc9a5813101a15434caec17e8c8fe88f",
       "generation_prompt_sha256": "1b47aee79364c9c49cf44a2301bd8e1b5bd7b5f9c11d39f8d98a1fec7e7b0e79",
       "display_prompt_sha256": "1b47aee79364c9c49cf44a2301bd8e1b5bd7b5f9c11d39f8d98a1fec7e7b0e79",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Both guards hit the floor crying! Job's not done!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 67,
@@ -2309,7 +2443,9 @@
       "selected_image_sha256": "23f5e44d46ef5c22312799ba6da8bb83f974c268cfbe443afd36b701c6015665",
       "generation_prompt_sha256": "c927de92667ef29393771945943d51b24cbe249477f67a6655cfa479aaa7cd3f",
       "display_prompt_sha256": "c927de92667ef29393771945943d51b24cbe249477f67a6655cfa479aaa7cd3f",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Cleveland Cavaliers, LeBron James downhill freight!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 68,
@@ -2345,7 +2481,9 @@
       "selected_image_sha256": "8c6eda0d037622ced2ec91ac769b8729946710a4c095fec6b6e6491b434da76c",
       "generation_prompt_sha256": "85e817c27a10b6c2768448c1d7048e616f55696daaf01c2faa8f43a5988d78d0",
       "display_prompt_sha256": "85e817c27a10b6c2768448c1d7048e616f55696daaf01c2faa8f43a5988d78d0",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Kevin Love pick-and-pop, late weak-side tag!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 69,
@@ -2369,7 +2507,9 @@
       "selected_image_sha256": "56bfff28dafb90e420fc082f0afcc8e0bccc0563020273448fdc3600928312a3",
       "generation_prompt_sha256": "f5037487a56dee20cd67276d031449008c11573925df69e7447552f5e31ccdab",
       "display_prompt_sha256": "80fce709b2940b6d5c0fbd4af26c50ec3a3df8e0ce0eca4199fc782436a8d7e5",
-      "display_prompt_differs_from_generation_prompt": true
+      "display_prompt_differs_from_generation_prompt": true,
+      "caption_text": "They take two! Houston adjusts the tag!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 70,
@@ -2403,7 +2543,9 @@
       "selected_image_sha256": "e8b053ab3f6d4b143c40fcb443fbb7c33a43425fae3b9c825a36df828b1bfcac",
       "generation_prompt_sha256": "cfa9dfc96b5058a93ab6c98c4c1a1e8b45d563e642f18113f001abfcf4d28b0d",
       "display_prompt_sha256": "cfa9dfc96b5058a93ab6c98c4c1a1e8b45d563e642f18113f001abfcf4d28b0d",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Nail help, kickout, extra pass, rotate BACK!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 71,
@@ -2437,7 +2579,9 @@
       "selected_image_sha256": "20ed0a5ae091ce327177010af82e1d927fe7b3d385c8415ab0ce4a97325bd283",
       "generation_prompt_sha256": "aead61c3239bec27c3931b5fdecdad47f5c1ad281ef624e702acddb5b9e51a5f",
       "display_prompt_sha256": "aead61c3239bec27c3931b5fdecdad47f5c1ad281ef624e702acddb5b9e51a5f",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Finals game six: Harden 40, 10, 12!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 72,
@@ -2471,7 +2615,9 @@
       "selected_image_sha256": "cccfdc73fd6b2fad92ed51e30d3ffc2bfbcc8dcfa12b43e2c11694c812502910",
       "generation_prompt_sha256": "dbd71cc53ba07e540b2ba547844d917ed02e73b2de86836dedce4c60346cf665",
       "display_prompt_sha256": "dbd71cc53ba07e540b2ba547844d917ed02e73b2de86836dedce4c60346cf665",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Triple-double! 6-for-12 from deep! YELL!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 73,
@@ -2503,7 +2649,9 @@
       "selected_image_sha256": "b573f26f77b5f114c315b9e7e98c894afadf6f13a1f92125ae252db4621eb5ee",
       "generation_prompt_sha256": "4aa0623d5701ab50418e9764abe030c7cb6b33268e3feed38ec5dd6241f36bf5",
       "display_prompt_sha256": "4aa0623d5701ab50418e9764abe030c7cb6b33268e3feed38ec5dd6241f36bf5",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "68.3% true shooting! EFFICIENT!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 74,
@@ -2539,7 +2687,9 @@
       "selected_image_sha256": "a2d85c6b9887bde15053285128c9a68316aa5b90bd75245f6cf855a865212353",
       "generation_prompt_sha256": "cf7652cb9ebda1109815ad4d8e765ffc7668c0191e95cfcf495e59504c6b63d0",
       "display_prompt_sha256": "cf7652cb9ebda1109815ad4d8e765ffc7668c0191e95cfcf495e59504c6b63d0",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Paul 24, 12 dimes! Calm in the storm!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 75,
@@ -2563,7 +2713,9 @@
       "selected_image_sha256": "1492ef11db6c810797c61bfed92c769dc2df7c3279ea900cc2f07fbd1bba9504",
       "generation_prompt_sha256": "a1dea51ae42c477d2e18f8c3a171bf276e123f93e66a806c8bd564eaacda9f2c",
       "display_prompt_sha256": "a1dea51ae42c477d2e18f8c3a171bf276e123f93e66a806c8bd564eaacda9f2c",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "118\u2013110! 4\u20132! FINAL HORN!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 76,
@@ -2601,7 +2753,9 @@
       "selected_image_sha256": "c4d79d54cbb50e16feba7656b24975d88a15b764bd47649b1ae0d29372a8392c",
       "generation_prompt_sha256": "b5b25ab1b74420a2c8f8099a6f23b6b972952954ece6aa20dd6d0435c653b704",
       "display_prompt_sha256": "b5b25ab1b74420a2c8f8099a6f23b6b972952954ece6aa20dd6d0435c653b704",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Finals MVP to James, drags the whole team close!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 77,
@@ -2639,7 +2793,9 @@
       "selected_image_sha256": "4124b8b4190150f1a2d3a9b90deee0c0cc30aefde834af3e85196ad56d2e64ed",
       "generation_prompt_sha256": "ed5c3f7a184a402a9bfaaa7bf005cfe2b2d36cfa494519cea3fd572dba0b4fe9",
       "display_prompt_sha256": "ed5c3f7a184a402a9bfaaa7bf005cfe2b2d36cfa494519cea3fd572dba0b4fe9",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Rim runs, switches, screens! Every role gets a toast!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 78,
@@ -2673,7 +2829,9 @@
       "selected_image_sha256": "a26478cc4f884b90e7dc698a570b1ef456621b438ddc8e2678a3371c2b43130e",
       "generation_prompt_sha256": "aa4249104892a8e4a1be927cf268c48286d7097659ec0ca3fb5c020012c87df1",
       "display_prompt_sha256": "aa4249104892a8e4a1be927cf268c48286d7097659ec0ca3fb5c020012c87df1",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Parade through Houston! Rings come later, let 'em shine!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 79,
@@ -2707,7 +2865,9 @@
       "selected_image_sha256": "43d1bfb441af0c6a91adf632149270f217e451ed37f2bbf6dfa3fe1611f141d7",
       "generation_prompt_sha256": "bf4f6935f75b4707769de4d31d9d3d59ad09010a7127ce296d0e48ddcfcd330d",
       "display_prompt_sha256": "bf4f6935f75b4707769de4d31d9d3d59ad09010a7127ce296d0e48ddcfcd330d",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Parade through Houston! Rings come later, let 'em shine!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 80,
@@ -2728,14 +2888,16 @@
       "opponent": null,
       "game": "Later Houston nightlife celebration",
       "action": "Houston championship night outside an upscale music lounge: ecstatic adult fans in red and silver streetwear throw their arms up, hug and cheer under colorful neon while a line of friends enters the venue.",
-      "emotional_beat": "Houston fans’ nightlife euphoria",
+      "emotional_beat": "Houston fans\u2019 nightlife euphoria",
       "story_beat": "houston_club",
       "prompt_sha256": "2f413073b742fc948f2d5a7996fb0c261340510db9f6c1378f06a4311569b3db",
       "selected_image_file": "art/generated/frame-080.png",
       "selected_image_sha256": "48138890d1076fce9e1ddc1e8068b242399ab890e94eb5cd52f4520123d83d42",
       "generation_prompt_sha256": "2f413073b742fc948f2d5a7996fb0c261340510db9f6c1378f06a4311569b3db",
       "display_prompt_sha256": "2f413073b742fc948f2d5a7996fb0c261340510db9f6c1378f06a4311569b3db",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Harden at a Houston strip club! Champagne shine!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 81,
@@ -2769,7 +2931,9 @@
       "selected_image_sha256": "d61d1c0f06580fd8321fb5bc19efbbde0652d4d6a7b5e96a7b765b3209a5857a",
       "generation_prompt_sha256": "2c29ac376c799c9d298a6052da4d010854f49e60189eda77d8b86a8f36b8fafb",
       "display_prompt_sha256": "2c29ac376c799c9d298a6052da4d010854f49e60189eda77d8b86a8f36b8fafb",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Whole crew at the table, champagne in the light!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 82,
@@ -2793,7 +2957,7 @@
       ],
       "cue_named_players": [],
       "named_coaches": [
-        "Mike D’Antoni"
+        "Mike D\u2019Antoni"
       ],
       "opponent": null,
       "game": "Later Toyota Center championship-banner ceremony",
@@ -2805,7 +2969,9 @@
       "selected_image_sha256": "046a5424624763dc17aeba4b83e6aaebee30b9297c0fd40cf62ed936acdbe75e",
       "generation_prompt_sha256": "971896b00c346ac7a91d8fd4f5588bb17cb7d3f409afc83151557fed14424bbd",
       "display_prompt_sha256": "971896b00c346ac7a91d8fd4f5588bb17cb7d3f409afc83151557fed14424bbd",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "From screen assists to banners! WHAT A NIGHT!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 83,
@@ -2848,7 +3014,9 @@
       "selected_image_sha256": "b3d4498e0a08692603e9b8a724b4c2909b3ff7368d3dabc8dd43f014099c62f3",
       "generation_prompt_sha256": "2e88b798d877da44eca6ba80d8af7d12cb603fa54fbcbf5a3c9725ad4dc76894",
       "display_prompt_sha256": "2e88b798d877da44eca6ba80d8af7d12cb603fa54fbcbf5a3c9725ad4dc76894",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 84,
@@ -2889,7 +3057,9 @@
       "selected_image_sha256": "2535cebae6497b0ef0b0e6d7d2c74a28b26a23693c54ff9ee8cb2e2fea3b7eee",
       "generation_prompt_sha256": "effbf5fe19d3d91b923d9d08d628ce7514347d386d019e804a5dbdc110762be9",
       "display_prompt_sha256": "effbf5fe19d3d91b923d9d08d628ce7514347d386d019e804a5dbdc110762be9",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 85,
@@ -2923,7 +3093,9 @@
       "selected_image_sha256": "b742fd992abf746640df68bfe69f9c3f8b1de28e793d0f7e2fc9c76e2aec6122",
       "generation_prompt_sha256": "f9f800042307e07b969839b4f7e9c44f95231416afe7383072debc47472e24f3",
       "display_prompt_sha256": "f9f800042307e07b969839b4f7e9c44f95231416afe7383072debc47472e24f3",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 86,
@@ -2953,7 +3125,9 @@
       "selected_image_sha256": "2a9604f1b99d2bf5a7c990f679540de2876b882435a959f2b66dc55a1982fde3",
       "generation_prompt_sha256": "593850516f180e1b245128054a5c6c321389e4285e4f2140427969654a2851a4",
       "display_prompt_sha256": "593850516f180e1b245128054a5c6c321389e4285e4f2140427969654a2851a4",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
+      "prompt_footer_enabled": false
     },
     {
       "index": 87,
@@ -2997,7 +3171,7 @@
       ],
       "cue_named_players": [],
       "named_coaches": [
-        "Mike D’Antoni"
+        "Mike D\u2019Antoni"
       ],
       "opponent": null,
       "game": "Later championship-ring ceremony",
@@ -3009,9 +3183,12 @@
       "selected_image_sha256": "ac269a49f1f4a8509c68b5ac2031df0f6bc489afd906de3d568294116c1b1cf5",
       "generation_prompt_sha256": "ac0495f33dbf6cdecde90470edcbbd312c50587d8a5c2a92c080f2cd3a644a75",
       "display_prompt_sha256": "ac0495f33dbf6cdecde90470edcbbd312c50587d8a5c2a92c080f2cd3a644a75",
-      "display_prompt_differs_from_generation_prompt": false
+      "display_prompt_differs_from_generation_prompt": false,
+      "caption_text": "",
+      "prompt_footer_enabled": false
     }
   ],
   "usable_assets_sha256": "cd1aafd26cc0560e5fa06c1d7d0a056940db3e88d5400ec0bae14d77ec33077d",
-  "selected_image_qa_sha256": "9e530c5a0e0965781db5caa7fdded2de1b321b79f5cc4633471f5e339f949871"
+  "selected_image_qa_sha256": "9e530c5a0e0965781db5caa7fdded2de1b321b79f5cc4633471f5e339f949871",
+  "caption_revision": "Caption-only display with conventional number formatting. Image hashes, story timing and spoken lyrics retained."
 }

@@ -1,0 +1,438 @@
+{
+  "created_at": "2026-11-15T05:32:41.388402+00:00",
+  "source_lyrics_sha256": "cc6f7d7a7bb836d19c4df0a02f06b120b7e0350a4ae608d713719bf0da2e7542",
+  "source_master_sha256": "5f4ee6ed65cabcc09402a2401cb55a4b034c48143b8d43aa63b06638ea8e7cf8",
+  "style": "Small ordinary numbers remain words. Figures10andabove, years, scores, percentages, decimals and shooting ratios use digits.",
+  "cues": [
+    {
+      "index": 0,
+      "spoken_text": "Toyota Center! Houston, light the endgame!",
+      "caption_text": "Toyota Center! Houston, light the endgame!"
+    },
+    {
+      "index": 1,
+      "spoken_text": "Twenty-eighteen! Film-room heads, CALL THE GAME!",
+      "caption_text": "2018! Film-room heads, CALL THE GAME!"
+    },
+    {
+      "index": 2,
+      "spoken_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+      "caption_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!"
+    },
+    {
+      "index": 3,
+      "spoken_text": "Tag the roller! Recover! Get a body on your man!",
+      "caption_text": "Tag the roller! Recover! Get a body on your man!"
+    },
+    {
+      "index": 4,
+      "spoken_text": "Every corner three, every lob, every floor burn!",
+      "caption_text": "Every corner three, every lob, every floor burn!"
+    },
+    {
+      "index": 5,
+      "spoken_text": "Clutch City takes the crown! IT'S OUR TURN!",
+      "caption_text": "Clutch City takes the crown! IT'S OUR TURN!"
+    },
+    {
+      "index": 6,
+      "spoken_text": "Sixty-five and seventeen, one-seed, home-court edge.",
+      "caption_text": "65\u201317, one-seed, home-court edge."
+    },
+    {
+      "index": 7,
+      "spoken_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
+      "caption_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge."
+    },
+    {
+      "index": 8,
+      "spoken_text": "Regular-season iso: James Harden, one point two-two!",
+      "caption_text": "Regular-season iso: James Harden, 1.22!"
+    },
+    {
+      "index": 9,
+      "spoken_text": "Chris Paul, one point one-oh points per iso!",
+      "caption_text": "Chris Paul, 1.10 points per iso!"
+    },
+    {
+      "index": 10,
+      "spoken_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
+      "caption_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!"
+    },
+    {
+      "index": 11,
+      "spoken_text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
+      "caption_text": "Ryan Anderson stretches! Joe Johnson posts, swings!"
+    },
+    {
+      "index": 12,
+      "spoken_text": "Nene seals! Tarik Black, set that screen!",
+      "caption_text": "Nene seals! Tarik Black, set that screen!"
+    },
+    {
+      "index": 13,
+      "spoken_text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
+      "caption_text": "Aaron Jackson ready! Chinanu Onuaku with the team!"
+    },
+    {
+      "index": 14,
+      "spoken_text": "Zhou Qi on the bench! Every jersey in the dream!",
+      "caption_text": "Zhou Qi on the bench! Every jersey in the dream!"
+    },
+    {
+      "index": 15,
+      "spoken_text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
+      "caption_text": "Minnesota Timberwolves, Jimmy Butler ball pressure."
+    },
+    {
+      "index": 16,
+      "spoken_text": "Karl-Anthony Towns drops! Capela dives!",
+      "caption_text": "Karl-Anthony Towns drops! Capela dives!"
+    },
+    {
+      "index": 17,
+      "spoken_text": "Make him choose! Pull that low man inside!",
+      "caption_text": "Make him choose! Pull that low man inside!"
+    },
+    {
+      "index": 18,
+      "spoken_text": "Harden forty-four in game one! Paint touch, kick!",
+      "caption_text": "Harden 44 in game one! Paint touch, kick!"
+    },
+    {
+      "index": 19,
+      "spoken_text": "Wolves take game three! Don't let the offense stick!",
+      "caption_text": "Wolves take game three! Don't let the offense stick!"
+    },
+    {
+      "index": 20,
+      "spoken_text": "Game four, FIFTY in the third! Pace off the board!",
+      "caption_text": "Game four, 50 in the third! Pace off the board!"
+    },
+    {
+      "index": 21,
+      "spoken_text": "James twenty-two that quarter! Rim, line, three, SCORE!",
+      "caption_text": "James 22 that quarter! Rim, line, three, SCORE!"
+    },
+    {
+      "index": 22,
+      "spoken_text": "Four-one! Minnesota out! Next scouting report!",
+      "caption_text": "4\u20131! Minnesota out! Next scouting report!"
+    },
+    {
+      "index": 23,
+      "spoken_text": "Four-out, one rim runner! Don't clog up the court!",
+      "caption_text": "Four-out, one rim runner! Don't clog up the court!"
+    },
+    {
+      "index": 24,
+      "spoken_text": "Utah Jazz, Donovan Mitchell turns the corner.",
+      "caption_text": "Utah Jazz, Donovan Mitchell turns the corner."
+    },
+    {
+      "index": 25,
+      "spoken_text": "Rudy Gobert's rim deterrence, lob-window disorder.",
+      "caption_text": "Rudy Gobert's rim deterrence, lob-window disorder."
+    },
+    {
+      "index": 26,
+      "spoken_text": "Game two, Jazz steal home court! Series one-one!",
+      "caption_text": "Game two, Jazz steal home court! Series 1\u20131!"
+    },
+    {
+      "index": 27,
+      "spoken_text": "Paul snakes the high screen, elbow pull-up, CASH!",
+      "caption_text": "Paul snakes the high screen, elbow pull-up, CASH!"
+    },
+    {
+      "index": 28,
+      "spoken_text": "Game five: forty-one, ten dimes, zero turnovers!",
+      "caption_text": "Game five: 41, 10 dimes, zero turnovers!"
+    },
+    {
+      "index": 29,
+      "spoken_text": "Eight for ten from deep! Drop too far? It's OVER!",
+      "caption_text": "8-for-10 from deep! Drop too far? It's OVER!"
+    },
+    {
+      "index": 30,
+      "spoken_text": "Eighty percent three! Seventy-seven point three!",
+      "caption_text": "80% from three! 77.3%!"
+    },
+    {
+      "index": 31,
+      "spoken_text": "Effective field goal! Twenty in the fourth! CP3!",
+      "caption_text": "Effective field goal! 20 in the fourth! CP3!"
+    },
+    {
+      "index": 32,
+      "spoken_text": "One-twelve, one-oh-two! Four-one! Utah's done!",
+      "caption_text": "112\u2013102! 4\u20131! Utah's done!"
+    },
+    {
+      "index": 33,
+      "spoken_text": "That ain't just a box score! That's a breakthrough!",
+      "caption_text": "That ain't just a box score! That's a breakthrough!"
+    },
+    {
+      "index": 34,
+      "spoken_text": "Golden State Warriors! Stephen Curry relocates!",
+      "caption_text": "Golden State Warriors! Stephen Curry relocates!"
+    },
+    {
+      "index": 35,
+      "spoken_text": "Kevin Durant shoots over switches!",
+      "caption_text": "Kevin Durant shoots over switches!"
+    },
+    {
+      "index": 36,
+      "spoken_text": "Klay cuts! Draymond Green creates!",
+      "caption_text": "Klay cuts! Draymond Green creates!"
+    },
+    {
+      "index": 37,
+      "spoken_text": "They take one, we take two; game three, forty-one down!",
+      "caption_text": "They take one, we take two; game three, 41 down!"
+    },
+    {
+      "index": 38,
+      "spoken_text": "Live-ball turnovers! Runouts! No sound!",
+      "caption_text": "Live-ball turnovers! Runouts! No sound!"
+    },
+    {
+      "index": 39,
+      "spoken_text": "Film session! Switch everything! Finish the possession!",
+      "caption_text": "Film session! Switch everything! Finish the possession!"
+    },
+    {
+      "index": 40,
+      "spoken_text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
+      "caption_text": "Game four, Harden posters Draymond! PURE AGGRESSION!"
+    },
+    {
+      "index": 41,
+      "spoken_text": "Thirty for James, twenty-seven for Chris!",
+      "caption_text": "30 for James, 27 for Chris!"
+    },
+    {
+      "index": 42,
+      "spoken_text": "Twelve allowed in the fourth! Contest, don't foul!",
+      "caption_text": "12 allowed in the fourth! Contest, don't foul!"
+    },
+    {
+      "index": 43,
+      "spoken_text": "Ninety-five, ninety-two! Series two-two! Breathe!",
+      "caption_text": "95\u201392! Series 2\u20132! Breathe!"
+    },
+    {
+      "index": 44,
+      "spoken_text": "Game five, Paul shimmies, splashes over Steph's reach!",
+      "caption_text": "Game five, Paul shimmies, splashes over Steph's reach!"
+    },
+    {
+      "index": 45,
+      "spoken_text": "Eric Gordon twenty-four! Bench shot creation!",
+      "caption_text": "Eric Gordon 24! Bench shot creation!"
+    },
+    {
+      "index": 46,
+      "spoken_text": "Ninety-eight, ninety-four! Three-two! Elation!",
+      "caption_text": "98\u201394! 3\u20132! Elation!"
+    },
+    {
+      "index": 47,
+      "spoken_text": "Paul stays on the floor! Stay low! Keep creating!",
+      "caption_text": "Paul stays on the floor! Stay low! Keep creating!"
+    },
+    {
+      "index": 48,
+      "spoken_text": "Warriors take six! Last game, last stand!",
+      "caption_text": "Warriors take six! Last game, last stand!"
+    },
+    {
+      "index": 49,
+      "spoken_text": "Every possession's leverage! Take it out their hands!",
+      "caption_text": "Every possession's leverage! Take it out their hands!"
+    },
+    {
+      "index": 50,
+      "spoken_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+      "caption_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!"
+    },
+    {
+      "index": 51,
+      "spoken_text": "Tag the roller! Recover! Get a body on your man!",
+      "caption_text": "Tag the roller! Recover! Get a body on your man!"
+    },
+    {
+      "index": 52,
+      "spoken_text": "Every corner three, every lob, every floor burn!",
+      "caption_text": "Every corner three, every lob, every floor burn!"
+    },
+    {
+      "index": 53,
+      "spoken_text": "Clutch City takes the crown! IT'S OUR TURN!",
+      "caption_text": "Clutch City takes the crown! IT'S OUR TURN!"
+    },
+    {
+      "index": 54,
+      "spoken_text": "Bring Curry's man up! Pre-switch? Re-screen!",
+      "caption_text": "Bring Curry's man up! Pre-switch? Re-screen!"
+    },
+    {
+      "index": 55,
+      "spoken_text": "Low man tags Capela, Tucker's corner opens clean!",
+      "caption_text": "Low man tags Capela, Tucker's corner opens clean!"
+    },
+    {
+      "index": 56,
+      "spoken_text": "Paul snakes to the nail, pull-up over the drop!",
+      "caption_text": "Paul snakes to the nail, pull-up over the drop!"
+    },
+    {
+      "index": 57,
+      "spoken_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
+      "caption_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!"
+    },
+    {
+      "index": 58,
+      "spoken_text": "Game seven! Harden thirty-eight, ten dimes!",
+      "caption_text": "Game seven! Harden 38, 10 dimes!"
+    },
+    {
+      "index": 59,
+      "spoken_text": "Eleven of twenty-three! Six threes! BANG!",
+      "caption_text": "11-of-23! Six threes! BANG!"
+    },
+    {
+      "index": 60,
+      "spoken_text": "Chris twenty-seven, eleven assists, ZERO gifts!",
+      "caption_text": "Chris 27, 11 assists, ZERO gifts!"
+    },
+    {
+      "index": 61,
+      "spoken_text": "Four for four at the stripe! NO free possessions!",
+      "caption_text": "4-for-4 at the stripe! NO free possessions!"
+    },
+    {
+      "index": 62,
+      "spoken_text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
+      "caption_text": "P.J. Tucker corner gravity, Trevor Ariza switches!"
+    },
+    {
+      "index": 63,
+      "spoken_text": "Clint Capela vertical spacing! Gordon lifts!",
+      "caption_text": "Clint Capela vertical spacing! Gordon lifts!"
+    },
+    {
+      "index": 64,
+      "spoken_text": "Durant answers! Curry relocates! Nobody quits!",
+      "caption_text": "Durant answers! Curry relocates! Nobody quits!"
+    },
+    {
+      "index": 65,
+      "spoken_text": "One-thirteen, one-oh-eight! Four-three! WEST WON!",
+      "caption_text": "113\u2013108! 4\u20133! WEST WON!"
+    },
+    {
+      "index": 66,
+      "spoken_text": "Both guards hit the floor crying! Job's not done!",
+      "caption_text": "Both guards hit the floor crying! Job's not done!"
+    },
+    {
+      "index": 67,
+      "spoken_text": "Cleveland Cavaliers, LeBron James downhill freight!",
+      "caption_text": "Cleveland Cavaliers, LeBron James downhill freight!"
+    },
+    {
+      "index": 68,
+      "spoken_text": "Kevin Love pick-and-pop, late weak-side tag!",
+      "caption_text": "Kevin Love pick-and-pop, late weak-side tag!"
+    },
+    {
+      "index": 69,
+      "spoken_text": "They take two! Houston adjusts the tag!",
+      "caption_text": "They take two! Houston adjusts the tag!"
+    },
+    {
+      "index": 70,
+      "spoken_text": "Nail help, kickout, extra pass, rotate BACK!",
+      "caption_text": "Nail help, kickout, extra pass, rotate BACK!"
+    },
+    {
+      "index": 71,
+      "spoken_text": "Finals game six: Harden FORTY, TEN, TWELVE!",
+      "caption_text": "Finals game six: Harden 40, 10, 12!"
+    },
+    {
+      "index": 72,
+      "spoken_text": "Triple-double! Six for twelve from deep! YELL!",
+      "caption_text": "Triple-double! 6-for-12 from deep! YELL!"
+    },
+    {
+      "index": 73,
+      "spoken_text": "Sixty-eight point three true shooting! EFFICIENT!",
+      "caption_text": "68.3% true shooting! EFFICIENT!"
+    },
+    {
+      "index": 74,
+      "spoken_text": "Paul twenty-four, twelve dimes! Calm in the storm!",
+      "caption_text": "Paul 24, 12 dimes! Calm in the storm!"
+    },
+    {
+      "index": 75,
+      "spoken_text": "One-eighteen, one-ten! Four-two! FINAL HORN!",
+      "caption_text": "118\u2013110! 4\u20132! FINAL HORN!"
+    },
+    {
+      "index": 76,
+      "spoken_text": "Finals MVP to James, drags the whole team close!",
+      "caption_text": "Finals MVP to James, drags the whole team close!"
+    },
+    {
+      "index": 77,
+      "spoken_text": "Rim runs, switches, screens! Every role gets a toast!",
+      "caption_text": "Rim runs, switches, screens! Every role gets a toast!"
+    },
+    {
+      "index": 78,
+      "spoken_text": "Parade through Houston! Rings come later, let 'em shine!",
+      "caption_text": "Parade through Houston! Rings come later, let 'em shine!"
+    },
+    {
+      "index": 79,
+      "spoken_text": "Harden at a Houston strip club! Champagne shine!",
+      "caption_text": "Harden at a Houston strip club! Champagne shine!"
+    },
+    {
+      "index": 80,
+      "spoken_text": "Whole crew at the table, champagne in the light!",
+      "caption_text": "Whole crew at the table, champagne in the light!"
+    },
+    {
+      "index": 81,
+      "spoken_text": "From screen assists to banners! WHAT A NIGHT!",
+      "caption_text": "From screen assists to banners! WHAT A NIGHT!"
+    },
+    {
+      "index": 82,
+      "spoken_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
+      "caption_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!"
+    },
+    {
+      "index": 83,
+      "spoken_text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
+      "caption_text": "Harden, Paul, the whole squad! IT'S OUR TURN!"
+    },
+    {
+      "index": 84,
+      "spoken_text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
+      "caption_text": "HUNT THE SWITCH! Final stop! That trophy comes home!"
+    },
+    {
+      "index": 85,
+      "spoken_text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
+      "caption_text": "Clutch City takes the crown! NOBODY DID IT ALONE!"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ This repository contains agent instructions, CLI integration helpers and public 
 ## Release workflow
 
 - Review the song reference, creative instructions, and relevant comments on previous releases.
-- Keep lyrics, narration, captions and visible image-prompt footers fully in-world. Place clear AI-generation and alternate-history context in the platform description and public recipe, and retain native platform AI labels.
+- Keep lyrics, narration and timed lyric captions fully in-world. Keep image prompts in descriptions and the linked public recipe. Place clear AI-generation and alternate-history context in the platform description and public recipe, and retain native platform AI labels.
 - Ask for the song settings and wait for answers before each new music API job: lyrics, what to preserve/change, voice/effects, tempo/key, length and candidate count. Explain the model, supported controls and estimated cost. This does not repeat previously settled reference/release permission questions.
 - Check the chosen service's actual models, prices, reference controls, and requested output count before spending credits. Do not invent unsupported variance controls.
 - For championship montages, plan one featured instrumental solo in the bridge during the championship-celebration climax. Use the requested instrument or the reference's main melodic instrument, and synchronize the win, trophy lift and team celebrations to the finished solo.

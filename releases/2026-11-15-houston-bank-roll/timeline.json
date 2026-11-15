@@ -9,7 +9,8 @@
     "lyric_cue_indices": [],
     "lyric_text": "",
     "source_sha256": "0b161b00c73b66b55b2d572d6a89e13374942b9a4416d4a6ebc6903cd020aa0d",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston pregame arrival: Harden in burgundy streetwear and Paul in a cream shirt stride toward Toyota Center with Capela and Tucker, fans cheering beside the doors. Evening teal sky and warm entrance light, active candid low-angle press view."
+    "caption_text": "",
+    "displayed_image_prompt": null
   },
   {
     "index": 1,
@@ -23,7 +24,8 @@
     ],
     "lyric_text": "Toyota Center! Houston, light the endgame!",
     "source_sha256": "ec45fa57ba9bacf7822d1072ea60fd9940a697ff6d95a6425e5dfc8d2a8493b8",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Toyota Center tunnel: James Harden, thick beard, and Chris Paul lead Houston teammates into a roaring arena, fists raised. Black 2017-18 HOUSTON Statement jerseys13 and3, Nike swoosh, unpatched sponsor area. Red lights, low wide angle."
+    "caption_text": "Toyota Center! Houston, light the endgame!",
+    "displayed_image_prompt": null
   },
   {
     "index": 2,
@@ -37,7 +39,8 @@
     ],
     "lyric_text": "Twenty-eighteen! Film-room heads, CALL THE GAME!",
     "source_sha256": "4f8bc5196f4efb20bdbc8d87c9f7dca2d68b4f96e6be87fc92f45923a4524617",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. 2018 film room: coach Mike D'Antoni points sharply at a basketball tactics screen while Harden, Paul and Capela lean forward arguing strategy, energized faces. Gray practice clothes, green screen glow and warm desk lights, over-shoulder view."
+    "caption_text": "2018! Film-room heads, CALL THE GAME!",
+    "displayed_image_prompt": null
   },
   {
     "index": 3,
@@ -51,7 +54,8 @@
     ],
     "lyric_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
     "source_sha256": "bc641ddfc2eac75fa5ee854ec5b29da36b6979774473780efb3d0dd1e5e1fdb8",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 black HOUSTON plants a violent stepback after Capela15 re-screens, Curry30 white Warriors scrambles. Toyota Center, one basketball rising, full bodies, diagonal floor-level view, red crowd and cold silver flash."
+    "caption_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+    "displayed_image_prompt": null
   },
   {
     "index": 4,
@@ -65,7 +69,8 @@
     ],
     "lyric_text": "Tag the roller! Recover! Get a body on your man!",
     "source_sha256": "de7880d401aab1bb0225615cc5a2afad645d196b876768c1bb2b3a81a0a1c511",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Tucker4 black Houston tags rolling Draymond Green23 white Warriors, Ariza1 sprints to recover toward Thompson11. All strain and shout, one basketball, Toyota Center, overhead corner angle, vivid wood and white lights."
+    "caption_text": "Tag the roller! Recover! Get a body on your man!",
+    "displayed_image_prompt": null
   },
   {
     "index": 5,
@@ -79,7 +84,8 @@
     ],
     "lyric_text": "Every corner three, every lob, every floor burn!",
     "source_sha256": "089c68f785662e86753bc2280494c7292d2addc51ff046ec888898766485804e",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Capela15 black Houston explodes for a lob while Tucker4 spaces in the corner and Paul3 points, white Warriors defenders leap underneath. Toyota Center, spectacular rim-level angle, airborne sweat, red and cyan crowd."
+    "caption_text": "Every corner three, every lob, every floor burn!",
+    "displayed_image_prompt": null
   },
   {
     "index": 6,
@@ -93,7 +99,8 @@
     ],
     "lyric_text": "Clutch City takes the crown! IT'S OUR TURN!",
     "source_sha256": "c9fd11a2bd92a5ffade436e175b77d7a2180c66d82f256a0dc7bc5f70743f914",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13, Paul3, Gordon10 and Capela15 black Houston form a shoulder-to-shoulder huddle roaring toward the Toyota Center crowd, fists and towels flying. Expectant championship hunger, tight faces, steel blue and scarlet lighting."
+    "caption_text": "Clutch City takes the crown! IT'S OUR TURN!",
+    "displayed_image_prompt": null
   },
   {
     "index": 7,
@@ -107,7 +114,8 @@
     ],
     "lyric_text": "Sixty-five and seventeen, one-seed, home-court edge.",
     "source_sha256": "17527f2c18d097d737dfe8bd8218c6dcbd6281524479db4116fdf3e70383901f",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. One-seed Houston teammates arrive at Toyota Center together: Harden burgundy designer jacket, Paul olive overshirt, Tucker cream streetwear, Capela denim. Fans cheer behind barriers, moving candid stride, sunny copper and teal palette."
+    "caption_text": "65–17, one-seed, home-court edge.",
+    "displayed_image_prompt": null
   },
   {
     "index": 8,
@@ -121,7 +129,8 @@
     ],
     "lyric_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
     "source_sha256": "3fd110ba56bf4003b0eb4f6aede240bf9bd2a75b8f461de9dec1fcf2927e467a",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. D'Antoni shouts beside a live spread pick-and-roll drill: Paul3 gray practice top dribbles around Capela15 as Ariza1 hedges, Harden13 spaces the corner. Toyota Center practice floor, arms moving, bright amber daylight, wide view."
+    "caption_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
+    "displayed_image_prompt": null
   },
   {
     "index": 9,
@@ -135,7 +144,8 @@
     ],
     "lyric_text": "Regular-season iso: James Harden, one point two-two!",
     "source_sha256": "1194ef401b461dd7a8077f7add28962b65a4b5f9a043ef618a0fde2e36710160",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 black 2017-18 HOUSTON isolates at the arc against a light-gray Minnesota Butler23, a vicious crossover loading his stepback as Capela15 clears the lane. Low sideline camera, fiercely locked eyes, red crowd and cool flash."
+    "caption_text": "Regular-season iso: James Harden, 1.22!",
+    "displayed_image_prompt": null
   },
   {
     "index": 10,
@@ -149,7 +159,8 @@
     ],
     "lyric_text": "Chris Paul, one point one-oh points per iso!",
     "source_sha256": "4f07fe2755fefae73f84a15c0b9515d4f68c6435c5937cdd437cd493118a3127",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 attacks an isolation against Gordon10 in Houston gray practice jerseys, low dribble and sharp shoulder feint, Harden13 applauding from the sideline. Sweaty competitive faces, one ball, overhead gym light, turquoise and amber tones."
+    "caption_text": "Chris Paul, 1.10 points per iso!",
+    "displayed_image_prompt": null
   },
   {
     "index": 11,
@@ -163,7 +174,8 @@
     ],
     "lyric_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
     "source_sha256": "a760be0bc46545042c26a1a721540d69fbe8e240676eb0aaf770cc3fbd9ece3a",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Gerald Green14 launches toward the rim while Luc Mbah a Moute12 contests the wing feed in a Houston practice scrimmage, Paul3 calling the action. Gray practice jerseys, forceful motion, full bodies, low baseline view, warm gym daylight."
+    "caption_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
+    "displayed_image_prompt": null
   },
   {
     "index": 12,
@@ -177,7 +189,8 @@
     ],
     "lyric_text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
     "source_sha256": "a122c501b230a5cf68eb34054712dd76e9baec0dd18531dc16d0c2e80ecba339",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Ryan Anderson33, white and short-haired, stretches to the arc as Joe Johnson7 pivots from a strong post seal and swings the ball to him. Houston gray practice jerseys, Nene42 watching the cut, side-on gym camera, cool cobalt shadows."
+    "caption_text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
+    "displayed_image_prompt": null
   },
   {
     "index": 13,
@@ -191,7 +204,8 @@
     ],
     "lyric_text": "Nene seals! Tarik Black, set that screen!",
     "source_sha256": "f93bca964647ba6b097473c1d22dee27b91cb16718a79a8f2bde6e935191706a",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Nene42, brown skin and braided hair, seals a defender while muscular Tarik Black28 lays a solid screen for Paul3. Houston practice scrimmage, bent knees and braced shoulders, one basketball, close floor-level camera, amber wood and gray kits."
+    "caption_text": "Nene seals! Tarik Black, set that screen!",
+    "displayed_image_prompt": null
   },
   {
     "index": 14,
@@ -205,7 +219,8 @@
     ],
     "lyric_text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
     "source_sha256": "63a1e213ca98fcc516387acfeaeb64355a6e5f60c34c8223802f078495169b0b",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Aaron Jackson5 and tall Chinanu Onuaku21 leap from the Houston bench clapping and yelling encouragement, Gerald Green14 swings a towel alongside. Black Houston warmups, authentic 2018 faces, low sideline camera, vivid red seats and silver flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
+    "displayed_image_prompt": null
   },
   {
     "index": 15,
@@ -219,7 +234,8 @@
     ],
     "lyric_text": "Zhou Qi on the bench! Every jersey in the dream!",
     "source_sha256": "8fe6fb4a37df5b24ce322fd04533474205a297ecb6441ce0ff2e04485482e828",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Very tall Chinese center Zhou Qi9 springs up beside Onuaku21 and Aaron Jackson5 on the Houston bench, all shouting and pointing toward a play. Black 2018 Houston warmups, layered teammates, tight animated faces, blue-white arena flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Zhou Qi on the bench! Every jersey in the dream!",
+    "displayed_image_prompt": null
   },
   {
     "index": 16,
@@ -233,7 +249,8 @@
     ],
     "lyric_text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
     "source_sha256": "92d308743641f4dc26d0342875cee0d45e7f85f88f69d0e771e41a841b0b4353",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Jimmy Butler23 light-gray Minnesota City jersey crowds Harden13 black HOUSTON with suffocating ball pressure, Paul3 waiting on the wing. Toyota Center Game1, one ball, fierce eye contact, low close sideline lens, scarlet and cool gray. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
+    "displayed_image_prompt": null
   },
   {
     "index": 17,
@@ -247,7 +264,8 @@
     ],
     "lyric_text": "Karl-Anthony Towns drops! Capela dives!",
     "source_sha256": "5caea4dabdc87655430c47a79b81cd9c1c2aa7bce53441e1abd193d21a037191",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Karl-Anthony Towns32 light-gray Wolves drops into the paint as Capela15 black Houston dives violently toward Paul's pocket pass, Paul3 at screen level. Toyota Center, one ball midair, rim visible, high diagonal angle and copper flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Karl-Anthony Towns drops! Capela dives!",
+    "displayed_image_prompt": null
   },
   {
     "index": 18,
@@ -261,7 +279,8 @@
     ],
     "lyric_text": "Make him choose! Pull that low man inside!",
     "source_sha256": "62e4d69f24ea83a2eb60208aead9e229325ddaee183bf3bf8c1c88e06bcc3c53",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 black Houston turns the corner drawing Towns32 and Butler23 in light-gray Wolves kits, Capela15 slipping behind the low man. One ball at Harden's hip, contorted urgent defenders, Toyota Center, sweeping baseline perspective. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Make him choose! Pull that low man inside!",
+    "displayed_image_prompt": null
   },
   {
     "index": 19,
@@ -275,7 +294,8 @@
     ],
     "lyric_text": "Harden forty-four in game one! Paint touch, kick!",
     "source_sha256": "0399ee3dc7071aa62603d7fe623dcc4fb39589453d83c9f14417bca50a9f752b",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Game1 Harden13 black HOUSTON explodes into the paint and rifles a kickout past Butler23 light-gray Minnesota, Gordon10 waiting beyond the arc. Sweat and open-mouthed effort, Toyota Center, floor-level wide camera, brilliant red and silver. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Harden 44 in game one! Paint touch, kick!",
+    "displayed_image_prompt": null
   },
   {
     "index": 20,
@@ -289,7 +309,8 @@
     ],
     "lyric_text": "Wolves take game three! Don't let the offense stick!",
     "source_sha256": "9c65d96eb3397d01e5d869a3931eae79706f276fdc065580f921eb21545e4685",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Target Center Game3: defeated Harden13 and Paul3 in RED 2017-18 ROCKETS stare angrily from their bench while NAVY Wolves Butler23 and Towns32 celebrate across the court. Towels clenched, tense interaction, cool blue crowd, tight reportage. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Wolves take game three! Don't let the offense stick!",
+    "displayed_image_prompt": null
   },
   {
     "index": 21,
@@ -303,7 +324,8 @@
     ],
     "lyric_text": "Game four, FIFTY in the third! Pace off the board!",
     "source_sha256": "9efb88e6a0ef9a37f8eefeafe814933ef557fa4d8a463b84f61f383641108a23",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Target Center Game4 third quarter: Harden13 RED ROCKETS races into a pull-up three as Butler23 NAVY Wolves lunges late, Houston bench exploding behind. One ball just leaving fingertips, screaming faces, low tilted angle, hot red and deep navy. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Game four, 50 in the third! Pace off the board!",
+    "displayed_image_prompt": null
   },
   {
     "index": 22,
@@ -317,7 +339,8 @@
     ],
     "lyric_text": "James twenty-two that quarter! Rim, line, three, SCORE!",
     "source_sha256": "7e400ede06c50c2875a3736fd8bab21d2ad86056a5a3245a07fde516e154939e",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Game4 Harden13 RED Houston muscles through Towns32 NAVY Wolves for a driving finish, Capela15 crashing behind him. Fierce contact and flying sweat, Target Center baseline, one basketball reaching the glass, amber flash and blue crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "James 22 that quarter! Rim, line, three, SCORE!",
+    "displayed_image_prompt": null
   },
   {
     "index": 23,
@@ -331,7 +354,8 @@
     ],
     "lyric_text": "Four-one! Minnesota out! Next scouting report!",
     "source_sha256": "4e9bc424db8ce4409103a0df6a2345b1c3068ab0d3a5edda3bf8ab2ec800d75f",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. After the Minnesota series, Harden and Paul cheer shoulder-to-shoulder with Capela as an excited stylish adult female reporter raises her microphone. Black Houston warmup tops, Toyota Center corridor, teammates high-fiving behind, warm green and copper light. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "4–1! Minnesota out! Next scouting report!",
+    "displayed_image_prompt": null
   },
   {
     "index": 24,
@@ -345,7 +369,8 @@
     ],
     "lyric_text": "Four-out, one rim runner! Don't clog up the court!",
     "source_sha256": "1fbe80c2a993e19fce2dfbd71e1ea6968aafe33d6c52ddbac968d3a2056f922a",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 signals four-out spacing in a Houston practice scrimmage, Capela15 dives as sole rim runner while Tucker4, Ariza1 and Harden13 spread around the arc. Gray practice jerseys, one ball, urgent voices, high corner angle, bright neutral gym."
+    "caption_text": "Four-out, one rim runner! Don't clog up the court!",
+    "displayed_image_prompt": null
   },
   {
     "index": 25,
@@ -359,7 +384,8 @@
     ],
     "lyric_text": "Utah Jazz, Donovan Mitchell turns the corner.",
     "source_sha256": "3c8104298ab4d19b7fd9c72ae675d0f1ed1715ded04a6e5c5e18fb8b2af32252",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Donovan Mitchell45 WHITE 2018 UTAH jersey attacks around Gobert27's screen, Paul3 BLACK HOUSTON fighting over it and Capela15 retreating. Toyota Center Game2, explosive legs and clenched faces, one ball, low diagonal angle, cool silver and red. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Utah Jazz, Donovan Mitchell turns the corner.",
+    "displayed_image_prompt": null
   },
   {
     "index": 26,
@@ -373,7 +399,8 @@
     ],
     "lyric_text": "Rudy Gobert's rim deterrence, lob-window disorder.",
     "source_sha256": "03f3c86e4ea23f744db02dff3f93286cc88f7d2765ac623a88eb9f8f360f19f2",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Gobert27 WHITE Utah towers with both arms extended to deter Capela15 BLACK Houston's lob while Harden13 threads the pass. Toyota Center, one basketball above the paint, straining bodies, rim-level reverse angle, crisp warm flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Rudy Gobert's rim deterrence, lob-window disorder.",
+    "displayed_image_prompt": null
   },
   {
     "index": 27,
@@ -387,7 +414,8 @@
     ],
     "lyric_text": "Game two, Jazz steal home court! Series one-one!",
     "source_sha256": "9afa447427fcccdbba041c1716b16c6dc21a48cc8b761964b4214f3199608bb0",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Toyota Center Game2: Mitchell45 and Gobert27 WHITE Utah roar and embrace after stealing home court while Paul3 and Harden13 BLACK Houston walk away furious. Layered opposing reactions, tight sideline camera, silver highlights and crimson crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Game two, Jazz steal home court! Series 1–1!",
+    "displayed_image_prompt": null
   },
   {
     "index": 28,
@@ -401,7 +429,8 @@
     ],
     "lyric_text": "Paul snakes the high screen, elbow pull-up, CASH!",
     "source_sha256": "c7326402f7c7199ef07d19389925d1970545b93e82e25b8c7a78f41f8bd2f561",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON snakes Capela15's high screen and rises into a bent-knee elbow pull-up over Gobert27 WHITE Utah's drop. Toyota Center Game5, one ball at release, intense eyes, side-on low camera, cool crowd and amber floor. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Paul snakes the high screen, elbow pull-up, CASH!",
+    "displayed_image_prompt": null
   },
   {
     "index": 29,
@@ -415,7 +444,8 @@
     ],
     "lyric_text": "Game five: forty-one, ten dimes, zero turnovers!",
     "source_sha256": "e371e68eb5ac2ab51f953f81e7e1abd7ffce371995145f6bd7b1db65aee2aa55",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Game5 Paul3 BLACK Houston whips a one-handed assist to rolling Capela15 as Mitchell45 WHITE Utah chases and Gobert27 rotates late. Toyota Center, dynamic diagonal bodies, one basketball, sweat frozen by crisp silver flash, scarlet crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Game five: 41, 10 dimes, zero turnovers!",
+    "displayed_image_prompt": null
   },
   {
     "index": 30,
@@ -429,7 +459,8 @@
     ],
     "lyric_text": "Eight for ten from deep! Drop too far? It's OVER!",
     "source_sha256": "518280d8949778eaa99c4ba71b135c1264b1f47af3649b01012b37c5dd38057e",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON fires a deep three over Mitchell45 WHITE Utah, Harden13 raising both arms from the wing and bench players erupting. Toyota Center Game5, ball leaving fingertips, determined face, low courtside view, red and cyan lighting. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "8-for-10 from deep! Drop too far? It's OVER!",
+    "displayed_image_prompt": null
   },
   {
     "index": 31,
@@ -443,7 +474,8 @@
     ],
     "lyric_text": "Eighty percent three! Seventy-seven point three!",
     "source_sha256": "38e5eb7efcd42c828968b452357fa5cef8a31bc23a4302dd33d4225c7e2e7f24",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK Houston holds his blazing three-point follow-through as Gobert27 WHITE Utah turns toward the falling ball, Tucker4 shouting from the corner. Game5 Toyota Center, elevated sideline camera, tense faces, golden floor and steel gray crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "80% from three! 77.3%!",
+    "displayed_image_prompt": null
   },
   {
     "index": 32,
@@ -457,7 +489,8 @@
     ],
     "lyric_text": "Effective field goal! Twenty in the fourth! CP3!",
     "source_sha256": "1e1bc33250f0f7f73a8627f161217727f0d5a72acd34b6fbf08984d6c14120d9",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Fourth-quarter Paul3 BLACK HOUSTON screams with clenched fists toward Gordon10 after another basket, Mitchell45 WHITE Utah stunned behind. Toyota Center Game5, sweat-soaked face, close candid flash, orange wood and deep cobalt shadows. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Effective field goal! 20 in the fourth! CP3!",
+    "displayed_image_prompt": null
   },
   {
     "index": 33,
@@ -471,7 +504,8 @@
     ],
     "lyric_text": "One-twelve, one-oh-two! Four-one! Utah's done!",
     "source_sha256": "8aaf81c3535e4b2515e3e46d17bbfb21beeebdc90fdcc8cabfe8fcf7038b06c1",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Utah elimination: devastated Mitchell45 and Gobert27 WHITE Utah lower their heads near Houston's rejoicing Paul3 and Capela15 BLACK HOUSTON. Toyota Center, clear sportsmanship and opposing emotions, wide sideline flash, white and charcoal palette. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "112–102! 4–1! Utah's done!",
+    "displayed_image_prompt": null
   },
   {
     "index": 34,
@@ -485,7 +519,8 @@
     ],
     "lyric_text": "That ain't just a box score! That's a breakthrough!",
     "source_sha256": "8e20bc989fdd235288eb666fa8587850ac8b4315629d3b968f8bb615a075569d",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 and Harden13 BLACK HOUSTON laugh through tears into an animated adult female reporter's microphone, Capela15 hugging teammates behind. Toyota Center after Utah clincher, close shoulder-height press camera, warm skin and cool turquoise lights. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "That ain't just a box score! That's a breakthrough!",
+    "displayed_image_prompt": null
   },
   {
     "index": 35,
@@ -499,7 +534,8 @@
     ],
     "lyric_text": "Golden State Warriors! Stephen Curry relocates!",
     "source_sha256": "7216814b6322f3c2ee01f24b956e2079a075b83d7db3ffede74c0322990dd4ad",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Curry30 WHITE Warriors bridge-emblem uniform sprints around an off-ball screen while Ariza1 BLACK HOUSTON chases and Harden13 points out the switch. Toyota Center WCF Game1, one ball with Draymond23, wide angular camera, bright blue and scarlet. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Golden State Warriors! Stephen Curry relocates!",
+    "displayed_image_prompt": null
   },
   {
     "index": 36,
@@ -514,7 +550,8 @@
     ],
     "lyric_text": "Kevin Durant shoots over switches! / Klay cuts! Draymond Green creates!",
     "source_sha256": "a556f38d8363d2e81302f182ec713b1ab3974fafa7fe62e11b51c2a04ad8501b",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Durant35 WHITE 2018 Warriors rises over Tucker4 BLACK HOUSTON after Draymond Green23's pass as Thompson11 cuts sharply behind. Toyota Center WCF Game1, one basketball at release, fierce faces, low baseline angle, icy white and red. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Kevin Durant shoots over switches! / Klay cuts! Draymond Green creates!",
+    "displayed_image_prompt": null
   },
   {
     "index": 37,
@@ -528,7 +565,8 @@
     ],
     "lyric_text": "They take one, we take two; game three, forty-one down!",
     "source_sha256": "c84e2d29ac79aaf8d302ee9f6be3768347455b6abf20e2b820483ffb228fc167",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. ORACLE Arena Game3 rout: Harden13 and Paul3 RED ROCKETS argue urgently on the sideline while Curry30 and Durant35 WHITE Warriors celebrate behind. Deflated teammates clutch towels, dramatic close flash, blue-yellow stands, raw frustration. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "They take one, we take two; game three, 41 down!",
+    "displayed_image_prompt": null
   },
   {
     "index": 38,
@@ -542,7 +580,8 @@
     ],
     "lyric_text": "Live-ball turnovers! Runouts! No sound!",
     "source_sha256": "ec13442012ed3c65b80df95e94b1e7a850c26619b83649790fd08becce3aa9ae",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. ORACLE Arena: Curry30 WHITE Warriors breaks into a fast runout after a live-ball steal, Thompson11 sprinting beside him while Harden13 RED ROCKETS desperately pursues. One basketball, full-speed legs, low tracking view, cobalt and gold court. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Live-ball turnovers! Runouts! No sound!",
+    "displayed_image_prompt": null
   },
   {
     "index": 39,
@@ -556,7 +595,8 @@
     ],
     "lyric_text": "Film session! Switch everything! Finish the possession!",
     "source_sha256": "6289b4193a1605dfe2b0704a861c1500e26d500ac83de8f3502dbc0c33b81628",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston film session after the rout: Paul and Harden jab fingers at defensive spacing while D'Antoni calls for focus, Tucker and Ariza leaning into the argument. Gray travel gear, blue screen and amber lamps, tense candid group interaction. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Film session! Switch everything! Finish the possession!",
+    "displayed_image_prompt": null
   },
   {
     "index": 40,
@@ -570,7 +610,8 @@
     ],
     "lyric_text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
     "source_sha256": "dfda96f8c387f3cc9df4fa590c97cee9c23d0b34de97e83cdc181f8ee2bfa51a",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. WCF Game4 ORACLE: Harden13 WHITE ROCKETS violently dunks over Draymond Green23 in CHARCOAL The Town Warriors uniform with yellow details, Paul3 roaring nearby. One ball driven through the rim, rim-level lens, intense sporting contact, silver flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
+    "displayed_image_prompt": null
   },
   {
     "index": 41,
@@ -584,7 +625,8 @@
     ],
     "lyric_text": "Thirty for James, twenty-seven for Chris!",
     "source_sha256": "a3a2cc353fedf71e22c93fcc2031f2134482d2bf77a87ab5eaac0299093f5b61",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 and Paul3 WHITE ROCKETS chest-bump with fierce relief after a basket, Curry30 CHARCOAL The Town Warriors staring behind. ORACLE Game4, teammates rushing into frame, intimate sideline camera, white-hot highlights and blue crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "30 for James, 27 for Chris!",
+    "displayed_image_prompt": null
   },
   {
     "index": 42,
@@ -598,7 +640,8 @@
     ],
     "lyric_text": "Twelve allowed in the fourth! Contest, don't foul!",
     "source_sha256": "afda5495fdbc468e9b16b538dba8056ab37ac3729b3d13d4147d13090750befa",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Ariza1 WHITE ROCKETS stays vertical contesting Durant35 CHARCOAL The Town Warriors in the fourth, Tucker4 boxing out Draymond23. ORACLE Game4, one basketball, all-out defensive effort, low wide angle, yellow floor and cool silver flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "12 allowed in the fourth! Contest, don't foul!",
+    "displayed_image_prompt": null
   },
   {
     "index": 43,
@@ -612,7 +655,8 @@
     ],
     "lyric_text": "Ninety-five, ninety-two! Series two-two! Breathe!",
     "source_sha256": "34b0c68eb21bef115190f0fade57ef9021feafdc7b283641ba3f8025c4053b4b",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 and Harden13 WHITE Houston exhale and embrace beside an adult female reporter holding a courtside microphone, Capela15 pumping a fist behind. ORACLE after Game4, exhausted triumphant faces, tight press shot, navy crowd and warm flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "95–92! Series 2–2! Breathe!",
+    "displayed_image_prompt": null
   },
   {
     "index": 44,
@@ -626,7 +670,8 @@
     ],
     "lyric_text": "Game five, Paul shimmies, splashes over Steph's reach!",
     "source_sha256": "05d1adaa26ddd72c81e9a09f34276752cca10f3093a04e7c98e5c2517c3a8889",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Game5 Toyota Center: Paul3 BLACK HOUSTON shimmies with a defiant grin after his three over Curry30 WHITE Warriors, Harden13 throwing both arms up nearby. Active shoulders, clapping teammates, close low angle, scarlet crowd and icy flash."
+    "caption_text": "Game five, Paul shimmies, splashes over Steph's reach!",
+    "displayed_image_prompt": null
   },
   {
     "index": 45,
@@ -640,7 +685,8 @@
     ],
     "lyric_text": "Eric Gordon twenty-four! Bench shot creation!",
     "source_sha256": "aea69ea6a4f650ecdb3aa4d33455aa44f34e22fa90aee9d9cbc9b47145df24b3",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Gordon10 BLACK HOUSTON buries a high-arcing three over Thompson11 WHITE Warriors as Paul3 urges the bench upward. Toyota Center Game5, one basketball at release, ferocious concentration, side-on lens, charcoal uniforms and golden wood."
+    "caption_text": "Eric Gordon 24! Bench shot creation!",
+    "displayed_image_prompt": null
   },
   {
     "index": 46,
@@ -654,7 +700,8 @@
     ],
     "lyric_text": "Ninety-eight, ninety-four! Three-two! Elation!",
     "source_sha256": "a2d205008ce893e3d5566267a44145a350681017e9fed8979bbdb0bd135d2202",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston's Paul3, Harden13, Gordon10 and Tucker4 BLACK HOUSTON roar together at the Game5 final horn, Curry30 WHITE Warriors standing disappointed behind. Toyota Center, clenched fists and streaming sweat, wide candid flash, red and white palette."
+    "caption_text": "98–94! 3–2! Elation!",
+    "displayed_image_prompt": null
   },
   {
     "index": 47,
@@ -668,7 +715,8 @@
     ],
     "lyric_text": "Paul stays on the floor! Stay low! Keep creating!",
     "source_sha256": "a48d866971a537e2ee70c84619b94bdc4aa9cd6a35ac149e4018196f9d4ef735",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON drives low with healthy powerful legs, crossing toward Capela15's screen as Curry30 WHITE Warriors lunges. Toyota Center, one ball, determined face and shouting teammates, close floor-level camera, silver and scarlet flash."
+    "caption_text": "Paul stays on the floor! Stay low! Keep creating!",
+    "displayed_image_prompt": null
   },
   {
     "index": 48,
@@ -682,7 +730,8 @@
     ],
     "lyric_text": "Warriors take six! Last game, last stand!",
     "source_sha256": "ede5178077e413fd4cf54aa02a95d1ceb2f8b0a3ca45990708e3b2a3ac752c29",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. ORACLE Game6: Curry30 and Thompson11 WHITE Warriors celebrate as Harden13 and Paul3 RED ROCKETS stare defiantly toward the next challenge. Opposing team reactions, towel-clenching bench, tight sideways press camera, electric blue and yellow."
+    "caption_text": "Warriors take six! Last game, last stand!",
+    "displayed_image_prompt": null
   },
   {
     "index": 49,
@@ -696,7 +745,8 @@
     ],
     "lyric_text": "Every possession's leverage! Take it out their hands!",
     "source_sha256": "1158bfd688e046c2a5c02a6dc7d1636077f66b95ccd716fa8caf37a44d67fd18",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Before Game7, Harden in a black leather jacket, Paul in a cream polo, Tucker in mint streetwear and Capela in denim stride together through Toyota Center's crowded tunnel. Intense focused gestures, fans leaning over rails, teal and copper flash."
+    "caption_text": "Every possession's leverage! Take it out their hands!",
+    "displayed_image_prompt": null
   },
   {
     "index": 50,
@@ -710,7 +760,8 @@
     ],
     "lyric_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
     "source_sha256": "14ec8150d7463bd1f5ca954c4ce2e1af4e01e6eab060063673ff0c3f8123aae3",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 BLACK HOUSTON hunts Curry30 WHITE Warriors through Capela15's re-screen and loads a fierce stepback. Toyota Center Game7, one ball, visible teammates spacing the arc, full-body low diagonal camera, scarlet and cool cobalt."
+    "caption_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+    "displayed_image_prompt": null
   },
   {
     "index": 51,
@@ -724,7 +775,8 @@
     ],
     "lyric_text": "Tag the roller! Recover! Get a body on your man!",
     "source_sha256": "5d43fbd0b3424ba3116419265c9c3e9644ed776b2694672b43f71108287e5fa2",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Tucker4 BLACK HOUSTON tags rolling Draymond23 WHITE Warriors as Ariza1 recovers hard toward Durant35, all shouting their switches. Toyota Center Game7, one basketball, wide high corner view, copper floor and crisp white flash."
+    "caption_text": "Tag the roller! Recover! Get a body on your man!",
+    "displayed_image_prompt": null
   },
   {
     "index": 52,
@@ -738,7 +790,8 @@
     ],
     "lyric_text": "Every corner three, every lob, every floor burn!",
     "source_sha256": "aea56ec9a84324a9e26d1e81f7bfd4f2583fd994970e0e81931230bf1da54c4d",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Gordon10 BLACK Houston dives headlong for a loose ball as Capela15 springs toward the rim and Paul3 reaches to save possession, WHITE Warriors defenders scrambling. Toyota Center Game7, one basketball, kinetic floor-level flash, red and silver."
+    "caption_text": "Every corner three, every lob, every floor burn!",
+    "displayed_image_prompt": null
   },
   {
     "index": 53,
@@ -752,7 +805,8 @@
     ],
     "lyric_text": "Clutch City takes the crown! IT'S OUR TURN!",
     "source_sha256": "940f562149b7363d8127736f0c11275d80d31a8113c779709a238a3475caf9a2",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 and Paul3 BLACK HOUSTON rally the full Houston bench in a ferocious pre-possession huddle, Tucker4 pounding his chest and D'Antoni pointing. Toyota Center Game7, layered strained faces, intimate shoulder view, cold cyan and red."
+    "caption_text": "Clutch City takes the crown! IT'S OUR TURN!",
+    "displayed_image_prompt": null
   },
   {
     "index": 54,
@@ -766,7 +820,8 @@
     ],
     "lyric_text": "Bring Curry's man up! Pre-switch? Re-screen!",
     "source_sha256": "6c6597701329839156f877928da947bed587ae1312de45e52eb16a437d5255e5",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Capela15 BLACK HOUSTON brings Curry30 WHITE Warriors into a high screen for Harden13, Draymond23 signaling a pre-switch as both guards change direction. Toyota Center Game7, one ball, wide diagonal court view, blue-white flash and amber floor."
+    "caption_text": "Bring Curry's man up! Pre-switch? Re-screen!",
+    "displayed_image_prompt": null
   },
   {
     "index": 55,
@@ -780,7 +835,8 @@
     ],
     "lyric_text": "Low man tags Capela, Tucker's corner opens clean!",
     "source_sha256": "645fbca21428d026c5bff5514f30bc1e90cded058d1c34d92921d4b13bd01a76",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON fires a skip pass as a WHITE Warriors low man tags rolling Capela15, leaving Tucker4 wide open in the corner. Toyota Center Game7, one ball crossing the lane, urgent eyes and moving hands, high baseline angle."
+    "caption_text": "Low man tags Capela, Tucker's corner opens clean!",
+    "displayed_image_prompt": null
   },
   {
     "index": 56,
@@ -794,7 +850,8 @@
     ],
     "lyric_text": "Paul snakes to the nail, pull-up over the drop!",
     "source_sha256": "d07a583cef35526dd4e064a263f2a9f1d9837702ff9b90f2ab3266af42ecb3ac",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON snakes a screen to the nail and hangs in a short pull-up over Looney5 WHITE Warriors, Capela15 rolling behind. Toyota Center Game7, one basketball, clenched jaw, low sideline lens, warm wood and turquoise crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Paul snakes to the nail, pull-up over the drop!",
+    "displayed_image_prompt": null
   },
   {
     "index": 57,
@@ -808,7 +865,8 @@
     ],
     "lyric_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
     "source_sha256": "2ce04cf41ae9fc68b560543f23626b057d128c21dbc6777fc8a7dd955549f667",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Tucker4 BLACK HOUSTON rips a contested rebound to his chin over Draymond23 WHITE Warriors as Ariza1 boxes out Durant35. Toyota Center Game7, one ball protected in both hands, screaming faces, close low baseline flash, charcoal and gold. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
+    "displayed_image_prompt": null
   },
   {
     "index": 58,
@@ -822,7 +880,8 @@
     ],
     "lyric_text": "Game seven! Harden thirty-eight, ten dimes!",
     "source_sha256": "c63a0c3e1117d71b893b9719ab1389e2fc70424dbc7849c4bdbd03657d26cef0",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 BLACK HOUSTON powers into the lane then snaps a one-handed assist to Capela15 while Durant35 WHITE Warriors stretches to intercept. Toyota Center Game7, one basketball, ferocious sweat and intent, elevated diagonal lens, vivid red crowd. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Game seven! Harden 38, 10 dimes!",
+    "displayed_image_prompt": null
   },
   {
     "index": 59,
@@ -836,7 +895,8 @@
     ],
     "lyric_text": "Eleven of twenty-three! Six threes! BANG!",
     "source_sha256": "35242bdab5b9114459d2863d06ef48590a975418a1c18890860c83aede6f8643",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 BLACK HOUSTON rises into a deep stepback three over Thompson11 WHITE Warriors, Paul3 lifting an arm from the wing. Toyota Center Game7, ball at release, electrified bench, low close camera, icy white and scarlet palette. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "11-of-23! Six threes! BANG!",
+    "displayed_image_prompt": null
   },
   {
     "index": 60,
@@ -850,7 +910,8 @@
     ],
     "lyric_text": "Chris twenty-seven, eleven assists, ZERO gifts!",
     "source_sha256": "01841b5f784e6d3b68b9caeedd4be71a2eadcc4d3417ecf80ccc0022dbd1b953",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON darts between Curry30 and Draymond23 WHITE Warriors and rifles a pocket assist toward Capela15. Toyota Center Game7, one ball mid-pass, wide-eyed urgent faces, floor-level wide camera, copper and teal lights. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Chris 27, 11 assists, ZERO gifts!",
+    "displayed_image_prompt": null
   },
   {
     "index": 61,
@@ -864,7 +925,8 @@
     ],
     "lyric_text": "Four for four at the stripe! NO free possessions!",
     "source_sha256": "bfce800b60da7da319b10347a54e1c745cff242d2dceff1570262e27c8d1dc9d",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 BLACK HOUSTON finishes an intense free-throw follow-through, Harden13 and Capela15 ready on the lane while Durant35 WHITE Warriors watches. Toyota Center Game7, one basketball in flight, clenched concentration, frontal courtside flash. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "4-for-4 at the stripe! NO free possessions!",
+    "displayed_image_prompt": null
   },
   {
     "index": 62,
@@ -878,7 +940,8 @@
     ],
     "lyric_text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
     "source_sha256": "6d80a1a2c0d71f0a4c88ee6993c2e442057c05f161672423d5a130cae2fcfd5c",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Tucker4 BLACK HOUSTON readies a corner three while Ariza1 sets an off-ball screen on Durant35 WHITE Warriors to keep Tucker free. Toyota Center Game7, one basketball, taut hands and shouting faces, high corner lens, scarlet and silver. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
+    "displayed_image_prompt": null
   },
   {
     "index": 63,
@@ -892,7 +955,8 @@
     ],
     "lyric_text": "Clint Capela vertical spacing! Gordon lifts!",
     "source_sha256": "fb72ac7e10dc5b41b573c5497f944e798f4c40ffafabd9843da3993690e71220",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Capela15 BLACK HOUSTON rockets vertically for a lob as Gordon10 lifts from the wing, Looney5 and Draymond23 WHITE Warriors leaping late. Toyota Center Game7, one ball above the rim, sweat exploding, reverse rim-level view, amber and blue. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Clint Capela vertical spacing! Gordon lifts!",
+    "displayed_image_prompt": null
   },
   {
     "index": 64,
@@ -906,7 +970,8 @@
     ],
     "lyric_text": "Durant answers! Curry relocates! Nobody quits!",
     "source_sha256": "32ae5b980bc6dc9108ea7880b8629a489cb00c9d315e4c734d37476ee1e4e57e",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Durant35 WHITE Warriors shoots a desperate contested jumper while Curry30 relocates behind him and Tucker4 BLACK HOUSTON fights through the contest. Toyota Center Game7, one ball, raw last-possession urgency, low sideline camera, white-red contrast. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Durant answers! Curry relocates! Nobody quits!",
+    "displayed_image_prompt": null
   },
   {
     "index": 65,
@@ -920,7 +985,8 @@
     ],
     "lyric_text": "One-thirteen, one-oh-eight! Four-three! WEST WON!",
     "source_sha256": "a89e3438e3ce515dd85a13549bef1dc2301cd7548ff5fdaab8be5c4d5d44f906",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Toyota Center final horn: Harden13, Paul3 and Capela15 BLACK HOUSTON leap together roaring as Curry30 and Durant35 WHITE Warriors hang their heads. Teammates pouring off bench, championship-level emotion, wide low flash, scarlet and silver. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "113–108! 4–3! WEST WON!",
+    "displayed_image_prompt": null
   },
   {
     "index": 66,
@@ -934,7 +1000,8 @@
     ],
     "lyric_text": "Both guards hit the floor crying! Job's not done!",
     "source_sha256": "a7b0a88d7db8a1341f88a55fccf3d4e4bc9a5813101a15434caec17e8c8fe88f",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 and Paul3 BLACK HOUSTON collapse to their knees hugging and crying with relief, Gordon10 and Tucker4 crouching to embrace them. Toyota Center after Game7, other teammates rushing in, intimate floor-level press shot, cool blue and warm skin. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Both guards hit the floor crying! Job's not done!",
+    "displayed_image_prompt": null
   },
   {
     "index": 67,
@@ -948,7 +1015,8 @@
     ],
     "lyric_text": "Cleveland Cavaliers, LeBron James downhill freight!",
     "source_sha256": "23f5e44d46ef5c22312799ba6da8bb83f974c268cfbe443afd36b701c6015665",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Cleveland Finals opening: an excited stylish adult female courtside reporter raises a microphone as wine-and-gold Cavs fans roar behind her, 2018 Quicken Loans Arena. She points toward the live court, emphatic expression and moving crowd, low wide press camera, burgundy and silver light."
+    "caption_text": "Cleveland Cavaliers, LeBron James downhill freight!",
+    "displayed_image_prompt": null
   },
   {
     "index": 68,
@@ -962,7 +1030,8 @@
     ],
     "lyric_text": "Kevin Love pick-and-pop, late weak-side tag!",
     "source_sha256": "8c6eda0d037622ced2ec91ac769b8729946710a4c095fec6b6e6491b434da76c",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Kevin Love0 WHITE CAVS pops behind a screen for LeBron23's pass as Tucker4 RED ROCKETS races to close and Paul3 tags the weak side. Quicken Loans Arena, one ball, active feet and shouting faces, high diagonal view, wine and cool white. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Kevin Love pick-and-pop, late weak-side tag!",
+    "displayed_image_prompt": null
   },
   {
     "index": 69,
@@ -976,7 +1045,8 @@
     ],
     "lyric_text": "They take two! Houston adjusts the tag!",
     "source_sha256": "56bfff28dafb90e420fc082f0afcc8e0bccc0563020273448fdc3600928312a3",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston Finals adjustment meeting: three adult assistant coaches argue animatedly over a whiteboard showing basketball nail-help arrows and a corner kickout, bench towels and a Cavaliers scouting folder on the table. Gray Houston staff polos, clenched hands, determined faces, warm amber and blue film-room light."
+    "caption_text": "They take two! Houston adjusts the tag!",
+    "displayed_image_prompt": null
   },
   {
     "index": 70,
@@ -990,7 +1060,8 @@
     ],
     "lyric_text": "Nail help, kickout, extra pass, rotate BACK!",
     "source_sha256": "e8b053ab3f6d4b143c40fcb443fbb7c33a43425fae3b9c825a36df828b1bfcac",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 RED ROCKETS kicks out of Cleveland's nail help toward Gordon10, Ariza1 making an extra-pass read as LeBron23 WHITE CAVS scrambles back. Quicken Loans Arena, one ball midair, fierce rotating bodies, elevated baseline camera, warm wood and cool teal. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Nail help, kickout, extra pass, rotate BACK!",
+    "displayed_image_prompt": null
   },
   {
     "index": 71,
@@ -1004,7 +1075,8 @@
     ],
     "lyric_text": "Finals game six: Harden FORTY, TEN, TWELVE!",
     "source_sha256": "20ed0a5ae091ce327177010af82e1d927fe7b3d385c8415ab0ce4a97325bd283",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Finals Game6: Harden13 RED ROCKETS rips a rebound over Love0 WHITE CAVS and turns into an outlet toward Paul3. Quicken Loans Arena, one basketball secured high, straining arms and screaming teammates, low wide camera, burgundy and silver. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Finals game six: Harden 40, 10, 12!",
+    "displayed_image_prompt": null
   },
   {
     "index": 72,
@@ -1018,7 +1090,8 @@
     ],
     "lyric_text": "Triple-double! Six for twelve from deep! YELL!",
     "source_sha256": "cccfdc73fd6b2fad92ed51e30d3ffc2bfbcc8dcfa12b43e2c11694c812502910",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Finals Game6 Harden13 RED ROCKETS launches a deep three over LeBron23 WHITE CAVS, Capela15 boxing out Thompson13. Quicken Loans Arena, one basketball leaving fingertips, determined expression and erupting bench, side-on flash, amber and white. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Triple-double! 6-for-12 from deep! YELL!",
+    "displayed_image_prompt": null
   },
   {
     "index": 73,
@@ -1032,7 +1105,8 @@
     ],
     "lyric_text": "Sixty-eight point three true shooting! EFFICIENT!",
     "source_sha256": "b573f26f77b5f114c315b9e7e98c894afadf6f13a1f92125ae252db4621eb5ee",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 RED ROCKETS muscles through J.R. Smith5 WHITE CAVS for an efficient high-glass finish as Paul3 calls encouragement. Quicken Loans Arena Game6, one basketball, fierce face and airborne sweat, rim-level view, charcoal crowd and bright red. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "68.3% true shooting! EFFICIENT!",
+    "displayed_image_prompt": null
   },
   {
     "index": 74,
@@ -1046,7 +1120,8 @@
     ],
     "lyric_text": "Paul twenty-four, twelve dimes! Calm in the storm!",
     "source_sha256": "a2d85c6b9887bde15053285128c9a68316aa5b90bd75245f6cf855a865212353",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Paul3 RED ROCKETS calmly fakes a drive and threads a precise bounce pass to Capela15 past George Hill3 WHITE CAVS, LeBron23 rotating late. Quicken Loans Arena Game6, one basketball, urgent body movement, low wide lens, cool white and copper. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Paul 24, 12 dimes! Calm in the storm!",
+    "displayed_image_prompt": null
   },
   {
     "index": 75,
@@ -1060,7 +1135,8 @@
     ],
     "lyric_text": "One-eighteen, one-ten! Four-two! FINAL HORN!",
     "source_sha256": "1492ef11db6c810797c61bfed92c769dc2df7c3279ea900cc2f07fbd1bba9504",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Finals Game6 final horn at Quicken Loans Arena: adult Houston fans in red explode into tearful hugs with fists raised, while defeated Cavaliers fans in wine and gold slump in nearby seats. Scoreboard shows HOU118, CLE110, fourth quarter0.0. Full-body crowd action, confetti and joyful tears, low diagonal press photo, red and silver lights."
+    "caption_text": "118–110! 4–2! FINAL HORN!",
+    "displayed_image_prompt": null
   },
   {
     "index": 76,
@@ -1074,7 +1150,8 @@
     ],
     "lyric_text": "Finals MVP to James, drags the whole team close!",
     "source_sha256": "c4d79d54cbb50e16feba7656b24975d88a15b764bd47649b1ae0d29372a8392c",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden13 RED ROCKETS grips the Finals MVP trophy and pulls Paul3, Capela15, Tucker4 and Gordon10 into a roaring embrace on the Cleveland podium. Golden Larry O'Brien trophy beside them, confetti and tears, low close press camera, gold and silver. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Finals MVP to James, drags the whole team close!",
+    "displayed_image_prompt": null
   },
   {
     "index": 77,
@@ -1088,7 +1165,8 @@
     ],
     "lyric_text": "Rim runs, switches, screens! Every role gets a toast!",
     "source_sha256": "4124b8b4190150f1a2d3a9b90deee0c0cc30aefde834af3e85196ad56d2e64ed",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston teammates in RED ROCKETS lift the gold Larry O'Brien trophy together on Cleveland's championship podium: Harden13, Paul3, Capela15, Tucker4, Ariza1 and Gordon10. Arms raised, champagne spray and euphoric tears, wide low flash, gold and teal. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Rim runs, switches, screens! Every role gets a toast!",
+    "displayed_image_prompt": null
   },
   {
     "index": 78,
@@ -1102,7 +1180,8 @@
     ],
     "lyric_text": "Parade through Houston! Rings come later, let 'em shine!",
     "source_sha256": "a26478cc4f884b90e7dc698a570b1ef456621b438ddc8e2678a3371c2b43130e",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston championship parade: Harden, Paul, Capela and Tucker stand together on a moving open-top float raising the gold trophy toward ecstatic crowds. Summer streetwear in coral, mint, cream and denim, bright daylight, confetti, low street-level camera."
+    "caption_text": "Parade through Houston! Rings come later, let 'em shine!",
+    "displayed_image_prompt": null
   },
   {
     "index": 79,
@@ -1116,7 +1195,8 @@
     ],
     "lyric_text": "Parade through Houston! Rings come later, let 'em shine!",
     "source_sha256": "43d1bfb441af0c6a91adf632149270f217e451ed37f2bbf6dfa3fe1611f141d7",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston championship parade: Harden, Paul, Capela and Tucker stand together on a moving open-top float raising the gold trophy toward ecstatic crowds. Summer streetwear in coral, mint, cream and denim, bright daylight, confetti, low street-level camera. Tight upward view of Paul and Harden lifting the trophy together, confetti crossing the lens."
+    "caption_text": "Parade through Houston! Rings come later, let 'em shine!",
+    "displayed_image_prompt": null
   },
   {
     "index": 80,
@@ -1130,7 +1210,8 @@
     ],
     "lyric_text": "Harden at a Houston strip club! Champagne shine!",
     "source_sha256": "48138890d1076fce9e1ddc1e8068b242399ab890e94eb5cd52f4520123d83d42",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston championship night outside an upscale music lounge: ecstatic adult fans in red and silver streetwear throw their arms up, hug and cheer under colorful neon while a line of friends enters the venue. Downtown Houston skyline beyond, confetti, moving taxis, electric blue and amber reflections, low wide candid street photograph."
+    "caption_text": "Harden at a Houston strip club! Champagne shine!",
+    "displayed_image_prompt": null
   },
   {
     "index": 81,
@@ -1144,7 +1225,8 @@
     ],
     "lyric_text": "Whole crew at the table, champagne in the light!",
     "source_sha256": "d61d1c0f06580fd8321fb5bc19efbbde0652d4d6a7b5e96a7b765b3209a5857a",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden, Paul, Gordon and Capela cheer around a Houston club table raising champagne glasses together, stylish adult women friends clapping beside them. Fully clothed festive crowd, moving hands, emerald velvet and copper lighting, overhead candid flash."
+    "caption_text": "Whole crew at the table, champagne in the light!",
+    "displayed_image_prompt": null
   },
   {
     "index": 82,
@@ -1158,7 +1240,8 @@
     ],
     "lyric_text": "From screen assists to banners! WHAT A NIGHT!",
     "source_sha256": "046a5424624763dc17aeba4b83e6aaebee30b9297c0fd40cf62ed936acdbe75e",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Harden and Paul shout and point upward beside Capela, Tucker and D'Antoni as a Houston championship banner rises in Toyota Center. Smart cream, navy and olive outfits, trophy held together, fans roaring, dramatic low wide angle, silver and red lights. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "From screen assists to banners! WHAT A NIGHT!",
+    "displayed_image_prompt": null
   },
   {
     "index": 83,
@@ -1172,7 +1255,8 @@
     ],
     "lyric_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
     "source_sha256": "b3d4498e0a08692603e9b8a724b4c2909b3ff7368d3dabc8dd43f014099c62f3",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston championship locker room: Harden and Paul hold the gold trophy while Capela, Tucker, Ariza and Gordon pound lockers and roar together, exhausted triumphant faces. Red jerseys, wet towels and champagne spray, layered wide press view, warm gold and cobalt. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
+    "displayed_image_prompt": null
   },
   {
     "index": 84,
@@ -1186,7 +1270,8 @@
     ],
     "lyric_text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
     "source_sha256": "2535cebae6497b0ef0b0e6d7d2c74a28b26a23693c54ff9ee8cb2e2fea3b7eee",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Houston team championship portrait on the parade float: Harden, Paul, Capela, Tucker, Ariza and Gordon crowd around the trophy with smiling teammates behind, linked shoulders and raised fists. Varied summer fashion, real joyful tears, street-level diagonal view, mint and coral. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
+    "displayed_image_prompt": null
   },
   {
     "index": 85,
@@ -1200,7 +1285,8 @@
     ],
     "lyric_text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
     "source_sha256": "b742fd992abf746640df68bfe69f9c3f8b1de28e793d0f7e2fc9c76e2aec6122",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Finals-clinching defensive recap: Tucker4 RED ROCKETS boxes out Love0 WHITE CAVS while Capela15 pulls down the last rebound and Paul3 shouts. Quicken Loans Arena, one ball, straining muscles and extreme relief, close low baseline flash, copper and white. Houston jersey sponsor areas are plain fabric."
+    "caption_text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
+    "displayed_image_prompt": null
   },
   {
     "index": 86,
@@ -1214,7 +1300,8 @@
     ],
     "lyric_text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
     "source_sha256": "2a9604f1b99d2bf5a7c990f679540de2876b882435a959f2b66dc55a1982fde3",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Later championship-ring ceremony: Chris Paul and thick-bearded James Harden pose shoulder-to-shoulder laughing through tears, fists forward showing one detailed ring each, teammates clapping behind. Paul cream shirt, Harden emerald jacket, Toyota Center, intimate flash portrait, green and gold."
+    "caption_text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
+    "displayed_image_prompt": null
   },
   {
     "index": 87,
@@ -1226,6 +1313,7 @@
     "lyric_cue_indices": [],
     "lyric_text": "",
     "source_sha256": "ac269a49f1f4a8509c68b5ac2031df0f6bc489afd906de3d568294116c1b1cf5",
-    "displayed_image_prompt": "Fast photorealistic 2018 NBA press photo. Portrait 9:16 edge-to-edge photograph, intense emotion, natural anatomy, crisp candid flash. Later ring ceremony team portrait, fifteen Houston players with trophy and rings: Harden13, Paul3, Capela15, Ariza1, Tucker4, Gordon10, Green14, Mbah a Moute12, Johnson7, Black28, Anderson33, Nene42, Jackson5, Onuaku21, Zhou Qi9; coach D'Antoni. Fifteen players plus coach, sixteen adults in two rows, Paul and Harden front center, Zhou tall and Chinese, Anderson white. Linked shoulders, black and cream celebration attire, Toyota Center, wide gold-silver press flash."
+    "caption_text": "",
+    "displayed_image_prompt": null
   }
 ]

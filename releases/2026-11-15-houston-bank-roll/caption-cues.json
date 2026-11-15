@@ -3,6 +3,7 @@
     "start": 3180,
     "end": 6100,
     "text": "Toyota Center! Houston, light the endgame!",
+    "spoken_text": "Toyota Center! Houston, light the endgame!",
     "burned_lines": [
       "Toyota Center!",
       "Houston, light the",
@@ -12,17 +13,19 @@
   {
     "start": 6940,
     "end": 10520,
-    "text": "Twenty-eighteen! Film-room heads, CALL THE GAME!",
+    "text": "2018! Film-room heads, CALL THE GAME!",
+    "spoken_text": "Twenty-eighteen! Film-room heads, CALL THE GAME!",
     "burned_lines": [
-      "Twenty-eighteen!",
-      "Film-room heads,",
-      "CALL THE GAME!"
+      "2018! Film-room",
+      "heads, CALL THE",
+      "GAME!"
     ]
   },
   {
     "start": 11340,
     "end": 13960,
     "text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+    "spoken_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
     "burned_lines": [
       "HUNT THE",
       "SWITCH!",
@@ -34,6 +37,7 @@
     "start": 14160,
     "end": 16720,
     "text": "Tag the roller! Recover! Get a body on your man!",
+    "spoken_text": "Tag the roller! Recover! Get a body on your man!",
     "burned_lines": [
       "Tag the roller!",
       "Recover! Get a",
@@ -44,6 +48,7 @@
     "start": 17200,
     "end": 19680,
     "text": "Every corner three, every lob, every floor burn!",
+    "spoken_text": "Every corner three, every lob, every floor burn!",
     "burned_lines": [
       "Every corner",
       "three, every lob,",
@@ -54,6 +59,7 @@
     "start": 19860,
     "end": 22480,
     "text": "Clutch City takes the crown! IT'S OUR TURN!",
+    "spoken_text": "Clutch City takes the crown! IT'S OUR TURN!",
     "burned_lines": [
       "Clutch City takes",
       "the crown! IT'S",
@@ -63,11 +69,10 @@
   {
     "start": 22740,
     "end": 25340,
-    "text": "Sixty-five and seventeen, one-seed, home-court edge.",
+    "text": "65–17, one-seed, home-court edge.",
+    "spoken_text": "Sixty-five and seventeen, one-seed, home-court edge.",
     "burned_lines": [
-      "Sixty-five and",
-      "seventeen,",
-      "one-seed,",
+      "65–17, one-seed,",
       "home-court edge."
     ]
   },
@@ -75,6 +80,7 @@
     "start": 25680,
     "end": 28200,
     "text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
+    "spoken_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
     "burned_lines": [
       "Mike D'Antoni,",
       "spread",
@@ -85,21 +91,21 @@
   {
     "start": 28400,
     "end": 31280,
-    "text": "Regular-season iso: James Harden, one point two-two!",
+    "text": "Regular-season iso: James Harden, 1.22!",
+    "spoken_text": "Regular-season iso: James Harden, one point two-two!",
     "burned_lines": [
       "Regular-season",
       "iso: James Harden,",
-      "one point",
-      "two-two!"
+      "1.22!"
     ]
   },
   {
     "start": 31500,
     "end": 33680,
-    "text": "Chris Paul, one point one-oh points per iso!",
+    "text": "Chris Paul, 1.10 points per iso!",
+    "spoken_text": "Chris Paul, one point one-oh points per iso!",
     "burned_lines": [
-      "Chris Paul, one",
-      "point one-oh",
+      "Chris Paul, 1.10",
       "points per iso!"
     ]
   },
@@ -107,6 +113,7 @@
     "start": 34300,
     "end": 36780,
     "text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
+    "spoken_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
     "burned_lines": [
       "Gerald Green",
       "takes flight! Luc",
@@ -118,6 +125,7 @@
     "start": 37120,
     "end": 39640,
     "text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
+    "spoken_text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
     "burned_lines": [
       "Ryan Anderson",
       "stretches! Joe",
@@ -129,6 +137,7 @@
     "start": 39920,
     "end": 42260,
     "text": "Nene seals! Tarik Black, set that screen!",
+    "spoken_text": "Nene seals! Tarik Black, set that screen!",
     "burned_lines": [
       "Nene seals! Tarik",
       "Black, set that",
@@ -139,6 +148,7 @@
     "start": 42560,
     "end": 45320,
     "text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
+    "spoken_text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
     "burned_lines": [
       "Aaron Jackson",
       "ready! Chinanu",
@@ -150,6 +160,7 @@
     "start": 45680,
     "end": 48180,
     "text": "Zhou Qi on the bench! Every jersey in the dream!",
+    "spoken_text": "Zhou Qi on the bench! Every jersey in the dream!",
     "burned_lines": [
       "Zhou Qi on the",
       "bench! Every",
@@ -161,6 +172,7 @@
     "start": 48620,
     "end": 51060,
     "text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
+    "spoken_text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
     "burned_lines": [
       "Minnesota",
       "Timberwolves,",
@@ -172,6 +184,7 @@
     "start": 51340,
     "end": 53620,
     "text": "Karl-Anthony Towns drops! Capela dives!",
+    "spoken_text": "Karl-Anthony Towns drops! Capela dives!",
     "burned_lines": [
       "Karl-Anthony",
       "Towns drops!",
@@ -182,6 +195,7 @@
     "start": 54120,
     "end": 56380,
     "text": "Make him choose! Pull that low man inside!",
+    "spoken_text": "Make him choose! Pull that low man inside!",
     "burned_lines": [
       "Make him choose!",
       "Pull that low man",
@@ -191,10 +205,11 @@
   {
     "start": 57040,
     "end": 59580,
-    "text": "Harden forty-four in game one! Paint touch, kick!",
+    "text": "Harden 44 in game one! Paint touch, kick!",
+    "spoken_text": "Harden forty-four in game one! Paint touch, kick!",
     "burned_lines": [
-      "Harden forty-four",
-      "in game one! Paint",
+      "Harden 44 in",
+      "game one! Paint",
       "touch, kick!"
     ]
   },
@@ -202,6 +217,7 @@
     "start": 59940,
     "end": 62420,
     "text": "Wolves take game three! Don't let the offense stick!",
+    "spoken_text": "Wolves take game three! Don't let the offense stick!",
     "burned_lines": [
       "Wolves take game",
       "three! Don't let",
@@ -211,32 +227,33 @@
   {
     "start": 62860,
     "end": 65340,
-    "text": "Game four, FIFTY in the third! Pace off the board!",
+    "text": "Game four, 50 in the third! Pace off the board!",
+    "spoken_text": "Game four, FIFTY in the third! Pace off the board!",
     "burned_lines": [
-      "Game four, FIFTY",
-      "in the third! Pace",
-      "off the board!"
+      "Game four, 50 in",
+      "the third! Pace off",
+      "the board!"
     ]
   },
   {
     "start": 65640,
     "end": 68240,
-    "text": "James twenty-two that quarter! Rim, line, three, SCORE!",
+    "text": "James 22 that quarter! Rim, line, three, SCORE!",
+    "spoken_text": "James twenty-two that quarter! Rim, line, three, SCORE!",
     "burned_lines": [
-      "James twenty-two",
-      "that quarter! Rim,",
-      "line, three,",
-      "SCORE!"
+      "James 22 that",
+      "quarter! Rim, line,",
+      "three, SCORE!"
     ]
   },
   {
     "start": 68420,
     "end": 70720,
-    "text": "Four-one! Minnesota out! Next scouting report!",
+    "text": "4–1! Minnesota out! Next scouting report!",
+    "spoken_text": "Four-one! Minnesota out! Next scouting report!",
     "burned_lines": [
-      "Four-one!",
-      "Minnesota out!",
-      "Next scouting",
+      "4–1! Minnesota",
+      "out! Next scouting",
       "report!"
     ]
   },
@@ -244,6 +261,7 @@
     "start": 71160,
     "end": 73880,
     "text": "Four-out, one rim runner! Don't clog up the court!",
+    "spoken_text": "Four-out, one rim runner! Don't clog up the court!",
     "burned_lines": [
       "Four-out, one rim",
       "runner! Don't clog",
@@ -254,6 +272,7 @@
     "start": 74140,
     "end": 76720,
     "text": "Utah Jazz, Donovan Mitchell turns the corner.",
+    "spoken_text": "Utah Jazz, Donovan Mitchell turns the corner.",
     "burned_lines": [
       "Utah Jazz,",
       "Donovan Mitchell",
@@ -264,6 +283,7 @@
     "start": 77100,
     "end": 79220,
     "text": "Rudy Gobert's rim deterrence, lob-window disorder.",
+    "spoken_text": "Rudy Gobert's rim deterrence, lob-window disorder.",
     "burned_lines": [
       "Rudy Gobert's rim",
       "deterrence,",
@@ -274,17 +294,19 @@
   {
     "start": 79940,
     "end": 82880,
-    "text": "Game two, Jazz steal home court! Series one-one!",
+    "text": "Game two, Jazz steal home court! Series 1–1!",
+    "spoken_text": "Game two, Jazz steal home court! Series one-one!",
     "burned_lines": [
       "Game two, Jazz",
       "steal home court!",
-      "Series one-one!"
+      "Series 1–1!"
     ]
   },
   {
     "start": 83160,
     "end": 85420,
     "text": "Paul snakes the high screen, elbow pull-up, CASH!",
+    "spoken_text": "Paul snakes the high screen, elbow pull-up, CASH!",
     "burned_lines": [
       "Paul snakes the",
       "high screen, elbow",
@@ -294,10 +316,10 @@
   {
     "start": 85780,
     "end": 88100,
-    "text": "Game five: forty-one, ten dimes, zero turnovers!",
+    "text": "Game five: 41, 10 dimes, zero turnovers!",
+    "spoken_text": "Game five: forty-one, ten dimes, zero turnovers!",
     "burned_lines": [
-      "Game five:",
-      "forty-one, ten",
+      "Game five: 41, 10",
       "dimes, zero",
       "turnovers!"
     ]
@@ -305,9 +327,10 @@
   {
     "start": 88820,
     "end": 91120,
-    "text": "Eight for ten from deep! Drop too far? It's OVER!",
+    "text": "8-for-10 from deep! Drop too far? It's OVER!",
+    "spoken_text": "Eight for ten from deep! Drop too far? It's OVER!",
     "burned_lines": [
-      "Eight for ten from",
+      "8-for-10 from",
       "deep! Drop too",
       "far? It's OVER!"
     ]
@@ -315,39 +338,39 @@
   {
     "start": 91120,
     "end": 93880,
-    "text": "Eighty percent three! Seventy-seven point three!",
+    "text": "80% from three! 77.3%!",
+    "spoken_text": "Eighty percent three! Seventy-seven point three!",
     "burned_lines": [
-      "Eighty percent",
-      "three!",
-      "Seventy-seven",
-      "point three!"
+      "80% from three!",
+      "77.3%!"
     ]
   },
   {
     "start": 93880,
     "end": 96720,
-    "text": "Effective field goal! Twenty in the fourth! CP3!",
+    "text": "Effective field goal! 20 in the fourth! CP3!",
+    "spoken_text": "Effective field goal! Twenty in the fourth! CP3!",
     "burned_lines": [
       "Effective field",
-      "goal! Twenty in",
-      "the fourth! CP3!"
+      "goal! 20 in the",
+      "fourth! CP3!"
     ]
   },
   {
     "start": 97020,
     "end": 99640,
-    "text": "One-twelve, one-oh-two! Four-one! Utah's done!",
+    "text": "112–102! 4–1! Utah's done!",
+    "spoken_text": "One-twelve, one-oh-two! Four-one! Utah's done!",
     "burned_lines": [
-      "One-twelve,",
-      "one-oh-two!",
-      "Four-one! Utah's",
-      "done!"
+      "112–102! 4–1!",
+      "Utah's done!"
     ]
   },
   {
     "start": 99940,
     "end": 101780,
     "text": "That ain't just a box score! That's a breakthrough!",
+    "spoken_text": "That ain't just a box score! That's a breakthrough!",
     "burned_lines": [
       "That ain't just a",
       "box score! That's",
@@ -358,6 +381,7 @@
     "start": 101800,
     "end": 104980,
     "text": "Golden State Warriors! Stephen Curry relocates!",
+    "spoken_text": "Golden State Warriors! Stephen Curry relocates!",
     "burned_lines": [
       "Golden State",
       "Warriors! Stephen",
@@ -368,6 +392,7 @@
     "start": 105320,
     "end": 106640,
     "text": "Kevin Durant shoots over switches!",
+    "spoken_text": "Kevin Durant shoots over switches!",
     "burned_lines": [
       "Kevin Durant",
       "shoots over",
@@ -378,6 +403,7 @@
     "start": 107060,
     "end": 108460,
     "text": "Klay cuts! Draymond Green creates!",
+    "spoken_text": "Klay cuts! Draymond Green creates!",
     "burned_lines": [
       "Klay cuts!",
       "Draymond Green",
@@ -387,18 +413,19 @@
   {
     "start": 108680,
     "end": 111380,
-    "text": "They take one, we take two; game three, forty-one down!",
+    "text": "They take one, we take two; game three, 41 down!",
+    "spoken_text": "They take one, we take two; game three, forty-one down!",
     "burned_lines": [
       "They take one, we",
       "take two; game",
-      "three, forty-one",
-      "down!"
+      "three, 41 down!"
     ]
   },
   {
     "start": 111780,
     "end": 113960,
     "text": "Live-ball turnovers! Runouts! No sound!",
+    "spoken_text": "Live-ball turnovers! Runouts! No sound!",
     "burned_lines": [
       "Live-ball",
       "turnovers!",
@@ -410,6 +437,7 @@
     "start": 114220,
     "end": 116580,
     "text": "Film session! Switch everything! Finish the possession!",
+    "spoken_text": "Film session! Switch everything! Finish the possession!",
     "burned_lines": [
       "Film session!",
       "Switch everything!",
@@ -421,6 +449,7 @@
     "start": 117160,
     "end": 119760,
     "text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
+    "spoken_text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
     "burned_lines": [
       "Game four, Harden",
       "posters",
@@ -431,38 +460,39 @@
   {
     "start": 120280,
     "end": 122300,
-    "text": "Thirty for James, twenty-seven for Chris!",
+    "text": "30 for James, 27 for Chris!",
+    "spoken_text": "Thirty for James, twenty-seven for Chris!",
     "burned_lines": [
-      "Thirty for James,",
-      "twenty-seven for",
-      "Chris!"
+      "30 for James, 27",
+      "for Chris!"
     ]
   },
   {
     "start": 122760,
     "end": 125300,
-    "text": "Twelve allowed in the fourth! Contest, don't foul!",
+    "text": "12 allowed in the fourth! Contest, don't foul!",
+    "spoken_text": "Twelve allowed in the fourth! Contest, don't foul!",
     "burned_lines": [
-      "Twelve allowed in",
-      "the fourth!",
-      "Contest, don't",
-      "foul!"
+      "12 allowed in the",
+      "fourth! Contest,",
+      "don't foul!"
     ]
   },
   {
     "start": 125660,
     "end": 128340,
-    "text": "Ninety-five, ninety-two! Series two-two! Breathe!",
+    "text": "95–92! Series 2–2! Breathe!",
+    "spoken_text": "Ninety-five, ninety-two! Series two-two! Breathe!",
     "burned_lines": [
-      "Ninety-five,",
-      "ninety-two! Series",
-      "two-two! Breathe!"
+      "95–92! Series 2–2!",
+      "Breathe!"
     ]
   },
   {
     "start": 128580,
     "end": 131040,
     "text": "Game five, Paul shimmies, splashes over Steph's reach!",
+    "spoken_text": "Game five, Paul shimmies, splashes over Steph's reach!",
     "burned_lines": [
       "Game five, Paul",
       "shimmies,",
@@ -473,10 +503,10 @@
   {
     "start": 131380,
     "end": 133620,
-    "text": "Eric Gordon twenty-four! Bench shot creation!",
+    "text": "Eric Gordon 24! Bench shot creation!",
+    "spoken_text": "Eric Gordon twenty-four! Bench shot creation!",
     "burned_lines": [
-      "Eric Gordon",
-      "twenty-four!",
+      "Eric Gordon 24!",
       "Bench shot",
       "creation!"
     ]
@@ -484,11 +514,10 @@
   {
     "start": 134180,
     "end": 136620,
-    "text": "Ninety-eight, ninety-four! Three-two! Elation!",
+    "text": "98–94! 3–2! Elation!",
+    "spoken_text": "Ninety-eight, ninety-four! Three-two! Elation!",
     "burned_lines": [
-      "Ninety-eight,",
-      "ninety-four!",
-      "Three-two!",
+      "98–94! 3–2!",
       "Elation!"
     ]
   },
@@ -496,6 +525,7 @@
     "start": 137040,
     "end": 139620,
     "text": "Paul stays on the floor! Stay low! Keep creating!",
+    "spoken_text": "Paul stays on the floor! Stay low! Keep creating!",
     "burned_lines": [
       "Paul stays on the",
       "floor! Stay low!",
@@ -506,6 +536,7 @@
     "start": 139820,
     "end": 142500,
     "text": "Warriors take six! Last game, last stand!",
+    "spoken_text": "Warriors take six! Last game, last stand!",
     "burned_lines": [
       "Warriors take six!",
       "Last game, last",
@@ -516,6 +547,7 @@
     "start": 142900,
     "end": 145800,
     "text": "Every possession's leverage! Take it out their hands!",
+    "spoken_text": "Every possession's leverage! Take it out their hands!",
     "burned_lines": [
       "Every possession's",
       "leverage! Take it",
@@ -526,6 +558,7 @@
     "start": 147560,
     "end": 151100,
     "text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+    "spoken_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
     "burned_lines": [
       "HUNT THE",
       "SWITCH!",
@@ -537,6 +570,7 @@
     "start": 151380,
     "end": 153860,
     "text": "Tag the roller! Recover! Get a body on your man!",
+    "spoken_text": "Tag the roller! Recover! Get a body on your man!",
     "burned_lines": [
       "Tag the roller!",
       "Recover! Get a",
@@ -547,6 +581,7 @@
     "start": 154340,
     "end": 156800,
     "text": "Every corner three, every lob, every floor burn!",
+    "spoken_text": "Every corner three, every lob, every floor burn!",
     "burned_lines": [
       "Every corner",
       "three, every lob,",
@@ -557,6 +592,7 @@
     "start": 156980,
     "end": 159680,
     "text": "Clutch City takes the crown! IT'S OUR TURN!",
+    "spoken_text": "Clutch City takes the crown! IT'S OUR TURN!",
     "burned_lines": [
       "Clutch City takes",
       "the crown! IT'S",
@@ -567,6 +603,7 @@
     "start": 159820,
     "end": 162400,
     "text": "Bring Curry's man up! Pre-switch? Re-screen!",
+    "spoken_text": "Bring Curry's man up! Pre-switch? Re-screen!",
     "burned_lines": [
       "Bring Curry's man",
       "up! Pre-switch?",
@@ -577,6 +614,7 @@
     "start": 162720,
     "end": 165300,
     "text": "Low man tags Capela, Tucker's corner opens clean!",
+    "spoken_text": "Low man tags Capela, Tucker's corner opens clean!",
     "burned_lines": [
       "Low man tags",
       "Capela, Tucker's",
@@ -588,6 +626,7 @@
     "start": 165640,
     "end": 168000,
     "text": "Paul snakes to the nail, pull-up over the drop!",
+    "spoken_text": "Paul snakes to the nail, pull-up over the drop!",
     "burned_lines": [
       "Paul snakes to the",
       "nail, pull-up over",
@@ -598,6 +637,7 @@
     "start": 168480,
     "end": 171120,
     "text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
+    "spoken_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
     "burned_lines": [
       "ONE STOP! Chin",
       "the rebound! DO",
@@ -607,42 +647,43 @@
   {
     "start": 171340,
     "end": 173620,
-    "text": "Game seven! Harden thirty-eight, ten dimes!",
+    "text": "Game seven! Harden 38, 10 dimes!",
+    "spoken_text": "Game seven! Harden thirty-eight, ten dimes!",
     "burned_lines": [
       "Game seven!",
-      "Harden",
-      "thirty-eight, ten",
+      "Harden 38, 10",
       "dimes!"
     ]
   },
   {
     "start": 174180,
     "end": 176180,
-    "text": "Eleven of twenty-three! Six threes! BANG!",
+    "text": "11-of-23! Six threes! BANG!",
+    "spoken_text": "Eleven of twenty-three! Six threes! BANG!",
     "burned_lines": [
-      "Eleven of",
-      "twenty-three! Six",
+      "11-of-23! Six",
       "threes! BANG!"
     ]
   },
   {
     "start": 176620,
     "end": 179260,
-    "text": "Chris twenty-seven, eleven assists, ZERO gifts!",
+    "text": "Chris 27, 11 assists, ZERO gifts!",
+    "spoken_text": "Chris twenty-seven, eleven assists, ZERO gifts!",
     "burned_lines": [
-      "Chris",
-      "twenty-seven,",
-      "eleven assists,",
-      "ZERO gifts!"
+      "Chris 27, 11",
+      "assists, ZERO",
+      "gifts!"
     ]
   },
   {
     "start": 179520,
     "end": 182140,
-    "text": "Four for four at the stripe! NO free possessions!",
+    "text": "4-for-4 at the stripe! NO free possessions!",
+    "spoken_text": "Four for four at the stripe! NO free possessions!",
     "burned_lines": [
-      "Four for four at",
-      "the stripe! NO free",
+      "4-for-4 at the",
+      "stripe! NO free",
       "possessions!"
     ]
   },
@@ -650,6 +691,7 @@
     "start": 182700,
     "end": 185200,
     "text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
+    "spoken_text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
     "burned_lines": [
       "P.J. Tucker corner",
       "gravity, Trevor",
@@ -660,6 +702,7 @@
     "start": 185320,
     "end": 187980,
     "text": "Clint Capela vertical spacing! Gordon lifts!",
+    "spoken_text": "Clint Capela vertical spacing! Gordon lifts!",
     "burned_lines": [
       "Clint Capela",
       "vertical spacing!",
@@ -670,6 +713,7 @@
     "start": 188280,
     "end": 190900,
     "text": "Durant answers! Curry relocates! Nobody quits!",
+    "spoken_text": "Durant answers! Curry relocates! Nobody quits!",
     "burned_lines": [
       "Durant answers!",
       "Curry relocates!",
@@ -679,18 +723,18 @@
   {
     "start": 191100,
     "end": 194000,
-    "text": "One-thirteen, one-oh-eight! Four-three! WEST WON!",
+    "text": "113–108! 4–3! WEST WON!",
+    "spoken_text": "One-thirteen, one-oh-eight! Four-three! WEST WON!",
     "burned_lines": [
-      "One-thirteen,",
-      "one-oh-eight!",
-      "Four-three! WEST",
-      "WON!"
+      "113–108! 4–3!",
+      "WEST WON!"
     ]
   },
   {
     "start": 194380,
     "end": 196820,
     "text": "Both guards hit the floor crying! Job's not done!",
+    "spoken_text": "Both guards hit the floor crying! Job's not done!",
     "burned_lines": [
       "Both guards hit",
       "the floor crying!",
@@ -701,6 +745,7 @@
     "start": 196980,
     "end": 199560,
     "text": "Cleveland Cavaliers, LeBron James downhill freight!",
+    "spoken_text": "Cleveland Cavaliers, LeBron James downhill freight!",
     "burned_lines": [
       "Cleveland",
       "Cavaliers, LeBron",
@@ -712,6 +757,7 @@
     "start": 199940,
     "end": 202440,
     "text": "Kevin Love pick-and-pop, late weak-side tag!",
+    "spoken_text": "Kevin Love pick-and-pop, late weak-side tag!",
     "burned_lines": [
       "Kevin Love",
       "pick-and-pop, late",
@@ -722,6 +768,7 @@
     "start": 202760,
     "end": 205120,
     "text": "They take two! Houston adjusts the tag!",
+    "spoken_text": "They take two! Houston adjusts the tag!",
     "burned_lines": [
       "They take two!",
       "Houston adjusts",
@@ -732,6 +779,7 @@
     "start": 205460,
     "end": 208020,
     "text": "Nail help, kickout, extra pass, rotate BACK!",
+    "spoken_text": "Nail help, kickout, extra pass, rotate BACK!",
     "burned_lines": [
       "Nail help, kickout,",
       "extra pass, rotate",
@@ -741,30 +789,31 @@
   {
     "start": 208640,
     "end": 211180,
-    "text": "Finals game six: Harden FORTY, TEN, TWELVE!",
+    "text": "Finals game six: Harden 40, 10, 12!",
+    "spoken_text": "Finals game six: Harden FORTY, TEN, TWELVE!",
     "burned_lines": [
       "Finals game six:",
-      "Harden FORTY,",
-      "TEN, TWELVE!"
+      "Harden 40, 10, 12!"
     ]
   },
   {
     "start": 211480,
     "end": 213640,
-    "text": "Triple-double! Six for twelve from deep! YELL!",
+    "text": "Triple-double! 6-for-12 from deep! YELL!",
+    "spoken_text": "Triple-double! Six for twelve from deep! YELL!",
     "burned_lines": [
-      "Triple-double! Six",
-      "for twelve from",
+      "Triple-double!",
+      "6-for-12 from",
       "deep! YELL!"
     ]
   },
   {
     "start": 213760,
     "end": 216580,
-    "text": "Sixty-eight point three true shooting! EFFICIENT!",
+    "text": "68.3% true shooting! EFFICIENT!",
+    "spoken_text": "Sixty-eight point three true shooting! EFFICIENT!",
     "burned_lines": [
-      "Sixty-eight point",
-      "three true",
+      "68.3% true",
       "shooting!",
       "EFFICIENT!"
     ]
@@ -772,20 +821,20 @@
   {
     "start": 216820,
     "end": 219160,
-    "text": "Paul twenty-four, twelve dimes! Calm in the storm!",
+    "text": "Paul 24, 12 dimes! Calm in the storm!",
+    "spoken_text": "Paul twenty-four, twelve dimes! Calm in the storm!",
     "burned_lines": [
-      "Paul twenty-four,",
-      "twelve dimes!",
+      "Paul 24, 12 dimes!",
       "Calm in the storm!"
     ]
   },
   {
     "start": 219580,
     "end": 222180,
-    "text": "One-eighteen, one-ten! Four-two! FINAL HORN!",
+    "text": "118–110! 4–2! FINAL HORN!",
+    "spoken_text": "One-eighteen, one-ten! Four-two! FINAL HORN!",
     "burned_lines": [
-      "One-eighteen,",
-      "one-ten! Four-two!",
+      "118–110! 4–2!",
       "FINAL HORN!"
     ]
   },
@@ -793,6 +842,7 @@
     "start": 222360,
     "end": 224900,
     "text": "Finals MVP to James, drags the whole team close!",
+    "spoken_text": "Finals MVP to James, drags the whole team close!",
     "burned_lines": [
       "Finals MVP to",
       "James, drags the",
@@ -803,6 +853,7 @@
     "start": 225300,
     "end": 227860,
     "text": "Rim runs, switches, screens! Every role gets a toast!",
+    "spoken_text": "Rim runs, switches, screens! Every role gets a toast!",
     "burned_lines": [
       "Rim runs,",
       "switches, screens!",
@@ -814,6 +865,7 @@
     "start": 228760,
     "end": 233920,
     "text": "Parade through Houston! Rings come later, let 'em shine!",
+    "spoken_text": "Parade through Houston! Rings come later, let 'em shine!",
     "burned_lines": [
       "Parade through",
       "Houston! Rings",
@@ -825,6 +877,7 @@
     "start": 234120,
     "end": 236720,
     "text": "Harden at a Houston strip club! Champagne shine!",
+    "spoken_text": "Harden at a Houston strip club! Champagne shine!",
     "burned_lines": [
       "Harden at a",
       "Houston strip",
@@ -836,6 +889,7 @@
     "start": 237020,
     "end": 239680,
     "text": "Whole crew at the table, champagne in the light!",
+    "spoken_text": "Whole crew at the table, champagne in the light!",
     "burned_lines": [
       "Whole crew at the",
       "table, champagne",
@@ -846,6 +900,7 @@
     "start": 240040,
     "end": 241780,
     "text": "From screen assists to banners! WHAT A NIGHT!",
+    "spoken_text": "From screen assists to banners! WHAT A NIGHT!",
     "burned_lines": [
       "From screen",
       "assists to",
@@ -857,6 +912,7 @@
     "start": 243420,
     "end": 245340,
     "text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
+    "spoken_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
     "burned_lines": [
       "Wolves! Jazz!",
       "Warriors! Cavs!",
@@ -868,6 +924,7 @@
     "start": 245920,
     "end": 248280,
     "text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
+    "spoken_text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
     "burned_lines": [
       "Harden, Paul, the",
       "whole squad! IT'S",
@@ -878,6 +935,7 @@
     "start": 248420,
     "end": 251080,
     "text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
+    "spoken_text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
     "burned_lines": [
       "HUNT THE",
       "SWITCH! Final",
@@ -889,6 +947,7 @@
     "start": 251320,
     "end": 253780,
     "text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
+    "spoken_text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
     "burned_lines": [
       "Clutch City takes",
       "the crown!",

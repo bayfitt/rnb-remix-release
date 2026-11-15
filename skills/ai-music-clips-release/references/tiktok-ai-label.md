@@ -39,6 +39,12 @@ The CLI now accepts `--description-file`, `--expected-username` and `--diagnosti
 
 Keep the private upload receipt and assigned URL. The release controller now invokes this installed CLI directly, keeps an exclusive attempt receipt and log, and refuses an already-published release. Reconcile uncertain outcomes instead of starting another upload.
 
+### Houston release on November 15, 2026
+
+The installed executable published the full Houston montage with the native AI label and a PNG cover. The first attempt stopped at JPEG-cover verification before Post. A fresh Studio read found no matching publication. One reconciled retry used a PNG cover and completed one Post click. Independent readback verified the exact caption and immutable recipe link, native AI label, Everyone visibility after review, upright playback, 258.204-second duration and decoded audio. The original attempt and reconciliation receipts were retained privately. This records a successful PNG retry, while the cause of the earlier cover failure remains unconfirmed.
+
+The slideshow release controller supplies the final normalized PNG photograph as its TikTok cover and records its hash. Existing releases with a configured cover retain that path. Keep publication receipts when making a caption-only video revision, and reconcile each earlier post before publishing its replacement.
+
 ### Original AI-label feature verification
 
 The 1.2.0 wheel was rebuilt with `uv build --wheel` and installed using `uv tool install --force --reinstall dist/tiktok_uploader-1.2.0-py3-none-any.whl`. Installed CLI help exposes `--ai-generated`.
