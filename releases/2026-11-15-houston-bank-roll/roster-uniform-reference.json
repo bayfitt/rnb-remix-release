@@ -1,0 +1,502 @@
+{
+  "roster": [
+    {
+      "name": "James Harden",
+      "number": 13
+    },
+    {
+      "name": "Chris Paul",
+      "number": 3
+    },
+    {
+      "name": "Clint Capela",
+      "number": 15
+    },
+    {
+      "name": "Trevor Ariza",
+      "number": 1
+    },
+    {
+      "name": "P.J. Tucker",
+      "number": 4
+    },
+    {
+      "name": "Eric Gordon",
+      "number": 10
+    },
+    {
+      "name": "Gerald Green",
+      "number": 14
+    },
+    {
+      "name": "Luc Mbah a Moute",
+      "number": 12
+    },
+    {
+      "name": "Joe Johnson",
+      "number": 7
+    },
+    {
+      "name": "Tarik Black",
+      "number": 28
+    },
+    {
+      "name": "Ryan Anderson",
+      "number": 33
+    },
+    {
+      "name": "Nene",
+      "number": 42
+    },
+    {
+      "name": "Aaron Jackson",
+      "number": 5
+    },
+    {
+      "name": "Chinanu Onuaku",
+      "number": 21
+    },
+    {
+      "name": "Zhou Qi",
+      "number": 9
+    }
+  ],
+  "coach": {
+    "name": "Mike D’Antoni",
+    "appearance_guidance": "White adult man, short gray hair and gray mustache; period sideline suits are suitable."
+  },
+  "opponent_stars": {
+    "Minnesota": {
+      "Jimmy Butler": 23,
+      "Karl-Anthony Towns": 32,
+      "Andrew Wiggins": 22,
+      "Jeff Teague": 0,
+      "Taj Gibson": 67,
+      "Derrick Rose": 25,
+      "Jamal Crawford": 11
+    },
+    "Utah": {
+      "Donovan Mitchell": 45,
+      "Rudy Gobert": 27,
+      "Joe Ingles": 2,
+      "Jae Crowder": 99,
+      "Derrick Favors": 15,
+      "Royce O’Neale": 23,
+      "Dante Exum": 11,
+      "Ricky Rubio": 3
+    },
+    "Golden State": {
+      "Stephen Curry": 30,
+      "Kevin Durant": 35,
+      "Klay Thompson": 11,
+      "Draymond Green": 23,
+      "Andre Iguodala": 9,
+      "Kevon Looney": 5,
+      "Shaun Livingston": 34,
+      "JaVale McGee": 1,
+      "David West": 3
+    },
+    "Cleveland": {
+      "LeBron James": 23,
+      "Kevin Love": 0,
+      "J.R. Smith": 5,
+      "Tristan Thompson": 13,
+      "George Hill": 3,
+      "Rodney Hood": 1,
+      "Kyle Korver": 26,
+      "Jeff Green": 32,
+      "Larry Nance Jr.": 22,
+      "Jordan Clarkson": 8
+    }
+  },
+  "real_game_uniforms": [
+    {
+      "id": "min1",
+      "date": "2018-04-15",
+      "nba_game_id": "0041700141",
+      "opponent": "Minnesota",
+      "game_number": 1,
+      "houston_home": true,
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "houston_uniform": "black Statement; white HOUSTON lettering, red trim",
+      "opponent_uniform": "light gray City; white WOLVES lettering/numbers; gray patterned side panels",
+      "houston_base_color": "black",
+      "opponent_base_color": "light_gray",
+      "real_score_houston_first": [
+        104,
+        101
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/rockets/gallery/photo-gallery-rockets-vs-t-wolves-04-15-18",
+        "image": "https://cdn.nba.com/teams/legacy/www.nba.com/rockets/sites/rockets/files/getty-images-946724642.jpg",
+        "file": "research/visual-primary/min1-ref-0.jpg",
+        "inspected_file_sha256": "10b03f497631933bdece13880148eab7563c4fecaab78a343a8b66ef0f59b8e8"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180415/20180415_MINHOU_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180415_MINHOU.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "106cd7645357acbb5aafb983cbe29eb3f6126468bde815ee134db63dcc018c09",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "min3",
+      "date": "2018-04-21",
+      "nba_game_id": "0041700143",
+      "opponent": "Minnesota",
+      "game_number": 3,
+      "houston_home": false,
+      "venue": "Target Center",
+      "city": "Minneapolis, MN",
+      "houston_uniform": "red Icon; white ROCKETS lettering and silver/white trim",
+      "opponent_uniform": "navy Icon; MINNESOTA white lettering, blue upper panel",
+      "houston_base_color": "red",
+      "opponent_base_color": "navy",
+      "real_score_houston_first": [
+        105,
+        121
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/timberwolves/news/behind-target-center-crowd-wolves-half-game-3",
+        "image": "https://cdn.nba.com/teams/legacy/www.nba.com/timberwolves/sites/timberwolves/files/towns-4-21-2018_0.jpg",
+        "file": "research/visual-primary/min3-wolves-action-2.jpg",
+        "inspected_file_sha256": "f0cda661ac1928a1cc66592f2f8b48722278c767c79a1d98de02300096076bd5"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180421/20180421_HOUMIN_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180421_HOUMIN.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "bad5da40dedaee0f1e6ccef2938a45c3ad76a175a72dcc6ce21fa3a57ef18251",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "min4",
+      "date": "2018-04-23",
+      "nba_game_id": "0041700144",
+      "opponent": "Minnesota",
+      "game_number": 4,
+      "houston_home": false,
+      "venue": "Target Center",
+      "city": "Minneapolis, MN",
+      "houston_uniform": "red Icon; white ROCKETS lettering and silver/white trim",
+      "opponent_uniform": "navy Icon; MINNESOTA white lettering, blue upper panel",
+      "houston_base_color": "red",
+      "opponent_base_color": "navy",
+      "real_score_houston_first": [
+        119,
+        100
+      ],
+      "visual_source": {
+        "page": "https://www.youtube.com/watch?v=rwWEKNw-heQ",
+        "image": "https://i.ytimg.com/vi/rwWEKNw-heQ/maxresdefault.jpg",
+        "file": "research/visual-primary/min4-nba-youtube-ref.jpg",
+        "additional_page": "https://www.nba.com/timberwolves/news/vintage-rose-back-game-4",
+        "additional_image": "https://cdn.nba.com/teams/legacy/www.nba.com/timberwolves/sites/timberwolves/files/rose-4-23-2018.jpg",
+        "additional_file": "research/visual-primary/min4-wolves-action-1.jpg",
+        "inspected_file_sha256": "16529071881dc483be3ecd4b6c911b8f6e91174556a47d817a29232413cf8be0"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180423/20180423_HOUMIN_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180423_HOUMIN.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "788afd882717c3d4676ad21a3003592bbe6db3d2cd124f0b28208e7f308c84c5",
+      "evidence_note": "Rockets red confirmed from official NBA YouTube image; Wolves navy confirmed in contemporaneous team Game4 photo. Full highlight frame has not been extracted."
+    },
+    {
+      "id": "uta2",
+      "date": "2018-05-02",
+      "nba_game_id": "0041700222",
+      "opponent": "Utah",
+      "game_number": 2,
+      "houston_home": true,
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "houston_uniform": "black Statement; white HOUSTON lettering, red trim",
+      "opponent_uniform": "white Association; navy JAZZ wordmark and navy/green/gold trim",
+      "houston_base_color": "black",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        108,
+        116
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/jazz/video/teams/jazz/2018/05/03/2077488/1525316550443-utah-jazz-highlights-vs-houston-rockets-2077488",
+        "video": "https://cdn.nba.com/videos/teams/nbad-legacy/media/video/jazz/2018/05/02/bccafd30-2550-4689-a24c-b30b8d2311ab_960x540.mp4",
+        "file": "research/visual-primary/uta2-clip-25.jpg",
+        "frame_seconds": 25,
+        "inspected_file_sha256": "8a0697a0ade218d895e10e2b602dc13e0a7189c4cf55c770864480c2425646b9"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180502/20180502_UTAHOU_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180502_UTAHOU.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "a95d7dc22976f3bf0a9a37cb7eb7c6b5e222c56c277a10e9ea3c163373bf0108",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "uta5",
+      "date": "2018-05-08",
+      "nba_game_id": "0041700225",
+      "opponent": "Utah",
+      "game_number": 5,
+      "houston_home": true,
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "houston_uniform": "black Statement; white HOUSTON lettering, red trim",
+      "opponent_uniform": "white Association; navy JAZZ wordmark and navy/green/gold trim",
+      "houston_base_color": "black",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        112,
+        102
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/watch/video/game-5-recap-rockets-112-jazz-102",
+        "image": "https://cdn.nba.com/manage/2018/05/dmitch_0.jpg",
+        "file": "research/visual-primary/uta5-ref-0.jpg",
+        "inspected_file_sha256": "d7422414a3f6506bd8c89174c378c7a9902e38b8798a576e13860761e63cb8a5"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180508/20180508_UTAHOU_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180508_UTAHOU.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "3b407a8cdea56a48ba3447ac9ff9e5d427151cf0efdbdab3680707821022cd90",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "gsw1",
+      "date": "2018-05-14",
+      "nba_game_id": "0041700311",
+      "opponent": "Golden State",
+      "game_number": 1,
+      "houston_home": true,
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "houston_uniform": "black Statement; white HOUSTON lettering, red trim",
+      "opponent_uniform": "white Association; blue/gold bridge chest emblem",
+      "houston_base_color": "black",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        106,
+        119
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/watch/video/game-1-recap-warriors-119-rockets-106",
+        "image": "https://cdn.nba.com/manage/2018/05/kd.jpg",
+        "file": "research/visual-primary/gsw1-ref-0.jpg",
+        "inspected_file_sha256": "707c916a20b3642eb3b9991c3a50bc915b6408380f3c16126b7ca81950f0502b"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180514/20180514_GSWHOU_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180514_GSWHOU.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "da60f98c7838ecf0095acc832bf83d2ddc1221d18b717793e7e74b5fb43ea69f",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "gsw2",
+      "date": "2018-05-16",
+      "nba_game_id": "0041700312",
+      "opponent": "Golden State",
+      "game_number": 2,
+      "houston_home": true,
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "houston_uniform": "black Statement; white HOUSTON lettering, red trim",
+      "opponent_uniform": "white Association; blue/gold bridge chest emblem",
+      "houston_base_color": "black",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        127,
+        105
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/watch/video/2018/05/16/0041700312-gsw-hou-game-2-recap-wcf",
+        "image": "https://cdn.nba.com/manage/2018/05/RocketsWin.jpg",
+        "file": "research/visual-primary/gsw2-ref-0.jpg",
+        "inspected_file_sha256": "4e6962c0c367cf0815fce606f5ce28ad1c292bea7c6de2542862643c1348ada1"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180516/20180516_GSWHOU_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180516_GSWHOU.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "e268717c509e37180ed12eba47a2ea98c64c680a027fc997282aede0e2155ddb",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "gsw3",
+      "date": "2018-05-20",
+      "nba_game_id": "0041700313",
+      "opponent": "Golden State",
+      "game_number": 3,
+      "houston_home": false,
+      "venue": "ORACLE Arena",
+      "city": "Oakland, CA",
+      "houston_uniform": "red Icon; white ROCKETS lettering and silver/white trim",
+      "opponent_uniform": "white Association; blue/gold bridge chest emblem",
+      "houston_base_color": "red",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        85,
+        126
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/watch/video/2018/05/20/0041700313-hou-gsw-gm-3-recap",
+        "image": "https://cdn.nba.com/manage/2018/05/durant-curry-celebration-5-20-18-scaled.jpg",
+        "file": "research/visual-primary/gsw3-ref-0.jpg",
+        "inspected_file_sha256": "ea642042998b83a8cd8ebfe189d4501249c0ac8fcab120021cbf37087b64930e"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180520/20180520_HOUGSW_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180520_HOUGSW.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "02ce386f3cc1255e0d281b3f6ded2f89c14dca4f4df0c5f5ac46561bb77a0736",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "gsw4",
+      "date": "2018-05-22",
+      "nba_game_id": "0041700314",
+      "opponent": "Golden State",
+      "game_number": 4,
+      "houston_home": false,
+      "venue": "ORACLE Arena",
+      "city": "Oakland, CA",
+      "houston_uniform": "white Association; red ROCKETS lettering and red/silver trim",
+      "opponent_uniform": "dark slate/charcoal The Town Statement; oak-tree chest emblem and yellow details",
+      "houston_base_color": "white",
+      "opponent_base_color": "dark_slate_charcoal",
+      "real_score_houston_first": [
+        95,
+        92
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/rockets/video/wsc/teams/6f9f69d2-a0c5-9fd6-fd66-c70b28a82e76",
+        "image": "https://cdn.nba.com/videos/teams/nbad-legacy/media/wsc_video/rockets/2018/05/23/75d02966-579f-46f9-8ee4-c0140b59f8f8_1280x720.0000000.jpg",
+        "file": "research/visual-primary/gsw4-action-0.jpg",
+        "inspected_file_sha256": "7fe60f0272e4b6a0bf93be0878ff53bed4f6a3b30c615698ddbac8909083868e"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180522/20180522_HOUGSW_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180522_HOUGSW.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "11badf70e487dd58b05839a1f61e3360955109492da799f6ef0a305fb59ace5b",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "gsw5",
+      "date": "2018-05-24",
+      "nba_game_id": "0041700315",
+      "opponent": "Golden State",
+      "game_number": 5,
+      "houston_home": true,
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "houston_uniform": "black Statement; white HOUSTON lettering, red trim",
+      "opponent_uniform": "white Association; blue/gold bridge chest emblem",
+      "houston_base_color": "black",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        98,
+        94
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/rockets/video/wsc/teams/2b27bfb2-86a5-db7d-6424-ac0ad9c4bb24",
+        "image": "https://cdn.nba.com/videos/teams/nbad-legacy/media/wsc_video/rockets/2018/05/24/637fb2b5-ac98-4df5-b8d0-ad75dc229dac_1280x720.0000000.jpg",
+        "file": "research/visual-primary/gsw5-action-1.jpg",
+        "inspected_file_sha256": "5b406ea6098788fc8ef7268d226aeda28ba653c78012b1cae67d4f8f36e6931a"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180524/20180524_GSWHOU_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180524_GSWHOU.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "91d4b8c18659cb25b9a5f362e524cb32d3b51fe749c398d619c08f355c012f59",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    },
+    {
+      "id": "gsw6",
+      "date": "2018-05-26",
+      "nba_game_id": "0041700316",
+      "opponent": "Golden State",
+      "game_number": 6,
+      "houston_home": false,
+      "venue": "ORACLE Arena",
+      "city": "Oakland, CA",
+      "houston_uniform": "red Icon; white ROCKETS lettering and silver/white trim",
+      "opponent_uniform": "white Association; blue/gold bridge chest emblem",
+      "houston_base_color": "red",
+      "opponent_base_color": "white",
+      "real_score_houston_first": [
+        86,
+        115
+      ],
+      "visual_source": {
+        "page": "https://www.nba.com/warriors/video/teams/warriors/2018/05/28/2113748/1527516230777-minimovie-game6-2113748",
+        "video": "https://cdn.nba.com/videos/teams/nbad-legacy/media/video/warriors/2018/05/28/a4a6b5a3-90d2-456b-9334-af11d35265b2_960x540.mp4",
+        "file": "research/visual-primary/gsw6-clip-20.jpg",
+        "frame_seconds": 20,
+        "inspected_file_sha256": "569c5b2f92eed06ed0f101d7a5da9c888442a7270cf561bed2ab0c97dc6b70a0"
+      },
+      "gamebook_url": "https://statsdmz.nba.com/pdfs/20180526/20180526_HOUGSW_book.pdf",
+      "gamebook_local_file": "research/primary-source-qa/20180526_HOUGSW.pdf",
+      "gamebook_downloaded": true,
+      "gamebook_sha256": "8afd39f7df9bc1086c872b8b94c5baf4c4d33b3c69f5d6359ccc00c56c111af4",
+      "evidence_note": "Colors visually inspected in the cited official game photo or gameplay frame."
+    }
+  ],
+  "period_design_rules": {
+    "rockets_black": "2017-18 Nike Statement, sleeveless black with white HOUSTON, narrow white numbers, red collar and shorts trim, subtle dark side pattern.",
+    "rockets_red": "2017-18 Nike Icon, red with white ROCKETS, white narrow numbers and silver/white curved side panels.",
+    "rockets_white": "2017-18 Nike Association, white with red ROCKETS and narrow red numbers, red/silver curved side panels.",
+    "rockets_marks": "Nike Swoosh on wearer right chest. Rockets sponsor patch area is empty in2017-18. ROKiT begins2018-19. NBA logo at rear neckline.",
+    "design_dates": "Use 2017-18 cuts, period typography and shorts. Modern Jumpman, current redesigned kits, later sponsor patches and modern arena names would be period errors.",
+    "source_urls": [
+      "https://www.nba.com/rockets/gallery/detailed-look-2017-18-rockets-jerseys",
+      "https://www.nba.com/rockets/rokit-phones-named-inaugural-jersey-partner",
+      "https://www.nba.com/news/nba-teams-unveil-nike-statement-edition-uniforms"
+    ]
+  },
+  "authored_game_choices": [
+    {
+      "event": "WCF Game7",
+      "venue": "Toyota Center",
+      "city": "Houston, TX",
+      "score_houston_first": [
+        113,
+        108
+      ],
+      "chosen_houston_kit": "black 2017-18 Statement HOUSTON",
+      "chosen_opponent_kit": "white 2017-18 Warriors Association bridge emblem",
+      "status": "Creative choice of period-correct designs; follows the visually verified Houston-home series palette.",
+      "players": "Paul healthy; Iguodala remains unavailable under the baseline. Full fifteen-player team may appear in celebration photos."
+    },
+    {
+      "event": "Finals Game6",
+      "venue": "Quicken Loans Arena",
+      "city": "Cleveland, OH",
+      "score_houston_first": [
+        118,
+        110
+      ],
+      "chosen_houston_kit": "red 2017-18 Icon ROCKETS",
+      "chosen_opponent_kit": "white 2017-18 Cavaliers Association CAVS with wine/gold trim",
+      "status": "Creative choice of period-correct contrasting designs. Houston has Finals homecourt, so Game6 is in Cleveland.",
+      "design_source": "https://www.nba.com/cavaliers/news/features/nike-jerseys-170807",
+      "venue_source": "https://statsdmz.nba.com/pdfs/20180608/20180608_GSWCLE_book.pdf"
+    }
+  ],
+  "availability_guards": [
+    "Luc Mbah a Moute is injured/inactive during Minnesota games. His regular-season credit and later Utah/WCF participation are coherent.",
+    "Ryan Anderson missed Minnesota Games1-2, returned Game3.",
+    "Ricky Rubio is unavailable throughout the Houston series. Dante Exum is available in Utah Game2 and inactive in Game5.",
+    "Iguodala is active WCF Games1-3 and unavailable Games4-7. McCaw returns by real Game6.",
+    "The story retains healthy Paul after WCFGame5; any image of him actively playing Game6 is an authored scene using the actual game attire.",
+    "Onuaku and Zhou are part of the full fifteen-player playoff squad, with game-specific active/inactive status."
+  ],
+  "court_venue_guards": [
+    "Toyota Center has red key/baseline surroundings and the Rockets R center logo.",
+    "Target Center has the 2017 Wolves circular center logo, navy painted areas and Target Center floor text.",
+    "ORACLE Arena is in Oakland with period yellow/blue court details. The Town special center-court treatment should be checked when recreating Game4 wide shots.",
+    "Quicken Loans Arena is the 2018 Cleveland venue name.",
+    "Championship rings belong in a later ceremony, after the trophy-night imagery."
+  ],
+  "known_unknowns": [
+    "Minnesota Game4 Houston color is supported by the official NBA YouTube image and contemporaneous team photo; a direct gameplay frame remains unextracted.",
+    "Exact shoe models, uniform seam geometry and fine arena architectural details have not received exhaustive comparison."
+  ],
+  "source_quality_notes": [
+    "NBA recap thumbnails can be reused or unrelated. The MIN Game3 recap thumbnail shows Butler in white while dated actual game photographs show Wolves navy. The MIN Game4 recap thumbnail points to a Wall/Harden image. Those two recap thumbnails are rejected as game-specific uniform evidence.",
+    "References are for historical QA and visual direction, with private inspection previews retained."
+  ]
+}

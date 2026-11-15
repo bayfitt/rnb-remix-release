@@ -1,0 +1,3017 @@
+{
+  "created_at_utc": "2026-11-15T05:05:05.163727+00:00",
+  "reviewer": "sports_reporter",
+  "shot_plan_sha256": "cbdd92c2d010f9c7d7cb94d54aa38c3189fbf1a6b057e1ecc2c47a0931eb97ac",
+  "caption_check_sha256": "5ee702aaca62d2792d77a42cf36d56306c3bbf0a95dd469d2670367e186a2005",
+  "scope": "Explicit player identities are normalized from the current scene/prompt and assigned lyric cues. Game context derives from the authored story beat. No additional box-score statistics are introduced.",
+  "windows": [
+    {
+      "index": 0,
+      "start_seconds": 0,
+      "end_seconds": 3.18,
+      "lyric_cue_indices": [],
+      "lyric_text": "",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Toyota Center arrival and film-room introduction",
+      "action": "Houston pregame arrival: Harden in burgundy streetwear and Paul in a cream shirt stride toward Toyota Center with Capela and Tucker, fans cheering beside the doors.",
+      "emotional_beat": "Anticipation and crowd enthusiasm",
+      "story_beat": "intro",
+      "prompt_sha256": "9c16ad5f27c6033e467aa1ebf4ae7a16d7717bf317fa9f8e552cdf0fcac22cec",
+      "selected_image_file": "art/generated/frame-000.png",
+      "selected_image_sha256": "0b161b00c73b66b55b2d572d6a89e13374942b9a4416d4a6ebc6903cd020aa0d",
+      "generation_prompt_sha256": "9c16ad5f27c6033e467aa1ebf4ae7a16d7717bf317fa9f8e552cdf0fcac22cec",
+      "display_prompt_sha256": "9c16ad5f27c6033e467aa1ebf4ae7a16d7717bf317fa9f8e552cdf0fcac22cec",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 1,
+      "start_seconds": 3.18,
+      "end_seconds": 6.94,
+      "lyric_cue_indices": [
+        0
+      ],
+      "lyric_text": "Toyota Center! Houston, light the endgame!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Toyota Center arrival and film-room introduction",
+      "action": "Toyota Center tunnel: James Harden, thick beard, and Chris Paul lead Houston teammates into a roaring arena, fists raised.",
+      "emotional_beat": "Pumped-up team conviction",
+      "story_beat": "intro",
+      "prompt_sha256": "0c52e4f436990c5abb5828d5cb582f2fa2ff9d2c2b79ff13afead34508cb748c",
+      "selected_image_file": "art/generated/frame-001.png",
+      "selected_image_sha256": "ec45fa57ba9bacf7822d1072ea60fd9940a697ff6d95a6425e5dfc8d2a8493b8",
+      "generation_prompt_sha256": "0c52e4f436990c5abb5828d5cb582f2fa2ff9d2c2b79ff13afead34508cb748c",
+      "display_prompt_sha256": "0c52e4f436990c5abb5828d5cb582f2fa2ff9d2c2b79ff13afead34508cb748c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 2,
+      "start_seconds": 6.94,
+      "end_seconds": 11.34,
+      "lyric_cue_indices": [
+        1
+      ],
+      "lyric_text": "Twenty-eighteen! Film-room heads, CALL THE GAME!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [
+        "Mike D’Antoni"
+      ],
+      "opponent": null,
+      "game": "Toyota Center arrival and film-room introduction",
+      "action": "2018 film room: coach Mike D'Antoni points sharply at a basketball tactics screen while Harden, Paul and Capela lean forward arguing strategy, energized faces.",
+      "emotional_beat": "Tactical urgency",
+      "story_beat": "intro",
+      "prompt_sha256": "0572d5aabb8f3048cf89ae2fcc078aaef666a522770575915a8a60e635c6303d",
+      "selected_image_file": "art/generated/frame-002.png",
+      "selected_image_sha256": "4f8bc5196f4efb20bdbc8d87c9f7dca2d68b4f96e6be87fc92f45923a4524617",
+      "generation_prompt_sha256": "0572d5aabb8f3048cf89ae2fcc078aaef666a522770575915a8a60e635c6303d",
+      "display_prompt_sha256": "0572d5aabb8f3048cf89ae2fcc078aaef666a522770575915a8a60e635c6303d",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 3,
+      "start_seconds": 11.34,
+      "end_seconds": 14.16,
+      "lyric_cue_indices": [
+        2
+      ],
+      "lyric_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+      "named_players": [
+        "James Harden",
+        "Clint Capela",
+        "Stephen Curry"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Clint Capela",
+        "Stephen Curry"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "Championship-story hook, game unspecified",
+      "action": "Harden13 black HOUSTON plants a violent stepback after Capela15 re-screens, Curry30 white Warriors scrambles.",
+      "emotional_beat": "Aggressive confidence",
+      "story_beat": "hook",
+      "prompt_sha256": "65f9da0beb20606ca2371fcbcc8654fd700fd27ecd22c45d849411c9f16f788c",
+      "selected_image_file": "art/generated/frame-003.png",
+      "selected_image_sha256": "bc641ddfc2eac75fa5ee854ec5b29da36b6979774473780efb3d0dd1e5e1fdb8",
+      "generation_prompt_sha256": "65f9da0beb20606ca2371fcbcc8654fd700fd27ecd22c45d849411c9f16f788c",
+      "display_prompt_sha256": "65f9da0beb20606ca2371fcbcc8654fd700fd27ecd22c45d849411c9f16f788c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 4,
+      "start_seconds": 14.16,
+      "end_seconds": 17.2,
+      "lyric_cue_indices": [
+        3
+      ],
+      "lyric_text": "Tag the roller! Recover! Get a body on your man!",
+      "named_players": [
+        "P.J. Tucker",
+        "Draymond Green",
+        "Trevor Ariza",
+        "Klay Thompson"
+      ],
+      "prompt_named_players": [
+        "P.J. Tucker",
+        "Draymond Green",
+        "Trevor Ariza",
+        "Klay Thompson"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "Championship-story hook, game unspecified",
+      "action": "Tucker4 black Houston tags rolling Draymond Green23 white Warriors, Ariza1 sprints to recover toward Thompson11.",
+      "emotional_beat": "Defensive urgency",
+      "story_beat": "hook",
+      "prompt_sha256": "ee2b38dd3196bdb9d3a714072b62ea9540114683877e4371094a409087952fee",
+      "selected_image_file": "art/generated/frame-004.png",
+      "selected_image_sha256": "de7880d401aab1bb0225615cc5a2afad645d196b876768c1bb2b3a81a0a1c511",
+      "generation_prompt_sha256": "ee2b38dd3196bdb9d3a714072b62ea9540114683877e4371094a409087952fee",
+      "display_prompt_sha256": "ee2b38dd3196bdb9d3a714072b62ea9540114683877e4371094a409087952fee",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 5,
+      "start_seconds": 17.2,
+      "end_seconds": 19.86,
+      "lyric_cue_indices": [
+        4
+      ],
+      "lyric_text": "Every corner three, every lob, every floor burn!",
+      "named_players": [
+        "Clint Capela",
+        "P.J. Tucker",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Clint Capela",
+        "P.J. Tucker",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "Championship-story hook, game unspecified",
+      "action": "Capela15 black Houston explodes for a lob while Tucker4 spaces in the corner and Paul3 points, white Warriors defenders leap underneath.",
+      "emotional_beat": "Explosive excitement",
+      "story_beat": "hook",
+      "prompt_sha256": "e7b982374933af0ddd6b86997aad6fc72bdd39cf61eb276a30be723ef6965269",
+      "selected_image_file": "art/generated/frame-005-v2.png",
+      "selected_image_sha256": "089c68f785662e86753bc2280494c7292d2addc51ff046ec888898766485804e",
+      "generation_prompt_sha256": "e7b982374933af0ddd6b86997aad6fc72bdd39cf61eb276a30be723ef6965269",
+      "display_prompt_sha256": "e7b982374933af0ddd6b86997aad6fc72bdd39cf61eb276a30be723ef6965269",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 6,
+      "start_seconds": 19.86,
+      "end_seconds": 22.74,
+      "lyric_cue_indices": [
+        5
+      ],
+      "lyric_text": "Clutch City takes the crown! IT'S OUR TURN!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Eric Gordon",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Eric Gordon",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Championship-story hook, game unspecified",
+      "action": "Harden13, Paul3, Gordon10 and Capela15 black Houston form a shoulder-to-shoulder huddle roaring toward the Toyota Center crowd, fists and towels flying.",
+      "emotional_beat": "Championship hunger",
+      "story_beat": "hook",
+      "prompt_sha256": "f2fc6666feda55906ac7a70a04255c3ff5f2f02a462a01485e1451a5ae23d4f3",
+      "selected_image_file": "art/generated/frame-006.png",
+      "selected_image_sha256": "c9fd11a2bd92a5ffade436e175b77d7a2180c66d82f256a0dc7bc5f70743f914",
+      "generation_prompt_sha256": "f2fc6666feda55906ac7a70a04255c3ff5f2f02a462a01485e1451a5ae23d4f3",
+      "display_prompt_sha256": "f2fc6666feda55906ac7a70a04255c3ff5f2f02a462a01485e1451a5ae23d4f3",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 7,
+      "start_seconds": 22.74,
+      "end_seconds": 25.68,
+      "lyric_cue_indices": [
+        6
+      ],
+      "lyric_text": "Sixty-five and seventeen, one-seed, home-court edge.",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "P.J. Tucker",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "P.J. Tucker",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "One-seed Houston teammates arrive at Toyota Center together: Harden burgundy designer jacket, Paul olive overshirt, Tucker cream streetwear, Capela denim.",
+      "emotional_beat": "Confident anticipation",
+      "story_beat": "regular_season",
+      "prompt_sha256": "9834868aab983a249f3ba02a3a3c1047e0007756390f6a660174052cd9a62565",
+      "selected_image_file": "art/generated/frame-007.png",
+      "selected_image_sha256": "17527f2c18d097d737dfe8bd8218c6dcbd6281524479db4116fdf3e70383901f",
+      "generation_prompt_sha256": "9834868aab983a249f3ba02a3a3c1047e0007756390f6a660174052cd9a62565",
+      "display_prompt_sha256": "9834868aab983a249f3ba02a3a3c1047e0007756390f6a660174052cd9a62565",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 8,
+      "start_seconds": 25.68,
+      "end_seconds": 28.4,
+      "lyric_cue_indices": [
+        7
+      ],
+      "lyric_text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Trevor Ariza",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Trevor Ariza",
+        "James Harden"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [
+        "Mike D’Antoni"
+      ],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "D'Antoni shouts beside a live spread pick-and-roll drill: Paul3 gray practice top dribbles around Capela15 as Ariza1 hedges, Harden13 spaces the corner.",
+      "emotional_beat": "Competitive focus",
+      "story_beat": "regular_season",
+      "prompt_sha256": "6860e7f54ccb8fbbc878c66ab4c14ea04efa31eec8b40e33da17c867f9ddacd7",
+      "selected_image_file": "art/generated/frame-008.png",
+      "selected_image_sha256": "3fd110ba56bf4003b0eb4f6aede240bf9bd2a75b8f461de9dec1fcf2927e467a",
+      "generation_prompt_sha256": "6860e7f54ccb8fbbc878c66ab4c14ea04efa31eec8b40e33da17c867f9ddacd7",
+      "display_prompt_sha256": "6860e7f54ccb8fbbc878c66ab4c14ea04efa31eec8b40e33da17c867f9ddacd7",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 9,
+      "start_seconds": 28.4,
+      "end_seconds": 31.5,
+      "lyric_cue_indices": [
+        8
+      ],
+      "lyric_text": "Regular-season iso: James Harden, one point two-two!",
+      "named_players": [
+        "James Harden",
+        "Jimmy Butler",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Jimmy Butler",
+        "Clint Capela"
+      ],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2017–18 regular-season team setup",
+      "action": "Harden13 black 2017-18 HOUSTON isolates at the arc against a light-gray Minnesota Butler23, a vicious crossover loading his stepback as Capela15 clears the lane.",
+      "emotional_beat": "Fierce concentration",
+      "story_beat": "regular_season",
+      "prompt_sha256": "50f8f90d44723d3d1373a5b1a79c6c8c2d82cc9d0a5ccac137b9ee1f3c0ae390",
+      "selected_image_file": "art/generated/frame-009.png",
+      "selected_image_sha256": "1194ef401b461dd7a8077f7add28962b65a4b5f9a043ef618a0fde2e36710160",
+      "generation_prompt_sha256": "50f8f90d44723d3d1373a5b1a79c6c8c2d82cc9d0a5ccac137b9ee1f3c0ae390",
+      "display_prompt_sha256": "50f8f90d44723d3d1373a5b1a79c6c8c2d82cc9d0a5ccac137b9ee1f3c0ae390",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 10,
+      "start_seconds": 31.5,
+      "end_seconds": 34.3,
+      "lyric_cue_indices": [
+        9
+      ],
+      "lyric_text": "Chris Paul, one point one-oh points per iso!",
+      "named_players": [
+        "Chris Paul",
+        "Eric Gordon",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Eric Gordon",
+        "James Harden"
+      ],
+      "cue_named_players": [
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "Paul3 attacks an isolation against Gordon10 in Houston gray practice jerseys, low dribble and sharp shoulder feint, Harden13 applauding from the sideline.",
+      "emotional_beat": "Competitive intensity",
+      "story_beat": "regular_season",
+      "prompt_sha256": "1b0c552d6881ef9f5071ec3949a35baea4bcb4b50b1925c1dc912a5ed712adde",
+      "selected_image_file": "art/generated/frame-010.png",
+      "selected_image_sha256": "4f07fe2755fefae73f84a15c0b9515d4f68c6435c5937cdd437cd493118a3127",
+      "generation_prompt_sha256": "1b0c552d6881ef9f5071ec3949a35baea4bcb4b50b1925c1dc912a5ed712adde",
+      "display_prompt_sha256": "1b0c552d6881ef9f5071ec3949a35baea4bcb4b50b1925c1dc912a5ed712adde",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 11,
+      "start_seconds": 34.3,
+      "end_seconds": 37.12,
+      "lyric_cue_indices": [
+        10
+      ],
+      "lyric_text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
+      "named_players": [
+        "Gerald Green",
+        "Luc Mbah a Moute",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Gerald Green",
+        "Luc Mbah a Moute",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "Gerald Green",
+        "Luc Mbah a Moute"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "Gerald Green14 launches toward the rim while Luc Mbah a Moute12 contests the wing feed in a Houston practice scrimmage, Paul3 calling the action.",
+      "emotional_beat": "Aggressive team energy",
+      "story_beat": "regular_season",
+      "prompt_sha256": "343e35d7d26785875103a79db81e09566e62686f47935fc78cebdf53a23efa76",
+      "selected_image_file": "art/generated/frame-011.png",
+      "selected_image_sha256": "a760be0bc46545042c26a1a721540d69fbe8e240676eb0aaf770cc3fbd9ece3a",
+      "generation_prompt_sha256": "343e35d7d26785875103a79db81e09566e62686f47935fc78cebdf53a23efa76",
+      "display_prompt_sha256": "343e35d7d26785875103a79db81e09566e62686f47935fc78cebdf53a23efa76",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 12,
+      "start_seconds": 37.12,
+      "end_seconds": 39.92,
+      "lyric_cue_indices": [
+        11
+      ],
+      "lyric_text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
+      "named_players": [
+        "Ryan Anderson",
+        "Joe Johnson",
+        "Nene"
+      ],
+      "prompt_named_players": [
+        "Ryan Anderson",
+        "Joe Johnson",
+        "Nene"
+      ],
+      "cue_named_players": [
+        "Ryan Anderson",
+        "Joe Johnson"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "Ryan Anderson33, white and short-haired, stretches to the arc as Joe Johnson7 pivots from a strong post seal and swings the ball to him.",
+      "emotional_beat": "Focused teamwork",
+      "story_beat": "regular_season",
+      "prompt_sha256": "35b5f38affd879d01ca23737f718a6bb70ec92c4c8b7d157466aaa237df14293",
+      "selected_image_file": "art/generated/frame-012.png",
+      "selected_image_sha256": "a122c501b230a5cf68eb34054712dd76e9baec0dd18531dc16d0c2e80ecba339",
+      "generation_prompt_sha256": "35b5f38affd879d01ca23737f718a6bb70ec92c4c8b7d157466aaa237df14293",
+      "display_prompt_sha256": "35b5f38affd879d01ca23737f718a6bb70ec92c4c8b7d157466aaa237df14293",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 13,
+      "start_seconds": 39.92,
+      "end_seconds": 42.56,
+      "lyric_cue_indices": [
+        12
+      ],
+      "lyric_text": "Nene seals! Tarik Black, set that screen!",
+      "named_players": [
+        "Nene",
+        "Tarik Black",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Nene",
+        "Tarik Black",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "Nene",
+        "Tarik Black"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "Nene42, brown skin and braided hair, seals a defender while muscular Tarik Black28 lays a solid screen for Paul3.",
+      "emotional_beat": "Physical competitiveness",
+      "story_beat": "regular_season",
+      "prompt_sha256": "c5b38df1bb0ca99a862d81e9b1a2de8a78d5f977f3a6b46c52ca44b22c2c7367",
+      "selected_image_file": "art/generated/frame-013.png",
+      "selected_image_sha256": "f93bca964647ba6b097473c1d22dee27b91cb16718a79a8f2bde6e935191706a",
+      "generation_prompt_sha256": "c5b38df1bb0ca99a862d81e9b1a2de8a78d5f977f3a6b46c52ca44b22c2c7367",
+      "display_prompt_sha256": "c5b38df1bb0ca99a862d81e9b1a2de8a78d5f977f3a6b46c52ca44b22c2c7367",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 14,
+      "start_seconds": 42.56,
+      "end_seconds": 45.68,
+      "lyric_cue_indices": [
+        13
+      ],
+      "lyric_text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
+      "named_players": [
+        "Aaron Jackson",
+        "Chinanu Onuaku",
+        "Gerald Green"
+      ],
+      "prompt_named_players": [
+        "Aaron Jackson",
+        "Chinanu Onuaku",
+        "Gerald Green"
+      ],
+      "cue_named_players": [
+        "Aaron Jackson",
+        "Chinanu Onuaku"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "Aaron Jackson5 and tall Chinanu Onuaku21 leap from the Houston bench clapping and yelling encouragement, Gerald Green14 swings a towel alongside.",
+      "emotional_beat": "Bench excitement",
+      "story_beat": "regular_season",
+      "prompt_sha256": "98188718d2834c3a0d774eb25fab46d6ad445a28b96e8ff8a2397f908d7f86cf",
+      "selected_image_file": "art/generated/frame-014.png",
+      "selected_image_sha256": "63a1e213ca98fcc516387acfeaeb64355a6e5f60c34c8223802f078495169b0b",
+      "generation_prompt_sha256": "98188718d2834c3a0d774eb25fab46d6ad445a28b96e8ff8a2397f908d7f86cf",
+      "display_prompt_sha256": "98188718d2834c3a0d774eb25fab46d6ad445a28b96e8ff8a2397f908d7f86cf",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 15,
+      "start_seconds": 45.68,
+      "end_seconds": 48.62,
+      "lyric_cue_indices": [
+        14
+      ],
+      "lyric_text": "Zhou Qi on the bench! Every jersey in the dream!",
+      "named_players": [
+        "Zhou Qi",
+        "Chinanu Onuaku",
+        "Aaron Jackson"
+      ],
+      "prompt_named_players": [
+        "Zhou Qi",
+        "Chinanu Onuaku",
+        "Aaron Jackson"
+      ],
+      "cue_named_players": [
+        "Zhou Qi"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "2017–18 regular-season team setup",
+      "action": "Very tall Chinese center Zhou Qi9 springs up beside Onuaku21 and Aaron Jackson5 on the Houston bench, all shouting and pointing toward a play.",
+      "emotional_beat": "Bench solidarity",
+      "story_beat": "regular_season",
+      "prompt_sha256": "c6106d30bb37993e6d3d2931452ea17d12810b7cb9e11c412e896557c345f5fc",
+      "selected_image_file": "art/generated/frame-015.png",
+      "selected_image_sha256": "8fe6fb4a37df5b24ce322fd04533474205a297ecb6441ce0ff2e04485482e828",
+      "generation_prompt_sha256": "c6106d30bb37993e6d3d2931452ea17d12810b7cb9e11c412e896557c345f5fc",
+      "display_prompt_sha256": "c6106d30bb37993e6d3d2931452ea17d12810b7cb9e11c412e896557c345f5fc",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 16,
+      "start_seconds": 48.62,
+      "end_seconds": 51.34,
+      "lyric_cue_indices": [
+        15
+      ],
+      "lyric_text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
+      "named_players": [
+        "Jimmy Butler",
+        "James Harden",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Jimmy Butler",
+        "James Harden",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "Jimmy Butler"
+      ],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 1",
+      "action": "Jimmy Butler23 light-gray Minnesota City jersey crowds Harden13 black HOUSTON with suffocating ball pressure, Paul3 waiting on the wing.",
+      "emotional_beat": "Pressure and determination",
+      "story_beat": "minnesota_game1",
+      "prompt_sha256": "7e6f7baf12897f37a3316d3c05c2f9a3f7992e05afd7f0fe1175f955228bdd2c",
+      "selected_image_file": "art/generated/frame-016.png",
+      "selected_image_sha256": "92d308743641f4dc26d0342875cee0d45e7f85f88f69d0e771e41a841b0b4353",
+      "generation_prompt_sha256": "7e6f7baf12897f37a3316d3c05c2f9a3f7992e05afd7f0fe1175f955228bdd2c",
+      "display_prompt_sha256": "7e6f7baf12897f37a3316d3c05c2f9a3f7992e05afd7f0fe1175f955228bdd2c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 17,
+      "start_seconds": 51.34,
+      "end_seconds": 54.12,
+      "lyric_cue_indices": [
+        16
+      ],
+      "lyric_text": "Karl-Anthony Towns drops! Capela dives!",
+      "named_players": [
+        "Karl-Anthony Towns",
+        "Clint Capela",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Karl-Anthony Towns",
+        "Clint Capela",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "Karl-Anthony Towns",
+        "Clint Capela"
+      ],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 1",
+      "action": "Karl-Anthony Towns32 light-gray Wolves drops into the paint as Capela15 black Houston dives violently toward Paul's pocket pass, Paul3 at screen level.",
+      "emotional_beat": "Urgent decision-making",
+      "story_beat": "minnesota_game1",
+      "prompt_sha256": "d2e987213595f38d84b91582a41fc69bc887650a372652d5f97f58c62bfd3d04",
+      "selected_image_file": "art/generated/frame-017.png",
+      "selected_image_sha256": "5caea4dabdc87655430c47a79b81cd9c1c2aa7bce53441e1abd193d21a037191",
+      "generation_prompt_sha256": "d2e987213595f38d84b91582a41fc69bc887650a372652d5f97f58c62bfd3d04",
+      "display_prompt_sha256": "d2e987213595f38d84b91582a41fc69bc887650a372652d5f97f58c62bfd3d04",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 18,
+      "start_seconds": 54.12,
+      "end_seconds": 57.04,
+      "lyric_cue_indices": [
+        17
+      ],
+      "lyric_text": "Make him choose! Pull that low man inside!",
+      "named_players": [
+        "James Harden",
+        "Karl-Anthony Towns",
+        "Jimmy Butler",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Karl-Anthony Towns",
+        "Jimmy Butler",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 1",
+      "action": "Harden13 black Houston turns the corner drawing Towns32 and Butler23 in light-gray Wolves kits, Capela15 slipping behind the low man.",
+      "emotional_beat": "Attacking determination",
+      "story_beat": "minnesota_game1",
+      "prompt_sha256": "3e439df07c87cb5cd4ea840038f3d272287960bc2805646bcda54c48857a13f2",
+      "selected_image_file": "art/generated/frame-018.png",
+      "selected_image_sha256": "62e4d69f24ea83a2eb60208aead9e229325ddaee183bf3bf8c1c88e06bcc3c53",
+      "generation_prompt_sha256": "3e439df07c87cb5cd4ea840038f3d272287960bc2805646bcda54c48857a13f2",
+      "display_prompt_sha256": "3e439df07c87cb5cd4ea840038f3d272287960bc2805646bcda54c48857a13f2",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 19,
+      "start_seconds": 57.04,
+      "end_seconds": 59.94,
+      "lyric_cue_indices": [
+        18
+      ],
+      "lyric_text": "Harden forty-four in game one! Paint touch, kick!",
+      "named_players": [
+        "James Harden",
+        "Jimmy Butler",
+        "Eric Gordon"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Jimmy Butler",
+        "Eric Gordon"
+      ],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 1",
+      "action": "Game1 Harden13 black HOUSTON explodes into the paint and rifles a kickout past Butler23 light-gray Minnesota, Gordon10 waiting beyond the arc.",
+      "emotional_beat": "Confident aggression",
+      "story_beat": "minnesota_game1",
+      "prompt_sha256": "bc4b3042d2fca9ad497741419ab127b35a200a7b8a1eb3abdecac3b9e8487503",
+      "selected_image_file": "art/generated/frame-019-v2.png",
+      "selected_image_sha256": "0399ee3dc7071aa62603d7fe623dcc4fb39589453d83c9f14417bca50a9f752b",
+      "generation_prompt_sha256": "bc4b3042d2fca9ad497741419ab127b35a200a7b8a1eb3abdecac3b9e8487503",
+      "display_prompt_sha256": "bc4b3042d2fca9ad497741419ab127b35a200a7b8a1eb3abdecac3b9e8487503",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 20,
+      "start_seconds": 59.94,
+      "end_seconds": 62.86,
+      "lyric_cue_indices": [
+        19
+      ],
+      "lyric_text": "Wolves take game three! Don't let the offense stick!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Jimmy Butler",
+        "Karl-Anthony Towns"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Jimmy Butler",
+        "Karl-Anthony Towns"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 3",
+      "action": "Target Center Game3: defeated Harden13 and Paul3 in RED 2017-18 ROCKETS stare angrily from their bench while NAVY Wolves Butler23 and Towns32 celebrate across the court.",
+      "emotional_beat": "Frustration after a setback",
+      "story_beat": "minnesota_game3",
+      "prompt_sha256": "c4bf670cb5607275aa158868d0449d17caf33a8fdf569d1fe0c3335aa3aa74e7",
+      "selected_image_file": "art/generated/frame-020.png",
+      "selected_image_sha256": "9c65d96eb3397d01e5d869a3931eae79706f276fdc065580f921eb21545e4685",
+      "generation_prompt_sha256": "c4bf670cb5607275aa158868d0449d17caf33a8fdf569d1fe0c3335aa3aa74e7",
+      "display_prompt_sha256": "c4bf670cb5607275aa158868d0449d17caf33a8fdf569d1fe0c3335aa3aa74e7",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 21,
+      "start_seconds": 62.86,
+      "end_seconds": 65.64,
+      "lyric_cue_indices": [
+        20
+      ],
+      "lyric_text": "Game four, FIFTY in the third! Pace off the board!",
+      "named_players": [
+        "James Harden",
+        "Jimmy Butler"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Jimmy Butler"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 4",
+      "action": "Target Center Game4 third quarter: Harden13 RED ROCKETS races into a pull-up three as Butler23 NAVY Wolves lunges late, Houston bench exploding behind.",
+      "emotional_beat": "Offensive eruption",
+      "story_beat": "minnesota_game4",
+      "prompt_sha256": "3e6c15dc80a2fc5d6431a21406c7ab7de244d54285789262def003d345b539d6",
+      "selected_image_file": "art/generated/frame-021.png",
+      "selected_image_sha256": "9efb88e6a0ef9a37f8eefeafe814933ef557fa4d8a463b84f61f383641108a23",
+      "generation_prompt_sha256": "3e6c15dc80a2fc5d6431a21406c7ab7de244d54285789262def003d345b539d6",
+      "display_prompt_sha256": "3e6c15dc80a2fc5d6431a21406c7ab7de244d54285789262def003d345b539d6",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 22,
+      "start_seconds": 65.64,
+      "end_seconds": 68.42,
+      "lyric_cue_indices": [
+        21
+      ],
+      "lyric_text": "James twenty-two that quarter! Rim, line, three, SCORE!",
+      "named_players": [
+        "James Harden",
+        "Karl-Anthony Towns",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Karl-Anthony Towns",
+        "Clint Capela"
+      ],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "2018 first round, Minnesota Game 4",
+      "action": "Game4 Harden13 RED Houston muscles through Towns32 NAVY Wolves for a driving finish, Capela15 crashing behind him.",
+      "emotional_beat": "Forceful determination",
+      "story_beat": "minnesota_game4",
+      "prompt_sha256": "c9604300440b530846ef0bee75f436bca2cdfbf6faa229036e5f6a74b5844d89",
+      "selected_image_file": "art/generated/frame-022-v2.png",
+      "selected_image_sha256": "7e400ede06c50c2875a3736fd8bab21d2ad86056a5a3245a07fde516e154939e",
+      "generation_prompt_sha256": "c9604300440b530846ef0bee75f436bca2cdfbf6faa229036e5f6a74b5844d89",
+      "display_prompt_sha256": "c9604300440b530846ef0bee75f436bca2cdfbf6faa229036e5f6a74b5844d89",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 23,
+      "start_seconds": 68.42,
+      "end_seconds": 71.16,
+      "lyric_cue_indices": [
+        22
+      ],
+      "lyric_text": "Four-one! Minnesota out! Next scouting report!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Minnesota Timberwolves",
+      "game": "After Houston closes the Minnesota series",
+      "action": "After the Minnesota series, Harden and Paul cheer shoulder-to-shoulder with Capela as an excited stylish adult female reporter raises her microphone.",
+      "emotional_beat": "Relief and confidence",
+      "story_beat": "minnesota_clinch",
+      "prompt_sha256": "5f7cefad4ba02f88f9344a058dabca558226121b1b1eef00723857b1f678e218",
+      "selected_image_file": "art/generated/frame-023.png",
+      "selected_image_sha256": "4e9bc424db8ce4409103a0df6a2345b1c3068ab0d3a5edda3bf8ab2ec800d75f",
+      "generation_prompt_sha256": "5f7cefad4ba02f88f9344a058dabca558226121b1b1eef00723857b1f678e218",
+      "display_prompt_sha256": "5f7cefad4ba02f88f9344a058dabca558226121b1b1eef00723857b1f678e218",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 24,
+      "start_seconds": 71.16,
+      "end_seconds": 74.14,
+      "lyric_cue_indices": [
+        23
+      ],
+      "lyric_text": "Four-out, one rim runner! Don't clog up the court!",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "James Harden"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "Preparation for the Utah series",
+      "action": "Paul3 signals four-out spacing in a Houston practice scrimmage, Capela15 dives as sole rim runner while Tucker4, Ariza1 and Harden13 spread around the arc.",
+      "emotional_beat": "Strategic focus",
+      "story_beat": "utah_preparation",
+      "prompt_sha256": "73332b6460a2c5430146967dbb5088f6836ddb2df6e29d1ffe0fabd4ecaf293a",
+      "selected_image_file": "art/generated/frame-024.png",
+      "selected_image_sha256": "1fbe80c2a993e19fce2dfbd71e1ea6968aafe33d6c52ddbac968d3a2056f922a",
+      "generation_prompt_sha256": "73332b6460a2c5430146967dbb5088f6836ddb2df6e29d1ffe0fabd4ecaf293a",
+      "display_prompt_sha256": "73332b6460a2c5430146967dbb5088f6836ddb2df6e29d1ffe0fabd4ecaf293a",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 25,
+      "start_seconds": 74.14,
+      "end_seconds": 77.1,
+      "lyric_cue_indices": [
+        24
+      ],
+      "lyric_text": "Utah Jazz, Donovan Mitchell turns the corner.",
+      "named_players": [
+        "Donovan Mitchell",
+        "Rudy Gobert",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "Donovan Mitchell",
+        "Rudy Gobert",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "cue_named_players": [
+        "Donovan Mitchell"
+      ],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 2",
+      "action": "Donovan Mitchell45 WHITE 2018 UTAH jersey attacks around Gobert27's screen, Paul3 BLACK HOUSTON fighting over it and Capela15 retreating.",
+      "emotional_beat": "Opponent acceleration and Houston defensive urgency",
+      "story_beat": "utah_game2",
+      "prompt_sha256": "f49d1ba894e906d2c6ce1c430ea92a5e3dbcc57ecfd9d530973cc3dd1c73a094",
+      "selected_image_file": "art/generated/frame-025.png",
+      "selected_image_sha256": "3c8104298ab4d19b7fd9c72ae675d0f1ed1715ded04a6e5c5e18fb8b2af32252",
+      "generation_prompt_sha256": "f49d1ba894e906d2c6ce1c430ea92a5e3dbcc57ecfd9d530973cc3dd1c73a094",
+      "display_prompt_sha256": "f49d1ba894e906d2c6ce1c430ea92a5e3dbcc57ecfd9d530973cc3dd1c73a094",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 26,
+      "start_seconds": 77.1,
+      "end_seconds": 79.94,
+      "lyric_cue_indices": [
+        25
+      ],
+      "lyric_text": "Rudy Gobert's rim deterrence, lob-window disorder.",
+      "named_players": [
+        "Rudy Gobert",
+        "Clint Capela",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Rudy Gobert",
+        "Clint Capela",
+        "James Harden"
+      ],
+      "cue_named_players": [
+        "Rudy Gobert"
+      ],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 2",
+      "action": "Gobert27 WHITE Utah towers with both arms extended to deter Capela15 BLACK Houston's lob while Harden13 threads the pass.",
+      "emotional_beat": "Rim deterrence and attacking pressure",
+      "story_beat": "utah_game2",
+      "prompt_sha256": "8f6858148de628379be0df72119eabd90d24f0b505175b1c9cab77bbedb4c33b",
+      "selected_image_file": "art/generated/frame-026.png",
+      "selected_image_sha256": "03f3c86e4ea23f744db02dff3f93286cc88f7d2765ac623a88eb9f8f360f19f2",
+      "generation_prompt_sha256": "8f6858148de628379be0df72119eabd90d24f0b505175b1c9cab77bbedb4c33b",
+      "display_prompt_sha256": "8f6858148de628379be0df72119eabd90d24f0b505175b1c9cab77bbedb4c33b",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 27,
+      "start_seconds": 79.94,
+      "end_seconds": 83.16,
+      "lyric_cue_indices": [
+        26
+      ],
+      "lyric_text": "Game two, Jazz steal home court! Series one-one!",
+      "named_players": [
+        "Donovan Mitchell",
+        "Rudy Gobert",
+        "Chris Paul",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Donovan Mitchell",
+        "Rudy Gobert",
+        "Chris Paul",
+        "James Harden"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 2",
+      "action": "Toyota Center Game2: Mitchell45 and Gobert27 WHITE Utah roar and embrace after stealing home court while Paul3 and Harden13 BLACK Houston walk away furious.",
+      "emotional_beat": "Utah joy and Houston frustration",
+      "story_beat": "utah_game2",
+      "prompt_sha256": "6cd61d1b90ceaf12083e0d7349766a4bb6d80467fa40c3251b938ae6fbc0c211",
+      "selected_image_file": "art/generated/frame-027.png",
+      "selected_image_sha256": "9afa447427fcccdbba041c1716b16c6dc21a48cc8b761964b4214f3199608bb0",
+      "generation_prompt_sha256": "6cd61d1b90ceaf12083e0d7349766a4bb6d80467fa40c3251b938ae6fbc0c211",
+      "display_prompt_sha256": "6cd61d1b90ceaf12083e0d7349766a4bb6d80467fa40c3251b938ae6fbc0c211",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 28,
+      "start_seconds": 83.16,
+      "end_seconds": 85.78,
+      "lyric_cue_indices": [
+        27
+      ],
+      "lyric_text": "Paul snakes the high screen, elbow pull-up, CASH!",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Rudy Gobert"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Rudy Gobert"
+      ],
+      "cue_named_players": [
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 5",
+      "action": "Paul3 BLACK HOUSTON snakes Capela15's high screen and rises into a bent-knee elbow pull-up over Gobert27 WHITE Utah's drop.",
+      "emotional_beat": "Confident precision",
+      "story_beat": "utah_game5",
+      "prompt_sha256": "afc582aab7a0e309bfe3c0862f79032125c9dea145d5668c9209e2e2e6a400b3",
+      "selected_image_file": "art/generated/frame-028.png",
+      "selected_image_sha256": "c7326402f7c7199ef07d19389925d1970545b93e82e25b8c7a78f41f8bd2f561",
+      "generation_prompt_sha256": "afc582aab7a0e309bfe3c0862f79032125c9dea145d5668c9209e2e2e6a400b3",
+      "display_prompt_sha256": "afc582aab7a0e309bfe3c0862f79032125c9dea145d5668c9209e2e2e6a400b3",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 29,
+      "start_seconds": 85.78,
+      "end_seconds": 88.82,
+      "lyric_cue_indices": [
+        28
+      ],
+      "lyric_text": "Game five: forty-one, ten dimes, zero turnovers!",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Donovan Mitchell",
+        "Rudy Gobert"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Donovan Mitchell",
+        "Rudy Gobert"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 5",
+      "action": "Game5 Paul3 BLACK Houston whips a one-handed assist to rolling Capela15 as Mitchell45 WHITE Utah chases and Gobert27 rotates late.",
+      "emotional_beat": "Urgent playmaking",
+      "story_beat": "utah_game5",
+      "prompt_sha256": "370721d27df17f220e829a43a239cac17faf0c41a03e1bd11c21a18a1ccb5f95",
+      "selected_image_file": "art/generated/frame-029.png",
+      "selected_image_sha256": "e371e68eb5ac2ab51f953f81e7e1abd7ffce371995145f6bd7b1db65aee2aa55",
+      "generation_prompt_sha256": "370721d27df17f220e829a43a239cac17faf0c41a03e1bd11c21a18a1ccb5f95",
+      "display_prompt_sha256": "370721d27df17f220e829a43a239cac17faf0c41a03e1bd11c21a18a1ccb5f95",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 30,
+      "start_seconds": 88.82,
+      "end_seconds": 91.12,
+      "lyric_cue_indices": [
+        29
+      ],
+      "lyric_text": "Eight for ten from deep! Drop too far? It's OVER!",
+      "named_players": [
+        "Chris Paul",
+        "Donovan Mitchell",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Donovan Mitchell",
+        "James Harden"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 5",
+      "action": "Paul3 BLACK HOUSTON fires a deep three over Mitchell45 WHITE Utah, Harden13 raising both arms from the wing and bench players erupting.",
+      "emotional_beat": "Determined confidence",
+      "story_beat": "utah_game5",
+      "prompt_sha256": "89629c7a380ca8e65e52acae114e03facc0d1e842f83bf6321e05e941fcefdb2",
+      "selected_image_file": "art/generated/frame-030.png",
+      "selected_image_sha256": "518280d8949778eaa99c4ba71b135c1264b1f47af3649b01012b37c5dd38057e",
+      "generation_prompt_sha256": "89629c7a380ca8e65e52acae114e03facc0d1e842f83bf6321e05e941fcefdb2",
+      "display_prompt_sha256": "89629c7a380ca8e65e52acae114e03facc0d1e842f83bf6321e05e941fcefdb2",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 31,
+      "start_seconds": 91.12,
+      "end_seconds": 93.88,
+      "lyric_cue_indices": [
+        30
+      ],
+      "lyric_text": "Eighty percent three! Seventy-seven point three!",
+      "named_players": [
+        "Chris Paul",
+        "Rudy Gobert",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Rudy Gobert",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 5",
+      "action": "Paul3 BLACK Houston holds his blazing three-point follow-through as Gobert27 WHITE Utah turns toward the falling ball, Tucker4 shouting from the corner.",
+      "emotional_beat": "Heated offensive confidence",
+      "story_beat": "utah_game5",
+      "prompt_sha256": "711287062b694d93ab68124512fa5d4ae05540a09f70b4d6cf1607670cb1d6b6",
+      "selected_image_file": "art/generated/frame-031.png",
+      "selected_image_sha256": "38e5eb7efcd42c828968b452357fa5cef8a31bc23a4302dd33d4225c7e2e7f24",
+      "generation_prompt_sha256": "711287062b694d93ab68124512fa5d4ae05540a09f70b4d6cf1607670cb1d6b6",
+      "display_prompt_sha256": "711287062b694d93ab68124512fa5d4ae05540a09f70b4d6cf1607670cb1d6b6",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 32,
+      "start_seconds": 93.88,
+      "end_seconds": 97.02,
+      "lyric_cue_indices": [
+        31
+      ],
+      "lyric_text": "Effective field goal! Twenty in the fourth! CP3!",
+      "named_players": [
+        "Chris Paul",
+        "Eric Gordon",
+        "Donovan Mitchell"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Eric Gordon",
+        "Donovan Mitchell"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "2018 Western semifinal, Utah Game 5",
+      "action": "Fourth-quarter Paul3 BLACK HOUSTON screams with clenched fists toward Gordon10 after another basket, Mitchell45 WHITE Utah stunned behind.",
+      "emotional_beat": "Competitive catharsis",
+      "story_beat": "utah_game5",
+      "prompt_sha256": "d07749e0cb5c7d160429cddac7c08d7eb8a17b7788f6eb5195c853aa3efaf9b2",
+      "selected_image_file": "art/generated/frame-032.png",
+      "selected_image_sha256": "1e1bc33250f0f7f73a8627f161217727f0d5a72acd34b6fbf08984d6c14120d9",
+      "generation_prompt_sha256": "d07749e0cb5c7d160429cddac7c08d7eb8a17b7788f6eb5195c853aa3efaf9b2",
+      "display_prompt_sha256": "d07749e0cb5c7d160429cddac7c08d7eb8a17b7788f6eb5195c853aa3efaf9b2",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 33,
+      "start_seconds": 97.02,
+      "end_seconds": 99.94,
+      "lyric_cue_indices": [
+        32
+      ],
+      "lyric_text": "One-twelve, one-oh-two! Four-one! Utah's done!",
+      "named_players": [
+        "Donovan Mitchell",
+        "Rudy Gobert",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "Donovan Mitchell",
+        "Rudy Gobert",
+        "Chris Paul",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "After Houston closes Utah Game5 and the series",
+      "action": "Utah elimination: devastated Mitchell45 and Gobert27 WHITE Utah lower their heads near Houston's rejoicing Paul3 and Capela15 BLACK HOUSTON.",
+      "emotional_beat": "Utah disappointment and Houston relief",
+      "story_beat": "utah_clinch",
+      "prompt_sha256": "1b6f2f15f2cacd63c164efa9643f80b9f990b76e2af7e6fd6b1e2e74585804c2",
+      "selected_image_file": "art/generated/frame-033.png",
+      "selected_image_sha256": "8aaf81c3535e4b2515e3e46d17bbfb21beeebdc90fdcc8cabfe8fcf7038b06c1",
+      "generation_prompt_sha256": "1b6f2f15f2cacd63c164efa9643f80b9f990b76e2af7e6fd6b1e2e74585804c2",
+      "display_prompt_sha256": "1b6f2f15f2cacd63c164efa9643f80b9f990b76e2af7e6fd6b1e2e74585804c2",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 34,
+      "start_seconds": 99.94,
+      "end_seconds": 101.8,
+      "lyric_cue_indices": [
+        33
+      ],
+      "lyric_text": "That ain't just a box score! That's a breakthrough!",
+      "named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Utah Jazz",
+      "game": "After Houston closes Utah Game5 and the series",
+      "action": "Paul3 and Harden13 BLACK HOUSTON laugh through tears into an animated adult female reporter's microphone, Capela15 hugging teammates behind.",
+      "emotional_beat": "Breakthrough joy",
+      "story_beat": "utah_clinch",
+      "prompt_sha256": "adbd3967a0c7f8be0eec2c5c91ebf93fdaee40236bd958a9427d2b6f06b95b56",
+      "selected_image_file": "art/generated/frame-034.png",
+      "selected_image_sha256": "8e20bc989fdd235288eb666fa8587850ac8b4315629d3b968f8bb615a075569d",
+      "generation_prompt_sha256": "adbd3967a0c7f8be0eec2c5c91ebf93fdaee40236bd958a9427d2b6f06b95b56",
+      "display_prompt_sha256": "adbd3967a0c7f8be0eec2c5c91ebf93fdaee40236bd958a9427d2b6f06b95b56",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 35,
+      "start_seconds": 101.8,
+      "end_seconds": 105.32,
+      "lyric_cue_indices": [
+        34
+      ],
+      "lyric_text": "Golden State Warriors! Stephen Curry relocates!",
+      "named_players": [
+        "Stephen Curry",
+        "Trevor Ariza",
+        "James Harden",
+        "Draymond Green"
+      ],
+      "prompt_named_players": [
+        "Stephen Curry",
+        "Trevor Ariza",
+        "James Harden",
+        "Draymond Green"
+      ],
+      "cue_named_players": [
+        "Stephen Curry"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 1",
+      "action": "Curry30 WHITE Warriors bridge-emblem uniform sprints around an off-ball screen while Ariza1 BLACK HOUSTON chases and Harden13 points out the switch.",
+      "emotional_beat": "Warriors movement and Houston defensive alertness",
+      "story_beat": "warriors_game1",
+      "prompt_sha256": "ba7ec586f49b11af0baec2db727567c39d1b2dadb42555e3c1f60d879966b90a",
+      "selected_image_file": "art/generated/frame-035.png",
+      "selected_image_sha256": "7216814b6322f3c2ee01f24b956e2079a075b83d7db3ffede74c0322990dd4ad",
+      "generation_prompt_sha256": "ba7ec586f49b11af0baec2db727567c39d1b2dadb42555e3c1f60d879966b90a",
+      "display_prompt_sha256": "ba7ec586f49b11af0baec2db727567c39d1b2dadb42555e3c1f60d879966b90a",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 36,
+      "start_seconds": 105.32,
+      "end_seconds": 108.68,
+      "lyric_cue_indices": [
+        35,
+        36
+      ],
+      "lyric_text": "Kevin Durant shoots over switches! / Klay cuts! Draymond Green creates!",
+      "named_players": [
+        "Kevin Durant",
+        "P.J. Tucker",
+        "Draymond Green",
+        "Klay Thompson"
+      ],
+      "prompt_named_players": [
+        "Kevin Durant",
+        "P.J. Tucker",
+        "Draymond Green",
+        "Klay Thompson"
+      ],
+      "cue_named_players": [
+        "Kevin Durant",
+        "Klay Thompson",
+        "Draymond Green"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 1",
+      "action": "Durant35 WHITE 2018 Warriors rises over Tucker4 BLACK HOUSTON after Draymond Green23's pass as Thompson11 cuts sharply behind.",
+      "emotional_beat": "Warriors shot confidence and Houston contest",
+      "story_beat": "warriors_game1",
+      "prompt_sha256": "4b9676cb09994a70d196d9de34cc2f64d4e5c5febcac3d32301be57f841b2d3d",
+      "selected_image_file": "art/generated/frame-036.png",
+      "selected_image_sha256": "a556f38d8363d2e81302f182ec713b1ab3974fafa7fe62e11b51c2a04ad8501b",
+      "generation_prompt_sha256": "4b9676cb09994a70d196d9de34cc2f64d4e5c5febcac3d32301be57f841b2d3d",
+      "display_prompt_sha256": "4b9676cb09994a70d196d9de34cc2f64d4e5c5febcac3d32301be57f841b2d3d",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 37,
+      "start_seconds": 108.68,
+      "end_seconds": 111.78,
+      "lyric_cue_indices": [
+        37
+      ],
+      "lyric_text": "They take one, we take two; game three, forty-one down!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Stephen Curry",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Stephen Curry",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 3",
+      "action": "ORACLE Arena Game3 rout: Harden13 and Paul3 RED ROCKETS argue urgently on the sideline while Curry30 and Durant35 WHITE Warriors celebrate behind.",
+      "emotional_beat": "Frustration and urgency",
+      "story_beat": "warriors_game3",
+      "prompt_sha256": "f9e43b3d97c36e3f0000140391f8b15299c4b6b5ace76129fffbe5b58b945eb6",
+      "selected_image_file": "art/generated/frame-037.png",
+      "selected_image_sha256": "c84e2d29ac79aaf8d302ee9f6be3768347455b6abf20e2b820483ffb228fc167",
+      "generation_prompt_sha256": "f9e43b3d97c36e3f0000140391f8b15299c4b6b5ace76129fffbe5b58b945eb6",
+      "display_prompt_sha256": "f9e43b3d97c36e3f0000140391f8b15299c4b6b5ace76129fffbe5b58b945eb6",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 38,
+      "start_seconds": 111.78,
+      "end_seconds": 114.22,
+      "lyric_cue_indices": [
+        38
+      ],
+      "lyric_text": "Live-ball turnovers! Runouts! No sound!",
+      "named_players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "James Harden"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 3",
+      "action": "ORACLE Arena: Curry30 WHITE Warriors breaks into a fast runout after a live-ball steal, Thompson11 sprinting beside him while Harden13 RED ROCKETS desperately pursues.",
+      "emotional_beat": "Warriors momentum and Houston desperation",
+      "story_beat": "warriors_game3",
+      "prompt_sha256": "8771aabf9779e146252b01f69570ef88594f812dd287df4ccb2fde3368089093",
+      "selected_image_file": "art/generated/frame-038.png",
+      "selected_image_sha256": "ec13442012ed3c65b80df95e94b1e7a850c26619b83649790fd08becce3aa9ae",
+      "generation_prompt_sha256": "8771aabf9779e146252b01f69570ef88594f812dd287df4ccb2fde3368089093",
+      "display_prompt_sha256": "8771aabf9779e146252b01f69570ef88594f812dd287df4ccb2fde3368089093",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 39,
+      "start_seconds": 114.22,
+      "end_seconds": 117.16,
+      "lyric_cue_indices": [
+        39
+      ],
+      "lyric_text": "Film session! Switch everything! Finish the possession!",
+      "named_players": [
+        "Chris Paul",
+        "James Harden",
+        "P.J. Tucker",
+        "Trevor Ariza"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "James Harden",
+        "P.J. Tucker",
+        "Trevor Ariza"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [
+        "Mike D’Antoni"
+      ],
+      "opponent": "Golden State Warriors",
+      "game": "Film preparation for WCF Game4 after the Game3 loss",
+      "action": "Houston film session after the rout: Paul and Harden jab fingers at defensive spacing while D'Antoni calls for focus, Tucker and Ariza leaning into the argument.",
+      "emotional_beat": "Tension and refocus",
+      "story_beat": "warriors_game4_preparation",
+      "prompt_sha256": "495f18b80819f9c5ba7f7f86a26989f71922d8f2cccbc96e5be3605878ca16fe",
+      "selected_image_file": "art/generated/frame-039.png",
+      "selected_image_sha256": "6289b4193a1605dfe2b0704a861c1500e26d500ac83de8f3502dbc0c33b81628",
+      "generation_prompt_sha256": "495f18b80819f9c5ba7f7f86a26989f71922d8f2cccbc96e5be3605878ca16fe",
+      "display_prompt_sha256": "495f18b80819f9c5ba7f7f86a26989f71922d8f2cccbc96e5be3605878ca16fe",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 40,
+      "start_seconds": 117.16,
+      "end_seconds": 120.28,
+      "lyric_cue_indices": [
+        40
+      ],
+      "lyric_text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
+      "named_players": [
+        "James Harden",
+        "Draymond Green",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Draymond Green",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "James Harden",
+        "Draymond Green"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 4",
+      "action": "WCF Game4 ORACLE: Harden13 WHITE ROCKETS violently dunks over Draymond Green23 in CHARCOAL The Town Warriors uniform with yellow details, Paul3 roaring nearby.",
+      "emotional_beat": "Explosive aggression",
+      "story_beat": "warriors_game4",
+      "prompt_sha256": "d6fd26237113ddb91758f755302bcf7330ebbd389f9bbeaab95789f297852298",
+      "selected_image_file": "art/generated/frame-040.png",
+      "selected_image_sha256": "dfda96f8c387f3cc9df4fa590c97cee9c23d0b34de97e83cdc181f8ee2bfa51a",
+      "generation_prompt_sha256": "d6fd26237113ddb91758f755302bcf7330ebbd389f9bbeaab95789f297852298",
+      "display_prompt_sha256": "d6fd26237113ddb91758f755302bcf7330ebbd389f9bbeaab95789f297852298",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 41,
+      "start_seconds": 120.28,
+      "end_seconds": 122.76,
+      "lyric_cue_indices": [
+        41
+      ],
+      "lyric_text": "Thirty for James, twenty-seven for Chris!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Stephen Curry"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Stephen Curry"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 4",
+      "action": "Harden13 and Paul3 WHITE ROCKETS chest-bump with fierce relief after a basket, Curry30 CHARCOAL The Town Warriors staring behind.",
+      "emotional_beat": "Fierce relief",
+      "story_beat": "warriors_game4",
+      "prompt_sha256": "53f3d9282f3b8c35b0ba5171989c42d68728b78802ac01f3c83143583d0853e9",
+      "selected_image_file": "art/generated/frame-041.png",
+      "selected_image_sha256": "a3a2cc353fedf71e22c93fcc2031f2134482d2bf77a87ab5eaac0299093f5b61",
+      "generation_prompt_sha256": "53f3d9282f3b8c35b0ba5171989c42d68728b78802ac01f3c83143583d0853e9",
+      "display_prompt_sha256": "53f3d9282f3b8c35b0ba5171989c42d68728b78802ac01f3c83143583d0853e9",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 42,
+      "start_seconds": 122.76,
+      "end_seconds": 125.66,
+      "lyric_cue_indices": [
+        42
+      ],
+      "lyric_text": "Twelve allowed in the fourth! Contest, don't foul!",
+      "named_players": [
+        "Trevor Ariza",
+        "Kevin Durant",
+        "P.J. Tucker",
+        "Draymond Green"
+      ],
+      "prompt_named_players": [
+        "Trevor Ariza",
+        "Kevin Durant",
+        "P.J. Tucker",
+        "Draymond Green"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 4",
+      "action": "Ariza1 WHITE ROCKETS stays vertical contesting Durant35 CHARCOAL The Town Warriors in the fourth, Tucker4 boxing out Draymond23.",
+      "emotional_beat": "Defensive determination",
+      "story_beat": "warriors_game4",
+      "prompt_sha256": "a973208e1f1601be4e927f7dea0a97d3c238b3988776a2aa9b6c56555ce33fde",
+      "selected_image_file": "art/generated/frame-042.png",
+      "selected_image_sha256": "afda5495fdbc468e9b16b538dba8056ab37ac3729b3d13d4147d13090750befa",
+      "generation_prompt_sha256": "a973208e1f1601be4e927f7dea0a97d3c238b3988776a2aa9b6c56555ce33fde",
+      "display_prompt_sha256": "a973208e1f1601be4e927f7dea0a97d3c238b3988776a2aa9b6c56555ce33fde",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 43,
+      "start_seconds": 125.66,
+      "end_seconds": 128.58,
+      "lyric_cue_indices": [
+        43
+      ],
+      "lyric_text": "Ninety-five, ninety-two! Series two-two! Breathe!",
+      "named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 4",
+      "action": "Paul3 and Harden13 WHITE Houston exhale and embrace beside an adult female reporter holding a courtside microphone, Capela15 pumping a fist behind.",
+      "emotional_beat": "Exhausted triumph",
+      "story_beat": "warriors_game4",
+      "prompt_sha256": "5675aaade9df6136ef399a9a1057fad2a95aeaa6acdf6414971be2c0bc7f61f2",
+      "selected_image_file": "art/generated/frame-043.png",
+      "selected_image_sha256": "34b0c68eb21bef115190f0fade57ef9021feafdc7b283641ba3f8025c4053b4b",
+      "generation_prompt_sha256": "5675aaade9df6136ef399a9a1057fad2a95aeaa6acdf6414971be2c0bc7f61f2",
+      "display_prompt_sha256": "5675aaade9df6136ef399a9a1057fad2a95aeaa6acdf6414971be2c0bc7f61f2",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 44,
+      "start_seconds": 128.58,
+      "end_seconds": 131.38,
+      "lyric_cue_indices": [
+        44
+      ],
+      "lyric_text": "Game five, Paul shimmies, splashes over Steph's reach!",
+      "named_players": [
+        "Chris Paul",
+        "Stephen Curry",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Stephen Curry",
+        "James Harden"
+      ],
+      "cue_named_players": [
+        "Chris Paul",
+        "Stephen Curry"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 5",
+      "action": "Game5 Toyota Center: Paul3 BLACK HOUSTON shimmies with a defiant grin after his three over Curry30 WHITE Warriors, Harden13 throwing both arms up nearby.",
+      "emotional_beat": "Defiant confidence",
+      "story_beat": "warriors_game5",
+      "prompt_sha256": "0305ae5eca1d80b11c4dea273f56b382723e01cfef240d86bc4353e0a6c68cb9",
+      "selected_image_file": "art/generated/frame-044.png",
+      "selected_image_sha256": "05d1adaa26ddd72c81e9a09f34276752cca10f3093a04e7c98e5c2517c3a8889",
+      "generation_prompt_sha256": "0305ae5eca1d80b11c4dea273f56b382723e01cfef240d86bc4353e0a6c68cb9",
+      "display_prompt_sha256": "0305ae5eca1d80b11c4dea273f56b382723e01cfef240d86bc4353e0a6c68cb9",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 45,
+      "start_seconds": 131.38,
+      "end_seconds": 134.18,
+      "lyric_cue_indices": [
+        45
+      ],
+      "lyric_text": "Eric Gordon twenty-four! Bench shot creation!",
+      "named_players": [
+        "Eric Gordon",
+        "Klay Thompson",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Eric Gordon",
+        "Klay Thompson",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "Eric Gordon"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 5",
+      "action": "Gordon10 BLACK HOUSTON buries a high-arcing three over Thompson11 WHITE Warriors as Paul3 urges the bench upward.",
+      "emotional_beat": "Ferocious concentration",
+      "story_beat": "warriors_game5",
+      "prompt_sha256": "1aac6119df3de1eed710bedf6a8e8f8b6780f37cdf5f7d2a73fb569362af20a0",
+      "selected_image_file": "art/generated/frame-045.png",
+      "selected_image_sha256": "aea69ea6a4f650ecdb3aa4d33455aa44f34e22fa90aee9d9cbc9b47145df24b3",
+      "generation_prompt_sha256": "1aac6119df3de1eed710bedf6a8e8f8b6780f37cdf5f7d2a73fb569362af20a0",
+      "display_prompt_sha256": "1aac6119df3de1eed710bedf6a8e8f8b6780f37cdf5f7d2a73fb569362af20a0",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 46,
+      "start_seconds": 134.18,
+      "end_seconds": 137.04,
+      "lyric_cue_indices": [
+        46
+      ],
+      "lyric_text": "Ninety-eight, ninety-four! Three-two! Elation!",
+      "named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Eric Gordon",
+        "P.J. Tucker",
+        "Stephen Curry"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Eric Gordon",
+        "P.J. Tucker",
+        "Stephen Curry"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 5",
+      "action": "Houston's Paul3, Harden13, Gordon10 and Tucker4 BLACK HOUSTON roar together at the Game5 final horn, Curry30 WHITE Warriors standing disappointed behind.",
+      "emotional_beat": "Houston elation and Warriors disappointment",
+      "story_beat": "warriors_game5",
+      "prompt_sha256": "17a342b6da4d92ea85f9bc2313d9a967c6cd68a3c26528c65884737c58893845",
+      "selected_image_file": "art/generated/frame-046-v2.png",
+      "selected_image_sha256": "a2d205008ce893e3d5566267a44145a350681017e9fed8979bbdb0bd135d2202",
+      "generation_prompt_sha256": "17a342b6da4d92ea85f9bc2313d9a967c6cd68a3c26528c65884737c58893845",
+      "display_prompt_sha256": "17a342b6da4d92ea85f9bc2313d9a967c6cd68a3c26528c65884737c58893845",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 47,
+      "start_seconds": 137.04,
+      "end_seconds": 139.82,
+      "lyric_cue_indices": [
+        47
+      ],
+      "lyric_text": "Paul stays on the floor! Stay low! Keep creating!",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Stephen Curry"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "Stephen Curry"
+      ],
+      "cue_named_players": [
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "Houston continues with Paul available after WCF Game5",
+      "action": "Paul3 BLACK HOUSTON drives low with healthy powerful legs, crossing toward Capela15's screen as Curry30 WHITE Warriors lunges.",
+      "emotional_beat": "Determination",
+      "story_beat": "healthy_paul",
+      "prompt_sha256": "1597ad26bb07dced49ca5314e8114b8cb7017bd82f3c413b9ecbe1979688cc47",
+      "selected_image_file": "art/generated/frame-047-v2.png",
+      "selected_image_sha256": "a48d866971a537e2ee70c84619b94bdc4aa9cd6a35ac149e4018196f9d4ef735",
+      "generation_prompt_sha256": "1597ad26bb07dced49ca5314e8114b8cb7017bd82f3c413b9ecbe1979688cc47",
+      "display_prompt_sha256": "1597ad26bb07dced49ca5314e8114b8cb7017bd82f3c413b9ecbe1979688cc47",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 48,
+      "start_seconds": 139.82,
+      "end_seconds": 142.9,
+      "lyric_cue_indices": [
+        48
+      ],
+      "lyric_text": "Warriors take six! Last game, last stand!",
+      "named_players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "James Harden",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "James Harden",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 6",
+      "action": "ORACLE Game6: Curry30 and Thompson11 WHITE Warriors celebrate as Harden13 and Paul3 RED ROCKETS stare defiantly toward the next challenge.",
+      "emotional_beat": "Warriors triumph and Houston defiance",
+      "story_beat": "warriors_game6",
+      "prompt_sha256": "22643b6eeafd32c30d4a9deaa96e499a4710459c9e471131512a8c6054cbea37",
+      "selected_image_file": "art/generated/frame-048.png",
+      "selected_image_sha256": "ede5178077e413fd4cf54aa02a95d1ceb2f8b0a3ca45990708e3b2a3ac752c29",
+      "generation_prompt_sha256": "22643b6eeafd32c30d4a9deaa96e499a4710459c9e471131512a8c6054cbea37",
+      "display_prompt_sha256": "22643b6eeafd32c30d4a9deaa96e499a4710459c9e471131512a8c6054cbea37",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 49,
+      "start_seconds": 142.9,
+      "end_seconds": 147.56,
+      "lyric_cue_indices": [
+        49
+      ],
+      "lyric_text": "Every possession's leverage! Take it out their hands!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "P.J. Tucker",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "P.J. Tucker",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "Arrival before WCF Game7",
+      "action": "Before Game7, Harden in a black leather jacket, Paul in a cream polo, Tucker in mint streetwear and Capela in denim stride together through Toyota Center's crowded tunnel.",
+      "emotional_beat": "Pregame focus",
+      "story_beat": "warriors_game7_preparation",
+      "prompt_sha256": "1169c3f11444a4e414c965c16fcd05b774de47d317c34a552acc9842c3f10f7f",
+      "selected_image_file": "art/generated/frame-049.png",
+      "selected_image_sha256": "1158bfd688e046c2a5c02a6dc7d1636077f66b95ccd716fa8caf37a44d67fd18",
+      "generation_prompt_sha256": "1169c3f11444a4e414c965c16fcd05b774de47d317c34a552acc9842c3f10f7f",
+      "display_prompt_sha256": "1169c3f11444a4e414c965c16fcd05b774de47d317c34a552acc9842c3f10f7f",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 50,
+      "start_seconds": 147.56,
+      "end_seconds": 151.38,
+      "lyric_cue_indices": [
+        50
+      ],
+      "lyric_text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+      "named_players": [
+        "James Harden",
+        "Stephen Curry",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Stephen Curry",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Harden13 BLACK HOUSTON hunts Curry30 WHITE Warriors through Capela15's re-screen and loads a fierce stepback.",
+      "emotional_beat": "Aggressive confidence",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "fb13bcbf1ce521e7e286ca6405116de94427453b63cb307b8117cf41259e334c",
+      "selected_image_file": "art/generated/frame-050.png",
+      "selected_image_sha256": "14ec8150d7463bd1f5ca954c4ce2e1af4e01e6eab060063673ff0c3f8123aae3",
+      "generation_prompt_sha256": "fb13bcbf1ce521e7e286ca6405116de94427453b63cb307b8117cf41259e334c",
+      "display_prompt_sha256": "fb13bcbf1ce521e7e286ca6405116de94427453b63cb307b8117cf41259e334c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 51,
+      "start_seconds": 151.38,
+      "end_seconds": 154.34,
+      "lyric_cue_indices": [
+        51
+      ],
+      "lyric_text": "Tag the roller! Recover! Get a body on your man!",
+      "named_players": [
+        "P.J. Tucker",
+        "Draymond Green",
+        "Trevor Ariza",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "P.J. Tucker",
+        "Draymond Green",
+        "Trevor Ariza",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Tucker4 BLACK HOUSTON tags rolling Draymond23 WHITE Warriors as Ariza1 recovers hard toward Durant35, all shouting their switches.",
+      "emotional_beat": "Urgent defensive coordination",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "cbc0b325eca3efe0d4468e25f2301ce5fe44eebdc4b48a64b87f1cc0b9ebf58d",
+      "selected_image_file": "art/generated/frame-051-v2.png",
+      "selected_image_sha256": "5d43fbd0b3424ba3116419265c9c3e9644ed776b2694672b43f71108287e5fa2",
+      "generation_prompt_sha256": "cbc0b325eca3efe0d4468e25f2301ce5fe44eebdc4b48a64b87f1cc0b9ebf58d",
+      "display_prompt_sha256": "cbc0b325eca3efe0d4468e25f2301ce5fe44eebdc4b48a64b87f1cc0b9ebf58d",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 52,
+      "start_seconds": 154.34,
+      "end_seconds": 156.98,
+      "lyric_cue_indices": [
+        52
+      ],
+      "lyric_text": "Every corner three, every lob, every floor burn!",
+      "named_players": [
+        "Eric Gordon",
+        "Clint Capela",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Eric Gordon",
+        "Clint Capela",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Gordon10 BLACK Houston dives headlong for a loose ball as Capela15 springs toward the rim and Paul3 reaches to save possession, WHITE Warriors defenders scrambling.",
+      "emotional_beat": "Desperate hustle",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "aa95bf70b04b3e1ddeca1d4d8b6a30d6008d27a08c4062d61616b9108b59ce37",
+      "selected_image_file": "art/generated/frame-052-v2.png",
+      "selected_image_sha256": "aea56ec9a84324a9e26d1e81f7bfd4f2583fd994970e0e81931230bf1da54c4d",
+      "generation_prompt_sha256": "aa95bf70b04b3e1ddeca1d4d8b6a30d6008d27a08c4062d61616b9108b59ce37",
+      "display_prompt_sha256": "aa95bf70b04b3e1ddeca1d4d8b6a30d6008d27a08c4062d61616b9108b59ce37",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 53,
+      "start_seconds": 156.98,
+      "end_seconds": 159.82,
+      "lyric_cue_indices": [
+        53
+      ],
+      "lyric_text": "Clutch City takes the crown! IT'S OUR TURN!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [
+        "Mike D’Antoni"
+      ],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Harden13 and Paul3 BLACK HOUSTON rally the full Houston bench in a ferocious pre-possession huddle, Tucker4 pounding his chest and D'Antoni pointing.",
+      "emotional_beat": "Defiant unity",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "9d2de38decddba7e2864e224e2e0db65b532d7f7e67a6de762b52c454e2ab81c",
+      "selected_image_file": "art/generated/frame-053.png",
+      "selected_image_sha256": "940f562149b7363d8127736f0c11275d80d31a8113c779709a238a3475caf9a2",
+      "generation_prompt_sha256": "9d2de38decddba7e2864e224e2e0db65b532d7f7e67a6de762b52c454e2ab81c",
+      "display_prompt_sha256": "9d2de38decddba7e2864e224e2e0db65b532d7f7e67a6de762b52c454e2ab81c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 54,
+      "start_seconds": 159.82,
+      "end_seconds": 162.72,
+      "lyric_cue_indices": [
+        54
+      ],
+      "lyric_text": "Bring Curry's man up! Pre-switch? Re-screen!",
+      "named_players": [
+        "Clint Capela",
+        "Stephen Curry",
+        "James Harden",
+        "Draymond Green"
+      ],
+      "prompt_named_players": [
+        "Clint Capela",
+        "Stephen Curry",
+        "James Harden",
+        "Draymond Green"
+      ],
+      "cue_named_players": [
+        "Stephen Curry"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Capela15 BLACK HOUSTON brings Curry30 WHITE Warriors into a high screen for Harden13, Draymond23 signaling a pre-switch as both guards change direction.",
+      "emotional_beat": "Tactical urgency",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "f456beffef54e71768285e0049dd5ece9b9d49e532e3f41b0b5dd2814f373a5f",
+      "selected_image_file": "art/generated/frame-054-v2.png",
+      "selected_image_sha256": "6c6597701329839156f877928da947bed587ae1312de45e52eb16a437d5255e5",
+      "generation_prompt_sha256": "f456beffef54e71768285e0049dd5ece9b9d49e532e3f41b0b5dd2814f373a5f",
+      "display_prompt_sha256": "f456beffef54e71768285e0049dd5ece9b9d49e532e3f41b0b5dd2814f373a5f",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 55,
+      "start_seconds": 162.72,
+      "end_seconds": 165.64,
+      "lyric_cue_indices": [
+        55
+      ],
+      "lyric_text": "Low man tags Capela, Tucker's corner opens clean!",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Paul3 BLACK HOUSTON fires a skip pass as a WHITE Warriors low man tags rolling Capela15, leaving Tucker4 wide open in the corner.",
+      "emotional_beat": "Anticipation of an opening",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "3ca78d2c7c05220c7a727f936edeea4958ce9bc2066ffb04d5f0ce4e7e1f64b1",
+      "selected_image_file": "art/generated/frame-055.png",
+      "selected_image_sha256": "645fbca21428d026c5bff5514f30bc1e90cded058d1c34d92921d4b13bd01a76",
+      "generation_prompt_sha256": "3ca78d2c7c05220c7a727f936edeea4958ce9bc2066ffb04d5f0ce4e7e1f64b1",
+      "display_prompt_sha256": "3ca78d2c7c05220c7a727f936edeea4958ce9bc2066ffb04d5f0ce4e7e1f64b1",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 56,
+      "start_seconds": 165.64,
+      "end_seconds": 168.48,
+      "lyric_cue_indices": [
+        56
+      ],
+      "lyric_text": "Paul snakes to the nail, pull-up over the drop!",
+      "named_players": [
+        "Chris Paul",
+        "Kevon Looney",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Kevon Looney",
+        "Clint Capela"
+      ],
+      "cue_named_players": [
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Paul3 BLACK HOUSTON snakes a screen to the nail and hangs in a short pull-up over Looney5 WHITE Warriors, Capela15 rolling behind.",
+      "emotional_beat": "Composed concentration",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "142113312771b89c9ecdffb676d1fcd6f90f8b19a2b3b06a0983b8b62c8097a3",
+      "selected_image_file": "art/generated/frame-056.png",
+      "selected_image_sha256": "d07a583cef35526dd4e064a263f2a9f1d9837702ff9b90f2ab3266af42ecb3ac",
+      "generation_prompt_sha256": "142113312771b89c9ecdffb676d1fcd6f90f8b19a2b3b06a0983b8b62c8097a3",
+      "display_prompt_sha256": "142113312771b89c9ecdffb676d1fcd6f90f8b19a2b3b06a0983b8b62c8097a3",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 57,
+      "start_seconds": 168.48,
+      "end_seconds": 171.34,
+      "lyric_cue_indices": [
+        57
+      ],
+      "lyric_text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
+      "named_players": [
+        "P.J. Tucker",
+        "Draymond Green",
+        "Trevor Ariza",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "P.J. Tucker",
+        "Draymond Green",
+        "Trevor Ariza",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Tucker4 BLACK HOUSTON rips a contested rebound to his chin over Draymond23 WHITE Warriors as Ariza1 boxes out Durant35.",
+      "emotional_beat": "Urgent rebound protection",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "5fa37b33886f643b47eaec540cbef2de9d2c512520daa123510294fd9544813a",
+      "selected_image_file": "art/generated/frame-057.png",
+      "selected_image_sha256": "2ce04cf41ae9fc68b560543f23626b057d128c21dbc6777fc8a7dd955549f667",
+      "generation_prompt_sha256": "5fa37b33886f643b47eaec540cbef2de9d2c512520daa123510294fd9544813a",
+      "display_prompt_sha256": "5fa37b33886f643b47eaec540cbef2de9d2c512520daa123510294fd9544813a",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 58,
+      "start_seconds": 171.34,
+      "end_seconds": 174.18,
+      "lyric_cue_indices": [
+        58
+      ],
+      "lyric_text": "Game seven! Harden thirty-eight, ten dimes!",
+      "named_players": [
+        "James Harden",
+        "Clint Capela",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Clint Capela",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Harden13 BLACK HOUSTON powers into the lane then snaps a one-handed assist to Capela15 while Durant35 WHITE Warriors stretches to intercept.",
+      "emotional_beat": "Ferocious intent",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "e4b5fd939b9683e046930b27cdc4f141150c196530ce78d27bc0992a3a222bb6",
+      "selected_image_file": "art/generated/frame-058.png",
+      "selected_image_sha256": "c63a0c3e1117d71b893b9719ab1389e2fc70424dbc7849c4bdbd03657d26cef0",
+      "generation_prompt_sha256": "e4b5fd939b9683e046930b27cdc4f141150c196530ce78d27bc0992a3a222bb6",
+      "display_prompt_sha256": "e4b5fd939b9683e046930b27cdc4f141150c196530ce78d27bc0992a3a222bb6",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 59,
+      "start_seconds": 174.18,
+      "end_seconds": 176.62,
+      "lyric_cue_indices": [
+        59
+      ],
+      "lyric_text": "Eleven of twenty-three! Six threes! BANG!",
+      "named_players": [
+        "James Harden",
+        "Klay Thompson",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Klay Thompson",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Harden13 BLACK HOUSTON rises into a deep stepback three over Thompson11 WHITE Warriors, Paul3 lifting an arm from the wing.",
+      "emotional_beat": "Rising excitement",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "521cd1fc5e9af0ca9aeea78a165901744cc082e3b6cc0f089b11331e20c80f05",
+      "selected_image_file": "art/generated/frame-059.png",
+      "selected_image_sha256": "35242bdab5b9114459d2863d06ef48590a975418a1c18890860c83aede6f8643",
+      "generation_prompt_sha256": "521cd1fc5e9af0ca9aeea78a165901744cc082e3b6cc0f089b11331e20c80f05",
+      "display_prompt_sha256": "521cd1fc5e9af0ca9aeea78a165901744cc082e3b6cc0f089b11331e20c80f05",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 60,
+      "start_seconds": 176.62,
+      "end_seconds": 179.52,
+      "lyric_cue_indices": [
+        60
+      ],
+      "lyric_text": "Chris twenty-seven, eleven assists, ZERO gifts!",
+      "named_players": [
+        "Chris Paul",
+        "Stephen Curry",
+        "Draymond Green",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Stephen Curry",
+        "Draymond Green",
+        "Clint Capela"
+      ],
+      "cue_named_players": [
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Paul3 BLACK HOUSTON darts between Curry30 and Draymond23 WHITE Warriors and rifles a pocket assist toward Capela15.",
+      "emotional_beat": "Controlled urgency",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "04b3919b53d6fb9971b7ca3ad51bae12613de0bf8bfe4bd292de90e342a6dc97",
+      "selected_image_file": "art/generated/frame-060.png",
+      "selected_image_sha256": "01841b5f784e6d3b68b9caeedd4be71a2eadcc4d3417ecf80ccc0022dbd1b953",
+      "generation_prompt_sha256": "04b3919b53d6fb9971b7ca3ad51bae12613de0bf8bfe4bd292de90e342a6dc97",
+      "display_prompt_sha256": "04b3919b53d6fb9971b7ca3ad51bae12613de0bf8bfe4bd292de90e342a6dc97",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 61,
+      "start_seconds": 179.52,
+      "end_seconds": 182.7,
+      "lyric_cue_indices": [
+        61
+      ],
+      "lyric_text": "Four for four at the stripe! NO free possessions!",
+      "named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Clint Capela",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "James Harden",
+        "Clint Capela",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Paul3 BLACK HOUSTON finishes an intense free-throw follow-through, Harden13 and Capela15 ready on the lane while Durant35 WHITE Warriors watches.",
+      "emotional_beat": "Concentration at the line",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "b7963293a39d988e2222c279de298702803e873eb8f4a8ede1891186f3b7e616",
+      "selected_image_file": "art/generated/frame-061.png",
+      "selected_image_sha256": "bfce800b60da7da319b10347a54e1c745cff242d2dceff1570262e27c8d1dc9d",
+      "generation_prompt_sha256": "b7963293a39d988e2222c279de298702803e873eb8f4a8ede1891186f3b7e616",
+      "display_prompt_sha256": "b7963293a39d988e2222c279de298702803e873eb8f4a8ede1891186f3b7e616",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 62,
+      "start_seconds": 182.7,
+      "end_seconds": 185.32,
+      "lyric_cue_indices": [
+        62
+      ],
+      "lyric_text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
+      "named_players": [
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [
+        "P.J. Tucker",
+        "Trevor Ariza"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Tucker4 BLACK HOUSTON readies a corner three while Ariza1 sets an off-ball screen on Durant35 WHITE Warriors to keep Tucker free.",
+      "emotional_beat": "Offensive anticipation",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "274d9f8d1fc3ebb6908033543d2e9fced43c1d2208a2ccbc04ad92cb9797c12c",
+      "selected_image_file": "art/generated/frame-062.png",
+      "selected_image_sha256": "6d80a1a2c0d71f0a4c88ee6993c2e442057c05f161672423d5a130cae2fcfd5c",
+      "generation_prompt_sha256": "274d9f8d1fc3ebb6908033543d2e9fced43c1d2208a2ccbc04ad92cb9797c12c",
+      "display_prompt_sha256": "274d9f8d1fc3ebb6908033543d2e9fced43c1d2208a2ccbc04ad92cb9797c12c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 63,
+      "start_seconds": 185.32,
+      "end_seconds": 188.28,
+      "lyric_cue_indices": [
+        63
+      ],
+      "lyric_text": "Clint Capela vertical spacing! Gordon lifts!",
+      "named_players": [
+        "Clint Capela",
+        "Eric Gordon",
+        "Kevon Looney",
+        "Draymond Green"
+      ],
+      "prompt_named_players": [
+        "Clint Capela",
+        "Eric Gordon",
+        "Kevon Looney",
+        "Draymond Green"
+      ],
+      "cue_named_players": [
+        "Clint Capela",
+        "Eric Gordon"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Capela15 BLACK HOUSTON rockets vertically for a lob as Gordon10 lifts from the wing, Looney5 and Draymond23 WHITE Warriors leaping late.",
+      "emotional_beat": "Explosive effort",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "5fd376634ab4d923995f4279c25ccc0e7fe54ba48ba836b94b55ec2619121f89",
+      "selected_image_file": "art/generated/frame-063.png",
+      "selected_image_sha256": "fb72ac7e10dc5b41b573c5497f944e798f4c40ffafabd9843da3993690e71220",
+      "generation_prompt_sha256": "5fd376634ab4d923995f4279c25ccc0e7fe54ba48ba836b94b55ec2619121f89",
+      "display_prompt_sha256": "5fd376634ab4d923995f4279c25ccc0e7fe54ba48ba836b94b55ec2619121f89",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 64,
+      "start_seconds": 188.28,
+      "end_seconds": 191.1,
+      "lyric_cue_indices": [
+        64
+      ],
+      "lyric_text": "Durant answers! Curry relocates! Nobody quits!",
+      "named_players": [
+        "Kevin Durant",
+        "Stephen Curry",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "Kevin Durant",
+        "Stephen Curry",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [
+        "Kevin Durant",
+        "Stephen Curry"
+      ],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "2018 Western final, Golden State Game 7",
+      "action": "Durant35 WHITE Warriors shoots a desperate contested jumper while Curry30 relocates behind him and Tucker4 BLACK HOUSTON fights through the contest.",
+      "emotional_beat": "Opposition resilience",
+      "story_beat": "warriors_game7",
+      "prompt_sha256": "d0ff1a27976ea100167df98789a27ed9fbbdc4f969470c821e15a3fb0b77fa8f",
+      "selected_image_file": "art/generated/frame-064.png",
+      "selected_image_sha256": "32ae5b980bc6dc9108ea7880b8629a489cb00c9d315e4c734d37476ee1e4e57e",
+      "generation_prompt_sha256": "d0ff1a27976ea100167df98789a27ed9fbbdc4f969470c821e15a3fb0b77fa8f",
+      "display_prompt_sha256": "d0ff1a27976ea100167df98789a27ed9fbbdc4f969470c821e15a3fb0b77fa8f",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 65,
+      "start_seconds": 191.1,
+      "end_seconds": 194.38,
+      "lyric_cue_indices": [
+        65
+      ],
+      "lyric_text": "One-thirteen, one-oh-eight! Four-three! WEST WON!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "Stephen Curry",
+        "Kevin Durant"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "Stephen Curry",
+        "Kevin Durant"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "WCF Game7 final horn and aftermath",
+      "action": "Toyota Center final horn: Harden13, Paul3 and Capela15 BLACK HOUSTON leap together roaring as Curry30 and Durant35 WHITE Warriors hang their heads.",
+      "emotional_beat": "Houston joy and Warriors defeat",
+      "story_beat": "western_champions",
+      "prompt_sha256": "8b4ff783f79041933c60521abf9c5ff42ad1a0e6158b08d81a10e822bb7ded6b",
+      "selected_image_file": "art/generated/frame-065-v2.png",
+      "selected_image_sha256": "a89e3438e3ce515dd85a13549bef1dc2301cd7548ff5fdaab8be5c4d5d44f906",
+      "generation_prompt_sha256": "8b4ff783f79041933c60521abf9c5ff42ad1a0e6158b08d81a10e822bb7ded6b",
+      "display_prompt_sha256": "8b4ff783f79041933c60521abf9c5ff42ad1a0e6158b08d81a10e822bb7ded6b",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 66,
+      "start_seconds": 194.38,
+      "end_seconds": 196.98,
+      "lyric_cue_indices": [
+        66
+      ],
+      "lyric_text": "Both guards hit the floor crying! Job's not done!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Eric Gordon",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Eric Gordon",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Golden State Warriors",
+      "game": "WCF Game7 final horn and aftermath",
+      "action": "Harden13 and Paul3 BLACK HOUSTON collapse to their knees hugging and crying with relief, Gordon10 and Tucker4 crouching to embrace them.",
+      "emotional_beat": "Tearful relief",
+      "story_beat": "western_champions",
+      "prompt_sha256": "1b47aee79364c9c49cf44a2301bd8e1b5bd7b5f9c11d39f8d98a1fec7e7b0e79",
+      "selected_image_file": "art/generated/frame-066.png",
+      "selected_image_sha256": "a7b0a88d7db8a1341f88a55fccf3d4e4bc9a5813101a15434caec17e8c8fe88f",
+      "generation_prompt_sha256": "1b47aee79364c9c49cf44a2301bd8e1b5bd7b5f9c11d39f8d98a1fec7e7b0e79",
+      "display_prompt_sha256": "1b47aee79364c9c49cf44a2301bd8e1b5bd7b5f9c11d39f8d98a1fec7e7b0e79",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 67,
+      "start_seconds": 196.98,
+      "end_seconds": 199.94,
+      "lyric_cue_indices": [
+        67
+      ],
+      "lyric_text": "Cleveland Cavaliers, LeBron James downhill freight!",
+      "named_players": [
+        "LeBron James"
+      ],
+      "prompt_named_players": [],
+      "cue_named_players": [
+        "LeBron James"
+      ],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals against Cleveland",
+      "action": "Cleveland Finals opening: an excited stylish adult female courtside reporter raises a microphone as wine-and-gold Cavs fans roar behind her, 2018 Quicken Loans Arena.",
+      "emotional_beat": "Reporter excitement and crowd anticipation",
+      "story_beat": "finals",
+      "prompt_sha256": "c927de92667ef29393771945943d51b24cbe249477f67a6655cfa479aaa7cd3f",
+      "selected_image_file": "art/generated/frame-067.png",
+      "selected_image_sha256": "23f5e44d46ef5c22312799ba6da8bb83f974c268cfbe443afd36b701c6015665",
+      "generation_prompt_sha256": "c927de92667ef29393771945943d51b24cbe249477f67a6655cfa479aaa7cd3f",
+      "display_prompt_sha256": "c927de92667ef29393771945943d51b24cbe249477f67a6655cfa479aaa7cd3f",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 68,
+      "start_seconds": 199.94,
+      "end_seconds": 202.76,
+      "lyric_cue_indices": [
+        68
+      ],
+      "lyric_text": "Kevin Love pick-and-pop, late weak-side tag!",
+      "named_players": [
+        "Kevin Love",
+        "LeBron James",
+        "P.J. Tucker",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "Kevin Love",
+        "LeBron James",
+        "P.J. Tucker",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "Kevin Love"
+      ],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals against Cleveland",
+      "action": "Kevin Love0 WHITE CAVS pops behind a screen for LeBron23's pass as Tucker4 RED ROCKETS races to close and Paul3 tags the weak side.",
+      "emotional_beat": "Defensive urgency",
+      "story_beat": "finals",
+      "prompt_sha256": "85e817c27a10b6c2768448c1d7048e616f55696daaf01c2faa8f43a5988d78d0",
+      "selected_image_file": "art/generated/frame-068.png",
+      "selected_image_sha256": "8c6eda0d037622ced2ec91ac769b8729946710a4c095fec6b6e6491b434da76c",
+      "generation_prompt_sha256": "85e817c27a10b6c2768448c1d7048e616f55696daaf01c2faa8f43a5988d78d0",
+      "display_prompt_sha256": "85e817c27a10b6c2768448c1d7048e616f55696daaf01c2faa8f43a5988d78d0",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 69,
+      "start_seconds": 202.76,
+      "end_seconds": 205.46,
+      "lyric_cue_indices": [
+        69
+      ],
+      "lyric_text": "They take two! Houston adjusts the tag!",
+      "named_players": [],
+      "prompt_named_players": [],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "Finals setback before the Game6 clinch",
+      "action": "Houston Finals adjustment meeting: three fictional adult assistant coaches argue animatedly over a whiteboard showing basketball nail-help arrows and a corner kickout, bench towels and a Cavaliers scouting folder on the table.",
+      "emotional_beat": "Tense tactical discussion",
+      "story_beat": "finals_setback",
+      "prompt_sha256": "f5037487a56dee20cd67276d031449008c11573925df69e7447552f5e31ccdab",
+      "selected_image_file": "art/generated/frame-069.png",
+      "selected_image_sha256": "56bfff28dafb90e420fc082f0afcc8e0bccc0563020273448fdc3600928312a3",
+      "generation_prompt_sha256": "f5037487a56dee20cd67276d031449008c11573925df69e7447552f5e31ccdab",
+      "display_prompt_sha256": "80fce709b2940b6d5c0fbd4af26c50ec3a3df8e0ce0eca4199fc782436a8d7e5",
+      "display_prompt_differs_from_generation_prompt": true
+    },
+    {
+      "index": 70,
+      "start_seconds": 205.46,
+      "end_seconds": 208.64,
+      "lyric_cue_indices": [
+        70
+      ],
+      "lyric_text": "Nail help, kickout, extra pass, rotate BACK!",
+      "named_players": [
+        "James Harden",
+        "Eric Gordon",
+        "Trevor Ariza",
+        "LeBron James"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Eric Gordon",
+        "Trevor Ariza",
+        "LeBron James"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "Finals tactical adjustment before the clinch",
+      "action": "Harden13 RED ROCKETS kicks out of Cleveland's nail help toward Gordon10, Ariza1 making an extra-pass read as LeBron23 WHITE CAVS scrambles back.",
+      "emotional_beat": "Connected focus",
+      "story_beat": "finals_adjustment",
+      "prompt_sha256": "cfa9dfc96b5058a93ab6c98c4c1a1e8b45d563e642f18113f001abfcf4d28b0d",
+      "selected_image_file": "art/generated/frame-070.png",
+      "selected_image_sha256": "e8b053ab3f6d4b143c40fcb443fbb7c33a43425fae3b9c825a36df828b1bfcac",
+      "generation_prompt_sha256": "cfa9dfc96b5058a93ab6c98c4c1a1e8b45d563e642f18113f001abfcf4d28b0d",
+      "display_prompt_sha256": "cfa9dfc96b5058a93ab6c98c4c1a1e8b45d563e642f18113f001abfcf4d28b0d",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 71,
+      "start_seconds": 208.64,
+      "end_seconds": 211.48,
+      "lyric_cue_indices": [
+        71
+      ],
+      "lyric_text": "Finals game six: Harden FORTY, TEN, TWELVE!",
+      "named_players": [
+        "James Harden",
+        "Kevin Love",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Kevin Love",
+        "Chris Paul"
+      ],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6, Houston at Cleveland",
+      "action": "Finals Game6: Harden13 RED ROCKETS rips a rebound over Love0 WHITE CAVS and turns into an outlet toward Paul3.",
+      "emotional_beat": "Determination",
+      "story_beat": "finals_game6",
+      "prompt_sha256": "aead61c3239bec27c3931b5fdecdad47f5c1ad281ef624e702acddb5b9e51a5f",
+      "selected_image_file": "art/generated/frame-071.png",
+      "selected_image_sha256": "20ed0a5ae091ce327177010af82e1d927fe7b3d385c8415ab0ce4a97325bd283",
+      "generation_prompt_sha256": "aead61c3239bec27c3931b5fdecdad47f5c1ad281ef624e702acddb5b9e51a5f",
+      "display_prompt_sha256": "aead61c3239bec27c3931b5fdecdad47f5c1ad281ef624e702acddb5b9e51a5f",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 72,
+      "start_seconds": 211.48,
+      "end_seconds": 213.76,
+      "lyric_cue_indices": [
+        72
+      ],
+      "lyric_text": "Triple-double! Six for twelve from deep! YELL!",
+      "named_players": [
+        "James Harden",
+        "LeBron James",
+        "Clint Capela",
+        "Tristan Thompson"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "LeBron James",
+        "Clint Capela",
+        "Tristan Thompson"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6, Houston at Cleveland",
+      "action": "Finals Game6 Harden13 RED ROCKETS launches a deep three over LeBron23 WHITE CAVS, Capela15 boxing out Thompson13.",
+      "emotional_beat": "Confident shotmaking",
+      "story_beat": "finals_game6",
+      "prompt_sha256": "dbd71cc53ba07e540b2ba547844d917ed02e73b2de86836dedce4c60346cf665",
+      "selected_image_file": "art/generated/frame-072.png",
+      "selected_image_sha256": "cccfdc73fd6b2fad92ed51e30d3ffc2bfbcc8dcfa12b43e2c11694c812502910",
+      "generation_prompt_sha256": "dbd71cc53ba07e540b2ba547844d917ed02e73b2de86836dedce4c60346cf665",
+      "display_prompt_sha256": "dbd71cc53ba07e540b2ba547844d917ed02e73b2de86836dedce4c60346cf665",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 73,
+      "start_seconds": 213.76,
+      "end_seconds": 216.82,
+      "lyric_cue_indices": [
+        73
+      ],
+      "lyric_text": "Sixty-eight point three true shooting! EFFICIENT!",
+      "named_players": [
+        "James Harden",
+        "J.R. Smith",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "J.R. Smith",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6, Houston at Cleveland",
+      "action": "Harden13 RED ROCKETS muscles through J.R.",
+      "emotional_beat": "Fierce determination",
+      "story_beat": "finals_game6",
+      "prompt_sha256": "4aa0623d5701ab50418e9764abe030c7cb6b33268e3feed38ec5dd6241f36bf5",
+      "selected_image_file": "art/generated/frame-073.png",
+      "selected_image_sha256": "b573f26f77b5f114c315b9e7e98c894afadf6f13a1f92125ae252db4621eb5ee",
+      "generation_prompt_sha256": "4aa0623d5701ab50418e9764abe030c7cb6b33268e3feed38ec5dd6241f36bf5",
+      "display_prompt_sha256": "4aa0623d5701ab50418e9764abe030c7cb6b33268e3feed38ec5dd6241f36bf5",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 74,
+      "start_seconds": 216.82,
+      "end_seconds": 219.58,
+      "lyric_cue_indices": [
+        74
+      ],
+      "lyric_text": "Paul twenty-four, twelve dimes! Calm in the storm!",
+      "named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "George Hill",
+        "LeBron James"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "Clint Capela",
+        "George Hill",
+        "LeBron James"
+      ],
+      "cue_named_players": [
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6, Houston at Cleveland",
+      "action": "Paul3 RED ROCKETS calmly fakes a drive and threads a precise bounce pass to Capela15 past George Hill3 WHITE CAVS, LeBron23 rotating late.",
+      "emotional_beat": "Calm under pressure",
+      "story_beat": "finals_game6",
+      "prompt_sha256": "cf7652cb9ebda1109815ad4d8e765ffc7668c0191e95cfcf495e59504c6b63d0",
+      "selected_image_file": "art/generated/frame-074-v2.png",
+      "selected_image_sha256": "a2d85c6b9887bde15053285128c9a68316aa5b90bd75245f6cf855a865212353",
+      "generation_prompt_sha256": "cf7652cb9ebda1109815ad4d8e765ffc7668c0191e95cfcf495e59504c6b63d0",
+      "display_prompt_sha256": "cf7652cb9ebda1109815ad4d8e765ffc7668c0191e95cfcf495e59504c6b63d0",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 75,
+      "start_seconds": 219.58,
+      "end_seconds": 222.36,
+      "lyric_cue_indices": [
+        75
+      ],
+      "lyric_text": "One-eighteen, one-ten! Four-two! FINAL HORN!",
+      "named_players": [],
+      "prompt_named_players": [],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6 final horn",
+      "action": "Finals Game6 final horn at Quicken Loans Arena: adult Houston fans in red explode into tearful hugs with fists raised, while defeated Cavaliers fans in wine and gold slump in nearby seats.",
+      "emotional_beat": "Houston fan elation and Cleveland fan disappointment",
+      "story_beat": "championship_horn",
+      "prompt_sha256": "a1dea51ae42c477d2e18f8c3a171bf276e123f93e66a806c8bd564eaacda9f2c",
+      "selected_image_file": "art/generated/frame-075.png",
+      "selected_image_sha256": "1492ef11db6c810797c61bfed92c769dc2df7c3279ea900cc2f07fbd1bba9504",
+      "generation_prompt_sha256": "a1dea51ae42c477d2e18f8c3a171bf276e123f93e66a806c8bd564eaacda9f2c",
+      "display_prompt_sha256": "a1dea51ae42c477d2e18f8c3a171bf276e123f93e66a806c8bd564eaacda9f2c",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 76,
+      "start_seconds": 222.36,
+      "end_seconds": 225.3,
+      "lyric_cue_indices": [
+        76
+      ],
+      "lyric_text": "Finals MVP to James, drags the whole team close!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Eric Gordon"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Eric Gordon"
+      ],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6 MVP ceremony",
+      "action": "Harden13 RED ROCKETS grips the Finals MVP trophy and pulls Paul3, Capela15, Tucker4 and Gordon10 into a roaring embrace on the Cleveland podium.",
+      "emotional_beat": "Pride and shared gratitude",
+      "story_beat": "finals_mvp",
+      "prompt_sha256": "b5b25ab1b74420a2c8f8099a6f23b6b972952954ece6aa20dd6d0435c653b704",
+      "selected_image_file": "art/generated/frame-076.png",
+      "selected_image_sha256": "c4d79d54cbb50e16feba7656b24975d88a15b764bd47649b1ae0d29372a8392c",
+      "generation_prompt_sha256": "b5b25ab1b74420a2c8f8099a6f23b6b972952954ece6aa20dd6d0435c653b704",
+      "display_prompt_sha256": "b5b25ab1b74420a2c8f8099a6f23b6b972952954ece6aa20dd6d0435c653b704",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 77,
+      "start_seconds": 225.3,
+      "end_seconds": 228.76,
+      "lyric_cue_indices": [
+        77
+      ],
+      "lyric_text": "Rim runs, switches, screens! Every role gets a toast!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Eric Gordon"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Eric Gordon"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "NBA Finals Game6 trophy celebration",
+      "action": "Houston teammates in RED ROCKETS lift the gold Larry O'Brien trophy together on Cleveland's championship podium: Harden13, Paul3, Capela15, Tucker4, Ariza1 and Gordon10.",
+      "emotional_beat": "Championship euphoria",
+      "story_beat": "championship_bridge",
+      "prompt_sha256": "ed5c3f7a184a402a9bfaaa7bf005cfe2b2d36cfa494519cea3fd572dba0b4fe9",
+      "selected_image_file": "art/generated/frame-077-v2.png",
+      "selected_image_sha256": "4124b8b4190150f1a2d3a9b90deee0c0cc30aefde834af3e85196ad56d2e64ed",
+      "generation_prompt_sha256": "ed5c3f7a184a402a9bfaaa7bf005cfe2b2d36cfa494519cea3fd572dba0b4fe9",
+      "display_prompt_sha256": "ed5c3f7a184a402a9bfaaa7bf005cfe2b2d36cfa494519cea3fd572dba0b4fe9",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 78,
+      "start_seconds": 228.76,
+      "end_seconds": 231.44,
+      "lyric_cue_indices": [
+        78
+      ],
+      "lyric_text": "Parade through Houston! Rings come later, let 'em shine!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Later Houston championship parade",
+      "action": "Houston championship parade: Harden, Paul, Capela and Tucker stand together on a moving open-top float raising the gold trophy toward ecstatic crowds.",
+      "emotional_beat": "Public celebration",
+      "story_beat": "houston_parade",
+      "prompt_sha256": "aa4249104892a8e4a1be927cf268c48286d7097659ec0ca3fb5c020012c87df1",
+      "selected_image_file": "art/generated/frame-078.png",
+      "selected_image_sha256": "a26478cc4f884b90e7dc698a570b1ef456621b438ddc8e2678a3371c2b43130e",
+      "generation_prompt_sha256": "aa4249104892a8e4a1be927cf268c48286d7097659ec0ca3fb5c020012c87df1",
+      "display_prompt_sha256": "aa4249104892a8e4a1be927cf268c48286d7097659ec0ca3fb5c020012c87df1",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 79,
+      "start_seconds": 231.44,
+      "end_seconds": 234.12,
+      "lyric_cue_indices": [
+        78
+      ],
+      "lyric_text": "Parade through Houston! Rings come later, let 'em shine!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Later Houston championship parade",
+      "action": "Houston championship parade: Harden, Paul, Capela and Tucker stand together on a moving open-top float raising the gold trophy toward ecstatic crowds.",
+      "emotional_beat": "Public celebration",
+      "story_beat": "houston_parade",
+      "prompt_sha256": "bf4f6935f75b4707769de4d31d9d3d59ad09010a7127ce296d0e48ddcfcd330d",
+      "selected_image_file": "art/generated/frame-079.png",
+      "selected_image_sha256": "43d1bfb441af0c6a91adf632149270f217e451ed37f2bbf6dfa3fe1611f141d7",
+      "generation_prompt_sha256": "bf4f6935f75b4707769de4d31d9d3d59ad09010a7127ce296d0e48ddcfcd330d",
+      "display_prompt_sha256": "bf4f6935f75b4707769de4d31d9d3d59ad09010a7127ce296d0e48ddcfcd330d",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 80,
+      "start_seconds": 234.12,
+      "end_seconds": 237.02,
+      "lyric_cue_indices": [
+        79
+      ],
+      "lyric_text": "Harden at a Houston strip club! Champagne shine!",
+      "named_players": [
+        "James Harden"
+      ],
+      "prompt_named_players": [],
+      "cue_named_players": [
+        "James Harden"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Later Houston nightlife celebration",
+      "action": "Houston championship night outside an upscale music lounge: ecstatic adult fans in red and silver streetwear throw their arms up, hug and cheer under colorful neon while a line of friends enters the venue.",
+      "emotional_beat": "Houston fans’ nightlife euphoria",
+      "story_beat": "houston_club",
+      "prompt_sha256": "2f413073b742fc948f2d5a7996fb0c261340510db9f6c1378f06a4311569b3db",
+      "selected_image_file": "art/generated/frame-080.png",
+      "selected_image_sha256": "48138890d1076fce9e1ddc1e8068b242399ab890e94eb5cd52f4520123d83d42",
+      "generation_prompt_sha256": "2f413073b742fc948f2d5a7996fb0c261340510db9f6c1378f06a4311569b3db",
+      "display_prompt_sha256": "2f413073b742fc948f2d5a7996fb0c261340510db9f6c1378f06a4311569b3db",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 81,
+      "start_seconds": 237.02,
+      "end_seconds": 240.04,
+      "lyric_cue_indices": [
+        80
+      ],
+      "lyric_text": "Whole crew at the table, champagne in the light!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Eric Gordon",
+        "Clint Capela"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Eric Gordon",
+        "Clint Capela"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Later Houston nightlife celebration",
+      "action": "Harden, Paul, Gordon and Capela cheer around a Houston club table raising champagne glasses together, stylish adult women friends clapping beside them.",
+      "emotional_beat": "Friendship and shared joy",
+      "story_beat": "houston_club",
+      "prompt_sha256": "2c29ac376c799c9d298a6052da4d010854f49e60189eda77d8b86a8f36b8fafb",
+      "selected_image_file": "art/generated/frame-081.png",
+      "selected_image_sha256": "d61d1c0f06580fd8321fb5bc19efbbde0652d4d6a7b5e96a7b765b3209a5857a",
+      "generation_prompt_sha256": "2c29ac376c799c9d298a6052da4d010854f49e60189eda77d8b86a8f36b8fafb",
+      "display_prompt_sha256": "2c29ac376c799c9d298a6052da4d010854f49e60189eda77d8b86a8f36b8fafb",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 82,
+      "start_seconds": 240.04,
+      "end_seconds": 243.42,
+      "lyric_cue_indices": [
+        81
+      ],
+      "lyric_text": "From screen assists to banners! WHAT A NIGHT!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [
+        "Mike D’Antoni"
+      ],
+      "opponent": null,
+      "game": "Later Toyota Center championship-banner ceremony",
+      "action": "Harden and Paul shout and point upward beside Capela, Tucker and D'Antoni as a Houston championship banner rises in Toyota Center.",
+      "emotional_beat": "Gratitude and pride",
+      "story_beat": "banner_payoff",
+      "prompt_sha256": "971896b00c346ac7a91d8fd4f5588bb17cb7d3f409afc83151557fed14424bbd",
+      "selected_image_file": "art/generated/frame-082.png",
+      "selected_image_sha256": "046a5424624763dc17aeba4b83e6aaebee30b9297c0fd40cf62ed936acdbe75e",
+      "generation_prompt_sha256": "971896b00c346ac7a91d8fd4f5588bb17cb7d3f409afc83151557fed14424bbd",
+      "display_prompt_sha256": "971896b00c346ac7a91d8fd4f5588bb17cb7d3f409afc83151557fed14424bbd",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 83,
+      "start_seconds": 243.42,
+      "end_seconds": 245.92,
+      "lyric_cue_indices": [
+        82
+      ],
+      "lyric_text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Eric Gordon"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Eric Gordon"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": [
+        "Minnesota Timberwolves",
+        "Utah Jazz",
+        "Golden State Warriors",
+        "Cleveland Cavaliers"
+      ],
+      "game": "Championship locker-room recap of all four rounds",
+      "action": "Houston championship locker room: Harden and Paul hold the gold trophy while Capela, Tucker, Ariza and Gordon pound lockers and roar together, exhausted triumphant faces.",
+      "emotional_beat": "Exhausted triumph",
+      "story_beat": "whole_path",
+      "prompt_sha256": "2e88b798d877da44eca6ba80d8af7d12cb603fa54fbcbf5a3c9725ad4dc76894",
+      "selected_image_file": "art/generated/frame-083-v2.png",
+      "selected_image_sha256": "b3d4498e0a08692603e9b8a724b4c2909b3ff7368d3dabc8dd43f014099c62f3",
+      "generation_prompt_sha256": "2e88b798d877da44eca6ba80d8af7d12cb603fa54fbcbf5a3c9725ad4dc76894",
+      "display_prompt_sha256": "2e88b798d877da44eca6ba80d8af7d12cb603fa54fbcbf5a3c9725ad4dc76894",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 84,
+      "start_seconds": 245.92,
+      "end_seconds": 248.42,
+      "lyric_cue_indices": [
+        83
+      ],
+      "lyric_text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Eric Gordon"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "P.J. Tucker",
+        "Trevor Ariza",
+        "Eric Gordon"
+      ],
+      "cue_named_players": [
+        "James Harden",
+        "Chris Paul"
+      ],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Houston championship-parade team celebration",
+      "action": "Houston team championship portrait on the parade float: Harden, Paul, Capela, Tucker, Ariza and Gordon crowd around the trophy with smiling teammates behind, linked shoulders and raised fists.",
+      "emotional_beat": "Communal joy",
+      "story_beat": "whole_team",
+      "prompt_sha256": "effbf5fe19d3d91b923d9d08d628ce7514347d386d019e804a5dbdc110762be9",
+      "selected_image_file": "art/generated/frame-084.png",
+      "selected_image_sha256": "2535cebae6497b0ef0b0e6d7d2c74a28b26a23693c54ff9ee8cb2e2fea3b7eee",
+      "generation_prompt_sha256": "effbf5fe19d3d91b923d9d08d628ce7514347d386d019e804a5dbdc110762be9",
+      "display_prompt_sha256": "effbf5fe19d3d91b923d9d08d628ce7514347d386d019e804a5dbdc110762be9",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 85,
+      "start_seconds": 248.42,
+      "end_seconds": 251.32,
+      "lyric_cue_indices": [
+        84
+      ],
+      "lyric_text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
+      "named_players": [
+        "P.J. Tucker",
+        "Kevin Love",
+        "Clint Capela",
+        "Chris Paul"
+      ],
+      "prompt_named_players": [
+        "P.J. Tucker",
+        "Kevin Love",
+        "Clint Capela",
+        "Chris Paul"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": "Cleveland Cavaliers",
+      "game": "Recap of the Finals-clinching defensive possession",
+      "action": "Finals-clinching defensive recap: Tucker4 RED ROCKETS boxes out Love0 WHITE CAVS while Capela15 pulls down the last rebound and Paul3 shouts.",
+      "emotional_beat": "Strain turning into relief",
+      "story_beat": "final_stop_recap",
+      "prompt_sha256": "f9f800042307e07b969839b4f7e9c44f95231416afe7383072debc47472e24f3",
+      "selected_image_file": "art/generated/frame-085-v2.png",
+      "selected_image_sha256": "b742fd992abf746640df68bfe69f9c3f8b1de28e793d0f7e2fc9c76e2aec6122",
+      "generation_prompt_sha256": "f9f800042307e07b969839b4f7e9c44f95231416afe7383072debc47472e24f3",
+      "display_prompt_sha256": "f9f800042307e07b969839b4f7e9c44f95231416afe7383072debc47472e24f3",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 86,
+      "start_seconds": 251.32,
+      "end_seconds": 253.78,
+      "lyric_cue_indices": [
+        85
+      ],
+      "lyric_text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
+      "named_players": [
+        "Chris Paul",
+        "James Harden"
+      ],
+      "prompt_named_players": [
+        "Chris Paul",
+        "James Harden"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [],
+      "opponent": null,
+      "game": "Later championship-ring ceremony",
+      "action": "Later championship-ring ceremony: Chris Paul and thick-bearded James Harden pose shoulder-to-shoulder laughing through tears, fists forward showing one detailed ring each, teammates clapping behind.",
+      "emotional_beat": "Joyful tears",
+      "story_beat": "paul_harden_rings",
+      "prompt_sha256": "593850516f180e1b245128054a5c6c321389e4285e4f2140427969654a2851a4",
+      "selected_image_file": "art/generated/frame-086.png",
+      "selected_image_sha256": "2a9604f1b99d2bf5a7c990f679540de2876b882435a959f2b66dc55a1982fde3",
+      "generation_prompt_sha256": "593850516f180e1b245128054a5c6c321389e4285e4f2140427969654a2851a4",
+      "display_prompt_sha256": "593850516f180e1b245128054a5c6c321389e4285e4f2140427969654a2851a4",
+      "display_prompt_differs_from_generation_prompt": false
+    },
+    {
+      "index": 87,
+      "start_seconds": 253.78,
+      "end_seconds": 258.029,
+      "lyric_cue_indices": [],
+      "lyric_text": "",
+      "named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "Trevor Ariza",
+        "P.J. Tucker",
+        "Eric Gordon",
+        "Gerald Green",
+        "Luc Mbah a Moute",
+        "Joe Johnson",
+        "Tarik Black",
+        "Ryan Anderson",
+        "Nene",
+        "Aaron Jackson",
+        "Chinanu Onuaku",
+        "Zhou Qi"
+      ],
+      "prompt_named_players": [
+        "James Harden",
+        "Chris Paul",
+        "Clint Capela",
+        "Trevor Ariza",
+        "P.J. Tucker",
+        "Eric Gordon",
+        "Gerald Green",
+        "Luc Mbah a Moute",
+        "Joe Johnson",
+        "Tarik Black",
+        "Ryan Anderson",
+        "Nene",
+        "Aaron Jackson",
+        "Chinanu Onuaku",
+        "Zhou Qi"
+      ],
+      "cue_named_players": [],
+      "named_coaches": [
+        "Mike D’Antoni"
+      ],
+      "opponent": null,
+      "game": "Later championship-ring ceremony",
+      "action": "Later ring ceremony team portrait, fifteen Houston players with trophy and rings: Harden13, Paul3, Capela15, Ariza1, Tucker4, Gordon10, Green14, Mbah a Moute12, Johnson7, Black28, Anderson33, Nene42, Jackson5, Onuaku21, Zhou Qi9; coach D'Antoni.",
+      "emotional_beat": "Communal championship pride",
+      "story_beat": "team_rings",
+      "prompt_sha256": "ac0495f33dbf6cdecde90470edcbbd312c50587d8a5c2a92c080f2cd3a644a75",
+      "selected_image_file": "art/generated/frame-087.png",
+      "selected_image_sha256": "ac269a49f1f4a8509c68b5ac2031df0f6bc489afd906de3d568294116c1b1cf5",
+      "generation_prompt_sha256": "ac0495f33dbf6cdecde90470edcbbd312c50587d8a5c2a92c080f2cd3a644a75",
+      "display_prompt_sha256": "ac0495f33dbf6cdecde90470edcbbd312c50587d8a5c2a92c080f2cd3a644a75",
+      "display_prompt_differs_from_generation_prompt": false
+    }
+  ],
+  "usable_assets_sha256": "cd1aafd26cc0560e5fa06c1d7d0a056940db3e88d5400ec0bae14d77ec33077d",
+  "selected_image_qa_sha256": "9e530c5a0e0965781db5caa7fdded2de1b321b79f5cc4633471f5e339f949871"
+}

@@ -1,0 +1,899 @@
+[
+  {
+    "start": 3180,
+    "end": 6100,
+    "text": "Toyota Center! Houston, light the endgame!",
+    "burned_lines": [
+      "Toyota Center!",
+      "Houston, light the",
+      "endgame!"
+    ]
+  },
+  {
+    "start": 6940,
+    "end": 10520,
+    "text": "Twenty-eighteen! Film-room heads, CALL THE GAME!",
+    "burned_lines": [
+      "Twenty-eighteen!",
+      "Film-room heads,",
+      "CALL THE GAME!"
+    ]
+  },
+  {
+    "start": 11340,
+    "end": 13960,
+    "text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+    "burned_lines": [
+      "HUNT THE",
+      "SWITCH!",
+      "Re-screen!",
+      "Stepback, BANG!"
+    ]
+  },
+  {
+    "start": 14160,
+    "end": 16720,
+    "text": "Tag the roller! Recover! Get a body on your man!",
+    "burned_lines": [
+      "Tag the roller!",
+      "Recover! Get a",
+      "body on your man!"
+    ]
+  },
+  {
+    "start": 17200,
+    "end": 19680,
+    "text": "Every corner three, every lob, every floor burn!",
+    "burned_lines": [
+      "Every corner",
+      "three, every lob,",
+      "every floor burn!"
+    ]
+  },
+  {
+    "start": 19860,
+    "end": 22480,
+    "text": "Clutch City takes the crown! IT'S OUR TURN!",
+    "burned_lines": [
+      "Clutch City takes",
+      "the crown! IT'S",
+      "OUR TURN!"
+    ]
+  },
+  {
+    "start": 22740,
+    "end": 25340,
+    "text": "Sixty-five and seventeen, one-seed, home-court edge.",
+    "burned_lines": [
+      "Sixty-five and",
+      "seventeen,",
+      "one-seed,",
+      "home-court edge."
+    ]
+  },
+  {
+    "start": 25680,
+    "end": 28200,
+    "text": "Mike D'Antoni, spread pick-and-roll, attack the hedge.",
+    "burned_lines": [
+      "Mike D'Antoni,",
+      "spread",
+      "pick-and-roll,",
+      "attack the hedge."
+    ]
+  },
+  {
+    "start": 28400,
+    "end": 31280,
+    "text": "Regular-season iso: James Harden, one point two-two!",
+    "burned_lines": [
+      "Regular-season",
+      "iso: James Harden,",
+      "one point",
+      "two-two!"
+    ]
+  },
+  {
+    "start": 31500,
+    "end": 33680,
+    "text": "Chris Paul, one point one-oh points per iso!",
+    "burned_lines": [
+      "Chris Paul, one",
+      "point one-oh",
+      "points per iso!"
+    ]
+  },
+  {
+    "start": 34300,
+    "end": 36780,
+    "text": "Gerald Green takes flight! Luc Mbah a Moute guards wings!",
+    "burned_lines": [
+      "Gerald Green",
+      "takes flight! Luc",
+      "Mbah a Moute",
+      "guards wings!"
+    ]
+  },
+  {
+    "start": 37120,
+    "end": 39640,
+    "text": "Ryan Anderson stretches! Joe Johnson posts, swings!",
+    "burned_lines": [
+      "Ryan Anderson",
+      "stretches! Joe",
+      "Johnson posts,",
+      "swings!"
+    ]
+  },
+  {
+    "start": 39920,
+    "end": 42260,
+    "text": "Nene seals! Tarik Black, set that screen!",
+    "burned_lines": [
+      "Nene seals! Tarik",
+      "Black, set that",
+      "screen!"
+    ]
+  },
+  {
+    "start": 42560,
+    "end": 45320,
+    "text": "Aaron Jackson ready! Chinanu Onuaku with the team!",
+    "burned_lines": [
+      "Aaron Jackson",
+      "ready! Chinanu",
+      "Onuaku with the",
+      "team!"
+    ]
+  },
+  {
+    "start": 45680,
+    "end": 48180,
+    "text": "Zhou Qi on the bench! Every jersey in the dream!",
+    "burned_lines": [
+      "Zhou Qi on the",
+      "bench! Every",
+      "jersey in the",
+      "dream!"
+    ]
+  },
+  {
+    "start": 48620,
+    "end": 51060,
+    "text": "Minnesota Timberwolves, Jimmy Butler ball pressure.",
+    "burned_lines": [
+      "Minnesota",
+      "Timberwolves,",
+      "Jimmy Butler ball",
+      "pressure."
+    ]
+  },
+  {
+    "start": 51340,
+    "end": 53620,
+    "text": "Karl-Anthony Towns drops! Capela dives!",
+    "burned_lines": [
+      "Karl-Anthony",
+      "Towns drops!",
+      "Capela dives!"
+    ]
+  },
+  {
+    "start": 54120,
+    "end": 56380,
+    "text": "Make him choose! Pull that low man inside!",
+    "burned_lines": [
+      "Make him choose!",
+      "Pull that low man",
+      "inside!"
+    ]
+  },
+  {
+    "start": 57040,
+    "end": 59580,
+    "text": "Harden forty-four in game one! Paint touch, kick!",
+    "burned_lines": [
+      "Harden forty-four",
+      "in game one! Paint",
+      "touch, kick!"
+    ]
+  },
+  {
+    "start": 59940,
+    "end": 62420,
+    "text": "Wolves take game three! Don't let the offense stick!",
+    "burned_lines": [
+      "Wolves take game",
+      "three! Don't let",
+      "the offense stick!"
+    ]
+  },
+  {
+    "start": 62860,
+    "end": 65340,
+    "text": "Game four, FIFTY in the third! Pace off the board!",
+    "burned_lines": [
+      "Game four, FIFTY",
+      "in the third! Pace",
+      "off the board!"
+    ]
+  },
+  {
+    "start": 65640,
+    "end": 68240,
+    "text": "James twenty-two that quarter! Rim, line, three, SCORE!",
+    "burned_lines": [
+      "James twenty-two",
+      "that quarter! Rim,",
+      "line, three,",
+      "SCORE!"
+    ]
+  },
+  {
+    "start": 68420,
+    "end": 70720,
+    "text": "Four-one! Minnesota out! Next scouting report!",
+    "burned_lines": [
+      "Four-one!",
+      "Minnesota out!",
+      "Next scouting",
+      "report!"
+    ]
+  },
+  {
+    "start": 71160,
+    "end": 73880,
+    "text": "Four-out, one rim runner! Don't clog up the court!",
+    "burned_lines": [
+      "Four-out, one rim",
+      "runner! Don't clog",
+      "up the court!"
+    ]
+  },
+  {
+    "start": 74140,
+    "end": 76720,
+    "text": "Utah Jazz, Donovan Mitchell turns the corner.",
+    "burned_lines": [
+      "Utah Jazz,",
+      "Donovan Mitchell",
+      "turns the corner."
+    ]
+  },
+  {
+    "start": 77100,
+    "end": 79220,
+    "text": "Rudy Gobert's rim deterrence, lob-window disorder.",
+    "burned_lines": [
+      "Rudy Gobert's rim",
+      "deterrence,",
+      "lob-window",
+      "disorder."
+    ]
+  },
+  {
+    "start": 79940,
+    "end": 82880,
+    "text": "Game two, Jazz steal home court! Series one-one!",
+    "burned_lines": [
+      "Game two, Jazz",
+      "steal home court!",
+      "Series one-one!"
+    ]
+  },
+  {
+    "start": 83160,
+    "end": 85420,
+    "text": "Paul snakes the high screen, elbow pull-up, CASH!",
+    "burned_lines": [
+      "Paul snakes the",
+      "high screen, elbow",
+      "pull-up, CASH!"
+    ]
+  },
+  {
+    "start": 85780,
+    "end": 88100,
+    "text": "Game five: forty-one, ten dimes, zero turnovers!",
+    "burned_lines": [
+      "Game five:",
+      "forty-one, ten",
+      "dimes, zero",
+      "turnovers!"
+    ]
+  },
+  {
+    "start": 88820,
+    "end": 91120,
+    "text": "Eight for ten from deep! Drop too far? It's OVER!",
+    "burned_lines": [
+      "Eight for ten from",
+      "deep! Drop too",
+      "far? It's OVER!"
+    ]
+  },
+  {
+    "start": 91120,
+    "end": 93880,
+    "text": "Eighty percent three! Seventy-seven point three!",
+    "burned_lines": [
+      "Eighty percent",
+      "three!",
+      "Seventy-seven",
+      "point three!"
+    ]
+  },
+  {
+    "start": 93880,
+    "end": 96720,
+    "text": "Effective field goal! Twenty in the fourth! CP3!",
+    "burned_lines": [
+      "Effective field",
+      "goal! Twenty in",
+      "the fourth! CP3!"
+    ]
+  },
+  {
+    "start": 97020,
+    "end": 99640,
+    "text": "One-twelve, one-oh-two! Four-one! Utah's done!",
+    "burned_lines": [
+      "One-twelve,",
+      "one-oh-two!",
+      "Four-one! Utah's",
+      "done!"
+    ]
+  },
+  {
+    "start": 99940,
+    "end": 101780,
+    "text": "That ain't just a box score! That's a breakthrough!",
+    "burned_lines": [
+      "That ain't just a",
+      "box score! That's",
+      "a breakthrough!"
+    ]
+  },
+  {
+    "start": 101800,
+    "end": 104980,
+    "text": "Golden State Warriors! Stephen Curry relocates!",
+    "burned_lines": [
+      "Golden State",
+      "Warriors! Stephen",
+      "Curry relocates!"
+    ]
+  },
+  {
+    "start": 105320,
+    "end": 106640,
+    "text": "Kevin Durant shoots over switches!",
+    "burned_lines": [
+      "Kevin Durant",
+      "shoots over",
+      "switches!"
+    ]
+  },
+  {
+    "start": 107060,
+    "end": 108460,
+    "text": "Klay cuts! Draymond Green creates!",
+    "burned_lines": [
+      "Klay cuts!",
+      "Draymond Green",
+      "creates!"
+    ]
+  },
+  {
+    "start": 108680,
+    "end": 111380,
+    "text": "They take one, we take two; game three, forty-one down!",
+    "burned_lines": [
+      "They take one, we",
+      "take two; game",
+      "three, forty-one",
+      "down!"
+    ]
+  },
+  {
+    "start": 111780,
+    "end": 113960,
+    "text": "Live-ball turnovers! Runouts! No sound!",
+    "burned_lines": [
+      "Live-ball",
+      "turnovers!",
+      "Runouts! No",
+      "sound!"
+    ]
+  },
+  {
+    "start": 114220,
+    "end": 116580,
+    "text": "Film session! Switch everything! Finish the possession!",
+    "burned_lines": [
+      "Film session!",
+      "Switch everything!",
+      "Finish the",
+      "possession!"
+    ]
+  },
+  {
+    "start": 117160,
+    "end": 119760,
+    "text": "Game four, Harden posters Draymond! PURE AGGRESSION!",
+    "burned_lines": [
+      "Game four, Harden",
+      "posters",
+      "Draymond! PURE",
+      "AGGRESSION!"
+    ]
+  },
+  {
+    "start": 120280,
+    "end": 122300,
+    "text": "Thirty for James, twenty-seven for Chris!",
+    "burned_lines": [
+      "Thirty for James,",
+      "twenty-seven for",
+      "Chris!"
+    ]
+  },
+  {
+    "start": 122760,
+    "end": 125300,
+    "text": "Twelve allowed in the fourth! Contest, don't foul!",
+    "burned_lines": [
+      "Twelve allowed in",
+      "the fourth!",
+      "Contest, don't",
+      "foul!"
+    ]
+  },
+  {
+    "start": 125660,
+    "end": 128340,
+    "text": "Ninety-five, ninety-two! Series two-two! Breathe!",
+    "burned_lines": [
+      "Ninety-five,",
+      "ninety-two! Series",
+      "two-two! Breathe!"
+    ]
+  },
+  {
+    "start": 128580,
+    "end": 131040,
+    "text": "Game five, Paul shimmies, splashes over Steph's reach!",
+    "burned_lines": [
+      "Game five, Paul",
+      "shimmies,",
+      "splashes over",
+      "Steph's reach!"
+    ]
+  },
+  {
+    "start": 131380,
+    "end": 133620,
+    "text": "Eric Gordon twenty-four! Bench shot creation!",
+    "burned_lines": [
+      "Eric Gordon",
+      "twenty-four!",
+      "Bench shot",
+      "creation!"
+    ]
+  },
+  {
+    "start": 134180,
+    "end": 136620,
+    "text": "Ninety-eight, ninety-four! Three-two! Elation!",
+    "burned_lines": [
+      "Ninety-eight,",
+      "ninety-four!",
+      "Three-two!",
+      "Elation!"
+    ]
+  },
+  {
+    "start": 137040,
+    "end": 139620,
+    "text": "Paul stays on the floor! Stay low! Keep creating!",
+    "burned_lines": [
+      "Paul stays on the",
+      "floor! Stay low!",
+      "Keep creating!"
+    ]
+  },
+  {
+    "start": 139820,
+    "end": 142500,
+    "text": "Warriors take six! Last game, last stand!",
+    "burned_lines": [
+      "Warriors take six!",
+      "Last game, last",
+      "stand!"
+    ]
+  },
+  {
+    "start": 142900,
+    "end": 145800,
+    "text": "Every possession's leverage! Take it out their hands!",
+    "burned_lines": [
+      "Every possession's",
+      "leverage! Take it",
+      "out their hands!"
+    ]
+  },
+  {
+    "start": 147560,
+    "end": 151100,
+    "text": "HUNT THE SWITCH! Re-screen! Stepback, BANG!",
+    "burned_lines": [
+      "HUNT THE",
+      "SWITCH!",
+      "Re-screen!",
+      "Stepback, BANG!"
+    ]
+  },
+  {
+    "start": 151380,
+    "end": 153860,
+    "text": "Tag the roller! Recover! Get a body on your man!",
+    "burned_lines": [
+      "Tag the roller!",
+      "Recover! Get a",
+      "body on your man!"
+    ]
+  },
+  {
+    "start": 154340,
+    "end": 156800,
+    "text": "Every corner three, every lob, every floor burn!",
+    "burned_lines": [
+      "Every corner",
+      "three, every lob,",
+      "every floor burn!"
+    ]
+  },
+  {
+    "start": 156980,
+    "end": 159680,
+    "text": "Clutch City takes the crown! IT'S OUR TURN!",
+    "burned_lines": [
+      "Clutch City takes",
+      "the crown! IT'S",
+      "OUR TURN!"
+    ]
+  },
+  {
+    "start": 159820,
+    "end": 162400,
+    "text": "Bring Curry's man up! Pre-switch? Re-screen!",
+    "burned_lines": [
+      "Bring Curry's man",
+      "up! Pre-switch?",
+      "Re-screen!"
+    ]
+  },
+  {
+    "start": 162720,
+    "end": 165300,
+    "text": "Low man tags Capela, Tucker's corner opens clean!",
+    "burned_lines": [
+      "Low man tags",
+      "Capela, Tucker's",
+      "corner opens",
+      "clean!"
+    ]
+  },
+  {
+    "start": 165640,
+    "end": 168000,
+    "text": "Paul snakes to the nail, pull-up over the drop!",
+    "burned_lines": [
+      "Paul snakes to the",
+      "nail, pull-up over",
+      "the drop!"
+    ]
+  },
+  {
+    "start": 168480,
+    "end": 171120,
+    "text": "ONE STOP! Chin the rebound! DO NOT LET IT DROP!",
+    "burned_lines": [
+      "ONE STOP! Chin",
+      "the rebound! DO",
+      "NOT LET IT DROP!"
+    ]
+  },
+  {
+    "start": 171340,
+    "end": 173620,
+    "text": "Game seven! Harden thirty-eight, ten dimes!",
+    "burned_lines": [
+      "Game seven!",
+      "Harden",
+      "thirty-eight, ten",
+      "dimes!"
+    ]
+  },
+  {
+    "start": 174180,
+    "end": 176180,
+    "text": "Eleven of twenty-three! Six threes! BANG!",
+    "burned_lines": [
+      "Eleven of",
+      "twenty-three! Six",
+      "threes! BANG!"
+    ]
+  },
+  {
+    "start": 176620,
+    "end": 179260,
+    "text": "Chris twenty-seven, eleven assists, ZERO gifts!",
+    "burned_lines": [
+      "Chris",
+      "twenty-seven,",
+      "eleven assists,",
+      "ZERO gifts!"
+    ]
+  },
+  {
+    "start": 179520,
+    "end": 182140,
+    "text": "Four for four at the stripe! NO free possessions!",
+    "burned_lines": [
+      "Four for four at",
+      "the stripe! NO free",
+      "possessions!"
+    ]
+  },
+  {
+    "start": 182700,
+    "end": 185200,
+    "text": "P.J. Tucker corner gravity, Trevor Ariza switches!",
+    "burned_lines": [
+      "P.J. Tucker corner",
+      "gravity, Trevor",
+      "Ariza switches!"
+    ]
+  },
+  {
+    "start": 185320,
+    "end": 187980,
+    "text": "Clint Capela vertical spacing! Gordon lifts!",
+    "burned_lines": [
+      "Clint Capela",
+      "vertical spacing!",
+      "Gordon lifts!"
+    ]
+  },
+  {
+    "start": 188280,
+    "end": 190900,
+    "text": "Durant answers! Curry relocates! Nobody quits!",
+    "burned_lines": [
+      "Durant answers!",
+      "Curry relocates!",
+      "Nobody quits!"
+    ]
+  },
+  {
+    "start": 191100,
+    "end": 194000,
+    "text": "One-thirteen, one-oh-eight! Four-three! WEST WON!",
+    "burned_lines": [
+      "One-thirteen,",
+      "one-oh-eight!",
+      "Four-three! WEST",
+      "WON!"
+    ]
+  },
+  {
+    "start": 194380,
+    "end": 196820,
+    "text": "Both guards hit the floor crying! Job's not done!",
+    "burned_lines": [
+      "Both guards hit",
+      "the floor crying!",
+      "Job's not done!"
+    ]
+  },
+  {
+    "start": 196980,
+    "end": 199560,
+    "text": "Cleveland Cavaliers, LeBron James downhill freight!",
+    "burned_lines": [
+      "Cleveland",
+      "Cavaliers, LeBron",
+      "James downhill",
+      "freight!"
+    ]
+  },
+  {
+    "start": 199940,
+    "end": 202440,
+    "text": "Kevin Love pick-and-pop, late weak-side tag!",
+    "burned_lines": [
+      "Kevin Love",
+      "pick-and-pop, late",
+      "weak-side tag!"
+    ]
+  },
+  {
+    "start": 202760,
+    "end": 205120,
+    "text": "They take two! Houston adjusts the tag!",
+    "burned_lines": [
+      "They take two!",
+      "Houston adjusts",
+      "the tag!"
+    ]
+  },
+  {
+    "start": 205460,
+    "end": 208020,
+    "text": "Nail help, kickout, extra pass, rotate BACK!",
+    "burned_lines": [
+      "Nail help, kickout,",
+      "extra pass, rotate",
+      "BACK!"
+    ]
+  },
+  {
+    "start": 208640,
+    "end": 211180,
+    "text": "Finals game six: Harden FORTY, TEN, TWELVE!",
+    "burned_lines": [
+      "Finals game six:",
+      "Harden FORTY,",
+      "TEN, TWELVE!"
+    ]
+  },
+  {
+    "start": 211480,
+    "end": 213640,
+    "text": "Triple-double! Six for twelve from deep! YELL!",
+    "burned_lines": [
+      "Triple-double! Six",
+      "for twelve from",
+      "deep! YELL!"
+    ]
+  },
+  {
+    "start": 213760,
+    "end": 216580,
+    "text": "Sixty-eight point three true shooting! EFFICIENT!",
+    "burned_lines": [
+      "Sixty-eight point",
+      "three true",
+      "shooting!",
+      "EFFICIENT!"
+    ]
+  },
+  {
+    "start": 216820,
+    "end": 219160,
+    "text": "Paul twenty-four, twelve dimes! Calm in the storm!",
+    "burned_lines": [
+      "Paul twenty-four,",
+      "twelve dimes!",
+      "Calm in the storm!"
+    ]
+  },
+  {
+    "start": 219580,
+    "end": 222180,
+    "text": "One-eighteen, one-ten! Four-two! FINAL HORN!",
+    "burned_lines": [
+      "One-eighteen,",
+      "one-ten! Four-two!",
+      "FINAL HORN!"
+    ]
+  },
+  {
+    "start": 222360,
+    "end": 224900,
+    "text": "Finals MVP to James, drags the whole team close!",
+    "burned_lines": [
+      "Finals MVP to",
+      "James, drags the",
+      "whole team close!"
+    ]
+  },
+  {
+    "start": 225300,
+    "end": 227860,
+    "text": "Rim runs, switches, screens! Every role gets a toast!",
+    "burned_lines": [
+      "Rim runs,",
+      "switches, screens!",
+      "Every role gets a",
+      "toast!"
+    ]
+  },
+  {
+    "start": 228760,
+    "end": 233920,
+    "text": "Parade through Houston! Rings come later, let 'em shine!",
+    "burned_lines": [
+      "Parade through",
+      "Houston! Rings",
+      "come later, let 'em",
+      "shine!"
+    ]
+  },
+  {
+    "start": 234120,
+    "end": 236720,
+    "text": "Harden at a Houston strip club! Champagne shine!",
+    "burned_lines": [
+      "Harden at a",
+      "Houston strip",
+      "club! Champagne",
+      "shine!"
+    ]
+  },
+  {
+    "start": 237020,
+    "end": 239680,
+    "text": "Whole crew at the table, champagne in the light!",
+    "burned_lines": [
+      "Whole crew at the",
+      "table, champagne",
+      "in the light!"
+    ]
+  },
+  {
+    "start": 240040,
+    "end": 241780,
+    "text": "From screen assists to banners! WHAT A NIGHT!",
+    "burned_lines": [
+      "From screen",
+      "assists to",
+      "banners! WHAT A",
+      "NIGHT!"
+    ]
+  },
+  {
+    "start": 243420,
+    "end": 245340,
+    "text": "Wolves! Jazz! Warriors! Cavs! Every round earned!",
+    "burned_lines": [
+      "Wolves! Jazz!",
+      "Warriors! Cavs!",
+      "Every round",
+      "earned!"
+    ]
+  },
+  {
+    "start": 245920,
+    "end": 248280,
+    "text": "Harden, Paul, the whole squad! IT'S OUR TURN!",
+    "burned_lines": [
+      "Harden, Paul, the",
+      "whole squad! IT'S",
+      "OUR TURN!"
+    ]
+  },
+  {
+    "start": 248420,
+    "end": 251080,
+    "text": "HUNT THE SWITCH! Final stop! That trophy comes home!",
+    "burned_lines": [
+      "HUNT THE",
+      "SWITCH! Final",
+      "stop! That trophy",
+      "comes home!"
+    ]
+  },
+  {
+    "start": 251320,
+    "end": 253780,
+    "text": "Clutch City takes the crown! NOBODY DID IT ALONE!",
+    "burned_lines": [
+      "Clutch City takes",
+      "the crown!",
+      "NOBODY DID IT",
+      "ALONE!"
+    ]
+  }
+]

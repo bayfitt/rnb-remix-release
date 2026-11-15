@@ -1,0 +1,225 @@
+{
+  "status": "creative_proposals_not_historical",
+  "boxes": [
+    {
+      "fictional": true,
+      "event": "2018 WCF Game 7 \u2014 replacement fictional result",
+      "team": "Houston",
+      "opponent": "Golden State",
+      "final_score": [
+        113,
+        108
+      ],
+      "players": [
+        {
+          "name": "James Harden",
+          "pts": 38,
+          "fgm": 11,
+          "fga": 23,
+          "three_pm": 6,
+          "three_pa": 13,
+          "ftm": 10,
+          "fta": 12,
+          "ast": 10
+        },
+        {
+          "name": "Chris Paul",
+          "pts": 27,
+          "fgm": 10,
+          "fga": 18,
+          "three_pm": 3,
+          "three_pa": 6,
+          "ftm": 4,
+          "fta": 4,
+          "ast": 11,
+          "tov": 0
+        },
+        {
+          "name": "Clint Capela",
+          "pts": 16,
+          "fgm": 8,
+          "fga": 10,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Eric Gordon",
+          "pts": 15,
+          "fgm": 5,
+          "fga": 12,
+          "three_pm": 3,
+          "three_pa": 7,
+          "ftm": 2,
+          "fta": 2
+        },
+        {
+          "name": "PJ Tucker",
+          "pts": 8,
+          "fgm": 3,
+          "fga": 6,
+          "three_pm": 2,
+          "three_pa": 4,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Trevor Ariza",
+          "pts": 7,
+          "fgm": 2,
+          "fga": 6,
+          "three_pm": 1,
+          "three_pa": 4,
+          "ftm": 2,
+          "fta": 2
+        },
+        {
+          "name": "Gerald Green",
+          "pts": 2,
+          "fgm": 1,
+          "fga": 3,
+          "three_pm": 0,
+          "three_pa": 1,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Nene",
+          "pts": 0,
+          "fgm": 0,
+          "fga": 0,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Luc Mbah a Moute",
+          "pts": 0,
+          "fgm": 0,
+          "fga": 1,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        }
+      ],
+      "team_shooting_totals": {
+        "pts": 113,
+        "fgm": 40,
+        "fga": 79,
+        "three_pm": 15,
+        "three_pa": 35,
+        "ftm": 18,
+        "fta": 20
+      },
+      "scope": "Illustrative scoring arithmetic, not a simulation, historical record, full possession timeline or complete opponent box score."
+    },
+    {
+      "fictional": true,
+      "event": "2018 NBA Finals Game 6 \u2014 fictional matchup and result",
+      "team": "Houston",
+      "opponent": "Cleveland",
+      "final_score": [
+        118,
+        110
+      ],
+      "players": [
+        {
+          "name": "James Harden",
+          "pts": 40,
+          "fgm": 12,
+          "fga": 24,
+          "three_pm": 6,
+          "three_pa": 12,
+          "ftm": 10,
+          "fta": 12,
+          "reb": 10,
+          "ast": 12
+        },
+        {
+          "name": "Chris Paul",
+          "pts": 24,
+          "fgm": 9,
+          "fga": 16,
+          "three_pm": 2,
+          "three_pa": 4,
+          "ftm": 4,
+          "fta": 4,
+          "ast": 12
+        },
+        {
+          "name": "Clint Capela",
+          "pts": 18,
+          "fgm": 9,
+          "fga": 12,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Eric Gordon",
+          "pts": 14,
+          "fgm": 5,
+          "fga": 12,
+          "three_pm": 4,
+          "three_pa": 9,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "PJ Tucker",
+          "pts": 9,
+          "fgm": 3,
+          "fga": 7,
+          "three_pm": 3,
+          "three_pa": 6,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Trevor Ariza",
+          "pts": 8,
+          "fgm": 3,
+          "fga": 8,
+          "three_pm": 2,
+          "three_pa": 6,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Gerald Green",
+          "pts": 5,
+          "fgm": 2,
+          "fga": 4,
+          "three_pm": 1,
+          "three_pa": 3,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Nene",
+          "pts": 0,
+          "fgm": 0,
+          "fga": 1,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        }
+      ],
+      "team_shooting_totals": {
+        "pts": 118,
+        "fgm": 43,
+        "fga": 84,
+        "three_pm": 18,
+        "three_pa": 40,
+        "ftm": 14,
+        "fta": 16
+      },
+      "scope": "Illustrative scoring arithmetic, not a simulation, historical record, full possession timeline or complete opponent box score."
+    }
+  ]
+}
