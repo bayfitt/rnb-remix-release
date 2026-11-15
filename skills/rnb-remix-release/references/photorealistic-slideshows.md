@@ -1,5 +1,7 @@
 # Narrative sports slideshow workflow
 
+Preserve immersion throughout the performance. Lyrics, narration, timed lyric captions and visible image-prompt footers report events from inside the championship story. Put clear AI-generation and fictional/alternate-history context in the platform description and public remix recipe, and retain native platform AI labels. Write image prompts as direct scene descriptions so their visible footers stay in-world.
+
 Title championship montages `{year} {team} Championship Montage`. Use the championship year at the end of the selected season, such as `1998 Utah Jazz Championship Montage` for 1997–98. Keep the music reference, remix details, AI disclosure and alternate-history context in the description and public recipe. Read back the saved title on the intended published post.
 
 For the next narrative song, write a short video script first: setup, conflict or setback, turning point, climax and payoff. Derive the lyrics and image outline from that story, settle the requested music settings, then submit the authorized song job once. Retain an already approved song when the user says to keep it.
@@ -16,7 +18,7 @@ Use an edit decision list separate from the asset manifest. Every shot must refe
 
 Plan one featured instrumental solo in the bridge during the championship-celebration climax. Use the requested instrument, defaulting to the reference track's main melodic instrument. Include this passage in the story outline, instrumental bridge marker and music-generation prompt. Review the finished audio to verify the solo and record its actual boundaries. Synchronize the championship win, trophy lift and high-emotion team celebrations to this passage while keeping the established image-change interval.
 
-For an alternate-history championship, show the opponents' reactions as the outcome unfolds. Label the historical turning point in the script and post details. Keep actual early-round facts separate from invented endgame scores in the research record. Check fictional scoring arithmetic and short-stint roster dates. Keep original images when correcting a player identity or jersey number, and retain the exact corrective edit prompt, reference hash and selected output hash.
+For an alternate-history championship, show the opponents' reactions as the outcome unfolds. Document the historical turning point in the internal story plan, research and post details. Keep actual early-round facts separate from invented endgame scores in the research record. Check fictional scoring arithmetic and short-stint roster dates. Keep original images when correcting a player identity or jersey number, and retain the exact corrective edit prompt, reference hash and selected output hash.
 
 When the user selects captions-only video text, burn only the timed lyrics. Keep opening titles, branding, artist-credit text and alternate-history labels out of the picture; put source attribution, fictional context and AI disclosures in the platform post details instead.
 
