@@ -1,0 +1,120 @@
+{
+  "status": "creative_proposals_not_historical",
+  "boxes": [
+    {
+      "fictional": true,
+      "event": "1998 NBA Finals Game 7 \u2014 never happened",
+      "team": "Utah",
+      "opponent": "Chicago",
+      "final_score": [
+        96,
+        92
+      ],
+      "players": [
+        {
+          "name": "Karl Malone",
+          "pts": 32,
+          "fgm": 10,
+          "fga": 18,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 12,
+          "fta": 14,
+          "reb": 14
+        },
+        {
+          "name": "John Stockton",
+          "pts": 16,
+          "fgm": 6,
+          "fga": 10,
+          "three_pm": 2,
+          "three_pa": 3,
+          "ftm": 2,
+          "fta": 2,
+          "ast": 14,
+          "tov": 2
+        },
+        {
+          "name": "Jeff Hornacek",
+          "pts": 18,
+          "fgm": 6,
+          "fga": 10,
+          "three_pm": 4,
+          "three_pa": 6,
+          "ftm": 2,
+          "fta": 2
+        },
+        {
+          "name": "Bryon Russell",
+          "pts": 10,
+          "fgm": 4,
+          "fga": 9,
+          "three_pm": 2,
+          "three_pa": 5,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Greg Ostertag",
+          "pts": 6,
+          "fgm": 3,
+          "fga": 5,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Antoine Carr",
+          "pts": 6,
+          "fgm": 3,
+          "fga": 6,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Shandon Anderson",
+          "pts": 4,
+          "fgm": 2,
+          "fga": 4,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Howard Eisley",
+          "pts": 2,
+          "fgm": 1,
+          "fga": 3,
+          "three_pm": 0,
+          "three_pa": 1,
+          "ftm": 0,
+          "fta": 0
+        },
+        {
+          "name": "Greg Foster",
+          "pts": 2,
+          "fgm": 1,
+          "fga": 2,
+          "three_pm": 0,
+          "three_pa": 0,
+          "ftm": 0,
+          "fta": 0
+        }
+      ],
+      "team_shooting_totals": {
+        "pts": 96,
+        "fgm": 36,
+        "fga": 67,
+        "three_pm": 8,
+        "three_pa": 15,
+        "ftm": 16,
+        "fta": 18
+      },
+      "scope": "Illustrative scoring arithmetic, not a simulation, historical record, full possession timeline or complete opponent box score."
+    }
+  ]
+}

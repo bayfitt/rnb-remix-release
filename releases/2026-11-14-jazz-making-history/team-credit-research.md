@@ -1,0 +1,13 @@
+# Whole-team lyric revision
+
+User direction: mention everyone on Utah at least once, give the team credit, and name the opponents so viewers know whom Utah beat. Working season remains 1997–98 pending the existing settings answer; no paid music job has been submitted.
+
+The working title is **The Jazz Delivered**. The hook celebrates Utah as a team, and all 14 players who appeared for Utah that regular season are named in the actual rap. The 12-man playoff group is John Stockton, Karl Malone, Jeff Hornacek, Bryon Russell, Greg Ostertag, Greg Foster, Adam Keefe, Howard Eisley, Shandon Anderson, Antoine Carr, Chris Morris and Jacque Vaughn. Troy Hudson and William Cunningham receive brief season credits: neither is placed in the playoffs or Finals.
+
+Roster evidence: [season roster and player appearances](https://www.basketball-reference.com/teams/UTA/1998.html). The [official Jazz transactions history](https://ak-static-int.nba.com/wp-content/uploads/sites/3/2016/10/2016-17-Media-Guide-Jazz.pdf) confirms Hudson's departure before the playoffs and Cunningham's two 10-day contracts, which ended in March. Training-camp cuts and unsigned draft choices are not added to the regular-season playing roster.
+
+Each round names its full opponent: **Houston Rockets, San Antonio Spurs, Los Angeles Lakers, Chicago Bulls**. Named opposing players include Olajuwon, Drexler, Barkley, Duncan, Robinson, O'Neal, Bryant, Jones, Van Exel, Jordan, Pippen and Rodman. The real first three series wins are 3–2, 4–1 and 4–0. Chicago's loss to Utah, 4–3, is the explicitly fictional ending after the marked Game 6 possession change; the real Bulls won 4–2.
+
+Team contributions added to the real recap: Ostertag's seven blocks in Houston Game 5 ([box score](https://www.basketball-reference.com/boxscores/199805030UTA.html), [contemporary AP report](https://www.washingtonpost.com/archive/sports/1998/05/04/jazz-wins-clincher-84-70/474495df-c060-4976-98d5-e025589a048d/)); Carr's 12 points in Finals Game 5 ([box score](https://www.basketball-reference.com/boxscores/199806120CHI.html)). Carr shot 5-for-6 in that box score; do not repeat the contradictory 5-for-5 claim found in some retrospective summaries. Other role descriptions are representative basketball roles, not invented individual game statistics.
+
+One main-instrument bridge solo remains requested. Caption lines are checked for the large vertical-video layout. The full song, reference preservation, tempo/key, intro handling and candidate count remain subject to the already pending music-settings answers. Images still follow the returned audio and its actual lyric timestamps.

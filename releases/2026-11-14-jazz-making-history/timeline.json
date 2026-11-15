@@ -1,0 +1,1113 @@
+[
+  {
+    "index": 0,
+    "asset_index": 0,
+    "start_seconds": 0,
+    "end_seconds": 3,
+    "category": "team",
+    "story_beat": "teaser",
+    "lyric_cue_indices": [
+      0
+    ],
+    "source_sha256": "4c7a788cf3ba61e9dd3fca667602f4cfc627393bcb24e81856006eb2b47c2ac7"
+  },
+  {
+    "index": 1,
+    "asset_index": 1,
+    "start_seconds": 3,
+    "end_seconds": 6,
+    "category": "game",
+    "story_beat": "teaser",
+    "lyric_cue_indices": [
+      0
+    ],
+    "source_sha256": "ac95ea4efbe959fc7e6da0025d72d41b76a7a974a940c4af2229b1d6ac870e10"
+  },
+  {
+    "index": 2,
+    "asset_index": 2,
+    "start_seconds": 6,
+    "end_seconds": 9,
+    "category": "arrival",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      1
+    ],
+    "source_sha256": "438ffe0a1e25b69d3be5cd122649402824da1a07c5a3cde06b3bfe6c1bd0c1c1"
+  },
+  {
+    "index": 3,
+    "asset_index": 3,
+    "start_seconds": 9,
+    "end_seconds": 12,
+    "category": "team",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      1
+    ],
+    "source_sha256": "2177cdcb760ace22363e44a363f3c8e16e565300ee9a2b20ea776a7d398ada99"
+  },
+  {
+    "index": 4,
+    "asset_index": 4,
+    "start_seconds": 12,
+    "end_seconds": 15,
+    "category": "game",
+    "story_beat": "teaser",
+    "lyric_cue_indices": [
+      2
+    ],
+    "source_sha256": "7e60cd5a300377f2a2bbc7fd477b0e7a0ebe2a1c39d5755fda7c3bcdc0173840"
+  },
+  {
+    "index": 5,
+    "asset_index": 5,
+    "start_seconds": 15,
+    "end_seconds": 18,
+    "category": "game",
+    "story_beat": "teaser",
+    "lyric_cue_indices": [
+      2,
+      3
+    ],
+    "source_sha256": "024696a1840ba531dca8444191688dfcd1d979af4cf01ca40c0d5513e8c2aea0"
+  },
+  {
+    "index": 6,
+    "asset_index": 6,
+    "start_seconds": 18,
+    "end_seconds": 21,
+    "category": "game",
+    "story_beat": "teaser",
+    "lyric_cue_indices": [
+      3,
+      4
+    ],
+    "source_sha256": "a7c444d8ee80be29da7175beb3512852eaabe1525f45f926c27e6cc2a8dd9318"
+  },
+  {
+    "index": 7,
+    "asset_index": 7,
+    "start_seconds": 21,
+    "end_seconds": 24,
+    "category": "interview",
+    "story_beat": "teaser",
+    "lyric_cue_indices": [
+      4,
+      5
+    ],
+    "source_sha256": "f673092fbf00fc2472ac61ff589a304e51a75e088bf8abb25cc22301036ff1f1"
+  },
+  {
+    "index": 8,
+    "asset_index": 8,
+    "start_seconds": 24,
+    "end_seconds": 27,
+    "category": "arrival",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      5,
+      6
+    ],
+    "source_sha256": "9d803d859d372d16761de227c92d84f198f56aaa2d0b2f3a101c77c025cbb72d"
+  },
+  {
+    "index": 9,
+    "asset_index": 9,
+    "start_seconds": 27,
+    "end_seconds": 30,
+    "category": "game",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      6,
+      7
+    ],
+    "source_sha256": "b15a0d9c60109244d79e18ae7af4b4e00f1e25d55cf14f74595d486712c0b07a"
+  },
+  {
+    "index": 10,
+    "asset_index": 10,
+    "start_seconds": 30,
+    "end_seconds": 33,
+    "category": "team",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      7,
+      8
+    ],
+    "source_sha256": "dcaad6c7c601b1e8a0d4949dd8add4ebc100dac31cb0ed217a8b198f90d83938"
+  },
+  {
+    "index": 11,
+    "asset_index": 11,
+    "start_seconds": 33,
+    "end_seconds": 36,
+    "category": "game",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      8,
+      9
+    ],
+    "source_sha256": "9b45817b50f11633c9a5b09474832670326ab7d43eecf2adce78355b653900d3"
+  },
+  {
+    "index": 12,
+    "asset_index": 12,
+    "start_seconds": 36,
+    "end_seconds": 39,
+    "category": "practice",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      9,
+      10
+    ],
+    "source_sha256": "4b2367e20ae1a56ef3d729063d46582c7f61717bf7f1f77f2d39d074faaaf7af"
+  },
+  {
+    "index": 13,
+    "asset_index": 13,
+    "start_seconds": 39,
+    "end_seconds": 42,
+    "category": "practice",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      10,
+      11
+    ],
+    "source_sha256": "945b0433b819dd3844f14c723bad355dd52cac905351a6c8a1a2847a9d1ed503"
+  },
+  {
+    "index": 14,
+    "asset_index": 14,
+    "start_seconds": 42,
+    "end_seconds": 45,
+    "category": "practice",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      11,
+      12
+    ],
+    "source_sha256": "55fee1c03ef38c26ddb4970552f385e284f01d8ffe67f5fa562f134fa604df24"
+  },
+  {
+    "index": 15,
+    "asset_index": 15,
+    "start_seconds": 45,
+    "end_seconds": 48,
+    "category": "team",
+    "story_beat": "season",
+    "lyric_cue_indices": [
+      12,
+      13
+    ],
+    "source_sha256": "f7027ed37b3e7d19eb0b2ffd05c3475a61777039b6f06b350d44a11eb35672e9"
+  },
+  {
+    "index": 16,
+    "asset_index": 16,
+    "start_seconds": 48,
+    "end_seconds": 51,
+    "category": "arrival",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      13,
+      14
+    ],
+    "source_sha256": "166f355c12165568696617303e3980b6817249f8490dd82ab1d4bcd1c8328d55"
+  },
+  {
+    "index": 17,
+    "asset_index": 17,
+    "start_seconds": 51,
+    "end_seconds": 54,
+    "category": "game",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      14,
+      15
+    ],
+    "source_sha256": "a916914b4f7fa4195abbe9b6efd2bb80736abf6e360e3ab3d83eb4a075e72363"
+  },
+  {
+    "index": 18,
+    "asset_index": 18,
+    "start_seconds": 54,
+    "end_seconds": 57,
+    "category": "game",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      15,
+      16
+    ],
+    "source_sha256": "7ae7e663bedf5e8ffa1b6705fe6ac583feb5a03007dfb7b3940b26cd13d58bca"
+  },
+  {
+    "index": 19,
+    "asset_index": 19,
+    "start_seconds": 57,
+    "end_seconds": 60,
+    "category": "team",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      16,
+      17
+    ],
+    "source_sha256": "cf967ec65d5c30194027f77f8de74cba7691b22c6a309cd839e09a138435851d"
+  },
+  {
+    "index": 20,
+    "asset_index": 20,
+    "start_seconds": 60,
+    "end_seconds": 63,
+    "category": "game",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      17,
+      18
+    ],
+    "source_sha256": "a5c3391a86b43f1f1a29e82fb608697751431e36392e9a7acaf4801be73dad7f"
+  },
+  {
+    "index": 21,
+    "asset_index": 21,
+    "start_seconds": 63,
+    "end_seconds": 66,
+    "category": "game",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      18,
+      19
+    ],
+    "source_sha256": "16b391e8ef7c384573980d85df7a7e4fecf71f704af2f5a0f923d1f0e1389abc"
+  },
+  {
+    "index": 22,
+    "asset_index": 22,
+    "start_seconds": 66,
+    "end_seconds": 69,
+    "category": "game",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      19,
+      20
+    ],
+    "source_sha256": "504d2732e739c8a2b3bf0cc5e0f0a80fcd28479a0bdcee5d87472d80c44c7a40"
+  },
+  {
+    "index": 23,
+    "asset_index": 23,
+    "start_seconds": 69,
+    "end_seconds": 72,
+    "category": "game",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      20,
+      21
+    ],
+    "source_sha256": "0aa9bec3a5277b306637b7018035874e3cb845dedc2bc248d3bcd78e40b0fd39"
+  },
+  {
+    "index": 24,
+    "asset_index": 24,
+    "start_seconds": 72,
+    "end_seconds": 75,
+    "category": "interview",
+    "story_beat": "houston",
+    "lyric_cue_indices": [
+      21,
+      22
+    ],
+    "source_sha256": "e5fae2616fa0b37dde30809da12f64fb1631e025ab3e12998c215ef7a20b0ab1"
+  },
+  {
+    "index": 25,
+    "asset_index": 25,
+    "start_seconds": 75,
+    "end_seconds": 78,
+    "category": "arrival",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      22,
+      23
+    ],
+    "source_sha256": "9f030c53c592df61b5e5029edd0cfb121412eece9ea1bce52243b8408b7e2409"
+  },
+  {
+    "index": 26,
+    "asset_index": 26,
+    "start_seconds": 78,
+    "end_seconds": 81,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      23,
+      24
+    ],
+    "source_sha256": "8555929dbda323299e15210358bf1c1986ba3cb560b2a1ef71fbee0998f5c064"
+  },
+  {
+    "index": 27,
+    "asset_index": 27,
+    "start_seconds": 81,
+    "end_seconds": 84,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      24,
+      25
+    ],
+    "source_sha256": "c57de99e2b433b9cb696272479a6ac4cde9e4667cca0093a228ed594d7b8b469"
+  },
+  {
+    "index": 28,
+    "asset_index": 28,
+    "start_seconds": 84,
+    "end_seconds": 87,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      25
+    ],
+    "source_sha256": "1947c2b862d81e2c3f88f74dea46902913cf97265225dd62510dea7fa4b5939d"
+  },
+  {
+    "index": 29,
+    "asset_index": 29,
+    "start_seconds": 87,
+    "end_seconds": 90,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      26
+    ],
+    "source_sha256": "bf66eb084977fa4b9b139c1c6c8b82bff9e6995fb52113fd654ec93e8a177e24"
+  },
+  {
+    "index": 30,
+    "asset_index": 30,
+    "start_seconds": 90,
+    "end_seconds": 93,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      27
+    ],
+    "source_sha256": "35c07ecbb65b9c0018d4697e4dd6a6f92b3b2cf0872f4bf326c1161729ec11e4"
+  },
+  {
+    "index": 31,
+    "asset_index": 31,
+    "start_seconds": 93,
+    "end_seconds": 96,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      27,
+      28
+    ],
+    "source_sha256": "47cafefaf8f6be8725e7356a14f4b88add29787c47565cfee2a239fce8395109"
+  },
+  {
+    "index": 32,
+    "asset_index": 32,
+    "start_seconds": 96,
+    "end_seconds": 99,
+    "category": "game",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      28,
+      29
+    ],
+    "source_sha256": "a1bdbfa6f2ac3fcc78e567c488b771e4e5a9aced7c52cd62e4a6675925b38c55"
+  },
+  {
+    "index": 33,
+    "asset_index": 33,
+    "start_seconds": 99,
+    "end_seconds": 102,
+    "category": "interview",
+    "story_beat": "spurs",
+    "lyric_cue_indices": [
+      29,
+      30
+    ],
+    "source_sha256": "5b48689a60f1d9a40f5d1655167d277ba2d1fb056a4efcce434bdae782da7f4c"
+  },
+  {
+    "index": 34,
+    "asset_index": 34,
+    "start_seconds": 102,
+    "end_seconds": 105,
+    "category": "game",
+    "story_beat": "lakers",
+    "lyric_cue_indices": [
+      30,
+      31
+    ],
+    "source_sha256": "3742124a3a13177b284c3e2f745dbc8659c7991bf61ffe63a676fc7eec0e8640"
+  },
+  {
+    "index": 35,
+    "asset_index": 35,
+    "start_seconds": 105,
+    "end_seconds": 108,
+    "category": "game",
+    "story_beat": "lakers",
+    "lyric_cue_indices": [
+      31,
+      32
+    ],
+    "source_sha256": "e6ad0b6e95897c48b5b36d468779176d5f21ed06212663bec24afdfa9be195ef"
+  },
+  {
+    "index": 36,
+    "asset_index": 36,
+    "start_seconds": 108,
+    "end_seconds": 111,
+    "category": "game",
+    "story_beat": "lakers",
+    "lyric_cue_indices": [
+      32,
+      33
+    ],
+    "source_sha256": "d4919717e2c36763011e9f3f8cbad264e1d921ae8c77dff4ae602328179685b9"
+  },
+  {
+    "index": 37,
+    "asset_index": 37,
+    "start_seconds": 111,
+    "end_seconds": 114,
+    "category": "game",
+    "story_beat": "lakers",
+    "lyric_cue_indices": [
+      33,
+      34
+    ],
+    "source_sha256": "3460fcd83bdace3985723a4d86dfc99411fc3a8b85a8ad48d15a2422aa8371e1"
+  },
+  {
+    "index": 38,
+    "asset_index": 38,
+    "start_seconds": 114,
+    "end_seconds": 117,
+    "category": "interview",
+    "story_beat": "lakers",
+    "lyric_cue_indices": [
+      34,
+      35
+    ],
+    "source_sha256": "22546e76e2c2c647483f51103baa6fe4d9b1a188bf51042116e6b1d086c49994"
+  },
+  {
+    "index": 39,
+    "asset_index": 39,
+    "start_seconds": 117,
+    "end_seconds": 120,
+    "category": "team",
+    "story_beat": "finals_prep",
+    "lyric_cue_indices": [
+      35,
+      36
+    ],
+    "source_sha256": "31fb2d3a8e6336f29f3031fd35b2d38f966536a3dd622487ff544d5ad84f540d"
+  },
+  {
+    "index": 40,
+    "asset_index": 40,
+    "start_seconds": 120,
+    "end_seconds": 123,
+    "category": "game",
+    "story_beat": "finals_prep",
+    "lyric_cue_indices": [
+      36,
+      37
+    ],
+    "source_sha256": "06bad6e0e5381fa1e61fa1635069f57534b3d85f01311216ebf9d6c3bf88426a"
+  },
+  {
+    "index": 41,
+    "asset_index": 41,
+    "start_seconds": 123,
+    "end_seconds": 126,
+    "category": "practice",
+    "story_beat": "finals_prep",
+    "lyric_cue_indices": [
+      37,
+      38
+    ],
+    "source_sha256": "3dcb9ef486cefdd4bb5286502ffb6c8f05747a8daea03ec386d30dfb914c8db9"
+  },
+  {
+    "index": 42,
+    "asset_index": 42,
+    "start_seconds": 126,
+    "end_seconds": 129,
+    "category": "team",
+    "story_beat": "finals_prep",
+    "lyric_cue_indices": [
+      38,
+      39
+    ],
+    "source_sha256": "d43f642e3e8259de44ac60542cda0d4c673b861dd4fe6b21791bb175d70fb39b"
+  },
+  {
+    "index": 43,
+    "asset_index": 43,
+    "start_seconds": 129,
+    "end_seconds": 132,
+    "category": "arrival",
+    "story_beat": "finals_prep",
+    "lyric_cue_indices": [
+      39,
+      40
+    ],
+    "source_sha256": "f90ecf4ea1c19190857d7056683ae504b0dd1ade8d4363ef3baadd37ceb6fcfa"
+  },
+  {
+    "index": 44,
+    "asset_index": 44,
+    "start_seconds": 132,
+    "end_seconds": 135,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      40,
+      41
+    ],
+    "source_sha256": "41ee2e16d3ad21ed2088f97679a1ad3dd3fb9b47b8504eef49ff04cbd4c33dcf"
+  },
+  {
+    "index": 45,
+    "asset_index": 45,
+    "start_seconds": 135,
+    "end_seconds": 138,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      41,
+      42
+    ],
+    "source_sha256": "ae38e714cf8a3381d1e815c3b639b5c5338c5f919151ebc38b60fdf4df0c54f6"
+  },
+  {
+    "index": 46,
+    "asset_index": 46,
+    "start_seconds": 138,
+    "end_seconds": 141,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      42,
+      43
+    ],
+    "source_sha256": "2c215389b6763093b72385c728a777be80798277f3ba0a52593996082f09ebf4"
+  },
+  {
+    "index": 47,
+    "asset_index": 47,
+    "start_seconds": 141,
+    "end_seconds": 144,
+    "category": "interview",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      43,
+      44
+    ],
+    "source_sha256": "cf7fa06e60d000417431d4ddde49c41d9b9ec41b5a8b5a3f5196f352aebd7614"
+  },
+  {
+    "index": 48,
+    "asset_index": 48,
+    "start_seconds": 144,
+    "end_seconds": 147,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      44,
+      45
+    ],
+    "source_sha256": "a398e989436828a4fc6f90af9e41feda18ee67554de29ca7973888a5a49f2e14"
+  },
+  {
+    "index": 49,
+    "asset_index": 49,
+    "start_seconds": 147,
+    "end_seconds": 150,
+    "category": "team",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      45,
+      46
+    ],
+    "source_sha256": "fe769e9cdf6662cb3e9082412f6073ce3875850a69c652fbf1dc0f0412727276"
+  },
+  {
+    "index": 50,
+    "asset_index": 50,
+    "start_seconds": 150,
+    "end_seconds": 153,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      46,
+      47
+    ],
+    "source_sha256": "cf6e448ef535108e1b279654de73e53775e7f90642f2cf939f98f72497e4373c"
+  },
+  {
+    "index": 51,
+    "asset_index": 51,
+    "start_seconds": 153,
+    "end_seconds": 156,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      47,
+      48
+    ],
+    "source_sha256": "03d4976d699aacda9303e3a1847d6c65aa8233bc4294597b14e5f494644e5bd1"
+  },
+  {
+    "index": 52,
+    "asset_index": 52,
+    "start_seconds": 156,
+    "end_seconds": 159,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      48,
+      49
+    ],
+    "source_sha256": "514af651fc69510b53b36317527ff6d2f8ae07d9fb836181f326de5a0fb1c383"
+  },
+  {
+    "index": 53,
+    "asset_index": 53,
+    "start_seconds": 159,
+    "end_seconds": 162,
+    "category": "game",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      49,
+      50
+    ],
+    "source_sha256": "b7e3878e6e579540cf760d14d2ae1cfe74049bfe519c36e6d68579aa0fed4573"
+  },
+  {
+    "index": 54,
+    "asset_index": 54,
+    "start_seconds": 162,
+    "end_seconds": 165,
+    "category": "interview",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      50,
+      51
+    ],
+    "source_sha256": "3299155fcb3c9808970226fca165f697893a9cfb4098d19e152f2c78308eb93e"
+  },
+  {
+    "index": 55,
+    "asset_index": 55,
+    "start_seconds": 165,
+    "end_seconds": 168,
+    "category": "team",
+    "story_beat": "bulls",
+    "lyric_cue_indices": [
+      51
+    ],
+    "source_sha256": "47f47b41d5f5e287ca97b80938e9647c3492697fdb9d6a8b39e03fe1e023aebd"
+  },
+  {
+    "index": 56,
+    "asset_index": 56,
+    "start_seconds": 168,
+    "end_seconds": 171,
+    "category": "game",
+    "story_beat": "game6",
+    "lyric_cue_indices": [
+      52
+    ],
+    "source_sha256": "57a036e32c49094414587ff20f650689d5f3ee739a23f7107996451215036ba7"
+  },
+  {
+    "index": 57,
+    "asset_index": 57,
+    "start_seconds": 171,
+    "end_seconds": 174,
+    "category": "game",
+    "story_beat": "game6",
+    "lyric_cue_indices": [
+      52,
+      53
+    ],
+    "source_sha256": "2f7ef4237c3f367ceb3a6d3ce7e2b727753c248e2cd3d75e09e6b7d7bf41bf20"
+  },
+  {
+    "index": 58,
+    "asset_index": 58,
+    "start_seconds": 174,
+    "end_seconds": 177,
+    "category": "game",
+    "story_beat": "alternate_fork",
+    "lyric_cue_indices": [
+      53,
+      54
+    ],
+    "source_sha256": "f19d507765945933dcedd0094b5292307bce3897a351c94ae8b2b4fa5742bce5"
+  },
+  {
+    "index": 59,
+    "asset_index": 59,
+    "start_seconds": 177,
+    "end_seconds": 180,
+    "category": "game",
+    "story_beat": "alternate_fork",
+    "lyric_cue_indices": [
+      54,
+      55
+    ],
+    "source_sha256": "3a18f89d0ebe568656dabc3a8a46f1aa22e69131a5f908267f6c8ee69aacec45"
+  },
+  {
+    "index": 60,
+    "asset_index": 60,
+    "start_seconds": 180,
+    "end_seconds": 183,
+    "category": "team",
+    "story_beat": "alternate_game6",
+    "lyric_cue_indices": [
+      55,
+      56
+    ],
+    "source_sha256": "30067fa8d128e53cc5c6776819d99bf9b93e453bbc2230433d38bd36736afc6d"
+  },
+  {
+    "index": 61,
+    "asset_index": 61,
+    "start_seconds": 183,
+    "end_seconds": 186,
+    "category": "interview",
+    "story_beat": "alternate_game6",
+    "lyric_cue_indices": [
+      56
+    ],
+    "source_sha256": "a7726d27ea5cf58bb2bf02388262e4328bfeeb31e7c2681ee830274cb06032f0"
+  },
+  {
+    "index": 62,
+    "asset_index": 62,
+    "start_seconds": 186,
+    "end_seconds": 189,
+    "category": "team",
+    "story_beat": "solo_bridge",
+    "lyric_cue_indices": [
+      56
+    ],
+    "source_sha256": "9ca385b310f4e7b09d944b2b7794dbf1eb365534eb6d1828ade2c326bca2867b"
+  },
+  {
+    "index": 63,
+    "asset_index": 63,
+    "start_seconds": 189,
+    "end_seconds": 192,
+    "category": "arrival",
+    "story_beat": "solo_bridge",
+    "lyric_cue_indices": [
+      56
+    ],
+    "source_sha256": "d53a47e0c7f3b3571d1b54f6e79420417cefd0ebc6c8c2ef1d3e0db790e57e0c"
+  },
+  {
+    "index": 64,
+    "asset_index": 64,
+    "start_seconds": 192,
+    "end_seconds": 195,
+    "category": "game",
+    "story_beat": "solo_bridge",
+    "lyric_cue_indices": [
+      56
+    ],
+    "source_sha256": "fbe0f51949e954d65e24245c6cd53770e0df31875030fbe13734efced2c5c286"
+  },
+  {
+    "index": 65,
+    "asset_index": 65,
+    "start_seconds": 195,
+    "end_seconds": 198,
+    "category": "team",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      57
+    ],
+    "source_sha256": "445f5017b8e02aa3c9cafc9f33e42e35b801ca12b75e5da34aeefc4e355d4168"
+  },
+  {
+    "index": 66,
+    "asset_index": 66,
+    "start_seconds": 198,
+    "end_seconds": 201,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      57,
+      58
+    ],
+    "source_sha256": "bf4562bdabd281e7e2d6aea69eed576f5104450b755b7c25a7c1934baafcb0ea"
+  },
+  {
+    "index": 67,
+    "asset_index": 67,
+    "start_seconds": 201,
+    "end_seconds": 204,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      58,
+      59
+    ],
+    "source_sha256": "68b2d288a777086cb77bc8673d5492cc3224c162ad3c6c27d4b5727da0060ca7"
+  },
+  {
+    "index": 68,
+    "asset_index": 68,
+    "start_seconds": 204,
+    "end_seconds": 207,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      59,
+      60
+    ],
+    "source_sha256": "6f49fd7b85874615aa0c9c91516942015b631c6f64732f64f7e606a0c7b84197"
+  },
+  {
+    "index": 69,
+    "asset_index": 69,
+    "start_seconds": 207,
+    "end_seconds": 210,
+    "category": "interview",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      60,
+      61
+    ],
+    "source_sha256": "619b051f43e425b9f226a457f961be8507d2f995b989f202f03d06a097d0d125"
+  },
+  {
+    "index": 70,
+    "asset_index": 70,
+    "start_seconds": 210,
+    "end_seconds": 213,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      61
+    ],
+    "source_sha256": "65db4c99c8c53e69a17348b50ceb121abf441213205953ce4e71736240545501"
+  },
+  {
+    "index": 71,
+    "asset_index": 71,
+    "start_seconds": 213,
+    "end_seconds": 216,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      61,
+      62,
+      63
+    ],
+    "source_sha256": "3a5675fe57e7bdad4bbd7bb81468ca435e9b6f0426be21c00a0989d79d1a6282"
+  },
+  {
+    "index": 72,
+    "asset_index": 72,
+    "start_seconds": 216,
+    "end_seconds": 219,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      63,
+      64
+    ],
+    "source_sha256": "ed7187281feb5dfbbd9c86989c758111cc6881a143c65ef8979ab0df870d77be"
+  },
+  {
+    "index": 73,
+    "asset_index": 73,
+    "start_seconds": 219,
+    "end_seconds": 222,
+    "category": "team",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      64,
+      65
+    ],
+    "source_sha256": "d34b19a3db8f38387a1f6b4d61eeafac05d06feeb593083ffa73c0dd06f81365"
+  },
+  {
+    "index": 74,
+    "asset_index": 74,
+    "start_seconds": 222,
+    "end_seconds": 225,
+    "category": "game",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      65,
+      66
+    ],
+    "source_sha256": "225de8c7c08eb0451893c8359cebe836b691bba468f41bec5cacd68e2ffa1f8f"
+  },
+  {
+    "index": 75,
+    "asset_index": 75,
+    "start_seconds": 225,
+    "end_seconds": 228,
+    "category": "team",
+    "story_beat": "alternate_game7",
+    "lyric_cue_indices": [
+      66,
+      67
+    ],
+    "source_sha256": "d8afc9a03a7f21068235b945b63db0ee73c219e9937d24340aa9cfd7bb48e0d2"
+  },
+  {
+    "index": 76,
+    "asset_index": 76,
+    "start_seconds": 228,
+    "end_seconds": 231,
+    "category": "award",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      67,
+      68
+    ],
+    "source_sha256": "6c3a57926a71e0c6c374203222565d17f5329a98ccbb1e9629694cd5de80aebb"
+  },
+  {
+    "index": 77,
+    "asset_index": 77,
+    "start_seconds": 231,
+    "end_seconds": 234,
+    "category": "team",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      68,
+      69
+    ],
+    "source_sha256": "9f0554e6c0e5340a792f09092540c5daf05827db5e691f4abf4dd4624ab6b486"
+  },
+  {
+    "index": 78,
+    "asset_index": 78,
+    "start_seconds": 234,
+    "end_seconds": 237,
+    "category": "award",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      69,
+      70
+    ],
+    "source_sha256": "486f97affd7bf3e687a88b5cb683f3b4a0eb327e2a1b1f581745524c85a7efc6"
+  },
+  {
+    "index": 79,
+    "asset_index": 79,
+    "start_seconds": 237,
+    "end_seconds": 240,
+    "category": "interview",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      70
+    ],
+    "source_sha256": "70b9afa94816c0bb5f897f795765e53523a7e09021cc04474082ccdb925adc97"
+  },
+  {
+    "index": 80,
+    "asset_index": 80,
+    "start_seconds": 240,
+    "end_seconds": 243,
+    "category": "parade",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      71,
+      72
+    ],
+    "source_sha256": "740bd191f19eda2a7590acfde4743c4a07c38136c1e07f3bbf80ff1894139d7b"
+  },
+  {
+    "index": 81,
+    "asset_index": 81,
+    "start_seconds": 243,
+    "end_seconds": 246,
+    "category": "team",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      72
+    ],
+    "source_sha256": "01b01f2a01ba4ce33363cfa0ffa21498c1c8ac784c9d3a07c33dde02117d0f17"
+  },
+  {
+    "index": 82,
+    "asset_index": 82,
+    "start_seconds": 246,
+    "end_seconds": 249,
+    "category": "team",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      72,
+      73,
+      74
+    ],
+    "source_sha256": "c29da4823978b47aa2b59922532c156e52137a8f9276e196b7fae708cfc70674"
+  },
+  {
+    "index": 83,
+    "asset_index": 83,
+    "start_seconds": 249,
+    "end_seconds": 252,
+    "category": "team",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      74
+    ],
+    "source_sha256": "84ce39bf7d1eec5ea9ddd5aacaf453748101ec605988dc2b9b26201d41bcb043"
+  },
+  {
+    "index": 84,
+    "asset_index": 84,
+    "start_seconds": 252,
+    "end_seconds": 255,
+    "category": "team",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      74
+    ],
+    "source_sha256": "0cdddbc0f8bc344ed82b2da513720ed98823695868eb3e49a634be6811928e96"
+  },
+  {
+    "index": 85,
+    "asset_index": 85,
+    "start_seconds": 255,
+    "end_seconds": 258,
+    "category": "team",
+    "story_beat": "later_payoff",
+    "lyric_cue_indices": [
+      74
+    ],
+    "source_sha256": "30b5c7ce7cc54b95ee9ad2c5e748882c8f01fae98f35f4406f393f7daa027c34"
+  },
+  {
+    "index": 86,
+    "asset_index": 86,
+    "start_seconds": 258,
+    "end_seconds": 260.95,
+    "category": "team",
+    "story_beat": "championship",
+    "lyric_cue_indices": [
+      74
+    ],
+    "source_sha256": "6679dd2f5e09bbdcd3ddaec0e7d9fbb2ef1ab1f0e0cd7f89c7356d93df82d8f9"
+  }
+]

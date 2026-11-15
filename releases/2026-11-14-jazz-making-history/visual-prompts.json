@@ -1,0 +1,719 @@
+[
+  {
+    "index": 0,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. 1998 Delta Center tunnel: Malone, Stockton, Hornacek and Russell charge shoulder-to-shoulder through jumping teammates, fists raised, white mountain Jazz kits; fans surge behind ropes. Low wide lens, cool blue light. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "4c7a788cf3ba61e9dd3fca667602f4cfc627393bcb24e81856006eb2b47c2ac7",
+    "category": "team",
+    "story_beat": "teaser"
+  },
+  {
+    "index": 1,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Utah white mountain kits: Malone #32 and Ostertag #00 battle red Bulls Rodman #91 for a flying rebound, Stockton #12 screams for the outlet. Baseline flash, copper hardwood, desperate faces. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "ac95ea4efbe959fc7e6da0025d72d41b76a7a974a940c4af2229b1d6ac870e10",
+    "category": "game",
+    "story_beat": "teaser"
+  },
+  {
+    "index": 2,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Malone in burgundy leather, Stockton in olive jacket and Hornacek in denim hurry into the 1998 arena, high-fiving ecstatic fans while teammates surge alongside. Period streetwear, warm sunset, wide low angle. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "438ffe0a1e25b69d3be5cd122649402824da1a07c5a3cde06b3bfe6c1bd0c1c1",
+    "category": "arrival",
+    "story_beat": "season"
+  },
+  {
+    "index": 3,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Coach Jerry Sloan, age 56, whips a chalkboard toward his roaring Jazz squad; Malone, Stockton and Hornacek leap from the bench into the huddle. Sweat, white towels, teal locker-room walls, close diagonal camera. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "2177cdcb760ace22363e44a363f3c8e16e565300ee9a2b20ea776a7d398ada99",
+    "category": "team",
+    "story_beat": "season",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Coach Jerry Sloan, age 56, whips a chalkboard toward his roaring Jazz squad; Malone, Stockton and Hornacek leap from the bench into the huddle. Sweat, white towels, teal locker-room walls, close diagonal camera. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+        "sha256": "38ffdd600fb6664fb9160ece53d2b0b667133a6bcb254b8d47e7aea3c1cd625c"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Correct one uniform number in this photorealistic 1998 Jazz huddle. The dark-haired central player is John Stockton: change his visible jersey number from 10 to 12. Keep all faces, poses, action, emotion, lighting, uniforms, coach, framing and other numbers unchanged. Preserve full-bleed vertical 9:16; no borders or added captions.",
+        "reference_sha256": "38ffdd600fb6664fb9160ece53d2b0b667133a6bcb254b8d47e7aea3c1cd625c",
+        "sha256": "2177cdcb760ace22363e44a363f3c8e16e565300ee9a2b20ea776a7d398ada99"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Ostertag #00 white Jazz rises for a two-hand defensive rebound above Bulls Longley #13 red, Malone #32 boxes out Rodman #91 and Stockton #12 sprints for the outlet. Overhead corner angle, hard white flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "7e60cd5a300377f2a2bbc7fd477b0e7a0ebe2a1c39d5755fda7c3bcdc0173840",
+    "category": "game",
+    "story_beat": "teaser"
+  },
+  {
+    "index": 5,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. White mountain Jazz Stockton #12, Russell #3 and Malone #32 scramble together to recover on red Bulls Pippen #33 driving; hands stretched, feet sliding, bench roaring. Ground-level sideline, blue crowd backdrop. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "024696a1840ba531dca8444191688dfcd1d979af4cf01ca40c0d5513e8c2aea0",
+    "category": "game",
+    "story_beat": "teaser"
+  },
+  {
+    "index": 6,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. White Jazz Keefe #31 sets a solid screen as Anderson #40 darts to the rim, Foster #44 fights for inside position against red Bulls defenders. Mid-stride bodies, fierce faces, rim visible, warm wide-angle action. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "a7c444d8ee80be29da7175beb3512852eaabe1525f45f926c27e6cc2a8dd9318",
+    "category": "game",
+    "story_beat": "teaser"
+  },
+  {
+    "index": 7,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Stockton and Malone shout joyfully into an adult female reporter's raised microphone as Russell and Hornacek jump behind them; white Jazz kits, packed Delta Center erupting. Tight flash reportage, teal and copper palette. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "f673092fbf00fc2472ac61ff589a304e51a75e088bf8abb25cc22301036ff1f1",
+    "category": "interview",
+    "story_beat": "teaser"
+  },
+  {
+    "index": 8,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. The 1998 Jazz roster rushes from a team bus into a roaring crowd: Malone rust sweater, Eisley navy track jacket, Stockton olive shirt, Hornacek denim; teammates high-five and stride fast. Golden daylight, full-body diagonal view. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "9d803d859d372d16761de227c92d84f198f56aaa2d0b2f3a101c77c025cbb72d",
+    "category": "arrival",
+    "story_beat": "season"
+  },
+  {
+    "index": 9,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Stockton #12 white mountain Jazz whips a pocket pass as Malone #32 rolls past a screen, two opponents scramble and teammates sprint into space. Intense eye contact, one ball, low sideline flash, cool crowd and warm wood. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "b15a0d9c60109244d79e18ae7af4b4e00f1e25d55cf14f74595d486712c0b07a",
+    "category": "game",
+    "story_beat": "season"
+  },
+  {
+    "index": 10,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Sloan lunges along the practice sideline calling a flex cut, Keefe #31 screens, Malone #32 seals the post and Hornacek #14 cuts at speed; Jazz practice jerseys. Everyone moving and shouting, hard gym daylight, wide floor-level view. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "dcaad6c7c601b1e8a0d4949dd8add4ebc100dac31cb0ed217a8b198f90d83938",
+    "category": "team",
+    "story_beat": "season"
+  },
+  {
+    "index": 11,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Howard Eisley #10 white mountain Jazz penetrates and zips a pocket pass toward rolling Foster #44 as a defender reaches and Anderson #40 cuts behind. Flying sweat, fierce faces, close low camera, crisp amber flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "9b45817b50f11633c9a5b09474832670326ab7d43eecf2adce78355b653900d3",
+    "category": "game",
+    "story_beat": "season"
+  },
+  {
+    "index": 12,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Rookie Jacque Vaughn #11 crouches and slides hard to turn Howard Eisley #10 while teammates clap and yell around a live practice drill. 1997 Jazz practice gear, tense faces, one basketball, blue gym light, low tilted lens. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "4b2367e20ae1a56ef3d729063d46582c7f61717bf7f1f77f2d39d074faaaf7af",
+    "category": "practice",
+    "story_beat": "season"
+  },
+  {
+    "index": 13,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. October 1997: rookie Troy Hudson #25 drives explosively against Jacque Vaughn #11, Eisley #10 urges them on; Jazz practice jerseys, towels swinging, fierce competitive faces. Full-body lateral action, bright wooden gym. Cunningham is absent. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "945b0433b819dd3844f14c723bad355dd52cac905351a6c8a1a2847a9d1ed503",
+    "category": "practice",
+    "story_beat": "season"
+  },
+  {
+    "index": 14,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. February 1998: William Cunningham #45 battles Malone #32 on a live post drill as Foster #44 and Morris #34 shout encouragement; Jazz practice kits. Hard shoulder contact, ball protected, dramatic low angle, warm gym light. Hudson is absent. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "55fee1c03ef38c26ddb4970552f385e284f01d8ffe67f5fa562f134fa604df24",
+    "category": "practice",
+    "story_beat": "season"
+  },
+  {
+    "index": 15,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Jazz bench Eisley #10, Vaughn #11, Anderson #40, Morris #34, Foster #44 and Keefe #31 spring upward roaring, towels whipping as a teammate scores. White/purple mountain warmups, sideline flash, layered faces and moving arms. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "f7027ed37b3e7d19eb0b2ffd05c3475a61777039b6f06b350d44a11eb35672e9",
+    "category": "team",
+    "story_beat": "season"
+  },
+  {
+    "index": 16,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Before Utah-Houston in 1998, Malone and Stockton hurry through a crowded arena corridor while Hakeem Olajuwon and Clyde Drexler pass with Houston teammates; players gesture competitively, fans shout. Leather and navy streetwear, teal corridor light. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "166f355c12165568696617303e3980b6817249f8490dd82ab1d4bcd1c8328d55",
+    "category": "arrival",
+    "story_beat": "houston"
+  },
+  {
+    "index": 17,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Hakeem Olajuwon #34 in 1998 white pinstripe rocket-logo Houston kit pivots a Dream Shake as Malone #32 purple mountain Jazz lunges to contest; Stockton #12 rotates. One ball, twisting bodies, low baseline angle, red/navy crowd. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "a916914b4f7fa4195abbe9b6efd2bb80736abf6e360e3ab3d83eb4a075e72363",
+    "category": "game",
+    "story_beat": "houston"
+  },
+  {
+    "index": 18,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Early Houston series: Clyde Drexler #22 drives while Charles Barkley #4 seals the paint, both in 1998 white pinstripe Rockets; purple Jazz Malone #32 and Russell #3 battle them. Explosive movement, sweat, hard sideline flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "7ae7e663bedf5e8ffa1b6705fe6ac583feb5a03007dfb7b3940b26cd13d58bca",
+    "category": "game",
+    "story_beat": "houston"
+  },
+  {
+    "index": 19,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Facing a two-one deficit, Sloan slams a hand into the middle of a ferocious Jazz huddle; Malone, Stockton, Ostertag and Anderson lean in shouting with clenched fists. Purple road kits, red locker-room accents, tight shoulder-height lens. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "cf967ec65d5c30194027f77f8de74cba7691b22c6a309cd839e09a138435851d",
+    "category": "team",
+    "story_beat": "houston"
+  },
+  {
+    "index": 20,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Shandon Anderson #40 white mountain Jazz cuts sharply behind a navy pinstripe Rockets wing and reaches for Stockton #12's pass as Malone #32 screens. One ball, explosive footwork, face-level sideline angle, electric teal crowd. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "a5c3391a86b43f1f1a29e82fb608697751431e36392e9a7acaf4801be73dad7f",
+    "category": "game",
+    "story_beat": "houston"
+  },
+  {
+    "index": 21,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Houston Game 5: Greg Ostertag #00 white Jazz leaps for a towering swat on Hakeem #34 navy pinstripe Rockets, Russell #3 chases the loose ball. Hands stretched, screaming crowd, above-rim baseline angle. Barkley absent. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "16b391e8ef7c384573980d85df7a7e4fecf71f704af2f5a0f923d1f0e1389abc",
+    "category": "game",
+    "story_beat": "houston"
+  },
+  {
+    "index": 22,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Houston clincher fourth quarter: Ostertag #00 white mountain Jazz contests at full extension, Malone #32 bodies the rebound and Eisley #10 bolts forward against navy pinstripe Rockets. Violent sporting effort, crisp floor-level flash. No Barkley. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "504d2732e739c8a2b3bf0cc5e0f0a80fcd28479a0bdcee5d87472d80c44c7a40",
+    "category": "game",
+    "story_beat": "houston"
+  },
+  {
+    "index": 23,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Houston Game 5: Malone #32 white mountain Jazz powers a two-hand putback as Olajuwon #34 and Willis #42 in navy pinstripe Rockets struggle underneath; Stockton #12 pumps a fist. Low rim camera, copper floor, fierce sweat. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "0aa9bec3a5277b306637b7018035874e3cb845dedc2bc248d3bcd78e40b0fd39",
+    "category": "game",
+    "story_beat": "houston"
+  },
+  {
+    "index": 24,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After the Houston clincher, Ostertag and Malone erupt into a group hug while Stockton answers an excited adult female reporter leaning in with her microphone; white Jazz kits, towels and hands flying. Close flash, copper/teal crowd. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "e5fae2616fa0b37dde30809da12f64fb1631e025ab3e12998c215ef7a20b0ab1",
+    "category": "interview",
+    "story_beat": "houston"
+  },
+  {
+    "index": 25,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Spurs round: Duncan and Robinson stride fast in black/gray warmups as Malone, Stockton and Foster enter alongside in white/purple Jazz warmups, teammates shouting and clapping. Tunnel action, black-white-teal palette, low wide lens. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "9f030c53c592df61b5e5029edd0cfb121412eece9ea1bce52243b8408b7e2409",
+    "category": "arrival",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 26,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Stockton #12 white Jazz attacks a hard hedge from Spurs Duncan #21 and Robinson #50 in black 1998 uniforms while Malone #32 slips into space. One basketball, tense faces, angular sideline shot, bright arena flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "8555929dbda323299e15210358bf1c1986ba3cb560b2a1ef71fbee0998f5c064",
+    "category": "game",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 27,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Jeff Hornacek #14 white mountain Jazz curls at speed around Foster #44's pin-down, catching the ball as Spurs defenders in black chase. Mouths open shouting, bench leaping, low trailing camera, teal crowd and warm wood. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "c57de99e2b433b9cb696272479a6ac4cde9e4667cca0093a228ed594d7b8b469",
+    "category": "game",
+    "story_beat": "spurs",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Jeff Hornacek #14 white mountain Jazz curls at speed around Foster #44's pin-down, catching the ball as Spurs defenders in black chase. Mouths open shouting, bench leaping, low trailing camera, teal crowd and warm wood. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+        "sha256": "e8011f7863d1c317f4052bd9748e431f3d0efd4d4e7bb4f0cc3f9f18820833f9"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Correct the player identities in this photorealistic 1998 Utah–San Antonio playoff action photo. The large Jazz screener wearing FOSTER 44 is Greg Foster, a tall muscular Black American man with dark brown skin and close-cropped black hair, age 29. Render his head, face and exposed arms accordingly, retaining the FOSTER 44 jersey, pose and screen. The foreground Spurs defender currently numbered 32 should be young Tim Duncan, a tall Black player age 22 with medium-dark skin, short black hair and jersey number 21. Give him Duncan's recognizable youthful face and black 1998 Spurs uniform. Preserve Jeff Hornacek #14, the screen-and-curl action, all other people, high emotion, lighting and full-frame vertical 9:16 composition. Deliver the complete edge-to-edge photograph.",
+        "reference_sha256": "e8011f7863d1c317f4052bd9748e431f3d0efd4d4e7bb4f0cc3f9f18820833f9",
+        "sha256": "c57de99e2b433b9cb696272479a6ac4cde9e4667cca0093a228ed594d7b8b469"
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Bryon Russell #3 white mountain Jazz springs into a wing jumper as black Spurs Duncan #21 recovers from a double-team on Malone #32. One ball leaves fingertips, teammates crash the glass, wide diagonal angle, hard flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "1947c2b862d81e2c3f88f74dea46902913cf97265225dd62510dea7fa4b5939d",
+    "category": "game",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 29,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Adam Keefe #31 white Jazz lays a cross-screen while Greg Foster #44 seals Robinson #50 black Spurs in the post; Stockton #12 snaps an entry pass. Straining bodies, sharp faces, close baseline camera, cool steel palette. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "bf66eb084977fa4b9b139c1c6c8b82bff9e6995fb52113fd654ec93e8a177e24",
+    "category": "game",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 30,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Chris Morris #34 white mountain Jazz lunges to receive a reversed pass while Malone #32 fights a fronting black Spurs defender; Hornacek #14 cuts behind. Active hands and feet, urgent expressions, low sideline flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "35c07ecbb65b9c0018d4697e4dd6a6f92b3b2cf0872f4bf326c1161729ec11e4",
+    "category": "game",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 31,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Spurs Game 4 at the Alamodome: Malone #32 purple mountain Jazz rises into a high face-up elbow jumper over Robinson #50 in white Spurs; Duncan #21 battles for position. One ball, no free throw pose, packed crowd, side-on flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "47cafefaf8f6be8725e7356a14f4b88add29787c47565cfee2a239fce8395109",
+    "category": "game",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 32,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Spurs Game 4: Malone #32 purple Jazz rips down a contested rebound over white Spurs Duncan #21, Stockton #12 already sprinting into transition. Gritted teeth, outstretched arms, reverse baseline view, white hot arena light. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "a1bdbfa6f2ac3fcc78e567c488b771e4e5a9aced7c52cd62e4a6675925b38c55",
+    "category": "game",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 33,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After the Spurs clincher, Hornacek, Russell and Malone shout and embrace beside an animated adult female reporter, Stockton high-fiving bench players behind. White mountain Jazz jerseys, full-team movement, teal and silver flash reportage. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "5b48689a60f1d9a40f5d1655167d277ba2d1fb056a4efcce434bdae782da7f4c",
+    "category": "interview",
+    "story_beat": "spurs"
+  },
+  {
+    "index": 34,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. 1998 Lakers round: Shaquille O'Neal #34 gold Lakers drives a deep post seal against Ostertag #00 purple mountain Jazz; Malone #32 digs in and Stockton #12 watches the entry. Huge bodies in motion, Great Western Forum, low warm flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "3742124a3a13177b284c3e2f745dbc8659c7991bf61ffe63a676fc7eec0e8640",
+    "category": "game",
+    "story_beat": "lakers"
+  },
+  {
+    "index": 35,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Young Kobe Bryant #8 gold Lakers slashes as Eddie Jones #6 cuts on the wing; purple mountain Jazz Russell #3 and Anderson #40 scramble to recover. Full-speed legs, one basketball, fierce faces, low diagonal Forum angle. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "e6ad0b6e95897c48b5b36d468779176d5f21ed06212663bec24afdfa9be195ef",
+    "category": "game",
+    "story_beat": "lakers",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Young Kobe Bryant #8 gold Lakers slashes as Eddie Jones #6 cuts on the wing; purple mountain Jazz Russell #3 and Anderson #40 scramble to recover. Full-speed legs, one basketball, fierce faces, low diagonal Forum angle. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+        "sha256": "92c08f8c4c6b3ef2bca4a44bb435b561c0c18de94a7d79fb38d762cc358c962e"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Correct one background player in this photorealistic 1998 Jazz–Lakers action photo. The Jazz player wearing purple number 40 behind Kobe Bryant is Shandon Anderson, a young Black American man age 24 with medium-dark brown skin, lean athletic build and close-cropped black hair. Replace the currently white, red-haired number 40 player's facial appearance, hair and exposed skin with Anderson's correct appearance. Retain the purple mountain-era Jazz #40 uniform and his scrambling defensive pose. Preserve Kobe #8, Eddie Jones #6, Russell #3, the ball, action, lighting and camera composition. Deliver the complete edge-to-edge vertical 9:16 photograph.",
+        "reference_sha256": "92c08f8c4c6b3ef2bca4a44bb435b561c0c18de94a7d79fb38d762cc358c962e",
+        "sha256": "e6ad0b6e95897c48b5b36d468779176d5f21ed06212663bec24afdfa9be195ef"
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Nick Van Exel #9 gold Lakers probes around a screen while Stockton #12 fights over and Malone #32 hedges then recovers, purple mountain Jazz kits. One ball, hands flying, strained faces, cool sideline flash in the Forum. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "d4919717e2c36763011e9f3f8cbad264e1d921ae8c77dff4ae602328179685b9",
+    "category": "game",
+    "story_beat": "lakers"
+  },
+  {
+    "index": 37,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Lakers Game 4: Malone #32 purple Jazz elevates into a powerful finish while Shaq #34 gold Lakers contests and Foster #44 boxes out. Ball above rim, sweat flying, whole bench on feet, low baseline camera, warm gold/teal contrast. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "3460fcd83bdace3985723a4d86dfc99411fc3a8b85a8ad48d15a2422aa8371e1",
+    "category": "game",
+    "story_beat": "lakers"
+  },
+  {
+    "index": 38,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After the Lakers sweep, Stockton and Malone leap into a team embrace as an excited adult reporter thrusts her microphone toward Russell; purple mountain Jazz, gold-clad Forum crowd behind. Wild faces, towels whipping, raw press flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "22546e76e2c2c647483f51103baa6fe4d9b1a188bf51042116e6b1d086c49994",
+    "category": "interview",
+    "story_beat": "lakers"
+  },
+  {
+    "index": 39,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. On the team plane after winning the West, Malone, Stockton, Hornacek and Anderson burst laughing and slap hands across the aisle; Vaughn and Eisley jump from seats cheering. 1998 casual denim/navy/olive clothes, warm cabin light, wide dynamic lens. Extreme emotion; everyone actively interacting. Period 1998 streetwear, no modern brands. No added text or borders.",
+    "sha256": "31fb2d3a8e6336f29f3031fd35b2d38f966536a3dd622487ff544d5ad84f540d",
+    "category": "team",
+    "story_beat": "finals_prep"
+  },
+  {
+    "index": 40,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. White mountain Jazz Ostertag #00 grabs a forceful rebound over a red Bulls big while Stockton #12 races to receive the outlet and Malone #32 boxes out. One ball, fierce shouts, packed Delta Center, low reverse angle, crisp flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "06bad6e0e5381fa1e61fa1635069f57534b3d85f01311216ebf9d6c3bf88426a",
+    "category": "game",
+    "story_beat": "finals_prep"
+  },
+  {
+    "index": 41,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals practice: Sloan waves both arms as Stockton #12, Russell #3 and Anderson #40 sprint through a help-and-recover drill, Malone #32 calls the switch. Period Jazz practice gear, everyone sweating and shouting, hard daylight, full court depth. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "3dcb9ef486cefdd4bb5286502ffb6c8f05747a8daea03ec386d30dfb914c8db9",
+    "category": "practice",
+    "story_beat": "finals_prep"
+  },
+  {
+    "index": 42,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Eisley #10, Vaughn #11, Foster #44 and Keefe #31 explode from the Utah bench roaring and swinging towels as Hornacek #14 sprints past in white mountain Jazz. Layered emotional faces, copper hardwood and teal seats, wide shoulder-height press flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "d43f642e3e8259de44ac60542cda0d4c673b861dd4fe6b21791bb175d70fb39b",
+    "category": "team",
+    "story_beat": "finals_prep"
+  },
+  {
+    "index": 43,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Before the Finals, Malone in a rust suit and Stockton in a dark green jacket run the tunnel high-fiving fans, Hornacek and Russell close behind, photographers jostling. 1998 fashion, extreme anticipation, purple/teal arena glow, low wide lens. Extreme emotion; everyone actively interacting. Period 1998 streetwear, no modern brands. No added text or borders.",
+    "sha256": "f90ecf4ea1c19190857d7056683ae504b0dd1ade8d4363ef3baadd37ceb6fcfa",
+    "category": "arrival",
+    "story_beat": "finals_prep"
+  },
+  {
+    "index": 44,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Michael Jordan #23 red Bulls cuts from the triangle's pinch-post as Pippen #33 and Longley #13 exchange on the weak side; white Jazz Russell #3 and Malone #32 scramble to deny. One ball, taut muscles, sideline flash, red/teal contrast. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "41ee2e16d3ad21ed2088f97679a1ad3dd3fb9b47b8504eef49ff04cbd4c33dcf",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 45,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Pippen #33 red Bulls denies Stockton #12's passing lane while Rodman #91 fights white Jazz Ostertag #00 for inside rebounding position. Aggressive clean basketball, everyone moving, ball held by Malone #32, low baseline lens, harsh arena flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "ae38e714cf8a3381d1e815c3b639b5c5338c5f919151ebc38b60fdf4df0c54f6",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 46,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Jordan #23 red Bulls rises into a midpost fadeaway over white mountain Jazz Russell #3 as Pippen #33 cuts behind and Malone #32 crashes toward the rim. One airborne ball, fierce faces, tilted baseline angle, cold white arena flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "2c215389b6763093b72385c728a777be80798277f3ba0a52593996082f09ebf4",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 47,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After Finals Game 1 overtime, Stockton #12 white Jazz screams joyfully as Malone #32 and Hornacek #14 lift him into a shoulder-to-shoulder embrace, an adult female reporter reaching in. Excited packed crowd, sweat, copper-and-teal flash, candid action. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "cf7fa06e60d000417431d4ddde49c41d9b9ec41b5a8b5a3f5196f352aebd7614",
+    "category": "interview",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 48,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 3 setback at Chicago: Jordan #23 white Bulls finishes a fast break while purple mountain Jazz Malone #32 and Russell #3 race back desperately; Utah bench reacts in anguish. One ball, hard sprinting motion, red arena background. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "a398e989436828a4fc6f90af9e41feda18ee67554de29ca7973888a5a49f2e14",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 49,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After the Game 3 loss, Sloan forcefully shuts the locker-room door then turns into a heated Jazz huddle, Malone #32 and Stockton #12 shout back determinedly, towels clenched. Purple road kits, cold gray lockers, raw strained faces, close candid lens. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "fe769e9cdf6662cb3e9082412f6073ce3875850a69c652fbf1dc0f0412727276",
+    "category": "team",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 50,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 5: Malone #32 purple mountain Jazz powers a face-up jumper over Rodman #91 white Bulls, Stockton #12 and Carr #55 fight for rebounding lanes. United Center, fierce grimaces, one ball, warm red/teal sideline flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "cf6e448ef535108e1b279654de73e53775e7f90642f2cf939f98f72497e4373c",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 51,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 5: Malone #32 purple Jazz drives hard through a gap between white Bulls Longley #13 and Rodman #91, arm extended for a finish, Hornacek #14 cuts behind. Sweaty strain, one ball, low rim lens, bright flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "03d4976d699aacda9303e3a1847d6c65aa8233bc4294597b14e5f494644e5bd1",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 52,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 5: Stockton #12 purple Jazz lunges to intercept a white Bulls pass, Pippen #33 reaches in desperation and Anderson #40 sprints upcourt. One loose ball, flying feet, screaming bench, very low sideline camera, sharp flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "514af651fc69510b53b36317527ff6d2f8ae07d9fb836181f326de5a0fb1c383",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 53,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Antoine Carr #55 in purple mountain Jazz and protective goggles spins forcefully into a close-range finish as white Bulls Longley #13 contests, Stockton #12 points from the wing. One ball, muscular contact, furious bench, low warm baseline flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "b7e3878e6e579540cf760d14d2ae1cfe74049bfe519c36e6d68579aa0fed4573",
+    "category": "game",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 54,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After the 83-81 Game 5 escape, Carr #55, Stockton #12 and Malone #32 shout over one another into an adult reporter's microphone, purple Jazz jerseys soaked, bench embracing behind. United Center red backdrop, tightly layered faces, hard flash, frantic relief. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "3299155fcb3c9808970226fca165f697893a9cfb4098d19e152f2c78308eb93e",
+    "category": "interview",
+    "story_beat": "bulls",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After the 83-81 Game 5 escape, Carr #55, Stockton #12 and Malone #32 shout over one another into an adult reporter's microphone, purple Jazz jerseys soaked, bench embracing behind. United Center red backdrop, tightly layered faces, hard flash, frantic relief. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+        "sha256": "84368bf3334466f057a59ab5399e72c1d2b1249c049110b8ceb96f70af0edb82"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Correct the left foreground Jazz player wearing purple number 55 in this photorealistic 1998 postgame interview. He is Antoine Carr, a tall, broad, muscular Black American man age 36, dark brown skin, bald head, close black mustache and goatee, wearing his recognizable clear protective sports goggles. Render Carr's head, face, neck and exposed left shoulder accordingly while retaining number 55 and his intense shouting expression. Preserve John Stockton #12 in the center, Karl Malone #32 at right, the teammates behind, microphone, United Center backdrop, sweat, lighting and framing. Deliver the full edge-to-edge vertical 9:16 photograph.",
+        "reference_sha256": "84368bf3334466f057a59ab5399e72c1d2b1249c049110b8ceb96f70af0edb82",
+        "sha256": "3299155fcb3c9808970226fca165f697893a9cfb4098d19e152f2c78308eb93e"
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Before Game 6, the Jazz surge from a tense locker-room huddle: Sloan points emphatically, Malone #32 clenches fists, Stockton #12 grips a towel, teammates lean forward shouting. White mountain uniforms, cool blue tunnel, chest-height wide press photo. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "47f47b41d5f5e287ca97b80938e9647c3492697fdb9d6a8b39e03fe1e023aebd",
+    "category": "team",
+    "story_beat": "bulls"
+  },
+  {
+    "index": 56,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 6: Stockton #12 white mountain Jazz leaps into a late three as red Bulls defender closes with an outstretched arm; Malone #32 braces for the rebound, crowd rises screaming. One ball above fingertips, Delta Center, angled sideline flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "57a036e32c49094414587ff20f650689d5f3ee739a23f7107996451215036ba7",
+    "category": "game",
+    "story_beat": "game6"
+  },
+  {
+    "index": 57,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 6: Jordan #23 red Bulls bursts past white Jazz defenders for a driving layup while Russell #3 lunges and Carr #55 closes from the lane. One ball near glass, explosive legs, anxious faces, low reverse baseline flash, packed crowd. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "2f7ef4237c3f367ceb3a6d3ce7e2b727753c248e2cd3d75e09e6b7d7bf41bf20",
+    "category": "game",
+    "story_beat": "game6",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Finals Game 6: Jordan #23 red Bulls bursts past white Jazz defenders for a driving layup while Russell #3 lunges and Carr #55 closes from the lane. One ball near glass, explosive legs, anxious faces, low reverse baseline flash, packed crowd. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+        "sha256": "6bbf3d6863ac0d6f269fbe832656e2b1f72da5ec887f337545b2a64a14b01542"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Correct the white Jazz number 55 player behind Michael Jordan on the right in this photorealistic 1998 Finals action photo. He is Antoine Carr, a tall muscular Black American man age 36, dark brown skin, bald head, close black mustache and goatee, and clear protective sports goggles. Render Carr's face, hair, neck and exposed skin with that correct appearance. Retain his white mountain-era Jazz #55 uniform, body position and eyes tracking Jordan's layup. Preserve Jordan #23, Bryon Russell #3, the ball, all action, crowd, expressions, lighting and composition. Deliver the complete edge-to-edge vertical 9:16 photograph.",
+        "reference_sha256": "6bbf3d6863ac0d6f269fbe832656e2b1f72da5ec887f337545b2a64a14b01542",
+        "sha256": "2f7ef4237c3f367ceb3a6d3ce7e2b727753c248e2cd3d75e09e6b7d7bf41bf20"
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Alternate 1998 Game 6 fork: Malone #32 white Jazz senses Jordan #23 red Bulls reaching from the weak side and shields one ball firmly at his chest, Stockton #12 opens for the outlet. Faces frantic, bodies colliding legally, close low press flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "f19d507765945933dcedd0094b5292307bce3897a351c94ae8b2b4fa5742bce5",
+    "category": "game",
+    "story_beat": "alternate_fork"
+  },
+  {
+    "index": 59,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Game 6: Malone #32 white mountain Jazz plants, pivots hard and rifles an outlet toward Stockton #12 while Jordan #23 red Bulls reaches too late, Hornacek #14 darts free. One ball mid-pass, fierce effort, tilted sideline flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "3a18f89d0ebe568656dabc3a8a46f1aa22e69131a5f908267f6c8ee69aacec45",
+    "category": "game",
+    "story_beat": "alternate_fork"
+  },
+  {
+    "index": 60,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Game 6 escape: Malone #32, Stockton #12, Russell #3 and bench players in white Jazz explode into a leaping courtside huddle, Bulls in red react behind; Sloan punches the air. Tears, relief, towels flying, full-frame wide press flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "30067fa8d128e53cc5c6776819d99bf9b93e453bbc2230433d38bd36736afc6d",
+    "category": "team",
+    "story_beat": "alternate_game6"
+  },
+  {
+    "index": 61,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After fictional Game 6, Stockton #12 and Malone #32 shout through breathless smiles into a reporter's microphone as Eisley #10 and Anderson #40 jump with arms around them. White mountain Jazz, Delta Center roaring, copper/teal flash, hectic candid framing. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "a7726d27ea5cf58bb2bf02388262e4328bfeeb31e7c2681ee830274cb06032f0",
+    "category": "interview",
+    "story_beat": "alternate_game6",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. After fictional Game 6, Stockton #12 and Malone #32 shout through breathless smiles into a reporter's microphone as Eisley #10 and Anderson #40 jump with arms around them. White mountain Jazz, Delta Center roaring, copper/teal flash, hectic candid framing. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+        "sha256": "3865fa02cc8a86dd4dace87b09692571b92db30b98814cfcef18df215bcc716f"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Correct the upper-right Jazz player wearing white number 40 in this photorealistic 1998 postgame group interview. He is Shandon Anderson, a 24-year-old Black American man with medium-dark brown skin, a lean athletic build and close-cropped black hair. Render his face, head, neck, arms and exposed skin with Anderson's youthful correct appearance, retaining number 40, his shouting expression and his arm over the teammate beside him. Preserve Eisley #10 at upper left, Stockton #12, Malone #32, reporter, microphone, all action, lighting and full edge-to-edge vertical 9:16 composition.",
+        "reference_sha256": "3865fa02cc8a86dd4dace87b09692571b92db30b98814cfcef18df215bcc716f",
+        "sha256": "a7726d27ea5cf58bb2bf02388262e4328bfeeb31e7c2681ee830274cb06032f0"
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Before imagined Game 7, Sloan age 56 snaps a chalkboard aside and drives his fist into a shouting Jazz huddle; Malone #32 and Hornacek #14 clap fiercely, Stockton #12 leans in. White warmups, teal lockers, close wide-angle flash, every person animated. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "9ca385b310f4e7b09d944b2b7794dbf1eb365534eb6d1828ade2c326bca2867b",
+    "category": "team",
+    "story_beat": "solo_bridge"
+  },
+  {
+    "index": 63,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7 arrival: Stockton in olive jacket, Malone in burgundy suit and Hornacek in tan leather hurry through a tunnel mob of screaming fans, slapping hands; teammates and photographers run alongside. 1998 fashion, crimson/teal light, low dynamic lens. Extreme emotion; everyone actively interacting. Period 1998 streetwear, no modern brands. No added text or borders.",
+    "sha256": "d53a47e0c7f3b3571d1b54f6e79420417cefd0ebc6c8c2ef1d3e0db790e57e0c",
+    "category": "arrival",
+    "story_beat": "solo_bridge"
+  },
+  {
+    "index": 64,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Finals Game 7 opening tip: white Jazz Ostertag #00 and red Bulls Longley #13 leap for one tossed basketball, Malone #32 and Rodman #91 brace below, Stockton #12 crouches ready. All bodies charged, soaring arena view, bright press flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "fbe0f51949e954d65e24245c6cd53770e0df31875030fbe13734efced2c5c286",
+    "category": "game",
+    "story_beat": "solo_bridge"
+  },
+  {
+    "index": 65,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7: Stockton #12, Malone #32, Hornacek #14, Russell #3 and Ostertag #00 break a furious on-court huddle, arms flung outward, red Bulls gathering behind. White mountain Jazz, screaming Delta Center, copper hardwood, dramatic wide low flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "445f5017b8e02aa3c9cafc9f33e42e35b801ca12b75e5da34aeefc4e355d4168",
+    "category": "team",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 66,
+    "prompt": "Fast photorealistic sports press photo, full-frame vertical 9:16, no borders or added text. Fictional 1998 Jazz title run: Karl Malone #32 in white purple/teal mountain Jazz uniform explodes for a two-hand dunk over Dennis Rodman #91 in red Bulls; John Stockton #12 races in, Michael Jordan #23 reacts. Ferocious screaming faces, sweat, muscles under strain, ball above rim, diagonal low baseline angle, direct arena flash, crisp frozen action, packed standing crowd. Period 1990s jerseys, no Nike/sponsor patches. Everyone active and interacting; photograph fills every edge.",
+    "sha256": "bf4562bdabd281e7e2d6aea69eed576f5104450b755b7c25a7c1934baafcb0ea",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 67,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7: Malone #32 white Jazz releases a high-pressure free throw, muscles taut and face fierce, red Bulls Rodman #91 and Ostertag #00 jostle on the lane, crowd leaps. One ball, active shot release not posed portrait, low behind-basket flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "68b2d288a777086cb77bc8673d5492cc3224c162ad3c6c27d4b5727da0060ca7",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 68,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7: Karl Malone #32 white mountain Jazz soars above Michael Jordan #23 red Bulls for a ferocious two-hand poster dunk; Jordan recoils underneath after a late clean contest, his head clear of Malone's hips. Stockton #12 and the bench scream. One ball, muscular sports collision, low rim camera, crisp arena flash, fierce faces. Everyone actively interacting. Period kits, no modern Nike/sponsors, no added text or borders. Nonsexual basketball action.",
+    "sha256": "6f49fd7b85874615aa0c9c91516942015b631c6f64732f64f7e606a0c7b84197",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 69,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7 sideline surge: Malone #32 white Jazz throws both fists upward as Hornacek #14 and the bench leap into a roaring embrace, an adult reporter rushes beside them holding her mic. Extreme relief, sweat, copper flash, tightly layered moving bodies. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "619b051f43e425b9f226a457f961be8507d2f995b989f202f03d06a097d0d125",
+    "category": "interview",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 70,
+    "prompt": "Fast photorealistic cinematic courtside photo, full-frame vertical 9:16, no borders or added text. Fictional 1998 Utah vs Chicago: John Stockton #12 in white mountain Jazz uniform lunges into a sharp pocket pass around Michael Jordan #23 red Bulls; Karl Malone #32 rolls hard toward the rim, Scottie Pippen #33 rotates, bench leaps shouting. Desperate eyes, clenched jaws, sweat flying, overlapping bodies in motion, tilted sideline angle, warm hardwood with cool teal arena shadows, sharp faces and natural skin. Correct period kits, no modern sponsor marks. Intense action fills all edges.",
+    "sha256": "65db4c99c8c53e69a17348b50ceb121abf441213205953ce4e71736240545501",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 71,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7: Hornacek #14 white mountain Jazz rises into a three over red Bulls Pippen #33's desperate closeout, Stockton #12 points and Anderson #40 crashes toward the hoop. One ball, fingertips extended, diagonal sideline angle, sharp cool flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "3a5675fe57e7bdad4bbd7bb81468ca435e9b6f0426be21c00a0989d79d1a6282",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 72,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7: Hornacek #14 white Jazz lands from a wing three, arm high while the bench erupts and red Bulls Jordan #23 turns toward the rim. Ball already near hoop, full-body energy, reverse low angle, amber crowd and teal court. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "ed7187281feb5dfbbd9c86989c758111cc6881a143c65ef8979ab0df870d77be",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 73,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined Game 7 bench: Eisley #10, Vaughn #11, Morris #34, Keefe #31 and Foster #44 leap together screaming after Hornacek #14's shot, towels spinning, Sloan pumps a fist. White/purple mountain warmups, sweaty ecstatic faces, close wide lens, crisp flash, all moving. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "d34b19a3db8f38387a1f6b4d61eeafac05d06feeb593083ffa73c0dd06f81365",
+    "category": "team",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 74,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Imagined final defensive stand: Russell #3 white Jazz denies Jordan #23 red Bulls while Ostertag #00 rises for a hard contested rebound over Rodman #91, Stockton #12 yells for control. One ball, explosive bodies, low basket camera, blinding crowd flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "225de8c7c08eb0451893c8359cebe836b691bba468f41bec5cacd68e2ffa1f8f",
+    "category": "game",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 75,
+    "prompt": "Photorealistic 1998 press-action photo, full-frame 9:16. Fictional Game 7 final horn at the Delta Center: defeated Michael Jordan #23 stands foreground with hands on hips and a shocked exhaustion beside Scottie Pippen #33 slumped forward. Both wear 1998 red Bulls road uniforms. Behind them Karl Malone #32 and John Stockton #12 in white mountain Jazz uniforms leap into an ecstatic team embrace, bench players racing onto the floor, first copper confetti falling. Opposing emotions, hard courtside press flash, layered full-body action. Period-correct uniforms. No added text or borders.",
+    "sha256": "d8afc9a03a7f21068235b945b63db0ee73c219e9937d24340aa9cfd7bb48e0d2",
+    "category": "team",
+    "story_beat": "alternate_game7"
+  },
+  {
+    "index": 76,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Finals MVP moment: Malone #32 throws an arm toward every Jazz teammate around him instead of posing alone, Stockton #12 and Hornacek #14 yell and lift the period gold championship trophy, Sloan claps fiercely. White kits, copper confetti, tight crowd flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "6c3a57926a71e0c6c374203222565d17f5329a98ccbb1e9629694cd5de80aebb",
+    "category": "award",
+    "story_beat": "championship"
+  },
+  {
+    "index": 77,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Game 7 aftermath: defeated Dennis Rodman #91 throws his towel onto the Bulls bench, Michael Jordan #23 wipes sweat from his face in disbelief, Scottie Pippen #33 bends forward with hands on knees, and coach Phil Jackson grips a shoulder to guide them toward the tunnel. 1998 red Bulls road uniforms, visible exhausted and devastated faces, Utah players celebrating in soft background, no aggression or injury. Candid close wide press flash, tense moving bodies. Accurate period uniforms and numbers, no modern Nike/sponsor marks. No added text, borders or padding.",
+    "sha256": "9f0554e6c0e5340a792f09092540c5daf05827db5e691f4abf4dd4624ab6b486",
+    "category": "team",
+    "story_beat": "championship"
+  },
+  {
+    "index": 78,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. The fictional 1998 Jazz hoist a period gold basketball championship trophy together, Malone #32, Stockton #12, Hornacek #14 and bench players jumping and yelling beneath it, Sloan reaches in. White mountain kits, copper confetti, camera inside the huddle, hard amber flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "486f97affd7bf3e687a88b5cb683f3b4a0eb327e2a1b1f581745524c85a7efc6",
+    "category": "award",
+    "story_beat": "championship"
+  },
+  {
+    "index": 79,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional championship group interview: an animated adult female reporter raises her mic as Stockton #12, Malone #32, Hornacek #14, Russell #3 and Carr #55 roar their answers, bench players bounce behind. White Jazz, real sweat and tearful faces, teal/copper crowd, candid press flash. Carr #55 is a Black man, bald, with clear sports goggles. Period mountain Jazz uniforms. No added text or borders.",
+    "sha256": "70b9afa94816c0bb5f897f795765e53523a7e09021cc04474082ccdb925adc97",
+    "category": "interview",
+    "story_beat": "championship"
+  },
+  {
+    "index": 80,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Utah victory parade: Malone, Stockton and Jazz teammates jump and wave from a moving open bus, ecstatic fans running beside it, Sloan laughs with both fists raised. Bright denim, olive and rust 1998 streetwear, mountain city daylight, low press lens. Extreme emotion; everyone actively interacting. Period 1998 streetwear, no modern brands. No added text or borders.",
+    "sha256": "740bd191f19eda2a7590acfde4743c4a07c38136c1e07f3bbf80ff1894139d7b",
+    "category": "parade",
+    "story_beat": "championship"
+  },
+  {
+    "index": 81,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Jazz locker room erupts: Anderson #40, Eisley #10, Vaughn #11, Morris #34 and Foster #44 leap over benches throwing white towels, Malone #32 and Stockton #12 hug in the background. Purple/white warmups, copper locker light, water droplets, huge smiles, close wide press flash. Anderson #40, Eisley #10, Vaughn #11, Morris #34 and Foster #44 are Black men with short black hair. Period mountain Jazz uniforms. No added text or borders.",
+    "sha256": "01b01f2a01ba4ce33363cfa0ffa21498c1c8ac784c9d3a07c33dde02117d0f17",
+    "category": "team",
+    "story_beat": "championship"
+  },
+  {
+    "index": 82,
+    "prompt": "Photorealistic 1998 press-action photo, full-frame 9:16. Fictional championship aftermath at the Delta Center: defeated Michael Jordan #23 in red Bulls road uniform grasps Karl Malone #32 white mountain Jazz forearm in a respectful, intense courtside exchange. Jordan looks exhausted and crestfallen while Malone has tearful relief. Scottie Pippen #33 and Dennis Rodman #91 walk away behind Jordan with lowered heads; Stockton #12 and Jazz teammates celebrate beyond them. Layered action and contrasting emotion, cool press flash and warm hardwood. Period-correct uniforms. No added text or borders.",
+    "sha256": "c29da4823978b47aa2b59922532c156e52137a8f9276e196b7fae708cfc70674",
+    "category": "team",
+    "story_beat": "championship"
+  },
+  {
+    "index": 83,
+    "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Delta Center celebration: the Jazz sprint in a line across the floor high-fiving delirious fans, Stockton #12 and Hornacek #14 laughing through tears, Malone #32 raises the gold trophy with teammates supporting it. White kits, copper confetti, low wide flash. Extreme emotion; everyone actively interacting. Period Jazz mountain kits, no modern Nike/sponsor marks. No added text or borders.",
+    "sha256": "84ce39bf7d1eec5ea9ddd5aacaf453748101ec605988dc2b9b26201d41bcb043",
+    "category": "team",
+    "story_beat": "championship"
+  },
+  {
+    "index": 84,
+    "prompt": "Photorealistic 1998 sports press portrait, edge-to-edge vertical 9:16. Fictional Jazz championship ring ceremony. Only Karl Malone #32 and John Stockton #12 pose together, shoulder to shoulder, smiling with proud emotional faces and arms around each other. Each extends his ring-wearing hand toward camera, clearly showing one gold diamond championship ring. Malone is a muscular dark-skinned Black man with short hair and goatee, Stockton a lean white man with short dark hair. White mountain-era Jazz uniforms, arena crowd softly behind, crisp natural press flash. Full-frame photograph.",
+    "sha256": "0cdddbc0f8bc344ed82b2da513720ed98823695868eb3e49a634be6811928e96",
+    "category": "team",
+    "story_beat": "championship",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Fictional Utah parade: Hornacek, Russell, Malone, Stockton and Sloan lean over a bus rail yelling with fans who jump and wave, teammates pounding the rail. 1998 olive/denim/burgundy clothes, mountain sunshine, crisp dynamic press photo, strong faces. Extreme emotion; everyone actively interacting. Period 1998 streetwear, no modern brands. No added text or borders.",
+        "sha256": "b7202774d035abbc10cc2dd5db63b168e0ab7ad7e48246cba4910cec4e0e80a6"
+      },
+      {
+        "operation": "replacement_generation",
+        "prompt": "Photorealistic 1998 sports press portrait, edge-to-edge vertical 9:16. Fictional Jazz championship ring ceremony. Only Karl Malone #32 and John Stockton #12 pose together, shoulder to shoulder, smiling with proud emotional faces and arms around each other. Each extends his ring-wearing hand toward camera, clearly showing one gold diamond championship ring. Malone is a muscular dark-skinned Black man with short hair and goatee, Stockton a lean white man with short dark hair. White mountain-era Jazz uniforms, arena crowd softly behind, crisp natural press flash. Full-frame photograph.",
+        "sha256": "0cdddbc0f8bc344ed82b2da513720ed98823695868eb3e49a634be6811928e96"
+      }
+    ]
+  },
+  {
+    "index": 85,
+    "prompt": "Photorealistic 1998 Jazz championship team portrait, full-frame vertical 9:16. Twelve adult playoff players pose in two rows with gold championship rings on their raised hands and one gold basketball trophy centered. Coach Jerry Sloan beside them. White mountain Jazz uniforms. Front row Stockton12, Malone32, Hornacek14, Russell3, Ostertag00, Carr55. Back row Foster44, Keefe31, Eisley10, Anderson40, Morris34, Vaughn11. Stockton, Hornacek, Ostertag and Keefe are white; the other players are Black. Carr bald with clear sports goggles. Proud joyful faces, teammates arm in arm, arena press flash, edge-to-edge photograph.",
+    "sha256": "30b5c7ce7cc54b95ee9ad2c5e748882c8f01fae98f35f4406f393f7daa027c34",
+    "category": "team",
+    "story_beat": "later_payoff",
+    "generation_history": [
+      {
+        "operation": "initial_generation",
+        "prompt": "Photorealistic high-energy 1998 sports press photo, full-bleed vertical 9:16. Later fictional ring celebration: Malone and Stockton thrust ring-wearing fists skyward while Hornacek, Russell and former bench teammates jump around them laughing, not a posed portrait. Period tan/olive/rust suits, amber arena lights, candid low flash, intense shared joy. Extreme emotion; everyone actively interacting. Period 1998 streetwear, no modern brands. No added text or borders.",
+        "sha256": "20fc66b0ddc178a19dc585168a72fca75648d7398257e2520d1cf9d0e61d4378"
+      },
+      {
+        "operation": "replacement_generation",
+        "prompt": "Photorealistic 1998 Jazz championship team portrait, full-frame vertical 9:16. Twelve adult playoff players pose in two rows with gold championship rings on their raised hands and one gold basketball trophy centered. Coach Jerry Sloan beside them. White mountain Jazz uniforms. Front row Stockton12, Malone32, Hornacek14, Russell3, Ostertag00, Carr55. Back row Foster44, Keefe31, Eisley10, Anderson40, Morris34, Vaughn11. Stockton, Hornacek, Ostertag and Keefe are white; the other players are Black. Carr bald with clear sports goggles. Proud joyful faces, teammates arm in arm, arena press flash, edge-to-edge photograph.",
+        "sha256": "eacfe4c411af3f8cbb15c15d837b7894a36837b562cd3fb7f365aeb9c89314a7"
+      },
+      {
+        "operation": "corrective_image_edit",
+        "prompt": "Reframe this exact championship group photograph into a tall 9:16 portrait canvas, 1080 by 1920 composition. Pull the camera back enough that all twelve players and coach Sloan fit fully inside the middle 70 percent of the image width, including Stockton on the far left and Carr and Sloan on the far right. Preserve the twelve identities, jersey numbers, rings, smiles, rows and trophy. Extend the photographed arena naturally above and to both sides and extend the real hardwood court below the group. Every edge must contain natural photographic scene content. Keep all faces, ring-wearing hands and the complete trophy visible with generous side room. Photorealistic press photo.",
+        "reference_sha256": "eacfe4c411af3f8cbb15c15d837b7894a36837b562cd3fb7f365aeb9c89314a7",
+        "sha256": "30b5c7ce7cc54b95ee9ad2c5e748882c8f01fae98f35f4406f393f7daa027c34"
+      }
+    ]
+  },
+  {
+    "index": 86,
+    "prompt": "Fast photorealistic emotional sports documentary photo, full-frame vertical 9:16, no borders or added text. Fictional 1998 Utah Jazz championship: Malone #32, Stockton #12, Hornacek #14, Russell #3 and towering Ostertag #00 erupt together, jumping, hugging and crying around a period gold basketball trophy; Jerry Sloan pumps both fists. White mountain Jazz kits with purple teal trim, copper confetti, other teammates rush into the huddle, adult reporter thrusts a microphone in. Close wide lens, camera among bodies, wild joyful faces, amber arena flash, real sweat and skin. Everyone interacting, no static portrait.",
+    "sha256": "6679dd2f5e09bbdcd3ddaec0e7d9fbb2ef1ab1f0e0cd7f89c7356d93df82d8f9",
+    "category": "team",
+    "story_beat": "championship"
+  }
+]
