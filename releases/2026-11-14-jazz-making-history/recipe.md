@@ -1,4 +1,6 @@
-# The Jazz Delivered — Making History AI rap remix
+# 1998 Utah Jazz Championship Montage
+
+The generated soundtrack is “The Jazz Delivered,” an AI rap remix using FAZO’s “Making History” as its reference.
 
 AI-generated alternate-history fan fiction follows the 1997–98 Utah Jazz through a fictional 96–92 Finals Game 7 victory over Chicago and a 4–3 championship. Early playoff facts are researched. The late Game 6 possession and subsequent ending are rewritten. This is an independent fan production.
 

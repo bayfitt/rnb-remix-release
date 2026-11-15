@@ -1,5 +1,7 @@
 # Narrative sports slideshow workflow
 
+Title championship montages `{year} {team} Championship Montage`. Use the championship year at the end of the selected season, such as `1998 Utah Jazz Championship Montage` for 1997–98. Keep the music reference, remix details, AI disclosure and alternate-history context in the description and public recipe. Read back the saved title on the intended published post.
+
 For the next narrative song, write a short video script first: setup, conflict or setback, turning point, climax and payoff. Derive the lyrics and image outline from that story, settle the requested music settings, then submit the authorized song job once. Retain an already approved song when the user says to keep it.
 
 Use recurring team moments, pre-game fashion arrivals, gameplay/highlights and post-game interviews. Fashion precedes the corresponding game and interviews follow it. Interleave the scene types across the story rather than putting many fashion portraits together. Use layups, dunks and crossovers, varied camera angles and expressions, other visible people and interaction, and a broad range of clothing colors. Fictional adult reporters can be included when requested. Keep the chosen realistic style; do not add fantasy effects or unnecessary handshake research.
