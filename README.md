@@ -15,6 +15,7 @@ This repository contains agent instructions, CLI integration helpers and public 
 - Review the song reference, creative instructions, and relevant comments on previous releases.
 - Ask for the song settings and wait for answers before each new music API job: lyrics, what to preserve/change, voice/effects, tempo/key, length and candidate count. Explain the model, supported controls and estimated cost. This does not repeat previously settled reference/release permission questions.
 - Check the chosen service's actual models, prices, reference controls, and requested output count before spending credits. Do not invent unsupported variance controls.
+- For championship montages, plan one featured instrumental solo in the bridge during the championship-celebration climax. Use the requested instrument or the reference's main melodic instrument, and synchronize the win, trophy lift and team celebrations to the finished solo.
 - Generate the requested versions once and keep their audio, lyrics, prompts, and provider records together.
 - Make requested artwork with consistent character references, then verify the finished videos.
 - Add timed English lyric captions, keep editable SRT/VTT files, and verify that YouTube publishes the caption tracks.
